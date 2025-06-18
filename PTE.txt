@@ -105,3 +105,42 @@
 70.Collaboration between departments has led to groundbreaking research.
 71.I would like a tomato and cheese sandwich on white bread and orange juice.
 72.There are various approaches for plagiarism across different university departments.
+73.You must wear a hard hat on the construction site.
+74.The library will be closed during summer vacation.
+75.A lot of agricultural workers came to the east end to look for alternative work.
+76.I would like an egg and tomatoes on white sandwich bread with orange juice.
+77.There is not enough space for me in the car.
+78.This course will discuss reading and writing skills.
+79.Postgraduate students need to complete the evaluation form before the end of the term.
+80.The main library is at the heart of the campus.
+81.The ratio between brain and body size is the key factor in intelligence.
+82.The free workshop will be conducted this Wednesday on the fourth floor of the department.
+83.The deadline for the essay is tomorrow.
+84.This lecture will discuss three different areas of digital technology.
+85.Please stop writing as soon as the teacher asks.
+86.If you need part-time jobs, it should not interfere with your studies.
+87.Our young people need education and more organized activities.
+88.We have very little actual documentation of it.
+89.Let's see if the technology is going to cooperate in this presentation.
+90.The tutorial rooms are located along the left hand side.
+91.Note that the deadline for the submission of proposals has been extended for a week.
+92.We must hand in our assignments by the end of the week.
+93.After considering all the options she decided to take risks.
+94.Please read the first two sections before next week.
+95.All students depend on their future.
+96.The old building in the university is still being used.
+97.You are not sure that you can skip the sessions for Wednesday.
+98.The students are supposed to assemble in the seminar hall before the announcement.
+99.The study demonstrates a need for further research in this field.
+100.There are many different religions across the world.
+101.The chemistry building is located near the entrance to the campus.
+102.The student must attend the safety courses and wear protective goggles before entering the laboratory.
+103.Students from different backgrounds can achieve a variety of qualifications.
+104.You need to get a new photo for your driver's license.
+105.You need to have a cloth for winter.
+106.These developers are discussed in more depth in Chapter nine.
+107.The bus for London will leave ten minutes later than planned.
+108.You need to pass the written exam to get the driver's licenses.
+109.The supermarket is located near the theatre.
+110.You need to prepare your boarding pass and passport in front of the gate.
+111.
