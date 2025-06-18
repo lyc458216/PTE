@@ -71,3 +71,25 @@
 36.Please move us to the meeting room for the next hour.
 37.The artist is exhibiting in the national art gallery next year.
 38.I have to get up early for an interview tomorrow.
+39.Several people have applied for the project manager job.
+40.The class is an opportunity to ask questions and meet new people.
+41.Passengers must not put their feet on the seat.
+42.Passengers on the train should take their seats.
+43.You have enrollment fill of requirements.
+44.I make sure to prepare report for my boss.
+45.I have to prepare report for the manager.
+46.You can find the books in the library.
+47.the hotel is located not far from your apartment.
+48.Library downtown will be closed.
+49.Library will be closed expect during holiday.
+50.Please submit all assignments before the deadline.
+51.Everyone has their own computer.
+52.Every student should have their own laptop.
+53.If you whish to be a good student, you should attend every class.
+54.The professor predicted the biotechnology is the future of  traditional biology.
+55.Show your passport and boarding pass at the gate.
+56.You can speak to the current students at the information sessions.
+57.You can obtain the application form from the administrative office.
+58.Grocery store is around the corner down the street.
+59.To meet the requirement, multiple copies need to be given to the department.
+60.If you like cooking, we can make supper together.
