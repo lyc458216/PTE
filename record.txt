@@ -4,17 +4,17 @@ https://www.youtube.com/watch?v=z1B0mzTWA6k
 
 重点题型：
 
-Order   Name                                        Speaking    Writing Reading Listening   Total   Type    Difficulty  Comments
-1       RA(read aloud)                              40                  30                  17.5    S              
-2       WFD(write from dictation)                               36              30          16.5    L       *
-3       RS(repeat sentence)                         30                          30          15      S       *
-4       FIBRW(fill in blanks reading & writing)                 14      20                  8.5     R       *      
-5       SWT(summarize written text)                             13      13                  6.5     W
-6       SST(summarize spoken text)                              12              10          5.5     L
-7       FIBL(fill in blanks listening)                          12              9           5.25    L
-8       DI(describe image)                          20                                      5       S       *
-9       FIBR(fill in blanks reading)                                    17                  4.25    R
-10      HIW(highlight incorrect word)                                   8       8           4       L
+Order   Priority    Name                                        Speaking    Writing Reading Listening   Total   Type    Comments
+1                   RA(read aloud)                              40                  30                  17.5    S              
+2                   WFD(write from dictation)                               36              30          16.5    L
+3                   RS(repeat sentence)                         30                          30          15      S
+4                   FIBRW(fill in blanks reading & writing)                 14      20                  8.5     R      
+5                   SWT(summarize written text)                             13      13                  6.5     W
+6                   SST(summarize spoken text)                              12              10          5.5     L
+7                   FIBL(fill in blanks listening)                          12              9           5.25    L
+8                   DI(describe image)                          20                                      5       S
+9                   FIBR(fill in blanks reading)                                    17                  4.25    R
+10                  HIW(highlight incorrect word)                                   8       8           4       L
 Total                                               90          87      88      87          88
 
 简单记法：
