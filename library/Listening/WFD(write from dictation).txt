@@ -1241,7 +1241,8 @@ Sort Type: Creation time(Ascending order)
 1238.Students should leave their bags on the table behind the door.
 1239.Listening is the key skill needed to succeed in this course.
 1240.The very basic feature of computing would be counting and calculating.
-1241.Momentum is defined as the combination of mass and velocity.1242.Houses were built for workers near the factories.
+1241.Momentum is defined as the combination of mass and velocity.
+1242.Houses were built for workers near the factories.
 1243.College students are assessed by continuous assessment.
 1244.Contemporary critics dismissed his idea as eccentric.
 1245.New materials and techniques are changing the style of modern architecture.
