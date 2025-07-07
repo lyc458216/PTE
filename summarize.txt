@@ -19,9 +19,9 @@ Total                                                                           
 
 简单记法：
 
-FIB * 3(rw/l/r)   3
-RA  RS  DI        3   speaking
-WFD SST HIW       3   listening
-SWT               1   writing
+FIB * 3(rw/l/r)   3     2R + 1L
+RA  RS  DI        3     S
+WFD SST HIW       3     L
+SWT               1     W
 1W(SWT) + 2R(FIB_RW/FIB_R) + 3S(RA/RS/DI) + 4L(FIB_L/WFD/SST/HIW)
 
