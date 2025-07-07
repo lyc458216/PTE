@@ -4,22 +4,24 @@ https://www.youtube.com/watch?v=z1B0mzTWA6k
 
 重点题型：
 
-Order   Priority    Name                                        Speaking    Writing Reading Listening   Total   Type    Comments
-1                   RA(read aloud)                              40                  30                  17.5    S              
-2                   WFD(write from dictation)                               36              30          16.5    L
-3                   RS(repeat sentence)                         30                          30          15      S
-4                   FIBRW(fill in blanks reading & writing)                 14      20                  8.5     R      
-5                   SWT(summarize written text)                             13      13                  6.5     W
-6                   SST(summarize spoken text)                              12              10          5.5     L
-7                   FIBL(fill in blanks listening)                          12              9           5.25    L
-8                   DI(describe image)                          20                                      5       S
-9                   FIBR(fill in blanks reading)                                    17                  4.25    R
-10                  HIW(highlight incorrect word)                                   8       8           4       L
-Total                                               90          87      88      87          88
+Order   Priority    Items   HitRate Type    Name                                        Speaking    Writing Reading Listening   Total   Comments
+1                   427     55      S       RA(read aloud)                              40                  30                  17.5                 
+2                   1457    99      L       WFD(write from dictation)                               36              30          16.5    
+3                   850     60      S       RS(repeat sentence)                         30                          30          15      
+4                   540     88      R       FIB_RW(fill in blanks reading & writing)                14      20                  8.5           
+5                   198     92      W       SWT(summarize written text)                             13      13                  6.5     
+6                   287     95      L       SST(summarize spoken text)                              12              10          5.5     
+7                   127     30      L       FIB_L(fill in blanks listening)                         12              9           5.25    
+8                   309     75      S       DI(describe image)                          20                                      5       
+9                   387     75      R       FIB_R(fill in blanks reading)                                   17                  4.25    
+10                          --      L       HIW(highlight incorrect word)                                   8       8           4       
+Total                                                                                   90          87      88      87          88
 
 简单记法：
+
 FIB * 3(rw/l/r)   3
 RA  RS  DI        3   speaking
 WFD SST HIW       3   listening
 SWT               1   writing
+1W(SWT) + 2R(FIB_RW/FIB_R) + 3S(RA/RS/DI) + 4L(FIB_L/WFD/SST/HIW)
 
