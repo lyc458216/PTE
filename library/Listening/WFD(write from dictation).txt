@@ -1,34 +1,522 @@
 Filter: Test
 Sort Type: Creation time(Ascending order)
 
-1.speak to your tutor if you need further assistance. 
-2.you must call you doctor to make an appointment.
-3.the teacher explained the homework to the students.
-4.we cannot consider an increase in our price at this stage.
-5.you can get your coffee or tea in the lunch room.
-6.new classroom will be put into use next month.
-7.you have to make an appointment with you doctor.
-8.everyone in this room needs to follow the rules.
-9.the fiction books have just passed the counter.
-10.before preparing any food, be sure to wash your hands well.
-11.in the next project, you will need to present all the different news items.
-12.a wide range of courses covered different aspects in this subject.
-13.his proposal had gained further support by the local community.
-14.students may only park their cars in authorized university parking spaces.
-15.your tutor will show you how to prepare the essay.
-16.people with an active lifestyle are less likely to die early or have major illness.
-17.having clean water for consumption is vital for health.
-18.agricultural development plays a vital role in rural areas.
-19.having a strong motivation is important to achieve your goals.
-20.our aim is to transmit mathematics teaching in the classroom.
-21.some studies show the link between depression and social media.
-22.practical experiments are a central part of the chemistry course.
-23.we hold visiting hours throughout the year for students.
-24.assignments must be submitted at the end of the term.
-25.extension requirement for the assignment must be submitted before the deadline.
-26.the university will cease the colossal renovation of the faint empty theater.
-27.the lecture will take place in he main hall.
-28.music has the ability yo shape our emotions.
-29.gold is a metal that appears naturally and in a pure state.
-30.your tutor will provide the guidance on how to structure the essay.
-31.students build confidence in their critical 
+1.You must submit your assignments by next Friday at the latest.
+2.Newspapers are supported primarily by the sale of advertising space.
+3.Student concession cards can be obtained by completing an application form.
+4.The university has a world-renowned school of archaeology.
+5.Teaching assistants will receive a monthly stipend for housing.
+6.The most important process of farming is weeding.
+7.The sociology department is highly regarded worldwide.
+8.All staff must leave from the fire hydrant exit.
+9.Review all your sources before drawing any conclusions.
+10.Tribes vied with each other to build up monolithic statues.
+11.There was not enough evidence to support these recommendations.
+12.The final year will consist of four taught courses and one project.
+13.To achieve full marks, an appropriate bibliography is required.
+14.Your summary should be as clear and concise as possible.
+15.The toughest part of postgraduate education is funding.
+16.The students were instructed to submit their assignments before Friday.
+17.Politics is not usually a safe topic of conversation.
+18.Students have the options to live in college residences or apartments.
+19.Presidential elections are held once every four years.
+20.Successful applicants will work with a large team of researchers.
+21.Writing history needs a careful selection process of historical sources.
+22.Let me know if anybody struggles in the lab.
+23.The morning's lecture on economic policy has been canceled.
+24.Observers waited nervously and with bated breath for the concert.
+25.The celebrated theory has a great degree of controversy.
+26.You come with me, and the others stay here.
+27.The scientists now study a wide variety of atmospheric processes.
+28.This paper challenges many previously accepted theories.
+29.A number of students have volunteer jobs.
+30.不完整题目：archaeologists need ... design...
+31.The essay is easy to write once the research is completed.
+32.Control systems in manufacturing provide a high level of accuracy.
+33.University departments carefully monitor articles and other publications by faculty.
+34.The application process may take longer than it's expected.
+35.Please note that the college laboratory will be closed for cleaning next week.
+36.The coffee house menu featured coffee, sandwiches and toast.
+37.The key findings seemed to contradict our initial hypothesis.
+38.It is important to allocate your time wisely when revising.
+39.The university officer will help you locate the housing and transportation.
+40.Some of the features are parts of the previous research.
+41.Nurses specialize in clinical work and management.
+42.They were struggling last year to make their service pay.
+43.Avoid confusing the cause and effect of these changes.
+44.Most critics agreed with the new theory, but a few disagreed.
+45.Sales figures for last year were better than expected.
+46.Our class is divided into two groups, you come with me, others stay here.
+47.Undergraduate students may pursue their specific interests within certificate programs.
+48.When workers ask for higher wages, companies often raise their prices.
+49.The vocabulary that has peculiar meanings is called jargon.
+50.Artists, other than politicians, played their own roles as critics of the culture.
+51.The schedule allows plenty of time for individual study.
+52.You can contact all your tutors by email.
+53.I thought it was thrown in the small meeting room.
+54.Most theories were quite similar but a few critics disagreed.
+55.The toughest part of the research for postgraduate students is the funding.
+56.Assignments should be submitted to the department office before the deadline.
+57.Free campus tours run daily during summer for prospective students.
+58.Career opportunities in this field are quite limited.
+59.Resources and materials are on hold at the library reference desk.
+60.We can't consider any increases in our prices at this stage.
+61.Climate change is being acknowledged by many scientists.
+62.Everyone must evacuate the premises during the fire drill.
+63.You are required to submit your assignment by Friday.
+64.Lecture outlines are available on the college board and the internal website.
+65.Our professor is hosting the business development conference.
+66.Materials and resources are on hold at the library's front desk.
+67.Animals raised in captivity behave differently than their wild counterparts.
+68.If it helps to take notes in order to concentrate, please do so.
+69.He has landed a job in a very prestigious law firm.
+70.Mutually exclusive events can be described as either complementary or opposite.
+71.Conferences ought to be scheduled two weeks in advance.
+72.We support the research on problems related to tropical cyclone dynamics and forecasting.
+73.Please remember to bring a highlighter to class next Wednesday.
+74.Those seeking for formal extension should contact their faculty for information.
+75.There is a strict eligibility criterion to undertake background speaker studies.
+76.Try to work with each other to build up a sense of cooperation and team spirit.
+77.It is hard to observe the reaction of the character.
+78.Many graduate students can find a job in the communications field.
+79.The new technician dropped the microscope in the biology lab.
+80.The thief visits the homes of several people every day.
+81.The time of the math lecture has been changed to ten thirty.
+82.Interim grades will be posted on the board outside the student lounge.
+83.A group meeting will be held tomorrow in the library conference room.
+84.The first assignment is due on the fourteenth of September.
+85.There was no correlation between drug use and cure rates.
+86.The university library has most of the necessary books.
+87.You are required to complete your research paper by next Monday.
+88.All writers, consciously or unconsciously, represent their own cultures.
+89.The student identification card will be issued by today or tomorrow.
+90.The elective course introduces engineering students to construct practices and concepts.
+91.Article numbers are collected through interesting experiments.
+92.Climate change is now an acceptable phenomenon among a group of reputable scientists.
+93.Upgrading the manufacturing system can increase efficiency.
+94.不完整题目：innovation can help you.
+95.Before submitting your dissertation, your advisor must approve your application.
+96.A party is thrown in the small meeting room.
+97.Why has the project been held up for so long?
+98.If finance is a cause of concern, scholarships may be available.
+99.They have struggled since last year to make their services paid.
+100.Climate change is a fierce phenomenon concentrated by scientists.
+101.And in that regard, as well as in other regards, it stands as an important contribution.
+102.The commission of funds supported among authorities has raised an argument.
+103.Identity theft happens to thousands of people every year.
+104.The commissioner will portion the funds among all the sovereignties.
+105.Software companies design and create new products.
+106.Please make sure you have collected all the necessary materials.
+107.It is absolutely vital that you acknowledge all your sources.
+108.When met with high potential risks, companies will raise their prices.
+109.The module of the work is more of a compositional style.
+110.Behind the group, there is a flat cart drawn by the mules.
+111.It was hard to anticipate how all the different characters would react.
+112.An ancient text may hold secrets which were lost centuries ago.
+113.Attracting skilled workers to the city with expensive housing is hard.
+114.Before completing the exercise, you need to read the remaining chapters.
+115.The report contains the most important information.
+116.Water taps on the campus will discourage the frequent use of plastic bottles.
+117.A recent article shows a number of interesting experiments.
+118.The early work is more philosophical rather than experimental.
+119.The author's previous works are more philosophical and less experimental.
+120.You can find a lot more information on the university website.
+121.Organizational failure is considered in various perspectives in academic literature.
+122.The massive accumulation of data was converted into a communicable argument.
+123.不完整题目：a main cause ... traditional style.
+124.Organization plays an important role in academic literature.
+125.We can have a lecture on the morning of Thursday.
+126.When launching a product, researching and marketing are very vital.
+127.Packaging is very important to attract the attention of a buyer.
+128.Listening is the key skill leading to success in this course.
+129.Peer group pressure has a significant effect on young people.
+130.The lecture will cover the reasons for climate change.
+131.Students find true or false questions harder than short answers.
+132.He was regarded as the foremost economist in that time.
+133.The curriculum needed to be adjusted for development.
+134.A very basic function of computing is counting and calculating.
+135.This course is very integrated because it has several parts.
+136.Rivers provide habitats and migration places for many aquatic species.
+137.The summer school program allows students to summarize their studies.
+138.All industries are a system of inputs, processes, outputs and feedback.
+139.The university will seek a colossal renovation of the plain empty theater.
+140.All your assignments must be examined and supported by evidence and relevant theory.
+141.Parents' talk to children tends to be simplified.
+142.The garden behind the university is open to the public in the summer.
+143.All students are expected to attend ten lab sessions per semester.
+144.Human beings compete with other species for space and resources.
+145.The library holds substantial materials of economic history.
+146.Online courses allow students to work at their own pace.
+147.Scientific benefit to space exploration is frequently questioned.
+148.The evaluation forms will be reviewed by university personnel.
+149.Below the heating controls in the middle is a small round plastic button.
+150.The whole point of the project was to look at the norm, not the exception.
+151.That means they have so many struggling overlaps.
+152.Doctoral writings have the structure in place as well as scientific papers.
+153.The synopsis contains the most important information.
+154.The qualification will be assessed using a criterion-referenced approach.
+155.Statistic results should be expressed in different ways, depending on circumstances.
+156.This class will look at the structure of the essay.
+157.The theme of the issue was the estimation of the problem.
+158.Textile manufacture plays a large role in improving economies.
+159.The key difference between courses is the kind of assessment.
+160.Daily practice can build confidence and improve skills.
+161.The campus tour will help you get familiar with the teaching facilities.
+162.No more than four people can be in the lab at once.
+163.A very basic feature of computing is counting and calculation.
+164.Early streams of the economy in the Roman Republic will be examined.
+165.The celebrated theory is still the source of great controversy.
+166.不完整题目：... IT industry.
+167.Many birds migrated to the warmer areas for the winter.
+168.While reconciliation is desirable, basic underlying issues must first be addressed.
+169.Economic problems cause a big rise in unemployment.
+170.Participants initially select from a range of foundation subjects.
+171.The Earth atmosphere is mostly composed of nitrogen and oxygen gases.
+172.If you seek for formal extension, you should contact your faculty for more information.
+173.Those seeking for formal extension should contact their faculty for further information.
+174.Traveling by boat on the river is not possible in winter.
+175.The aerial photographs were promptly registered for a thorough evaluation.
+176.You need to hand in the essay next semester.
+177.不完整题目：The university has ... intelligence ... technology scientific ... machine ... for research 
+178.The scientists will face both the explanations and the problems.
+179.Members should make mandatory contributions to social operating funds.
+180.If you need additional help, please visit the student resolution center.
+181.Laws protect consumer rights and help to avoid market problems.
+182.The essay will be published once the research is finished.
+183.The theme of the instrumental work exhibited more of a demure compositional style.
+184.Books for children often contain many bits of illustration.
+185.Some people regarded this as eyewash, whereas some people asked for the status of their complaints and actions taken.
+186.The library holds a substantial collection of materials on economic history.
+187.The most popular courses still have a few places left.
+188.The faculty staff are very approachable, helpful and extremely friendly.
+189.Students requiring for an extension should apply sooner rather than later.
+190.Theory and training are required to become a medical specialist.
+191.Read the first section before the next meeting.
+192.Some scientists argue that the entire financial system is fatally flawed.
+193.Convincing evidence for this theory is hard to obtain.
+194.The director of the gallery was grateful for the anonymous donation.
+195.Graduates from this course find careers in the financial department.
+196.There are some doubts about whether these events actually occurred.
+197.Money and how it is paid can affect the motivations to work.
+198.In addition to the requirements, students must pass the qualifying examinations.
+199.Certain scientific principles need to be learned verbally or by logical deduction.
+200.Clinical placements in nursing prepare students for professional practice.
+201.Recession triggers creativity and high rates of entrepreneurship due to a past experience.
+202.Rivers provide habitats for fish and other aquatic species.
+203.The archaeologists' new discoveries stand out in previously overlooked foundations.
+204.The article considered the leisure habits of teenagers in rural areas.
+205.The other book is not thorough but is more insightful.
+206.Efforts have been made to reduce harmful emissions.
+207.All dissertations must be accompanied by a submission form.
+208.All educational reforms have been inadequately implemented.
+209.The same issue featured both the explanations and the problems.
+210.Money and how it is paid can be the motivation for the work.
+211.Many graduates of journalism get jobs in the communications field.
+212.The article extrapolates a number of very interesting experiments.
+213.I will come back to this in a moment.
+214.The dance department stages elaborated performances each semester.
+215.Important details from the article are missing in this summary.
+216.The university seeks the funds for renovation of the theater.
+217.Remember to sign the attendance register before leaving the lecture hall.
+218.The scientists found most of the studies today.
+219.Native speakers are exempt from language tests in their own language.
+220.Scientists are always asking the government for more money.
+221.The history of this university is a long and interesting one.
+222.The chemistry building is located near the entrance to the campus.
+223.Most of the students have not considered this issue before.
+224.The aim is to reduce the risks that people take.
+225.The nation achieved prosperity by opening its ports for trade.
+226.Your lowest quiz grade has been omitted from the calculations.
+227.Please visit the website for the information about the opening times.
+228.The business policy seminar includes an internship with a local firm.
+229.Making a mistake is fine as long as you've learned from it.
+230.We study science to understand and appreciate the world around us.
+231.It is important for students to keep up with the deadline.
+232.She used to be the editor of the student newspaper.
+233.The exam system has been upgraded due to professional exams.
+234.Traffic is the main cause of pollution in many cities.
+235.The plight of wildlife has been ignored by developers.
+236.Radio is a popular form of entertainment throughout the world.
+237.Important details in the article are missing from the summary.
+238.The city's founders created a set of rules that became the law.
+239.Safety glasses should be worn while doing experiments in the lab.
+240.The railway made long-distance travel possible for everyone.
+241.Most scientists believe that climate change threatens lives on the earth.
+242.The lecture tomorrow will discuss the educational policy in the United States.
+243.Good research delivers practical benefits for real people.
+244.You may need to purchase an academic gown for the commencement.
+245.Please note, submission deadlines are only negotiable in exceptional circumstances.
+246.Geography is generally divided into two branches: human and physical.
+247.The ways in which people communicate are constantly changing.
+248.Parents are financially responsible for their children until they reach adulthood.
+249.Supply and demand is one of the most fundamental concepts in economics.
+250.The university theater group will be performing in the concert hall.
+251.The museum is closed on the third Monday of every month.
+252.Most university teaching takes place in lectures and seminars.
+253.There are still many people struggling in the lab.
+254.The teacher asked the group to commence the task.
+255.The author is currently a professor at Cambridge University.
+256.Eating too much can lead to too many health problems.
+257.The development in the information technology has greatly changed the way people work.
+258.The placement test of mathematics and statistics is offered every semester.
+259.There was a prize for the best student of the presentation.
+260.It is important to make clear notes while you are reading.
+261.Student representatives will visit classes with voting forms.
+262.We have sophisticated ways to study in brain action.
+263.Fashion trends help people to make life interesting.
+264.All of the assignments should be submitted in person to the faculty office.
+265.Before attending the lecture, you must register online or by post.
+266.The equality has not yet been achieved in this society.
+267.She has made a significant contribution to the field of chemistry.
+268.Some people argue that education is not that important.
+269.Students are instructed to hand in their assignments by the end of this week.
+270.The artists tied with conservative politicians earned the roles of critics.
+271.There is a clear need for further research in this field.
+272.You can use a laptop during the lecture.
+273.A good scientific paper should present a clear argument.
+274.The introduction is an important component of a good presentation.
+275.A good architecture is always very useful, durable and beautiful.
+276.Plants are living things that are growing on land or in water.
+277.Create a playlist of your favorite music to help you relax in difficult situations.
+278.You will acquire many skills during the academic studies.
+279.Sea levels are expected to rise during the next century.
+280.Although sustainable development is not easy, it is an unavoidable responsibility.
+281.Library reference desks hold a lot of materials on academic history.
+282.Most of these features were part of the previous system.
+283.Remember, the prestigious selection of student membership has strict eligibility criteria.
+284.She received a scholarship from the state library.
+285.The cafeteria features sandwiches, salads, soup, fish and chicken.
+286.The features issued the same explanation of the problem.
+287.The assessment of this course will begin next week.
+288.The same issues featured both explanations of the problem.
+289.There will be a conference here next summer on using the web for academic research.
+290.University fees are expected to increase next year.
+291.We can work together to achieve the higher educational standards.
+292.We support to do research in the field of archaeology such as forecasting and estimation.
+293.The two variables in the study were very closely correlated.
+294.The undergraduates need some specific sources to analyze a program.
+295.The site is designed to be highly interactive.
+296.There is a welcome party for all new students each term.
+297.There are many types of governments in the world.
+298.Students are encouraged to think carefully about their accommodation needs.
+299.In this language course, we focus on fluency and accuracy.
+300.The summer course was canceled due to insufficient enrollments.
+301.Students are encouraged to monitor their own attendance.
+302.Scientists learned through the observations and analyses of the human behavior.
+303.Enrolling a double major will increase the career options.
+304.The ability to work with fellow students cannot be stressed enough.
+305.Collaboration between departments is a feature of successful companies.
+306.Experts are now able to forecast weather for long periods.
+307.There is a pharmacy on campus near the bookstore.
+308.Those who are considering a career of marketing should attend the talk.
+309.Art is an expression of creative skills and imagination.
+310.Timetables for the new term will be available next week.
+311.Some people believe that education should be free for all.
+312.This course provides the opportunity to get valuable industry experience.
+313.The architectural numbers vary in that experiment.
+314.One of the election promises is to decrease the income tax.
+315.Every student has the right and ability to succeed.
+316.Building trust is not something that can be achieved overnight.
+317.The course will help students to improve their pronunciation skills.
+318.The bar chart provides useful means of data comparison.
+319.The courses cover the several aspects of the subject.
+320.Our new medical school students must attend the talk about optional courses.
+321.The new camera can identify your eyes and focus on them.
+322.Education and training provide important skills for the labor force.
+323.Some people are motivated by competition, while others prefer collaboration.
+324.Cell is the most basic building block for all animals and plants.
+325.You can request library books by using the electronic catalog.
+326.Weather patterns have changed significantly over the past two hundred years.
+327.There are new innovations in the field of digital architecture.
+328.The scientists use the web to explore the problems.
+329.You should draw your graph on a separate page.
+330.The economy is showing signs of revival.
+331.Bad policy decisions led to the financial crisis.
+332.Majority of our decisions are not rational.
+333.Organic food is considered to be free of chemicals.
+334.Cinema and music are as important as science and mathematics.
+335.Several organizations work to prevent animal cruelty.
+336.The atmosphere is composed of several layers.
+337.The department has a higher-than-normal proportion of postgraduate students.
+338.Despite the differences, all forms of life share the same characteristics.
+339.Coursework and exams will form part of the annual assessment.
+340.He started his tutorial presentation right on time.
+341.Hundreds of scientific papers have been published on global warming.
+342.Practicing time-restricted eating a few times a week can be both feasible and healthy.
+343.Some young people find city life rather stressful.
+344.Sydney is Australia's largest city, chief port and cultural center.
+345.The course has been updated to reflect the current situation.
+346.The designers will complete the plan today.
+347.Accountancy students probably have a good understanding of economics, statistics and psychology.
+348.Some departments have their own special book collections.
+349.The rising temperature is changing the wildlife population.
+350.I will now demonstrate how the reaction can be arrested by adding a dilute acid.
+351.The economy now is showing the first sign of recovery.
+352.Lectures are the oldest and most formal teaching method at universities.
+353.Accounting students should have a good understanding of profit and loss statement.
+354.Students who are successful have good strategies for learning.
+355.Read the student safety instructions before using any equipment in the workshops.
+356.Students will focus on reporting news on changing media world.
+357.There are many branches of medical studies.
+358.The theater courses are encouraging students to exercise creativity.
+359.Calculations may not be needed in this examination.
+360.An architect requires problem-solving skills and an eye for design.
+361.Novelists write things about things they know about.
+362.Students should take advantage of the online resources before attending the lecture.
+363.不完整题目：...about marketing career...
+364.In his lifetime, he composed a number of works.
+365.Tutors should set a clear goal at the start of the class.
+366.Economic development needs to be supported by the government.
+367.Even if you have used cosmetics for years without problems, one or more ingredients can still trigger an allergic reaction.
+368.Peer review is a central part of scientific method.
+369.Protective clothing must always be worn in the laboratory.
+370.All the course stages are on the website.
+371.Governments need to make solar energy more affordable to everyone.
+372.Mature students usually adapt to university life extremely well.
+373.The body fat keeps internal organs warm.
+374.The cooperator operates as a continuous assessment.
+375.Unusual weather patterns are making farming more difficult today.
+376.There are many good reasons to grow trees in more cities.
+377.Our laboratory equipment is provided free of charge.
+378.The Industrial Revolution in Europe was driven by steam technology.
+379.Your application for a research grant has been received.
+380.New credit cards will soon use the fingerprint technology.
+381.The seminar provided an opportunity to exchange ideas with other students.
+382.Unlike short sleep, over sleeping increases the risk of illness.
+383.There is not much interconnection between philosophy and psychology.
+384.Research shows that exercising makes us feel better.
+385.The visiting speaker used to be a lecturer in this department.
+386.Several candidates will be qualified as the greatest scientists of all time.
+387.Our food supply now contains so much sugar that our metabolic system cannot handle it.
+388.This course puts great emphasis on critical thinking skills.
+389.There have been many changes recently in the mathematics department.
+390.Although sustainable development is not easy, it is our responsibility.
+391.Students who attempt to go to the conference must register now.
+392.The poster of this play is hung in the large lecture theater.
+393.All lectures and learning materials can be found on the Internet.
+394.Doing nothing is not always better than taking risks.
+395.More research is needed before any definitive conclusion is drawn.
+396.Every student has a regular meeting with his or her personal tutor.
+397.Get enough sleep the night before the test.
+398.Please provide the reports to support your idea of these arguments.
+399.The unemployment rate has fallen to its lowest level in years.
+400.The studies showed the Hong Kong people are the most active in Asia.
+401.Today we will look at how to display the data visually.
+402.A good research assistant is not afraid to ask questions.
+403.Managing the increasing population is the challenge for most governments.
+404.There is an important difference between mass production and batch production.
+405.Both staff and students can purchase car parking permits online.
+406.Farming methods across the world have greatly developed recently.
+407.Please write the name of the author and the year of publication.
+408.One of the functions of the internal organ is to keep the body warm.
+409.You can ask your tutor for further assistance.
+410.You must figure out the mathematical problems and apply what you learned.
+411.These leaflets can be really useful when you are revising.
+412.Check the website if you are looking for discounted textbooks.
+413.Please ensure you do not go above word limitation.
+414.Universities need to secure the grants for research subjects.
+415.Our courses help to improve critical thinking and independent learning skills.
+416.A good way to improve your vocabulary is through repetition.
+417.They developed a unique approach to training their employees.
+418.Key business partners are often intertwined in expense accounts.
+419.There will be a meeting for the first-year students on Friday.
+420.Without doubt, this theory has a number of limitations.
+421.Students who study overseas can significantly improve work chances.
+422.The temperature in summer is lower when compared to the fall.
+423.A reading list will be available before the course begins.
+424.It was four more years before the theory was fully developed.
+425.An undergraduate is required to do many projects.
+426.The university has invested in new technology designed for learning.
+427.The university should introduce technology to support learning.
+428.The teacher training is an observation of the classes.
+429.Strangely, people are impacted spontaneously by and are skeptical about using statistics.
+430.In this book, the author discussed the role of cultural differences.
+431.The office hours will be changed from next term.
+432.Art students often exhibit their works in the university buildings.
+433.There are opportunities to receive the grants from most artistic fields.
+434.The invention of the printing press increases the demand for paper.
+435.A lack of sleep can increase the chance of some illnesses.
+436.It would be extremely beneficial to work together.
+437.A rising population means more trees are cut down.
+438.Manufacturing now brings more people in than agriculture and fishing combined.
+439.Industrial experts will discuss job opportunities in an automatic labor force.
+440.The new art gallery can only be visited on Fridays.
+441.We are achieving common prosperity throughout the department.
+442.Students are advised that the lecture today has been canceled.
+443.Distance learning can help develop your career around the world.
+444.Today's history lecture has been moved to lecture theater.
+445.Global connections thrived in academic communities, thanks to social media.
+446.Consumer confidence tends to increase as the economy expands.
+447.The growing population has posed a challenge to many governments.
+448.Take the first step to apply for your university scholarship.
+449.The science library is currently located on the ground of the library.
+450.A number of assignments will be gathered to the conference.
+451.A balanced diet and regular exercise are necessary for good health.
+452.Continuing students will be sent for application forms.
+453.There is a significant difference between theory and practice in education.
+454.The library plays an important role in students' lives.
+455.The course dates are available on the college website.
+456.The winter sun is lower but high enough to produce enough warmth.
+457.Much of the research is carried out in the laboratory.
+458.The new chemistry professor will deliver his first lecture tomorrow.
+459.The book was supported by many faculty members.
+460.The professor took a year off to work on her book.
+461.Academic development needs to be supported by governments.
+462.Speak to your tutor if you require further research.
+463.Archaeologists discovered tools and artifacts in ancient tombs.
+464.It is successfully acknowledged that there is a student graduation ceremony.
+465.The jobs tomorrow will require higher skill levels.
+466.There is a widely believed perception that engineering is for boys.
+467.Children acquire their first language without any conscious effort.
+468.You must know your security question when you reset your password.
+469.The horizontal line on the graph indicates there is no period of change.
+470.Sociology policies are the sources of governments to solve social problems.
+471.Many courses in the institution are funded by private entrepreneurs.
+472.Sound waves are unable to travel through the vacuum.
+473.Make sure you choose a course that provides great career opportunities.
+474.The printers automatically print both sides of each page.
+475.The bus for London will leave ten minutes later than planned.
+476.The blue whale is the largest mammal that ever lived.
+477.Your ideas are discussed depending on your seminar or tutorial.
+478.All medical students must clean their hands before entering the room.
+479.We no longer respond to any postal reference requests.
+480.The reception staff can give information of renting and printing.
+481.The coffee machine on the third floor is not working today.
+482.Make sure you have saved all the files before turning off the computer.
+483.不完整题目：how many styles in the ... next Monday.
+484.International exchanges form an important part of our study programs.
+485.Firm conclusions can be established through rigorous experiments.
+486.Salt is produced from the seawater or extracted from the ground.
+487.Animal and plant cells have a number of structures in common.
+488.Photography is very useful for geographical research.
+489.Certain organisms can reproduce using just only one parent.
+.490.The north campus car park could be closed on Sunday.
+491.Sugar is a compound including carbon, hydrogen and oxygen atoms.
+492.Even simple techniques need to be practiced to become perfect.
+493.The collapse of the housing market has triggered recessions throughout the world.
+494.Slides and handouts can be downloaded after the lecture.
+495.Students should leave their bags on the table by the door.
+496.Request for late applications will not be accepted under any circumstances.
+497.The researchers are disappointed that their results are proved to be inconclusive.
+498.Momentum is defined as a combination of mass and velocity.
+499.Your statistical information depends on your raw data.
+500.Advanced technology will create growth in the economy.
+501.Measures must be taken to prevent the unemployment rate from rising.
+502.The area has a wide diversity of habitats for underwater species.
+503.Statistically speaking, the likelihood of this result is extremely low.
+504.Essays and assignments are spread across the academic year.
+505.It takes a long time to walk to the university.
+506.It is necessary to dress formally for the graduation ceremony.
+507.Social media is criticized for causing internet addiction.
+508.Food cannot be eaten in the main library.
+509.Criminal charges will be brought against all of the men.
+510.Undergraduates have a wide range of cultural modules to choose from.
+511.You will learn how to rationally assess your arguments.
+512.Sports teams often practice on Wednesdays and play games on weekends.
+513.Physics is a key subject to understanding the world and the universe.
+514.Career services provide tips about how to cope with job interviews.
+515.Scientists recognized the different ice types according to the water molecule content.
+516.The library will be closed for staff training tomorrow morning.
+517.Courses are assessed by group works and individual assignments.
+518.The department is organizing a trip to London in July.
+519.A strong liner is used to measure distance and baseline.
