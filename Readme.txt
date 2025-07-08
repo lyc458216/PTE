@@ -31,14 +31,14 @@ No.2            R                           29-30mins
 No.3            L                           30-43mins
 
 4.命中率排序
-Order   Name                            Type    HitRate LibraryItems
-1       WFD(write from dictation)       L       99✅    1457
-2       SST(summarize spoken text)      L       95✅    287
-3       SWT(summarize written text)     W       92      198
-4       FIB_RW(fill in blanks R&W)      R       88      540
-5       DI(describe image)              S       75      309
-6       FIB_R(fill in blanks R)         R       75      387
-7       RS(repeat sentence)             S       60✅    850
-8       RA(read aloud)                  S       55      427
-9       FIB_L(fill in blanks L)         L       30      127
-10      HIW(highlight incorrect word)   L       --      18
+Order   Name                            Type    HitRate Quantity    LibraryItems    Comments
+1       WFD(write from dictation)       L       99✅    3-4         1457
+2       SST(summarize spoken text)      L       95✅    1-2         287
+3       SWT(summarize written text)     W       92      1-2         198
+4       FIB_RW(fill in blanks R&W)      R       88      5-6         540             Select
+5       DI(describe image)              S       75      3-4         309
+6       FIB_R(fill in blanks R)         R       75      4-5         387             Draw
+7       RS(repeat sentence)             S       60✅    10-12       850
+8       RA(read aloud)                  S       55      6-7         427
+9       FIB_L(fill in blanks L)         L       30      2-3         127
+10      HIW(highlight incorrect word)   L       --      2-3         18
