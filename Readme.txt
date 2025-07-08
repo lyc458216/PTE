@@ -8,7 +8,7 @@ Order   Priority    Name                            Type    Quantity    Consume(
 2                   WFD(write from dictation)       L       3-4         2mins           1457✅          99                   36              30          16.5    
 3                   RS(repeat sentence)             S       10-12       0+15            850✅           60       30                          30          15      
 4                   FIB_RW(fill in blanks R&W)      R       5-6         3mins           540             88                   14      20                  8.5     Select      
-5                   SWT(summarize written text)     W       1-2         10mins          198             92                   13      13                  6.5     
+5                   SWT(summarize written text)     W       1-2         10mins          198✅           92                   13      13                  6.5     
 6                   SST(summarize spoken text)      L       1-2         10mins          287✅           95                   12              10          5.5     
 7                   FIB_L(fill in blanks L)         L       2-3         2mins           127             30                   12              9           5.25    
 8                   DI(describe image)              S       3-4         25+40           309             75       20                                      5       
@@ -34,7 +34,7 @@ No.3            L                           30-43mins
 Order   Name                            Type    HitRate Quantity    LibraryItems    Comments
 1       WFD(write from dictation)       L       99✅    3-4         1457
 2       SST(summarize spoken text)      L       95✅    1-2         287
-3       SWT(summarize written text)     W       92      1-2         198
+3       SWT(summarize written text)     W       92✅    1-2         198
 4       FIB_RW(fill in blanks R&W)      R       88      5-6         540             Select
 5       DI(describe image)              S       75      3-4         309
 6       FIB_R(fill in blanks R)         R       75      4-5         387             Draw
