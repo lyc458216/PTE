@@ -3,25 +3,29 @@ https://www.youtube.com/watch?v=z1B0mzTWA6k
 
 
 1.重点题型
-Order   Priority    Name                            Type    Quantity    Consume(S)      LibraryItems    HitRate  Speaking    Writing Reading Listening   Total   Comments
-1                   RA(read aloud)                  S       6-7         (30-40)+40      427             55       40                  30                  17.5                 
-2                   WFD(write from dictation)       L       3-4         2mins           1457✅          99                   36              30          16.5    
-3                   RS(repeat sentence)             S       10-12       0+15            850✅           60       30                          30          15      
-4                   FIB_RW(fill in blanks R&W)      R       5-6         3mins           540✅           88                   14      20                  8.5     Select      
-5                   SWT(summarize written text)     W       1-2         10mins          198✅           92                   13      13                  6.5     
-6                   SST(summarize spoken text)      L       1-2         10mins          287✅           95                   12              10          5.5     
-7                   FIB_L(fill in blanks L)         L       2-3         2mins           127             30                   12              9           5.25    
-8                   DI(describe image)              S       3-4         25+40           309✅           75       20                                      5       
-9                   FIB_R(fill in blanks R)         R       4-5         2mins           387✅           75                           17                  4.25    Draw
-10                  HIW(highlight incorrect word)   L       2-3         30              18              --                           8       8           4       
-Total                                                                                                            90          87      88      87          88
+Order   Priority    Name                            Type    Quantity    Consume(S)      LibraryItems    HitRate     Speaking    Writing Reading Listening   Comments
+1                   RA(read aloud)                  S       6-7         (30-40)+40      427             55          40                  30
+2                   WFD(write from dictation)       L       3-4         2mins           1457✅          99                      36              30
+3                   RS(repeat sentence)             S       10-12       0+15            850✅           60          30                          30
+4                   FIB_RW(fill in blanks R&W)      R       5-6         3mins           540✅           88                      14      20                  Select      
+5                   SWT(summarize written text)     W       1-2         10mins          198✅           92                      13      13
+6                   SST(summarize spoken text)      L       1-2         10mins          287✅           95                      12              10
+7                   FIB_L(fill in blanks L)         L       2-3         2mins           127✅           30                      12              9
+8                   DI(describe image)              S       3-4         25+40           309✅           75          20
+9                   FIB_R(fill in blanks R)         R       4-5         2mins           387✅           75                              17                  Draw
+10                  HIW(highlight incorrect word)   L       2-3         30              18✅            --                              8       8
+11                  RL(retell lecture)              S       1-2         10+40           102(hot)        75          5                           5
+12                  RO(re-order paragraph)          R       2-3         2mins           298             55                              7
+13                  WE(write essay)                 W       1-2         20mins          60(hot)         85                      13
+Total                                                                                                               95          100     95      92
 
 2.简单记法
-FIB * 3(rw/l/r)   3     2R + 1L
-RA  RS  DI        3     S
-WFD SST HIW       3     L
-SWT               1     W
-1W(SWT) + 2R(FIB_RW/FIB_R) + 3S(RA/RS/DI) + 4L(FIB_L/WFD/SST/HIW)
+FIB * 3(rw/l/r)     3   2R + 1L
+RA  RS RL DI        4   S
+WFD SST HIW         3   L
+SWT WE              2   W
+RO                  1   R
+2W(SWT/WE) + 3R(FIB_RW/FIB_R/RO) + 4S(RA/RS/RL/DI) + 4L(FIB_L/WFD/SST/HIW)
 
 3.考试结构
 Part            Content                     Duration
@@ -36,9 +40,12 @@ Order   Name                            Type    HitRate Quantity    LibraryItems
 2       SST(summarize spoken text)      L       95✅    1-2         287
 3       SWT(summarize written text)     W       92✅    1-2         198
 4       FIB_RW(fill in blanks R&W)      R       88✅    5-6         540             Select
-5       DI(describe image)              S       75✅    3-4         309
-6       FIB_R(fill in blanks R)         R       75✅    4-5         387             Draw
-7       RS(repeat sentence)             S       60✅    10-12       850
-8       RA(read aloud)                  S       55      6-7         427
-9       FIB_L(fill in blanks L)         L       30      2-3         127
-10      HIW(highlight incorrect word)   L       --      2-3         18
+5       WE(write essay)                 W       85      1-2         60(hot)
+6       DI(describe image)              S       75✅    3-4         309
+7       FIB_R(fill in blanks R)         R       75✅    4-5         387             Draw
+8       RL(retell lecture)              S       75      1-2         102(hot)
+9       RS(repeat sentence)             S       60✅    10-12       850
+10      RA(read aloud)                  S       55      6-7         427
+11      RO(re-order paragraph)          R       55      2-3         298
+12      FIB_L(fill in blanks L)         L       30✅      2-3       127
+13      HIW(highlight incorrect word)   L       --✅      2-3       18
