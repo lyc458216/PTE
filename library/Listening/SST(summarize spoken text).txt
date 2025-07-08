@@ -1,4 +1,583 @@
+Requirements:
+You will hear a short lecture.
+Write a summary for a fellow student who was not present at the lecture.
+You should write 50-70 words.
+You have 10 minutes to finish this task.
+Your response will be judged on the quality of your writing and on how well your response presents the key points presented in the lecture.
+
 Filter: Test
 Sort Type: Creation time(Ascending order)
 
+1.Cocoa
 
+2.Sea creature
+
+3.Computers and AI
+
+4.Talent war
+
+5.Benefits of Laugh
+
+6.Indian peasants debt
+
+7.Mary Mallon
+
+8.Governments use tricks
+
+9.A mother’s loan
+
+10.Globalization
+
+11.A Female Novelist
+
+12.Devolution of Power
+
+13.Vitamin D
+
+14.Drug Ads
+
+15.Development of Genes
+
+16.International environmental law
+
+17.Einstein
+
+18.Amory Lovins
+
+19.Citizenship curriculum
+
+20.Agriculture and Urbanization
+
+21.Universities' Competition
+
+22.Animal Survive
+
+23.Biology
+
+24.Management and Leadership
+
+25.Dendrochronology
+
+26.Welsh Language
+
+27.Sound receptors
+
+28.Marshmallow Test
+
+29.Importance of Tea
+
+30.An Interview of a Science Professor
+
+31.The colors of flowers
+
+32.Development of VR
+
+33.ATM
+
+34.Social Contract Concept
+
+35.Language and Convention
+
+36.Music and language
+
+37.Kids museum
+
+38.Magic Natural Color
+
+39.Three Major Developments of Physics
+
+40.Fossil Fuels
+
+41.Krebs
+
+42.Children’s depression
+
+43.Decline of bees
+
+44.Faults and Earthquake
+
+45.Experiment on Body Fat Change
+
+46.The Definition of Risk
+
+47.A Survey on Happiness
+
+48.History and journalism
+
+49.Food and Income
+
+50.The Big Bang Theory
+
+51.An Advertisement
+
+52.The Free Human Rights
+
+53.Political Words
+
+54.Memories
+
+55.Australian housing
+
+56.Genetic Impact
+
+57.Industrialization
+
+58.Sign language
+
+59.Prevention of pandemic Transmitting
+
+60.Water Purification
+
+61.Misuse of Drugs
+
+62.HTML
+
+63.Endangered Language
+
+64.Global Warming
+
+65.Adam Smith
+
+66.Ugly building
+
+67.Mary Mallon V2
+
+68.Time traveling
+
+69.Money
+
+70.Cooperation in sports industry
+
+71.Translator and interpreter
+
+72.Living things
+
+73.Motivation
+
+74.Parenting baby
+
+75.Face recognition
+
+76.Energy consumption
+
+77.Overestimate height
+
+78.Moon
+
+79.Education purpose
+
+80.Different spectacles
+
+81.Music record
+
+82.Non-verbal communication
+
+83.Safe drinking water
+
+84.Theater
+
+85.Indian peasants debt V2
+
+86.Employees' performance
+
+87.Brain cell
+
+88.Voynich manuscript
+
+89.Talent war V2
+
+90.Talent war V3
+
+91.Vitamin D V2
+
+92.Managers
+
+93.Population changes
+
+94.Children literature
+
+95.Chimpanzees
+
+96.Telescope
+
+97.Different learning methods
+
+98.Three types of family
+
+99.Land use
+
+100.Persuasive essay
+
+101.Automated Driving System
+
+102.Therapeutic environment
+
+103.Smile of mother and baby
+
+104.Absolutism
+
+105.Childhood
+
+106.Canadian work structure
+
+107.Secret life of plants
+
+108.Need in English
+
+109.Newspaper
+
+110.Fight-or-flight response
+
+111.Australian culture diversity
+
+112.Water resource
+
+113.The separation of power
+
+114.Two kinds of stress
+
+115.Globalization and detraditionalization
+
+116.Internet and journalism
+
+117.California water war
+
+118.Internet
+
+119.Consumer conduct
+
+120.The history of software
+
+121.Language in vocabulary
+
+122.Roman building
+
+123.Online research
+
+124.Semantic noise
+
+125.Drop out of school
+
+126.Can food
+
+127.Climate and crops
+
+128.Language acquisition
+
+129.Mind-brain identity theory
+
+130.Recycling water
+
+131.Research on social science
+
+132.Demolition of buildings
+
+133.Biology application
+
+134.Food crisis
+
+135.English language
+
+136.Earth and Mars
+
+137.Clear and understandable
+
+138.Human immigration
+
+139.French women rights
+
+140.The real science
+
+141.A successful entrepreneur
+
+142.The exposure to emotions
+
+143.Books
+
+144.Australian transportation
+
+145.Device
+
+146.Internet structure
+
+147.World's globalization
+
+148.Foreign lands
+
+149.Renewable energy
+
+150.Vitamin D V3
+
+151.Young people communities
+
+152.Business and management education
+
+153.Science
+
+154.British colonies
+
+155.Network
+
+156.Motivation V2
+
+157.Industrial Revolution
+
+158.Industrial Revolution V2
+
+159.Cognitive Advantages of Bilingualism
+
+160.Dress history
+
+161.The role of women
+
+162.Lawyers
+
+163.Ancient people
+
+164.Urban technology
+
+165.Ocean environment
+
+166.New Zealand
+
+167.Research in marketing
+
+168.Geography
+
+169.The history of laundry
+
+170.Music and the brain
+
+171.Intuition
+
+172.Fast radio burst
+
+173.Instinct and reflex
+
+174.What if money were no object
+
+175.Globalization and IT
+
+176.Shakespeare's poem
+
+177.Judgement
+
+178.Dogs
+
+179.Human memory
+
+180.Analyzing walking data
+
+181.Poverty in China
+
+182.Driving
+
+183.Efficiency of cognitive skill
+
+184.How to construct argument
+
+185.Human freedom
+
+186.The study of the law
+
+187.Decisions
+
+188.Bureaucracy
+
+189.Mars
+
+190.Curator
+
+191.Father and child
+
+192.Resource research
+
+193.Rejection
+
+194.Microsoft
+
+195.Market
+
+196.Glorious revolution
+
+197.Luxury brand
+
+198.A good engineer
+
+199.Smith model
+
+200.The stability of mood
+
+201.MPA marine campaign
+
+202.Sleep and brain
+
+203.Paper rejection
+
+204.Hook sentence
+
+205.Boys and girls
+
+206.Free sugars
+
+207.The importance of tea
+
+208.Andrew Carnegie
+
+209.Clone
+
+210.Smaller brain
+
+211.Actor training
+
+212.The internet requires energy
+
+213.Competent people
+
+214.Speech-language therapy
+
+215.Literature
+
+216.Ice core
+
+217.Civil rights
+
+218.Eating vegetables
+
+219.Poetry
+
+220.Complex problems
+
+221.Neolithic Stones
+
+222.Experiment on climate change
+
+223.Human behaviors
+
+224.Decision making
+
+225.Los Angeles
+
+226.Telescope
+
+227.Basic social values
+
+228.Negative bias
+
+229.Drilling rigs
+
+230.Underestimated women
+
+231.Research on an insect
+
+232.Portrait
+
+233.Trust levels
+
+234.Climate change in Australia
+
+235.Human rights
+
+236.The universe and time machine
+
+237.Improving teaching qualities
+
+238.Making right decisions
+
+239.Theater study
+
+240.Population growth
+
+241.Leadership
+
+242.Organizational study
+
+243.Inequality in children
+
+244.A device
+
+245.Nuts
+
+246.Exercise
+
+247.Data privacy
+
+248.Risk management
+
+249.Biggish city
+
+250.Salt
+
+251.Cover letters
+
+252.Strategy to categorize
+
+253.Air pollution
+
+254.Implicit and explicit memory
+
+255.Sugar
+
+256.Tutorial
+
+257.John Milton
+
+258.Australian Immigration
+
+259.Telescope
+
+260.Market
+
+261.Marine Protected Areas
+
+262.Unfair trade
+
+263.Height and Social Status
+
+264.Digital Technology and Globalization of Services
+
+265.Global fishing crisis
+
+266.Machines increase unemployment
+
+267.Honeybee Hives
+
+268.Food Waste Crisis
+
+269.Black Fly
+
+270.Smart Consumers Choose Brands
+
+271.Stock Market and Business
+
+272.Sleep
+
+273.Journalism and Internet
+
+274.Credit Card Experiment
+
+275.Bees' genes and Darwin
+
+276.Children Directors
+
+277.International Law
+
+278.Dialects
+
+279.Multiculturalism & Cultural Diversity
+
+280.Sound of words
+
+281.International trading system
+
+282.Singapore
+
+283.Cosmology and maths
+
+284.Bees waggle dance
+
+285.Transportation Network in Paris
+
+286.Genes and Intelligence
+
+287.Organizational study

@@ -9,7 +9,7 @@ Order   Priority    Name                            Type    Quantity    Consume(
 3                   RS(repeat sentence)             S       10-12       0+15            850✅           60       30                          30          15      
 4                   FIB_RW(fill in blanks R&W)      R       5-6         3mins           540             88                   14      20                  8.5     Select      
 5                   SWT(summarize written text)     W       1-2         10mins          198             92                   13      13                  6.5     
-6                   SST(summarize spoken text)      L       1-2         10mins          287             95                   12              10          5.5     
+6                   SST(summarize spoken text)      L       1-2         10mins          287✅           95                   12              10          5.5     
 7                   FIB_L(fill in blanks L)         L       2-3         2mins           127             30                   12              9           5.25    
 8                   DI(describe image)              S       3-4         25+40           309             75       20                                      5       
 9                   FIB_R(fill in blanks R)         R       4-5         2mins           387             75                           17                  4.25    Draw
@@ -31,14 +31,14 @@ No.2            R                           29-30mins
 No.3            L                           30-43mins
 
 4.命中率排序
-Order   Name                            Type    HitRate
-1       WFD(write from dictation)       L       99✅
-2       SST(summarize spoken text)      L       95
-3       SWT(summarize written text)     W       92
-4       FIB_RW(fill in blanks R&W)      R       88
-5       DI(describe image)              S       75
-6       FIB_R(fill in blanks R)         R       75
-7       RS(repeat sentence)             S       60✅
-8       RA(read aloud)                  S       55
-9       FIB_L(fill in blanks L)         L       30
-10      HIW(highlight incorrect word)   L       --
+Order   Name                            Type    HitRate LibraryItems
+1       WFD(write from dictation)       L       99✅    1457
+2       SST(summarize spoken text)      L       95✅    287
+3       SWT(summarize written text)     W       92      198
+4       FIB_RW(fill in blanks R&W)      R       88      540
+5       DI(describe image)              S       75      309
+6       FIB_R(fill in blanks R)         R       75      387
+7       RS(repeat sentence)             S       60✅    850
+8       RA(read aloud)                  S       55      427
+9       FIB_L(fill in blanks L)         L       30      127
+10      HIW(highlight incorrect word)   L       --      18
