@@ -7,6 +7,8 @@ Please click on the words that are different.
 Filter: Test
 Sort Type: Creation time(Ascending order)
 
+**Comments: There is only a recording paragraph, but not include title.
+
 1.Height
 
 2.What's an article?

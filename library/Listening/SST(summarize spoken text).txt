@@ -8,6 +8,8 @@ Your response will be judged on the quality of your writing and on how well your
 Filter: Test
 Sort Type: Creation time(Ascending order)
 
+**Comments: There is only a short lecture, but not include title.
+
 1.Cocoa
 
 2.Sea creature
