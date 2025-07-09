@@ -16,8 +16,8 @@ Order   Priority    Name                            Type    Quantity    Consume(
 10                  HIW(highlight incorrect word)   🟢L     2-3         30              18✅            --                              8       8
 11                  RL(retell lecture)              🔴S     1-2         10+40           67(hot)✅       75          5                           5
 12                  RO(re-order paragraph)          🟡R     2-3         2mins           289✅           55                              7
-13                  WE(write essay)                 🟣W     1-2         20mins          60(hot)         85                      13
-Total                                                                                                               95          100     95      92
+13                  WE(write essay)                 🟣W     1-2         20mins          59(hot)✅       85                      13
+Total                                                                                                              95          100     95      92
 
 2.简单记法
 FIB * 3(rw/l/r)     3   2R + 1L
@@ -40,7 +40,7 @@ Order   Name                            Type    HitRate Quantity    LibraryItems
 2       SST(summarize spoken text)      🟢L     95      1-2         287✅
 3       SWT(summarize written text)     🟣W     92      1-2         198✅
 4       FIB_RW(fill in blanks R&W)      🟡R     88      5-6         540✅           Select
-5       WE(write essay)                 🟣W     85      1-2         60(hot)
+5       WE(write essay)                 🟣W     85      1-2         59(hot)✅
 6       DI(describe image)              🔴S     75      3-4         309✅
 7       FIB_R(fill in blanks R)         🟡R     75      4-5         387✅           Draw
 8       RL(retell lecture)              🔴S     75      1-2         67(hot)✅
