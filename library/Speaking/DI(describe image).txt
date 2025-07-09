@@ -8,620 +8,262 @@ Sort Type: Creation time(Ascending order)
 
 **Comments: There is only a image, but not include title.
 
-1.Energy Consumption
+1.World illiteracy rates. 全球文盲率  
 
-2.World illiteracy rates
+2.Number of articles. 文章数量  
 
-3.Average number of hours
+3.Life expectancy. 预期寿命  
 
-4.Countries
+4.Air temperature. 气温  
 
-5.Number of articles
+5.Life circle. 生命周期  
 
-6.Publication
+6.Dubai gold sales. 迪拜黄金销量  
 
-7.Earnings
+7.Climate graph. 气候图表  
 
-8.Life expectancy
+8.London underground station. 伦敦地铁站  
 
-9.Consumer confidence
+9.Most used Technology. 最常用技术  
 
-10.Air temperature
+10.Double Population. 人口翻倍  
 
-11.Life circle
+11.Population of Thoralby. 索拉比村人口  
 
-12.Consumption level
+12.Income distribution. 收入分配  
 
-13.Poor attendance
+13.Population growth. 人口增长  
 
-14.Dubai gold sales
+14.Temperature. 温度  
 
-15.Climate graph
+15.Frog. 青蛙  
 
-16.London underground station
+16.Poverty Rates. 贫困率  
 
-17.Cell phone use
+17.Precipitation. 降水量  
 
-18.Water use
+18.How Houseflies Work. 家蝇工作原理  
 
-19.Most used Technology
+19.Australia. 澳大利亚  
 
-20.Double Population
+20.iTunes Purchased Songs. iTunes购买歌曲数量  
 
-21.Financial year
+21.The world's water. 全球水资源  
 
-22.Temperature and Precipitation
+22.Foreign language. 外语  
 
-23.Population of Thoralby
+23.Annual income. 年收入  
 
-24.Percentage of Population
+24.Sales price of new homes. 新房销售价格  
 
-25.Pupil / Teacher Ratio
+25.Apple Tree. 苹果树  
 
-26.Taxi Service Work Flow
+26.World population development. 世界人口发展  
 
-27.Income distribution
+27.Internet population. 网民数量  
 
-28.Height
+28.Life expectancy. 预期寿命  
 
-29.Population growth
+29.Transport Modes. 交通方式  
 
-30.Manufacturing output
+30.Origins of English vocabularies. 英语词汇起源  
 
-31.GDP Per Capita
+31.Houseplans. 房屋平面图  
 
-32.Temperature
+32.Flag. 旗帜  
 
-33.Frog
+33.The eatwell plate. 均衡饮食盘  
 
-34.Joe's Fruit Stand Sales
+34.Tree rings. 年轮  
 
-35.Poverty Rates
+35.Hierarchy of Needs. 需求层次  
 
-36.Precipitation
+36.World Income Distribution. 世界收入分配  
 
-37.How Houseflies Work
+37.Mantle. 地幔  
 
-38.Anaerobic Digestion
+38.Electricity Generation in China by Type. 中国各类发电量  
 
-39.Australia
+39.Annual Sunshine Hours. 年日照时数  
 
-40.iTunes Purchased Songs
+40.Urban Traffic Change. 城市交通变化  
 
-41.The world's water
+41.Pitchback water wheel. 反冲式水轮  
 
-42.Drinking habits by age
+42.Human arms and wings. 人类手臂与翅膀  
 
-43.Coal
+43.Lunar and Fish. 月亮与鱼  
 
-44.Radio and television
+44.Simple circuit. 简单电路  
 
-45.Litchfield population
+45.Computer. 计算机  
 
-46.Milk production
+46.Acid rain. 酸雨  
 
-47.Inactivity rate
+47.Global warming predictions. 全球变暖预测  
 
-48.Sunrise and Sunset
+48.Expenditure. 支出  
 
-49.The life of a letter
+49.Wind machine. 风力机  
 
-50.Foreign language
+50.Tree. 树木  
 
-51.Population
+51.Temperature and rainfall. 温度与降雨量  
 
-52.Sleep
+52.Planet. 行星  
 
-53.Annual income
+53.Typing hand position. 打字手部姿势  
 
-54.Meat consumption
+54.Lamp. 灯  
 
-55.Sales price of new homes
+55.Food. 食物  
 
-56.Average rainfall
+56.Fish. 鱼类  
 
-57.Fruit and Vegetable consumption
+57.Government expenditures. 政府支出  
 
-58.Apple Tree
+58.Food price vs Oil price. 食品价格与油价对比  
 
-59.World population development
+59.Weather guide for Beijing. 北京天气指南  
 
-60.Precipitation
+60.Floor plan. 楼层平面图  
 
-61.Age
+61.Feeder. 喂食器  
 
-62.Highest Mountain
+62.Parts of a tree. 树的组成部分  
 
-63.Internet population
+63.Eclipse. 日/月食  
 
-64.Wheat Exported
+64.S&P/ASX200. 标普澳交所200指数  
 
-65.Baby sleep hours
+65.Migration route. 迁徙路线  
 
-66.Life expectancy
+66.Food chain. 食物链  
 
-67.Population in urban areas
+67.Music download. 音乐下载  
 
-68.School
+68.Ancient Egypt trade. 古埃及贸易  
 
-69.Health
+69.Zone. 区域  
 
-70.Transport Modes
+70.Transportation modes. 交通方式  
 
-71.Population of Animals
+71.The Average Household Energy Consumption. 家庭平均能源消耗  
 
-72.Origins of English vocabularies
+72.Temperature and CO2. 温度与二氧化碳  
 
-73.Houseplans
+73.Climate zones. 气候带  
 
-74.Flag
+74.Student educational activities. 学生教育活动  
 
-75.The eatwell plate
+75.Fungus gnat. 蕈蚊  
 
-76.Out of sight
+76.Taxation. 税收  
 
-77.Tree rings
+77.Input and output. 输入与输出  
 
-78.Depression probability
+78.Part-time and full-time working. 兼职与全职工作  
 
-79.Water channel
+79.Ocean and land map. 海洋与陆地地图  
 
-80.Hierarchy of Needs
+80.Closed-loop recycling. 闭环回收（行业标准译法）  
 
-81.World Income Distribution
+81.Adding an article to Wiki. 维基百科添加条目  
 
-82.Maslow's pyramid
+82.Teaching as a career. 教师职业  
 
-83.Mantle
+83.Forest area annual change. 森林面积年变化  
 
-84.Rubbish soup
+84.Sitting posture. 坐姿  
 
-85.Total MSW Generation
+85.Chiang Mai. 清迈  
 
-86.Electricity Generation in China by Type
+86.Vehicle ownership. 车辆保有量  
 
-87.Adult Literacy
+87.Commuting time. 通勤时间  
 
-88.Day night fishing diagram
+88.Palm oil production. 棕榈油产量  
 
-89.Greater One-horned Rhino Distribution
+89.Media in UK. 英国媒体  
 
-90.Annual Sunshine Hours
+90.Sweden government budget. 瑞典政府预算  
 
-91.Urban Traffic Change
+91.Life cycle of tomatoes. 番茄生命周期  
 
-92.PhD candidates
+92.Numbers of texts. 文本数量  
 
-93.The Map of Australia
+93.Iron Age hut. 铁器时代小屋  
 
-94.Population Growth
+94.Journeys in UK. 英国出行方式  
 
-95.Chemical Experiment
+95.Water cycle. 水循环  
 
-96.Pitchback water wheel
+96.Income in UK. 英国收入水平  
 
-97.Virus Replication
+97.Rainforests. 雨林  
 
-98.Human arms and wings
+98.Fruits supply chain. 水果供应链  
 
-99.Lunar and Fish
+99.Stationery store. 文具店  
 
-100.Simple circuit
+100.Fruit market. 水果市场  
 
-101.Rhinoceros
+101.Population density. 人口密度  
 
-102.Gariep Basin
+102.Disadvantaged backgrounds. 弱势背景  
 
-103.Computer
+103.Internet users. 互联网用户  
 
-104.Acid rain
+104.Ice thickness guidelines. 冰层厚度指南  
 
-105.Flow chart
+105.Air Composition. 空气成分  
 
-106.Global warming predictions
+106.Ship lock operation. 船闸运作  
 
-107.Expenditure
+107.Renewable energy. 可再生能源  
 
-108.Houseplant
+108.Main hall. 主厅  
 
-109.Planet
+109.Tomato processing cycle. 番茄加工周期  
 
-110.Education expenditure
+110.Bottle recycling. 瓶子回收  
 
-111.Core
+111.European countries. 欧洲国家  
 
-112.Wind machine
+112.Weekly household spending. 家庭周支出  
 
-113.Tree
+113.Age group. 年龄组  
 
-114.Plantation
+114.Chocolate consumers. 巧克力消费者  
 
-115.Isotope stability
+115.Annual working hours. 年工作时长  
 
-116.Temperature and rainfall
+116.Fog. 雾  
 
-117.Language of Switzerland
+117.Students at the lab. 实验室学生  
 
-118.Planet
+118.Study foreign languages. 外语学习  
 
-119.Typing hand position
+119.Mean salary. 平均薪资  
 
-120.Healthy weight
+120.Step to make instant coffee. 速溶咖啡制作步骤  
 
-121.Germination of the seed plant
+121.Mobile phone ownership. 手机拥有率  
 
-122.Lamp
+122.Households in Millions Who Own Pets. 养宠物的百万家庭数  
 
-123.Population
+123.UK unemployment rate. 英国失业率  
 
-124.Baku
+124.Nuclear power generation. 核能发电  
 
-125.Wetland desert
+125.Ladybird. 瓢虫  
 
-126.Happiness
+126.Largest Population Increase. 最大人口增长  
 
-127.The number of laws
+127.Map of Warm & Cold Currents. 暖流寒流地图  
 
-128.Projected population
+128.Arrests number for using illegal drugs. 吸毒逮捕人数  
 
-129.Household computer
+129.Change of Primary Funding Sources. 主要资金来源变化  
 
-130.Online application system
-
-131.Food
-
-132.Fish
-
-133.Government expenditures
-
-134.Food price vs Oil price
-
-135.Weather guide for Beijing
-
-136.Agricultural types
-
-137.Floor plan
-
-138.Feeder
-
-139.Parts of a tree
-
-140.Eclipse
-
-141.Bar chart
-
-142.Bee and fish
-
-143.Land use map
-
-144.Migration to the UK
-
-145.Sales proportion
-
-146.S&P/ASX200
-
-147.Innovations management process
-
-148.Migration route
-
-149.Pencil
-
-150.Grey parrot range
-
-151.Food chain
-
-152.Music download
-
-153.Ancient Egypt trade
-
-154.Floor plan
-
-155.Arousal Level
-
-156.Zone
-
-157.Transportation modes
-
-158.Languages in Switzerland
-
-159.The Average Household Energy Consumption
-
-160.Major
-
-161.Temperature and CO2
-
-162.Portions
-
-163.Sea water desalination
-
-164.Forest
-
-165.Climate zones
-
-166.The most common languages
-
-167.Student educational activities
-
-168.Fungus gnat
-
-169.Taxation
-
-170.Most livable states
-
-171.Underwater
-
-172.Buildings
-
-173.Athletics participation survey
-
-174.Different size of enterprises
-
-175.Corruption perceptions index
-
-176.Input and output
-
-177.Part-time and full-time working
-
-178.Fruit and vegetable
-
-179.Electricity
-
-180.Food web
-
-181.Electricity generation in Australia
-
-182.The number of dwellings
-
-183.Ocean and land map
-
-184.Closed-loop recycling
-
-185.Supply chain management
-
-186.Adding an article to Wiki
-
-187.Teaching as a career
-
-188.Hydro-electric energy generation
-
-189.Egg's life cycle
-
-190.Project management process.
-
-191.Manufacturer and retailer
-
-192.Land degradation
-
-193.Water use in gulf countries
-
-194.Economic inactivity
-
-195.Browser market share
-
-196.Forest area annual change
-
-197.Sitting posture
-
-198.Monthly temperature and precipitation
-
-199.Chiang Mai
-
-200.Life expectancy in Luxembourg
-
-201.Moving
-
-202.Age percentage
-
-203.Vehicle ownership
-
-204.Bar chart
-
-205.Men and women
-
-206.Vocabulary
-
-207.Commuting time
-
-208.Luxembourg population
-
-209.Asian population
-
-210.Palm oil production
-
-211.Population in China
-
-212.Waste
-
-213.Media in UK
-
-214.Oil
-
-215.Sweden government budget
-
-216.Life cycle of tomatoes
-
-217.Wind
-
-218.Lecture hall
-
-219.Solar panel heat water
-
-220.Hotel management system
-
-221.Volunteer rate
-
-222.Paying tuitions
-
-223.Numbers of texts
-
-224.Rubbish classification
-
-225.Iron Age hut
-
-226.Journeys in UK
-
-227.Water cycle
-
-228.Different height of penguins
-
-229.Germination of seed plant V2
-
-230.Product life cycle
-
-231.Income in UK
-
-232.Ice sheet
-
-233.Rainforests
-
-234.Fruits supply chain
-
-235.Eating meals
-
-236.Personal Protective Equipment(PPE)
-
-237.Stationery store
-
-238.Layout
-
-239.Music revenues
-
-240.Instant coffee
-
-241.Fruit market
-
-242.Customers in a cafe
-
-243.Population density
-
-244.Washing the hands
-
-245.Disadvantaged backgrounds
-
-246.Step to make instant coffee
-
-247.Internet users
-
-248.Historic gardens
-
-249.Ice thickness guidelines
-
-250.Air Composition
-
-251.Movie
-
-252.Ship lock operation
-
-253.Renewable energy
-
-254.Thermal recycling
-
-255.Main hall
-
-256.Tomato processing cycle
-
-257.Bottle recycling
-
-258.European countries
-
-259.Weekly household spending
-
-260.Age group
-
-261.The richest regional areas
-
-262.Most powerful passport
-
-263.GNH
-
-264.Bermuda Triangle
-
-265.Eating fast food
-
-266.Chocolate consumers
-
-267.Annual working hours
-
-268.Domestic airline passengers
-
-269.Popularity of cultural websites
-
-270.Flu vaccination rates
-
-271.Fog
-
-272.Total respondents
-
-273.Women not married
-
-274.Composition of the sun
-
-275.Production of honey
-
-276.Pre-tax profits
-
-277.Diamond production
-
-278.Average number of annual hospital visits
-
-279.Sunrise and Sunset Times for Detroit
-
-280.Students at the lab
-
-281.Study foreign languages
-
-282.Mean salary
-
-283.Vancouver rainfall and temperature
-
-284.Historical price of Aluminum
-
-285.Floor Plan
-
-286.Step to make instant coffee
-
-287.Mobile phone ownership
-
-288.Households in Millions Who Own Pets.
-
-289.UK unemployment rate
-
-290.Nuclear power generation
-
-291.Ladybird
-
-292.Largest Population Increase
-
-293.Map of Warm & Cold Currents
-
-294.Canadian population growth
-
-295.U.S. Households Keeping Pets
-
-296.Cat owners of different countries
-
-297.Pets Ownership
-
-298.Work Travel Time in Ontario
-
-299.Fruits and Vegetables Market
-
-300.Safe Food Preparation Steps
-
-301.The rise of the smartphone
-
-302.Household Spending in Australia
-
-303.Cell phone use in Anytowne
-
-304.Barriers to Visiting Museums
-
-305.Population of the European Union
-
-306.Floor Plan of a Simple Public Facility
-
-307.Arrests number for using illegal drugs
-
-308.Change of Primary Funding Sources
-
-309.Best food.
+130.Best food. 最佳食物  
