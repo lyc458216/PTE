@@ -10,576 +10,576 @@ Sort Type: Creation time(Ascending order)
 
 **Comments: There is only a short lecture, but not include title.
 
-1.Cocoa
+1.Cocoa. 可可
 
-2.Sea creature
+2.Sea creature. 海洋生物  
 
-3.Computers and AI
+3.Computers and AI. 计算机与人工智能  
 
-4.Talent war
+4.Talent war. 人才争夺战  
 
-5.Benefits of Laugh
+5.Benefits of Laugh. 笑的益处  
 
-6.Indian peasants debt
+6.Indian peasants debt. 印度农民债务  
 
-7.Mary Mallon
+7.Mary Mallon. 玛丽·马伦（伤寒玛丽）  
 
-8.Governments use tricks
+8.Governments use tricks. 政府使用的策略  
 
-9.A mother’s loan
+9.A mother’s loan. 母亲的贷款  
 
-10.Globalization
+10.Globalization. 全球化  
 
-11.A Female Novelist
+11.A Female Novelist. 一位女小说家  
 
-12.Devolution of Power
+12.Devolution of Power. 权力下放  
 
-13.Vitamin D
+13.Vitamin D. 维生素D  
 
-14.Drug Ads
+14.Drug Ads. 药品广告  
 
-15.Development of Genes
+15.Development of Genes. 基因发展  
 
-16.International environmental law
+16.International environmental law. 国际环境法  
 
-17.Einstein
+17.Einstein. 爱因斯坦  
 
-18.Amory Lovins
+18.Amory Lovins. 艾默里·洛文斯  
 
-19.Citizenship curriculum
+19.Citizenship curriculum. 公民教育课程  
 
-20.Agriculture and Urbanization
+20.Agriculture and Urbanization. 农业与城市化  
 
-21.Universities' Competition
+21.Universities' Competition. 大学竞争  
 
-22.Animal Survive
+22.Animal Survive. 动物生存  
 
-23.Biology
+23.Biology. 生物学  
 
-24.Management and Leadership
+24.Management and Leadership. 管理与领导力  
 
-25.Dendrochronology
+25.Dendrochronology. 树木年代学  
 
-26.Welsh Language
+26.Welsh Language. 威尔士语  
 
-27.Sound receptors
+27.Sound receptors. 声音接收器  
 
-28.Marshmallow Test
+28.Marshmallow Test. 棉花糖实验  
 
-29.Importance of Tea
+29.Importance of Tea. 茶的重要性  
 
-30.An Interview of a Science Professor
+30.An Interview of a Science Professor. 采访一位科学教授  
 
-31.The colors of flowers
+31.The colors of flowers. 花的颜色  
 
-32.Development of VR
+32.Development of VR. 虚拟现实的发展  
 
-33.ATM
+33.ATM. 自动取款机  
 
-34.Social Contract Concept
+34.Social Contract Concept. 社会契约概念  
 
-35.Language and Convention
+35.Language and Convention. 语言与惯例  
 
-36.Music and language
+36.Music and language. 音乐与语言  
 
-37.Kids museum
+37.Kids museum. 儿童博物馆  
 
-38.Magic Natural Color
+38.Magic Natural Color. 神奇的自然色彩  
 
-39.Three Major Developments of Physics
+39.Three Major Developments of Physics. 物理学的三大发展  
 
-40.Fossil Fuels
+40.Fossil Fuels. 化石燃料  
 
-41.Krebs
+41.Krebs. 克雷布斯（三羧酸循环）  
 
-42.Children’s depression
+42.Children’s depression. 儿童抑郁症  
 
-43.Decline of bees
+43.Decline of bees. 蜜蜂数量下降  
 
-44.Faults and Earthquake
+44.Faults and Earthquake. 断层与地震  
 
-45.Experiment on Body Fat Change
+45.Experiment on Body Fat Change. 体脂变化实验  
 
-46.The Definition of Risk
+46.The Definition of Risk. 风险的定义  
 
-47.A Survey on Happiness
+47.A Survey on Happiness. 关于幸福的调查  
 
-48.History and journalism
+48.History and journalism. 历史与新闻业  
 
-49.Food and Income
+49.Food and Income. 食物与收入  
 
-50.The Big Bang Theory
+50.The Big Bang Theory. 宇宙大爆炸理论  
 
-51.An Advertisement
+51.An Advertisement. 一则广告  
 
-52.The Free Human Rights
+52.The Free Human Rights. 自由人权  
 
-53.Political Words
+53.Political Words. 政治话语  
 
-54.Memories
+54.Memories. 记忆  
 
-55.Australian housing
+55.Australian housing. 澳大利亚住房  
 
-56.Genetic Impact
+56.Genetic Impact. 遗传影响  
 
-57.Industrialization
+57.Industrialization. 工业化  
 
-58.Sign language
+58.Sign language. 手语  
 
-59.Prevention of pandemic Transmitting
+59.Prevention of pandemic Transmitting. 预防疫情传播  
 
-60.Water Purification
+60.Water Purification. 水净化  
 
-61.Misuse of Drugs
+61.Misuse of Drugs. 药物滥用  
 
-62.HTML
+62.HTML. 超文本标记语言  
 
-63.Endangered Language
+63.Endangered Language. 濒危语言  
 
-64.Global Warming
+64.Global Warming. 全球变暖  
 
-65.Adam Smith
+65.Adam Smith. 亚当·斯密  
 
-66.Ugly building
+66.Ugly building. 丑陋的建筑  
 
-67.Mary Mallon V2
+67.Mary Mallon V2. 玛丽·马伦 第二版  
 
-68.Time traveling
+68.Time traveling. 时间旅行  
 
-69.Money
+69.Money. 金钱  
 
-70.Cooperation in sports industry
+70.Cooperation in sports industry. 体育产业的合作  
 
-71.Translator and interpreter
+71.Translator and interpreter. 笔译与口译  
 
-72.Living things
+72.Living things. 生物  
 
-73.Motivation
+73.Motivation. 动机  
 
-74.Parenting baby
+74.Parenting baby. 育儿  
 
-75.Face recognition
+75.Face recognition. 面部识别  
 
-76.Energy consumption
+76.Energy consumption. 能源消耗  
 
-77.Overestimate height
+77.Overestimate height. 高估身高  
 
-78.Moon
+78.Moon. 月球  
 
-79.Education purpose
+79.Education purpose. 教育目的  
 
-80.Different spectacles
+80.Different spectacles. 不同的眼镜/景象  
 
-81.Music record
+81.Music record. 音乐唱片  
 
-82.Non-verbal communication
+82.Non-verbal communication. 非语言交流  
 
-83.Safe drinking water
+83.Safe drinking water. 安全饮用水  
 
-84.Theater
+84.Theater. 剧院  
 
-85.Indian peasants debt V2
+85.Indian peasants debt V2. 印度农民债务 第二版  
 
-86.Employees' performance
+86.Employees' performance. 员工绩效  
 
-87.Brain cell
+87.Brain cell. 脑细胞  
 
-88.Voynich manuscript
+88.Voynich manuscript. 伏尼契手稿  
 
-89.Talent war V2
+89.Talent war V2. 人才争夺战 第二版  
 
-90.Talent war V3
+90.Talent war V3. 人才争夺战 第三版  
 
-91.Vitamin D V2
+91.Vitamin D V2. 维生素D 第二版  
 
-92.Managers
+92.Managers. 经理人  
 
-93.Population changes
+93.Population changes. 人口变化  
 
-94.Children literature
+94.Children literature. 儿童文学  
 
-95.Chimpanzees
+95.Chimpanzees. 黑猩猩  
 
-96.Telescope
+96.Telescope. 望远镜  
 
-97.Different learning methods
+97.Different learning methods. 不同的学习方法  
 
-98.Three types of family
+98.Three types of family. 三种家庭类型  
 
-99.Land use
+99.Land use. 土地利用  
 
-100.Persuasive essay
+100.Persuasive essay. 说服性文章  
 
-101.Automated Driving System
+101.Automated Driving System. 自动驾驶系统  
 
-102.Therapeutic environment
+102.Therapeutic environment. 治疗性环境  
 
-103.Smile of mother and baby
+103.Smile of mother and baby. 母婴微笑  
 
-104.Absolutism
+104.Absolutism. 专制主义  
 
-105.Childhood
+105.Childhood. 童年  
 
-106.Canadian work structure
+106.Canadian work structure. 加拿大工作结构  
 
-107.Secret life of plants
+107.Secret life of plants. 植物的秘密生命  
 
-108.Need in English
+108.Need in English. 英语需求  
 
-109.Newspaper
+109.Newspaper. 报纸  
 
-110.Fight-or-flight response
+110.Fight-or-flight response. 战斗或逃跑反应  
 
-111.Australian culture diversity
+111.Australian culture diversity. 澳大利亚文化多样性  
 
-112.Water resource
+112.Water resource. 水资源  
 
-113.The separation of power
+113.The separation of power. 权力分立  
 
-114.Two kinds of stress
+114.Two kinds of stress. 两种压力  
 
-115.Globalization and detraditionalization
+115.Globalization and detraditionalization. 全球化与传统消解  
 
-116.Internet and journalism
+116.Internet and journalism. 互联网与新闻业  
 
-117.California water war
+117.California water war. 加州水战争  
 
-118.Internet
+118.Internet. 互联网  
 
-119.Consumer conduct
+119.Consumer conduct. 消费者行为  
 
-120.The history of software
+120.The history of software. 软件的历史  
 
-121.Language in vocabulary
+121.Language in vocabulary. 词汇中的语言  
 
-122.Roman building
+122.Roman building. 罗马建筑  
 
-123.Online research
+123.Online research. 在线研究  
 
-124.Semantic noise
+124.Semantic noise. 语义噪声  
 
-125.Drop out of school
+125.Drop out of school. 辍学  
 
-126.Can food
+126.Can food. 罐头食品  
 
-127.Climate and crops
+127.Climate and crops. 气候与作物  
 
-128.Language acquisition
+128.Language acquisition. 语言习得  
 
-129.Mind-brain identity theory
+129.Mind-brain identity theory. 心脑同一理论  
 
-130.Recycling water
+130.Recycling water. 水循环利用  
 
-131.Research on social science
+131.Research on social science. 社会科学研究  
 
-132.Demolition of buildings
+132.Demolition of buildings. 建筑拆除  
 
-133.Biology application
+133.Biology application. 生物学应用  
 
-134.Food crisis
+134.Food crisis. 粮食危机  
 
-135.English language
+135.English language. 英语语言  
 
-136.Earth and Mars
+136.Earth and Mars. 地球与火星  
 
-137.Clear and understandable
+137.Clear and understandable. 清晰易懂  
 
-138.Human immigration
+138.Human immigration. 人类移民  
 
-139.French women rights
+139.French women rights. 法国女性权利  
 
-140.The real science
+140.The real science. 真正的科学  
 
-141.A successful entrepreneur
+141.A successful entrepreneur. 一位成功的企业家  
 
-142.The exposure to emotions
+142.The exposure to emotions. 情感暴露  
 
-143.Books
+143.Books. 书籍  
 
-144.Australian transportation
+144.Australian transportation. 澳大利亚交通  
 
-145.Device
+145.Device. 设备  
 
-146.Internet structure
+146.Internet structure. 互联网结构  
 
-147.World's globalization
+147.World's globalization. 世界全球化  
 
-148.Foreign lands
+148.Foreign lands. 异国土地  
 
-149.Renewable energy
+149.Renewable energy. 可再生能源  
 
-150.Vitamin D V3
+150.Vitamin D V3. 维生素D 第三版  
 
-151.Young people communities
+151.Young people communities. 年轻人社区  
 
-152.Business and management education
+152.Business and management education. 商业与管理教育  
 
-153.Science
+153.Science. 科学  
 
-154.British colonies
+154.British colonies. 英国殖民地  
 
-155.Network
+155.Network. 网络  
 
-156.Motivation V2
+156.Motivation V2. 动机 第二版  
 
-157.Industrial Revolution
+157.Industrial Revolution. 工业革命  
 
-158.Industrial Revolution V2
+158.Industrial Revolution V2. 工业革命 第二版  
 
-159.Cognitive Advantages of Bilingualism
+159.Cognitive Advantages of Bilingualism. 双语认知优势  
 
-160.Dress history
+160.Dress history. 服装史  
 
-161.The role of women
+161.The role of women. 女性角色  
 
-162.Lawyers
+162.Lawyers. 律师  
 
-163.Ancient people
+163.Ancient people. 古代人类  
 
-164.Urban technology
+164.Urban technology. 城市技术  
 
-165.Ocean environment
+165.Ocean environment. 海洋环境  
 
-166.New Zealand
+166.New Zealand. 新西兰  
 
-167.Research in marketing
+167.Research in marketing. 市场营销研究  
 
-168.Geography
+168.Geography. 地理学  
 
-169.The history of laundry
+169.The history of laundry. 洗衣的历史  
 
-170.Music and the brain
+170.Music and the brain. 音乐与大脑  
 
-171.Intuition
+171.Intuition. 直觉  
 
-172.Fast radio burst
+172.Fast radio burst. 快速射电暴  
 
-173.Instinct and reflex
+173.Instinct and reflex. 本能与反射  
 
-174.What if money were no object
+174.What if money were no object. 如果金钱不是问题  
 
-175.Globalization and IT
+175.Globalization and IT. 全球化与信息技术  
 
-176.Shakespeare's poem
+176.Shakespeare's poem. 莎士比亚的诗  
 
-177.Judgement
+177.Judgement. 判断  
 
-178.Dogs
+178.Dogs. 狗  
 
-179.Human memory
+179.Human memory. 人类记忆  
 
-180.Analyzing walking data
+180.Analyzing walking data. 分析步行数据  
 
-181.Poverty in China
+181.Poverty in China. 中国的贫困  
 
-182.Driving
+182.Driving. 驾驶  
 
-183.Efficiency of cognitive skill
+183.Efficiency of cognitive skill. 认知技能效率  
 
-184.How to construct argument
+184.How to construct argument. 如何构建论点  
 
-185.Human freedom
+185.Human freedom. 人类自由  
 
-186.The study of the law
+186.The study of the law. 法律研究  
 
-187.Decisions
+187.Decisions. 决策  
 
-188.Bureaucracy
+188.Bureaucracy. 官僚主义  
 
-189.Mars
+189.Mars. 火星  
 
-190.Curator
+190.Curator. 策展人  
 
-191.Father and child
+191.Father and child. 父亲与孩子  
 
-192.Resource research
+192.Resource research. 资源研究  
 
-193.Rejection
+193.Rejection. 拒绝  
 
-194.Microsoft
+194.Microsoft. 微软  
 
-195.Market
+195.Market. 市场  
 
-196.Glorious revolution
+196.Glorious revolution. 光荣革命  
 
-197.Luxury brand
+197.Luxury brand. 奢侈品牌  
 
-198.A good engineer
+198.A good engineer. 一位优秀的工程师  
 
-199.Smith model
+199.Smith model. 史密斯模型  
 
-200.The stability of mood
+200.The stability of mood. 情绪稳定性  
 
-201.MPA marine campaign
+201.MPA marine campaign. 海洋保护区运动  
 
-202.Sleep and brain
+202.Sleep and brain. 睡眠与大脑  
 
-203.Paper rejection
+203.Paper rejection. 论文拒稿  
 
-204.Hook sentence
+204.Hook sentence. 钩子句  
 
-205.Boys and girls
+205.Boys and girls. 男孩与女孩  
 
-206.Free sugars
+206.Free sugars. 游离糖  
 
-207.The importance of tea
+207.The importance of tea. 茶的重要性  
 
-208.Andrew Carnegie
+208.Andrew Carnegie. 安德鲁·卡内基  
 
-209.Clone
+209.Clone. 克隆  
 
-210.Smaller brain
+210.Smaller brain. 更小的大脑  
 
-211.Actor training
+211.Actor training. 演员训练  
 
-212.The internet requires energy
+212.The internet requires energy. 互联网需要能源  
 
-213.Competent people
+213.Competent people. 有能力的人  
 
-214.Speech-language therapy
+214.Speech-language therapy. 言语治疗  
 
-215.Literature
+215.Literature. 文学  
 
-216.Ice core
+216.Ice core. 冰芯  
 
-217.Civil rights
+217.Civil rights. 公民权利  
 
-218.Eating vegetables
+218.Eating vegetables. 吃蔬菜  
 
-219.Poetry
+219.Poetry. 诗歌  
 
-220.Complex problems
+220.Complex problems. 复杂问题  
 
-221.Neolithic Stones
+221.Neolithic Stones. 新石器时代石器  
 
-222.Experiment on climate change
+222.Experiment on climate change. 气候变化实验  
 
-223.Human behaviors
+223.Human behaviors. 人类行为  
 
-224.Decision making
+224.Decision making. 决策制定  
 
-225.Los Angeles
+225.Los Angeles. 洛杉矶  
 
-226.Telescope
+226.Telescope. 望远镜  
 
-227.Basic social values
+227.Basic social values. 基本社会价值观  
 
-228.Negative bias
+228.Negative bias. 负面偏见  
 
-229.Drilling rigs
+229.Drilling rigs. 钻探设备  
 
-230.Underestimated women
+230.Underestimated women. 被低估的女性  
 
-231.Research on an insect
+231.Research on an insect. 昆虫研究  
 
-232.Portrait
+232.Portrait. 肖像  
 
-233.Trust levels
+233.Trust levels. 信任水平  
 
-234.Climate change in Australia
+234.Climate change in Australia. 澳大利亚的气候变化  
 
-235.Human rights
+235.Human rights. 人权  
 
-236.The universe and time machine
+236.The universe and time machine. 宇宙与时间机器  
 
-237.Improving teaching qualities
+237.Improving teaching qualities. 提高教学质量  
 
-238.Making right decisions
+238.Making right decisions. 做出正确决策  
 
-239.Theater study
+239.Theater study. 戏剧研究  
 
-240.Population growth
+240.Population growth. 人口增长  
 
-241.Leadership
+241.Leadership. 领导力  
 
-242.Organizational study
+242.Organizational study. 组织研究  
 
-243.Inequality in children
+243.Inequality in children. 儿童不平等  
 
-244.A device
+244.A device. 一种设备  
 
-245.Nuts
+245.Nuts. 坚果  
 
-246.Exercise
+246.Exercise. 锻炼  
 
-247.Data privacy
+247.Data privacy. 数据隐私  
 
-248.Risk management
+248.Risk management. 风险管理  
 
-249.Biggish city
+249.Biggish city. 较大的城市  
 
-250.Salt
+250.Salt. 盐  
 
-251.Cover letters
+251.Cover letters. 求职信  
 
-252.Strategy to categorize
+252.Strategy to categorize. 分类策略  
 
-253.Air pollution
+253.Air pollution. 空气污染  
 
-254.Implicit and explicit memory
+254.Implicit and explicit memory. 内隐与外显记忆  
 
-255.Sugar
+255.Sugar. 糖  
 
-256.Tutorial
+256.Tutorial. 教程  
 
-257.John Milton
+257.John Milton. 约翰·弥尔顿  
 
-258.Australian Immigration
+258.Australian Immigration. 澳大利亚移民  
 
-259.Telescope
+259.Telescope. 望远镜  
 
-260.Market
+260.Market. 市场  
 
-261.Marine Protected Areas
+261.Marine Protected Areas. 海洋保护区  
 
-262.Unfair trade
+262.Unfair trade. 不公平贸易  
 
-263.Height and Social Status
+263.Height and Social Status. 身高与社会地位  
 
-264.Digital Technology and Globalization of Services
+264.Digital Technology and Globalization of Services. 数字技术与服务全球化  
 
-265.Global fishing crisis
+265.Global fishing crisis. 全球渔业危机  
 
-266.Machines increase unemployment
+266.Machines increase unemployment. 机器增加失业  
 
-267.Honeybee Hives
+267.Honeybee Hives. 蜂箱  
 
-268.Food Waste Crisis
+268.Food Waste Crisis. 食物浪费危机  
 
-269.Black Fly
+269.Black Fly. 黑蝇  
 
-270.Smart Consumers Choose Brands
+270.Smart Consumers Choose Brands. 精明消费者选择品牌  
 
-271.Stock Market and Business
+271.Stock Market and Business. 股票市场与商业  
 
-272.Sleep
+272.Sleep. 睡眠  
 
-273.Journalism and Internet
+273.Journalism and Internet. 新闻业与互联网  
 
-274.Credit Card Experiment
+274.Credit Card Experiment. 信用卡实验  
 
-275.Bees' genes and Darwin
+275.Bees' genes and Darwin. 蜜蜂基因与达尔文  
 
-276.Children Directors
+276.Children Directors. 儿童导演  
 
-277.International Law
+277.International Law. 国际法  
 
-278.Dialects
+278.Dialects. 方言  
 
-279.Multiculturalism & Cultural Diversity
+279.Multiculturalism & Cultural Diversity. 多元文化与文化多样性  
 
-280.Sound of words
+280.Sound of words. 词语的声音  
 
-281.International trading system
+281.International trading system. 国际贸易体系  
 
-282.Singapore
+282.Singapore. 新加坡  
 
-283.Cosmology and maths
+283.Cosmology and maths. 宇宙学与数学  
 
-284.Bees waggle dance
+284.Bees waggle dance. 蜜蜂摇摆舞  
 
-285.Transportation Network in Paris
+285.Transportation Network in Paris. 巴黎交通网络  
 
-286.Genes and Intelligence
+286.Genes and Intelligence. 基因与智力  
 
-287.Organizational study
+287.Organizational study. 组织研究
