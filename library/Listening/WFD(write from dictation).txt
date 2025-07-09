@@ -2407,253 +2407,747 @@ Sort Type: Creation time(Ascending order)
 800.The post office will be closed on Mondays and Fridays afternoon.  
 邮局每周一和周五下午关闭
 
-801.There are many exciting developments occurring in the industry.
-802.The new biology course will be starting in February.
-803.There have been long streams periods of extreme weather throughout human history.
-804.All the equipment must be returned to the laboratory by Wednesday.
-805.Before architecture was invented, people used to live in underground houses.
-806.There are so many fast-food outlets on campus nowadays.
-807.Politicians need to be more practical when they are addressing the issues.
-808.The cafeteria will only serve cold milk on Friday this week.
-809.Changing your interest is a natural part of the learning process.
-810.There are many concerns about the research, for example, financial considerations.
-811.Participation rate on language learning exceeded expectations.
-812.Physics students have student modules this year.
-813.Industry experts will discuss the opportunities in an optimal workforce.
-814.The prevailing wind ensures the temperature extremes are unwell.
-815.Rail transport is becoming more and more popular.
-816.Democracy is constantly offering a stable form of government.
-817.Medical researchers have focused on different causes of diseases and treatments.
-818.People will never learn that life exists on other planets.
-819.Social policy describes the ways in which the society meets human needs.
-820.The research will investigate the great impact of gender on social attitudes.
-821.The feedback from the students was positive.
-822.Parents today are involved in the education of their children.
-823.The world is now getting warmer at a fast rate.
-824.Coastal communities are particularly vulnerable to rising sea levels.
-825.The National Center of Excellence is currently being built.
-826.There are a wide variety of disciplines within the field of engineering.
-827.This paper has the potential to transform life sciences.
-828.You must inform your advisor if you are absent from the class.
-829.Time is needed to complete the lecture.
-830.Remember to sign the attendance prior to the class.
-831.The library has a number of collections of historical and social statistical publications.
-832.Artificial intelligence has made significant progress for the last few years.
-833.The use of a dictionary will not be allowed during the examination.
-834.The tutorial timetable can be found on the course website.
-835.The first commercial advertising was built up at the airport relatively recently.
-836.Financial help for undergraduate study is available on application.
-837.Please turn off the lights to save energy.
-838.A bar chart can provide useful information in data comparison.
-839.You can keep your bags in the back room.
-840.Restrooms are down the entrance and to the right.
-841.We should have a meeting to discuss and report.
-842.Make sure you wash your hands before preparing the food.
-843.Students will meet their new teachers after the summer vacation.
-844.Close the door behind you when you leave the room.
-.845.There were a lot of traffic jams this morning.
-846.I want to make an appointment with the manager.
-847.Restaurants are down the hall and next to the right.
-848.The large and wide table is not for sale.
-849.The stairs are to the left of the elevator.
-850.Advanced technology will grow the economy.
-851.The government's financial plan has threatened social services.
-852.Protective goggles must be worn in all the university's laboratories.
-853.The research paper examined the economies of three countries.
-854.Historical cities are financially dependent on tourism as income.
-855.Our cultural values are dependent on the choices we made.
-856.Recycling systems can be complex, but they are becoming simpler.
-857.Science degrees are now offering different levels of specialization.
-858.Most of the scientists disagreed to discuss the size and the levels of society.
-859.We aim to develop a partnership with the government and financial institutions.
-860.Participating in the class is the center of the course.
-861.There is a separate reading list for each course.
-862.Legumes and vegetables are major sources of vitamins.
-863.In ancient times, the shelters were attracted to this location.
-864.The majority of academic publications are in English.
-865.Technology and international trade are the key drivers of the global economy.
-866.Students who study environmental biology need to do fieldwork.
-867.Music students will have great opportunities to work with musical professionals.
-868.It is doubtful whether the projects can be finished this week.
-869.At university, students can make friends for life.
-870.I would like all engineering students to raise their hands.
-871.It is generally accepted that language is a part of the culture.
-872.Female is better than male in academic results until 44 years of age.
-873.University graduates lose their time finding jobs.
-874.In the winter it gets harsh, but it won't be an issue since there is a heater.
-875.Graduates from this course generally find jobs in the insurance industry.
-876.The poster is on display at the large lecture theatre.
-877.Some students prefer to learn by images and pictures.
-878.Contracts can help to resolve misunderstandings between businesses.
-879.Currently, the company employs people all over Europe.
-880.You may find it useful to view the photographs.
-881.Computer science has become a popular university degree course.
-882.Global warming is a threat to economic growth.
-883.To gain access to the facilities, student cards must be shown.
-884.Feedback can be given in a variety of ways.
-885.Most home buyers receive a loan from the bank.
-886.In recent years, America has developed a coffee culture.
-887.Two drops of the solution were heated in a test tube.
-888.You must change your password every month.
-889.Policies are extremely strict for office workers.
-890.Social media has grown enormously in recent years.
-891.It is important for scientists to publish their research.
-892.Climate change is not a pure reason for this scientific research.
-893.Scientists have founded all parts of society today.
-894.The car accident happened on Saturday outside the school gate.
-895.The college operates a system of continuous assessment.
-896.The theme of the course is to encourage students to develop their creativity.
-897.The ability to act on your own is called autonomy.
-898.Roads should be clear so that traffic can move smoothly.
-899.The research results will be shared with the internal and external stakeholders.
-900.Our undergraduate courses are designed with employment ability in mind.
-901.The sports group practices on Wednesdays and plays on weekends.
-902.Employers accept applications from all academic backgrounds.
-903.This is the third and the final lecture in this series.
-904.The change of policy will have a great effect on society.
-905.The department will continue to offer three new scholarships next year.
-906.Theater study courses encourage students to exercise creativity.
-907.Weather forecasts will have a big change in the next century.
-908.There are still some tickets available for the concert next Wednesday.
-909.Often, people do not listen to understand because they listen to respond.
-910.Poverty exists everywhere, but the situation is improved recently.
-911.The market reacts wildly to political uncertainty.
-912.We are on track for one billion tobacco-related deaths this century.
-913.An advisor can help manufacturers to ensure that products are safe.
-914.The lecture will focus on the challenges of urban development.
-915.The lectures and references are downloadable on the Internet.
-916.Food containing overabundant calories supplies little or no nutritional value.
-917.Physics is the key subject to knowing the world and understanding the universe.
-918.The traffic controller must ensure that the traffic flow is smooth.
-919.You will study two core and three optional modules.
-920.Experts believe that industrial development will help the economy.
-921.There will be no tutorials until next week.
-922.Electric buses have an impact on air pollution.
-923.This course mainly introduces statistics and data analysis.
-924.Most students need computers to do their homework.
-925.The coordinator runs courses with continuous assessments.
-926.Poor posture and neck strain are common for office workers.
-927.Global pollution levels are rising at an increasing rate.
-928.Researchers say many students feel stressed and affect academic results.
-929.Antibiotics are agents that are effective in controlling the spread of bacteria.
-930.Urban planners plant trees in cities for a better environment.
-931.It is necessary that literacy should be taught at secondary school.
-932.The eventual winners will be the graduates that adapt best.
-933.Science is found everywhere in society today.
-934.Science and technology are good for the global economy.
-935.Services are rapidly growing in parts of the global economy.
-936.Easter Island is a small island in the southeastern Pacific Ocean.
-937.The company was established in London by two former colleagues.
-938.不完整题目：experts ... new talents.
-939.Effective presenters make eye contact with the audience.
-940.My loans have been received from the bank.
-941.A typical part of this course involves the study of society.
-942.Financial literacy should be taught in secondary schools.
-943.Upload your assignments to the website by Tuesday.
-944.Practical experience is a vital part of legal training.
-945.Plastics have to be buried because the recycling systems are limited.
-946.History courses can improve our ability to think critically.
-947.I am glad you got here safely.
-948.It is in the financial company's interest to have people save more money.
-949.The company has procedures to ensure quality and service.
-950.Discipline and motivation are essential for achieving your goals.
-951.All the student union students can register their names to get that service.
-952.Weather forecasting is becoming more accurate than before.
-953.The university has created summer schools for international students.
-954.Effective exercise can help develop our mental and physical health.
-955.Storms can be dangerous in some regions.
-956.While studying, you need to take regular breaks.
-957.The general strike failed because the union leaders disagreed over the strategy.
-958.In language learning, a systematic method of organizing new categories is essential.
-959.Inflation affects the demand, pricing and consumption of most products.
-960.The American astronomers made a plan for landing a spaceship on Mars.
-961.Students will study the language literature in the Ancient Greece.
-962.There is a display screen in the large lecture room of the theater.
-963.There are a number of people familiar with this process.
-964.You need to collect a clear note while learning new languages.
-965.The results of the study underscored the importance of early detection.
-966.The strong communication between students and teachers plays an important role in the class.
-967.The literature review should include recent journal articles.
-968.Spending time in nature can alleviate stress and anxiety.
-969.Please remain seated after finishing your exam.
-970.Agenda items should be submitted by the end of the day.
-971.Application forms should be submitted in one week.
-972.The study of nutrition is a growing field.
-973.Medical students normally study for at least six years in the university.
-974.Everyone must complete assignments before the deadline.
-975.The library reception desk is now open every day.
-976.Digital gadgets have now become an important part in all people's everyday life.
-977.You should submit your term papers to the general office.
-978.The use of wind energy has increased rapidly.
-979.The lecture today will cover all the main reasons for global warming.
-980.This part of the course is about psychology.
-981.The field study on Wednesday has been canceled.
-982.Students are encouraged to take part in their studies as well as games.
-983.You should meet me in the lecture theater room.
-984.Three resources are not enough for this assessment.
-985.The gap between the rich and the poor does not decrease.
-986.The rising inflation rate indicates a decrease in demand for consumer products.
-987.The design of modern cities is a challenge for urban planners.
-988.You can make an appointment to meet the librarian.
-989.The coming scientific research requires time and dedication.
-990.The teacher is always responsible for the contribution to students' marks.
-991.Students must know the technological aspects of the society.
-992.Major sports on campus include rugby, soccer and tennis.
-993.There are more jobs in services than manufacturing.
-.994.You should hand in your assignment before next semester.
-995.He began the outlines before his presentation.
-996.When studying, it is important to take breaks.
-997.Many inventors in the engineering sector are inspired by nature.
-998.Statistics is a crucial branch of mathematics.
-999.Globalization has been the most important phenomenon in the United Arab Emirates.
-1000.Safety is the most important thing in the biology lab.
-1001.Leaving valuable possessions unattended in public is risky.
-1002.There is a lecture going on just in front of the room.
-1003.The college includes two branches, physical and social sciences.
-1004.The online registration conference is now open.
-1005.A generous donation by alumni helps to fund the school.
-1006.There are three courses in our study programs.
-1007.There are many teachers to help students on campus.
-1008.Nowadays, accounting is far more important for business than ever before.
-1009.The seminar on writing skills has been canceled.
-1010.Candidates should remain seated until finishing their exams.
-1011.Overcrowding and poor sanitation affected the lives of the majority of the population.
-1012.The reason for the decline in enrollment is unclear.
-1013.The three elective courses were carried out in the program.
-1014.Gravity is extraordinarily weak and nearly impossible to study directly at a quantum level.
-1015.I had a sandwich and milk with orange juice for my breakfast.
-1016.Research shows that teachers contribute most to the students' achievements.
-1017.Please note that the seminar has been canceled due to insufficient enrollment.
-1018.It is shown that people are struggling in their lives.
-1019.Globalization has been an overwhelming urban and urbanization phenomenon.
-1020.It is not possible to solve the problem easily.
-1021.The speaker began by giving an outline of her presentation.
-1022.Understanding how to use the library will save your time.
-1023.All medical students must attend the talk about optional courses.
-1024.Summer school programs allow some students to accelerate their studies.
-1025.Field trips on Wednesday have been cancelled.
-1026.The study center in the library has all the latest technology.
-1027.All students are expected to participate in all class activities.
-1028.Critical thinking is crucial for mathematics.
-1029.Laundry facilities are available in each school unit free of charge.
-1030.Law is beneficial to investors by protecting their rights and avoiding any improper actions in the market.
-1031.There are not more jobs in service industries than in manufacturing.
-1032.The main problem is the increase in plagiarism exacerbated by the Internet.
-1033.This course will teach engineering students practical skills and concepts.
-1034.Digital gadgets are an excellent addition to any outdoor venture.
-1035.Reserved collection books contribute to the most achieved students.
-1036.Many businesses near the campus offer student discounts.
-1037.The postgraduate education program depends entirely on private funding.
-1038.Students should have awareness of how the business develops globally.
-1039.Humans use symbolic language to communicate plans and contentions.
-1040.Background music can help students concentrate on their studies.
-1041.A person's educational level is closely associated with their economic background.
-1042.The lectures today were carried out in the field of global warming.
-1043.Most penguins live in the South Atlantic Ocean.
-1044.To take this course, students should have basic subject knowledge.
-1045.Keep your audience in your mind when writing an essay.
-1046.Studying philosophy can help learners think in new ways.
-1047.The university will complete a colossal renovation to the plain empty theater.
+801.There are many exciting developments occurring in the industry.  
+该行业正在发生许多令人振奋的发展  
+
+802.The new biology course will be starting in February.  
+新的生物学课程将于二月开课  
+
+803.There have been long streams periods of extreme weather throughout human history.  
+人类历史上曾多次出现长期的极端天气  
+
+804.All the equipment must be returned to the laboratory by Wednesday.  
+所有设备必须于周三前归还实验室  
+
+805.Before architecture was invented, people used to live in underground houses.  
+在建筑学出现前，人们曾居住在地下房屋中  
+
+806.There are so many fast-food outlets on campus nowadays.  
+如今校园内有众多快餐店  
+
+807.Politicians need to be more practical when they are addressing the issues.  
+政治家在解决问题时需要更务实  
+
+808.The cafeteria will only serve cold milk on Friday this week.  
+本周五食堂仅供应冷牛奶  
+
+809.Changing your interest is a natural part of the learning process.  
+兴趣转变是学习过程中的自然现象  
+
+810.There are many concerns about the research, for example, financial considerations.  
+这项研究存在诸多顾虑，比如资金问题  
+
+811.Participation rate on language learning exceeded expectations.  
+语言学习的参与率超出预期  
+
+812.Physics students have student modules this year.  
+物理专业学生今年有学生模块课程  
+
+813.Industry experts will discuss the opportunities in an optimal workforce.  
+行业专家将探讨最优劳动力中的机遇  
+
+814.The prevailing wind ensures the temperature extremes are unwell.  
+盛行风导致极端温度状况不佳  
+
+815.Rail transport is becoming more and more popular.  
+铁路运输越来越受欢迎  
+
+816.Democracy is constantly offering a stable form of government.  
+民主制度持续提供稳定的政府形式  
+
+817.Medical researchers have focused on different causes of diseases and treatments.  
+医学研究者专注于疾病的不同成因和治疗方法  
+
+818.People will never learn that life exists on other planets.  
+人类永远无法确知其他行星是否存在生命  
+
+819.Social policy describes the ways in which the society meets human needs.  
+社会政策描述社会满足人类需求的方式  
+
+820.The research will investigate the great impact of gender on social attitudes.  
+本研究将探讨性别对社会态度的重大影响  
+
+821.The feedback from the students was positive.  
+学生反馈是积极的  
+
+822.Parents today are involved in the education of their children.  
+当今父母都参与子女教育  
+
+823.The world is now getting warmer at a fast rate.  
+全球正快速变暖  
+
+824.Coastal communities are particularly vulnerable to rising sea levels.  
+沿海社区尤其易受海平面上升影响  
+
+825.The National Center of Excellence is currently being built.  
+国家卓越中心正在建设中  
+
+826.There are a wide variety of disciplines within the field of engineering.  
+工程领域包含多种学科  
+
+827.This paper has the potential to transform life sciences.  
+这篇论文可能改变生命科学领域  
+
+828.You must inform your advisor if you are absent from the class.  
+缺课必须通知导师  
+
+829.Time is needed to complete the lecture.  
+完成讲座需要时间  
+
+830.Remember to sign the attendance prior to the class.  
+记得课前签到  
+
+831.The library has a number of collections of historical and social statistical publications.  
+图书馆收藏多套历史和社会统计出版物  
+
+832.Artificial intelligence has made significant progress for the last few years.  
+人工智能在过去几年取得重大进展  
+
+833.The use of a dictionary will not be allowed during the examination.  
+考试期间不得使用词典  
+
+834.The tutorial timetable can be found on the course website.  
+辅导时间表可在课程网站查询  
+
+835.The first commercial advertising was built up at the airport relatively recently.  
+首个商业广告是最近在机场建立的  
+
+836.Financial help for undergraduate study is available on application.  
+本科生可申请经济援助  
+
+837.Please turn off the lights to save energy.  
+请关灯节约能源  
+
+838.A bar chart can provide useful information in data comparison.  
+条形图可为数据对比提供有用信息  
+
+839.You can keep your bags in the back room.  
+可将包存放在后室  
+
+840.Restrooms are down the entrance and to the right.  
+洗手间在入口右侧  
+
+841.We should have a meeting to discuss and report.  
+我们应该开会讨论和汇报  
+
+842.Make sure you wash your hands before preparing the food.  
+准备食物前务必洗手  
+
+843.Students will meet their new teachers after the summer vacation.  
+暑假后学生将见到新老师  
+
+844.Close the door behind you when you leave the room.  
+离开时请关门  
+
+845.There were a lot of traffic jams this morning.  
+今早多处交通堵塞  
+
+846.I want to make an appointment with the manager.  
+我想预约经理  
+
+847.Restaurants are down the hall and next to the right.  
+餐厅在大厅右侧  
+
+848.The large and wide table is not for sale.  
+这张大宽桌不出售  
+
+849.The stairs are to the left of the elevator.  
+楼梯在电梯左侧  
+
+850.Advanced technology will grow the economy.  
+先进技术将促进经济增长  
+
+851.The government's financial plan has threatened social services.  
+政府财政计划威胁社会服务  
+
+852.Protective goggles must be worn in all the university's laboratories.  
+大学所有实验室必须佩戴护目镜  
+
+853.The research paper examined the economies of three countries.  
+该研究论文考察了三个国家的经济  
+
+854.Historical cities are financially dependent on tourism as income.  
+历史名城财政依赖旅游业收入  
+
+855.Our cultural values are dependent on the choices we made.  
+我们的文化价值观取决于所做的选择  
+
+856.Recycling systems can be complex, but they are becoming simpler.  
+回收系统可能复杂，但正变得简单  
+
+857.Science degrees are now offering different levels of specialization.  
+科学学位现在提供不同专业级别  
+
+858.Most of the scientists disagreed to discuss the size and the levels of society.  
+多数科学家拒绝讨论社会规模和层次  
+
+859.We aim to develop a partnership with the government and financial institutions.  
+我们旨在与政府和金融机构建立伙伴关系  
+
+860.Participating in the class is the center of the course.  
+课堂参与是课程核心  
+
+861.There is a separate reading list for each course.  
+每门课程都有单独阅读书目  
+
+862.Legumes and vegetables are major sources of vitamins.  
+豆类和蔬菜是维生素主要来源  
+
+863.In ancient times, the shelters were attracted to this location.  
+古代避难所多建于此地  
+
+864.The majority of academic publications are in English.  
+大多数学术出版物使用英语  
+
+865.Technology and international trade are the key drivers of the global economy.  
+技术和国际贸易是全球经济的关键驱动力  
+
+866.Students who study environmental biology need to do fieldwork.  
+环境生物学学生需进行实地考察  
+
+867.Music students will have great opportunities to work with musical professionals.  
+音乐专业学生将有大量与音乐专业人士合作的机会  
+
+868.It is doubtful whether the projects can be finished this week.  
+这些项目本周能否完成值得怀疑  
+
+869.At university, students can make friends for life.  
+在大学可以结交终身朋友  
+
+870.I would like all engineering students to raise their hands.  
+请所有工程专业学生举手  
+
+871.It is generally accepted that language is a part of the culture.  
+语言是文化的一部分已被广泛接受  
+
+872.Female is better than male in academic results until 44 years of age.  
+女性在44岁前的学术表现优于男性  
+
+873.University graduates lose their time finding jobs.  
+大学毕业生找工作耗费时间  
+
+874.In the winter it gets harsh, but it won't be an issue since there is a heater.  
+冬季严寒，但有暖气不成问题  
+
+875.Graduates from this course generally find jobs in the insurance industry.  
+本课程毕业生多在保险行业就业  
+
+876.The poster is on display at the large lecture theatre.  
+海报在大讲堂展示  
+
+877.Some students prefer to learn by images and pictures.  
+部分学生偏好通过图像学习  
+
+878.Contracts can help to resolve misunderstandings between businesses.  
+合同有助于解决企业间误解  
+
+879.Currently, the company employs people all over Europe.  
+目前公司在欧洲各地雇佣员工  
+
+880.You may find it useful to view the photographs.  
+查看照片可能对你有帮助  
+
+881.Computer science has become a popular university degree course.  
+计算机科学已成为热门大学学位课程  
+
+882.Global warming is a threat to economic growth.  
+全球变暖威胁经济增长  
+
+883.To gain access to the facilities, student cards must be shown.  
+使用设施需出示学生证  
+
+884.Feedback can be given in a variety of ways.  
+反馈可通过多种方式提供  
+
+885.Most home buyers receive a loan from the bank.  
+多数购房者从银行获得贷款  
+
+886.In recent years, America has developed a coffee culture.  
+近年来美国形成了咖啡文化  
+
+887.Two drops of the solution were heated in a test tube.  
+两滴溶液在试管中加热  
+
+888.You must change your password every month.  
+必须每月更改密码  
+
+889.Policies are extremely strict for office workers.  
+对办公室职员的政策极其严格  
+
+890.Social media has grown enormously in recent years.  
+社交媒体近年来迅猛发展  
+
+891.It is important for scientists to publish their research.  
+科学家发表研究成果很重要  
+
+892.Climate change is not a pure reason for this scientific research.  
+气候变化不是这项科学研究的唯一原因  
+
+893.Scientists have founded all parts of society today.  
+科学家影响了当今社会各个方面  
+
+894.The car accident happened on Saturday outside the school gate.  
+周六校门外发生车祸  
+
+895.The college operates a system of continuous assessment.  
+学院实行持续评估制度  
+
+896.The theme of the course is to encourage students to develop their creativity.  
+本课程主题是鼓励学生发展创造力  
+
+897.The ability to act on your own is called autonomy.  
+自主行动的能力称为自主性  
+
+898.Roads should be clear so that traffic can move smoothly.  
+道路应保持畅通以确保交通顺畅  
+
+899.The research results will be shared with the internal and external stakeholders.  
+研究结果将与内外利益相关者共享  
+
+900.Our undergraduate courses are designed with employment ability in mind.  
+我们的本科课程设计以就业能力为核心
+
+901.The sports group practices on Wednesdays and plays on weekends.  
+体育小组周三训练，周末比赛  
+
+902.Employers accept applications from all academic backgrounds.  
+雇主接受所有学术背景的申请  
+
+903.This is the third and the final lecture in this series.  
+这是本系列第三次也是最后一次讲座  
+
+904.The change of policy will have a great effect on society.  
+政策变化将对社会产生重大影响  
+
+905.The department will continue to offer three new scholarships next year.  
+该系明年将继续提供三项新奖学金  
+
+906.Theater study courses encourage students to exercise creativity.  
+戏剧研究课程鼓励学生发挥创造力  
+
+907.Weather forecasts will have a big change in the next century.  
+天气预报将在下个世纪发生重大变革  
+
+908.There are still some tickets available for the concert next Wednesday.  
+下周三音乐会仍有少量余票  
+
+909.Often, people do not listen to understand because they listen to respond.  
+人们常为回应而听，而非为理解而听  
+
+910.Poverty exists everywhere, but the situation is improved recently.  
+贫困普遍存在，但近期有所改善  
+
+911.The market reacts wildly to political uncertainty.  
+市场对政治不确定性反应剧烈  
+
+912.We are on track for one billion tobacco-related deaths this century.  
+本世纪烟草相关死亡人数将达十亿  
+
+913.An advisor can help manufacturers to ensure that products are safe.  
+顾问可帮助制造商确保产品安全  
+
+914.The lecture will focus on the challenges of urban development.  
+讲座将聚焦城市发展面临的挑战  
+
+915.The lectures and references are downloadable on the Internet.  
+讲座和参考资料可在网上下载  
+
+916.Food containing overabundant calories supplies little or no nutritional value.  
+高热量食物几乎不提供营养价值  
+
+917.Physics is the key subject to knowing the world and understanding the universe.  
+物理学是认识世界和理解宇宙的关键学科  
+
+918.The traffic controller must ensure that the traffic flow is smooth.  
+交通管制员必须确保交通畅通  
+
+919.You will study two core and three optional modules.  
+你将学习两个核心模块和三个选修模块  
+
+920.Experts believe that industrial development will help the economy.  
+专家认为工业发展将促进经济  
+
+921.There will be no tutorials until next week.  
+下周前没有辅导课  
+
+922.Electric buses have an impact on air pollution.  
+电动公交车影响空气质量  
+
+923.This course mainly introduces statistics and data analysis.  
+本课程主要介绍统计与数据分析  
+
+924.Most students need computers to do their homework.  
+多数学生需要电脑完成作业  
+
+925.The coordinator runs courses with continuous assessments.  
+协调员开设持续评估的课程  
+
+926.Poor posture and neck strain are common for office workers.  
+不良姿势和颈部劳损是上班族通病  
+
+927.Global pollution levels are rising at an increasing rate.  
+全球污染水平加速上升  
+
+928.Researchers say many students feel stressed and affect academic results.  
+研究者称许多学生压力大影响成绩  
+
+929.Antibiotics are agents that are effective in controlling the spread of bacteria.  
+抗生素能有效控制细菌传播  
+
+930.Urban planners plant trees in cities for a better environment.  
+城市规划者植树改善城市环境  
+
+931.It is necessary that literacy should be taught at secondary school.  
+中学阶段必须教授读写能力  
+
+932.The eventual winners will be the graduates that adapt best.  
+最终胜出者将是最能适应的毕业生  
+
+933.Science is found everywhere in society today.  
+科学已渗透当今社会各领域  
+
+934.Science and technology are good for the global economy.  
+科学技术有利于全球经济  
+
+935.Services are rapidly growing in parts of the global economy.  
+服务业在全球经济中快速增长  
+
+936.Easter Island is a small island in the southeastern Pacific Ocean.  
+复活节岛是东南太平洋上的小岛  
+
+937.The company was established in London by two former colleagues.  
+公司由两位前同事在伦敦创立  
+
+938.不完整题目：experts ... new talents.  
+专家...新人才...  
+
+939.Effective presenters make eye contact with the audience.  
+优秀的演讲者会与观众眼神交流  
+
+940.My loans have been received from the bank.  
+我已收到银行贷款  
+
+941.A typical part of this course involves the study of society.  
+本课程的典型部分包含社会研究  
+
+942.Financial literacy should be taught in secondary schools.  
+中学应教授金融知识  
+
+943.Upload your assignments to the website by Tuesday.  
+周二前将作业上传至网站  
+
+944.Practical experience is a vital part of legal training.  
+实践经验是法律培训的关键部分  
+
+945.Plastics have to be buried because the recycling systems are limited.  
+因回收系统有限，塑料只能填埋  
+
+946.History courses can improve our ability to think critically.  
+历史课程能提升批判性思维能力  
+
+947.I am glad you got here safely.  
+很高兴你安全抵达  
+
+948.It is in the financial company's interest to have people save more money.  
+让人们多存款符合金融公司利益  
+
+949.The company has procedures to ensure quality and service.  
+公司有确保质量与服务的流程  
+
+950.Discipline and motivation are essential for achieving your goals.  
+纪律与动力对实现目标至关重要  
+
+951.All the student union students can register their names to get that service.  
+学生会成员均可注册享受该服务  
+
+952.Weather forecasting is becoming more accurate than before.  
+天气预报比以往更准确  
+
+953.The university has created summer schools for international students.  
+大学为国际学生开设暑期学校  
+
+954.Effective exercise can help develop our mental and physical health.  
+有效锻炼促进身心健康发展  
+
+955.Storms can be dangerous in some regions.  
+暴风雨在某些地区很危险  
+
+956.While studying, you need to take regular breaks.  
+学习时需要定期休息  
+
+957.The general strike failed because the union leaders disagreed over the strategy.  
+因工会领导策略分歧，总罢工失败  
+
+958.In language learning, a systematic method of organizing new categories is essential.  
+语言学习中，系统分类新知识很关键  
+
+959.Inflation affects the demand, pricing and consumption of most products.  
+通胀影响多数产品的需求、价格和消费  
+
+960.The American astronomers made a plan for landing a spaceship on Mars.  
+美国天文学家制定了火星登陆计划  
+
+961.Students will study the language literature in the Ancient Greece.  
+学生将研究古希腊语言文学  
+
+962.There is a display screen in the large lecture room of the theater.  
+剧院大讲堂设有显示屏  
+
+963.There are a number of people familiar with this process.  
+许多人熟悉此流程  
+
+964.You need to collect a clear note while learning new languages.  
+学习新语言时需做清晰笔记  
+
+965.The results of the study underscored the importance of early detection.  
+研究结果强调早期检测的重要性  
+
+966.The strong communication between students and teachers plays an important role in the class.  
+师生间的良好沟通对课堂很重要  
+
+967.The literature review should include recent journal articles.  
+文献综述应包含近期期刊文章  
+
+968.Spending time in nature can alleviate stress and anxiety.  
+亲近自然可缓解压力与焦虑  
+
+969.Please remain seated after finishing your exam.  
+考试结束后请保持就座  
+
+970.Agenda items should be submitted by the end of the day.  
+议程项目需在今日结束前提交  
+
+971.Application forms should be submitted in one week.  
+申请表应在一周内提交  
+
+972.The study of nutrition is a growing field.  
+营养学是发展中的领域  
+
+973.Medical students normally study for at least six years in the university.  
+医学生通常需在校学习至少六年  
+
+974.Everyone must complete assignments before the deadline.  
+所有人都须在截止日期前完成作业  
+
+975.The library reception desk is now open every day.  
+图书馆接待处现在每日开放  
+
+976.Digital gadgets have now become an important part in all people's everyday life.  
+数码设备已成为人们日常生活的重要部分  
+
+977.You should submit your term papers to the general office.  
+学期论文应提交至总办公室  
+
+978.The use of wind energy has increased rapidly.  
+风能利用快速增长  
+
+979.The lecture today will cover all the main reasons for global warming.  
+今日讲座将涵盖全球变暖的所有主因  
+
+980.This part of the course is about psychology.  
+课程的这部分涉及心理学  
+
+981.The field study on Wednesday has been canceled.  
+周三的实地考察已取消  
+
+982.Students are encouraged to take part in their studies as well as games.  
+鼓励学生既参与学习也参加活动  
+
+983.You should meet me in the lecture theater room.  
+请在演讲厅与我见面  
+
+984.Three resources are not enough for this assessment.  
+三项资源不足以完成本次评估  
+
+985.The gap between the rich and the poor does not decrease.  
+贫富差距并未缩小  
+
+986.The rising inflation rate indicates a decrease in demand for consumer products.  
+通胀率上升表明消费品需求下降  
+
+987.The design of modern cities is a challenge for urban planners.  
+现代城市设计是规划师的挑战  
+
+988.You can make an appointment to meet the librarian.  
+可预约与图书馆员会面  
+
+989.The coming scientific research requires time and dedication.  
+即将开展的科研需要时间与投入  
+
+990.The teacher is always responsible for the contribution to students' marks.  
+教师始终对学生的成绩负责  
+
+991.Students must know the technological aspects of the society.  
+学生必须了解社会的技术层面  
+
+992.Major sports on campus include rugby, soccer and tennis.  
+校园主要运动包括橄榄球、足球和网球  
+
+993.There are more jobs in services than manufacturing.  
+服务业岗位多于制造业  
+
+994.You should hand in your assignment before next semester.  
+你应在新学期开始前提交作业  
+
+995.He began the outlines before his presentation.  
+他在演讲前先列出大纲  
+
+996.When studying, it is important to take breaks.  
+学习时适当休息很重要  
+
+997.Many inventors in the engineering sector are inspired by nature.  
+工程领域许多发明家受自然启发  
+
+998.Statistics is a crucial branch of mathematics.  
+统计学是数学的重要分支  
+
+999.Globalization has been the most important phenomenon in the United Arab Emirates.  
+全球化是阿联酋最重要的现象  
+
+1000.Safety is the most important thing in the biology lab.  
+安全是生物实验室的头等大事  
+
+1001.Leaving valuable possessions unattended in public is risky.  
+在公共场所无人看管贵重物品很危险  
+
+1002.There is a lecture going on just in front of the room.  
+房间前正在举行讲座  
+
+1003.The college includes two branches, physical and social sciences.  
+学院包含自然科学和社会科学两个分支  
+
+1004.The online registration conference is now open.  
+线上会议注册现已开放  
+
+1005.A generous donation by alumni helps to fund the school.  
+校友的慷慨捐赠资助学校  
+
+1006.There are three courses in our study programs.  
+我们的学习计划包含三门课程  
+
+1007.There are many teachers to help students on campus.  
+校园里有许多帮助学生的老师  
+
+1008.Nowadays, accounting is far more important for business than ever before.  
+如今会计对商业比以往更重要  
+
+1009.The seminar on writing skills has been canceled.  
+写作技巧研讨会已取消  
+
+1010.Candidates should remain seated until finishing their exams.  
+考生应保持就座直至考试结束  
+
+1011.Overcrowding and poor sanitation affected the lives of the majority of the population.  
+过度拥挤和卫生条件差影响多数人的生活  
+
+1012.The reason for the decline in enrollment is unclear.  
+入学率下降的原因尚不明确  
+
+1013.The three elective courses were carried out in the program.  
+项目中开设了三门选修课  
+
+1014.Gravity is extraordinarily weak and nearly impossible to study directly at a quantum level.  
+引力极其微弱，几乎无法在量子层面直接研究  
+
+1015.I had a sandwich and milk with orange juice for my breakfast.  
+我早餐吃了三明治，喝了牛奶和橙汁  
+
+1016.Research shows that teachers contribute most to the students' achievements.  
+研究表明教师对学生成绩贡献最大  
+
+1017.Please note that the seminar has been canceled due to insufficient enrollment.  
+请注意研讨会因报名人数不足取消  
+
+1018.It is shown that people are struggling in their lives.  
+研究表明人们生活艰难  
+
+1019.Globalization has been an overwhelming urban and urbanization phenomenon.  
+全球化已成为压倒性的城市及城市化现象  
+
+1020.It is not possible to solve the problem easily.  
+该问题不易解决  
+
+1021.The speaker began by giving an outline of her presentation.  
+演讲者首先概述了她的报告  
+
+1022.Understanding how to use the library will save your time.  
+了解图书馆使用方法能节省时间  
+
+1023.All medical students must attend the talk about optional courses.  
+所有医学生必须参加选修课说明会  
+
+1024.Summer school programs allow some students to accelerate their studies.  
+暑期课程帮助部分学生加速学习  
+
+1025.Field trips on Wednesday have been cancelled.  
+周三的实地考察已取消  
+
+1026.The study center in the library has all the latest technology.  
+图书馆学习中心配备最新技术  
+
+1027.All students are expected to participate in all class activities.  
+所有学生都应参与全部课堂活动  
+
+1028.Critical thinking is crucial for mathematics.  
+批判性思维对数学至关重要  
+
+1029.Laundry facilities are available in each school unit free of charge.  
+每栋校舍均提供免费洗衣设施  
+
+1030.Law is beneficial to investors by protecting their rights and avoiding any improper actions in the market.  
+法律通过保护权利和避免市场不当行为使投资者受益  
+
+1031.There are not more jobs in service industries than in manufacturing.  
+服务业岗位并不多于制造业  
+
+1032.The main problem is the increase in plagiarism exacerbated by the Internet.  
+主要问题是互联网加剧的抄袭现象增加  
+
+1033.This course will teach engineering students practical skills and concepts.  
+本课程将教授工科学生实践技能与概念  
+
+1034.Digital gadgets are an excellent addition to any outdoor venture.  
+数码设备是户外活动的绝佳辅助  
+
+1035.Reserved collection books contribute to the most achieved students.  
+馆藏珍本助力最优秀的学生  
+
+1036.Many businesses near the campus offer student discounts.  
+校园附近许多商家提供学生折扣  
+
+1037.The postgraduate education program depends entirely on private funding.  
+研究生教育项目完全依赖私人资助  
+
+1038.Students should have awareness of how the business develops globally.  
+学生应了解全球商业发展状况  
+
+1039.Humans use symbolic language to communicate plans and contentions.  
+人类用符号语言交流计划与论点  
+
+1040.Background music can help students concentrate on their studies.  
+背景音乐有助学生集中注意力学习  
+
+1041.A person's educational level is closely associated with their economic background.  
+个人教育水平与经济背景密切相关  
+
+1042.The lectures today were carried out in the field of global warming.  
+今日讲座围绕全球变暖领域展开  
+
+1043.Most penguins live in the South Atlantic Ocean.  
+多数企鹅生活在南大西洋  
+
+1044.To take this course, students should have basic subject knowledge.  
+选修本课程需具备学科基础知识  
+
+1045.Keep your audience in your mind when writing an essay.  
+写作时需时刻考虑读者  
+
+1046.Studying philosophy can help learners think in new ways.  
+学习哲学有助培养新思维方式  
+
+1047.The university will complete a colossal renovation to the plain empty theater.  
+大学将完成对简陋剧场的重大翻修
+
 1048.A wide range of aspects are covered in this subject.
 1049.University fee is a key factor when choosing a course.
 1050.Application forms for sharing accommodations must be completed two months in advance.
