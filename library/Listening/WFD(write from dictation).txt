@@ -3148,69 +3148,165 @@ Sort Type: Creation time(Ascending order)
 1047.The university will complete a colossal renovation to the plain empty theater.  
 大学将完成对简陋剧场的重大翻修
 
-1048.A wide range of aspects are covered in this subject.
-1049.University fee is a key factor when choosing a course.
-1050.Application forms for sharing accommodations must be completed two months in advance.
-1051.The police phones are difficult to call, so crime rates are high.
-1052.I am convinced that mathematical thinking is crucial for statistics study.
-1053.Online courses enable people to improve their skills while employed.
-1054.Joining the societies is a great way to meet new people.
-1055.Students must present a valid identification to enroll in this course.
-1056.The exam results will be posted on the notice board.
-1057.The lecturer intended to promote a series of thoughts and discussions.
-1058.In the computer degrees, there is a new module in artificial intelligence.
-1059.The guidelines are due to be updated shortly.
-1060.Find out how to get your resources before your research.
-1061.Journalists need to work with a range of technologies.
-1062.The university now faces a series of challenges of finance.
-1063.The instant availability of information has radically changed people's lives.
-1064.Universities across the United Kingdom welcome applications from all new students.
-1065.We have to reduce the use of plastic materials.
-1066.Americans have progressively defined the process of plant growth and reproductive development in quantitative terms.
-1067.The subject was complex and difficult to answer.
-1068.Newspapers across the country have been reporting stories of the president.
-1069.Remember to bring your calculators to class next week.
-1070.I looked into my closet for something to wear, but I want to find a new favorite.
-1071.During that time, people had large families as insurance against some children dying.
-1072.A lot of agricultural workers came to the East End to look for alternative work.
-1073.Each department has its own style of guidelines for assignments.
-1074.The field of journalism has been seen in decline over the decades.
-1075.The student should visit the lecture hall behind the building.
-1076.Some people argue science is more important than art.
-1077.You need student identification to borrow books from the library.
-1078.Basketball was created in 1891 by a physician and a physical instructor.
-1079.The geography examination will take place in the sports hall.
-1080.Working with these kinds of students is not enough.
-1081.The company has not achieved success despite its good reputation.
-1082.We are considering all candidates' backgrounds and identities.
-1083.Learning a foreign language takes a lot of effort.
-1084.Each organ of your body is a complex living system.
-1085.A trade between two companies has just been announced.
-1086.The temporary library will be closed during the winter break.
-1087.You must wear clean shoes when working in the lab.
-1088.Researchers found that trees can relieve stress and anxiety.
-1089.One student representative will be selected from each class.
-1090.The introduction of railway greatly contributed to the revolution of the train industry.
-1091.Please note that the submission deadlines are only negotiable in exceptional circumstances.
-1092.His analysis study appears to be based on the false premise.
-1093.Please confirm that you have received the textbook.
-1094.New media has transformed traditional national boundaries.
-1095.It is essential for companies to reduce the amount of harmful gases released into the atmosphere.
-1096.Professor Tim Berners-Lee invented the World Wide Web.
-1097.Our curriculum covers different aspects of the subject.
-1098.I cannot hand out my student dissertation this week.
-1099.Marketing is a very important activity for many businesses.
-1100.Average earnings have risen slightly over the decades.
-1101.Political assumptions are based on voting behaviors.
-1102.A treaty deal built between two countries was just announced.
-1103.Before writing down your notes, check the accuracy of your data.
-1104.Certain films are hard to be classified into one single genre.
-1105.Many governments found that it is difficult to reduce poverty in our society.
-1106.Be careful when you use English translators.
-1107.The library is open only on Mondays and Fridays.
-1108.The university offers a wide range of courses according to your commitments.
-1109.In the new project, you have to present the different items.
-1110.Accountancy students need to submit their dissertations this week.
+1048.A wide range of aspects are covered in this subject.  
+本学科涵盖广泛领域  
+
+1049.University fee is a key factor when choosing a course.  
+学费是选课的关键因素  
+
+1050.Application forms for sharing accommodations must be completed two months in advance.  
+合租申请表需提前两个月提交  
+
+1051.The police phones are difficult to call, so crime rates are high.  
+报警电话难打通导致犯罪率高  
+
+1052.I am convinced that mathematical thinking is crucial for statistics study.  
+我确信数学思维对统计研究至关重要  
+
+1053.Online courses enable people to improve their skills while employed.  
+在线课程让在职者能提升技能  
+
+1054.Joining the societies is a great way to meet new people.  
+参加社团是结识新朋友的好方法  
+
+1055.Students must present a valid identification to enroll in this course.  
+选修本课程需出示有效身份证件  
+
+1056.The exam results will be posted on the notice board.  
+考试成绩将公布在公告栏  
+
+1057.The lecturer intended to promote a series of thoughts and discussions.  
+讲师旨在引发一系列思考和讨论  
+
+1058.In the computer degrees, there is a new module in artificial intelligence.  
+计算机学位新增人工智能模块  
+
+1059.The guidelines are due to be updated shortly.  
+指南即将更新  
+
+1060.Find out how to get your resources before your research.  
+研究前先了解资源获取方式  
+
+1061.Journalists need to work with a range of technologies.  
+记者需掌握多种技术  
+
+1062.The university now faces a series of challenges of finance.  
+大学正面临一系列财务挑战  
+
+1063.The instant availability of information has radically changed people's lives.  
+即时获取信息彻底改变了人们生活  
+
+1064.Universities across the United Kingdom welcome applications from all new students.  
+英国各大学欢迎新生申请  
+
+1065.We have to reduce the use of plastic materials.  
+我们必须减少塑料制品使用  
+
+1066.Americans have progressively defined the process of plant growth and reproductive development in quantitative terms.  
+美国人已逐步用量化术语定义植物生长和繁殖过程  
+
+1067.The subject was complex and difficult to answer.  
+该课题复杂难解  
+
+1068.Newspapers across the country have been reporting stories of the president.  
+全国报纸持续报道总统新闻  
+
+1069.Remember to bring your calculators to class next week.  
+记得下周带计算器来上课  
+
+1070.I looked into my closet for something to wear, but I want to find a new favorite.  
+我翻遍衣柜想找新宠穿搭  
+
+1071.During that time, people had large families as insurance against some children dying.  
+那时人们多生育以防孩子夭折  
+
+1072.A lot of agricultural workers came to the East End to look for alternative work.  
+许多农业工人到东区寻找新工作  
+
+1073.Each department has its own style of guidelines for assignments.  
+每个院系有各自的作业指南风格  
+
+1074.The field of journalism has been seen in decline over the decades.  
+数十年来新闻业持续衰退  
+
+1075.The student should visit the lecture hall behind the building.  
+学生应前往大楼后的演讲厅  
+
+1076.Some people argue science is more important than art.  
+有人认为科学比艺术更重要  
+
+1077.You need student identification to borrow books from the library.  
+借书需出示学生证  
+
+1078.Basketball was created in 1891 by a physician and a physical instructor.  
+篮球由医生和体育教练于1891年发明  
+
+1079.The geography examination will take place in the sports hall.  
+地理考试将在体育馆进行  
+
+1080.Working with these kinds of students is not enough.  
+与这类学生合作还不够  
+
+1081.The company has not achieved success despite its good reputation.  
+尽管声誉良好，该公司仍未成功  
+
+1082.We are considering all candidates' backgrounds and identities.  
+我们考虑所有候选人的背景和身份  
+
+1083.Learning a foreign language takes a lot of effort.  
+学习外语需要大量努力  
+
+1084.Each organ of your body is a complex living system.  
+人体每个器官都是复杂生命系统  
+
+1085.A trade between two companies has just been announced.  
+两家公司刚宣布贸易合作  
+
+1086.The temporary library will be closed during the winter break.  
+临时图书馆寒假期间关闭  
+
+1087.You must wear clean shoes when working in the lab.  
+实验室工作需穿干净鞋子  
+
+1088.Researchers found that trees can relieve stress and anxiety.  
+研究发现树木能缓解压力焦虑  
+
+1089.One student representative will be selected from each class.  
+每班将选出一名学生代表  
+
+1090.The introduction of railway greatly contributed to the revolution of the train industry.  
+铁路引入极大推动了火车行业革命  
+
+1091.Please note that the submission deadlines are only negotiable in exceptional circumstances.  
+请注意截止日期仅在特殊情况下可协商  
+
+1092.His analysis study appears to be based on the false premise.  
+他的分析研究似乎基于错误前提  
+
+1093.Please confirm that you have received the textbook.  
+请确认已收到教材  
+
+1094.New media has transformed traditional national boundaries.  
+新媒体改变了传统国界概念  
+
+1095.It is essential for companies to reduce the amount of harmful gases released into the atmosphere.  
+企业必须减少有害气体排放  
+
+1096.Professor Tim Berners-Lee invented the World Wide Web.  
+蒂姆·伯纳斯-李教授发明了万维网  
+
+1097.Our curriculum covers different aspects of the subject.  
+我们的课程涵盖该学科不同方面  
+
+1098.I cannot hand out my student dissertation this week.  
+本周我无法提交学位论文  
+
+1099.Marketing is a very important activity for many businesses.  
+营销对许多企业非常重要  
+
+1100.Average earnings have risen slightly over the decades.  
+数十年来平均收入缓慢增长  
+
 1111.The integration of archeologists' studies with community projects is widely encouraged.
 1112.Students in the first year usually live on campus.
 1113.The full list of undergraduate programs can be found on the website.
