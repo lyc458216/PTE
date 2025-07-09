@@ -14,8 +14,8 @@ Order   Priority    Name                            Type    Quantity    Consume(
 8                   DI(describe image)              🔴S     3-4         25+40           309✅           75          20
 9                   FIB_R(fill in blanks R)         🟡R     4-5         2mins           387✅           75                              17                  Draw
 10                  HIW(highlight incorrect word)   🟢L     2-3         30              18✅            --                              8       8
-11                  RL(retell lecture)              🔴S     1-2         10+40           102(hot)        75          5                           5
-12                  RO(re-order paragraph)          🟡R     2-3         2mins           298             55                              7
+11                  RL(retell lecture)              🔴S     1-2         10+40           67(hot)✅       75          5                           5
+12                  RO(re-order paragraph)          🟡R     2-3         2mins           289✅           55                              7
 13                  WE(write essay)                 🟣W     1-2         20mins          60(hot)         85                      13
 Total                                                                                                               95          100     95      92
 
@@ -36,16 +36,16 @@ No.3            L                           30-43mins
 
 4.命中率排序
 Order   Name                            Type    HitRate Quantity    LibraryItems    Comments
-1       WFD(write from dictation)       🟢L     99✅    3-4         1457
-2       SST(summarize spoken text)      🟢L     95✅    1-2         287
-3       SWT(summarize written text)     🟣W     92✅    1-2         198
-4       FIB_RW(fill in blanks R&W)      🟡R     88✅    5-6         540             Select
+1       WFD(write from dictation)       🟢L     99      3-4         1457✅
+2       SST(summarize spoken text)      🟢L     95      1-2         287✅
+3       SWT(summarize written text)     🟣W     92      1-2         198✅
+4       FIB_RW(fill in blanks R&W)      🟡R     88      5-6         540✅           Select
 5       WE(write essay)                 🟣W     85      1-2         60(hot)
-6       DI(describe image)              🔴S     75✅    3-4         309
-7       FIB_R(fill in blanks R)         🟡R     75✅    4-5         387             Draw
-8       RL(retell lecture)              🔴S     75      1-2         102(hot)
-9       RS(repeat sentence)             🔴S     60✅    10-12       850
+6       DI(describe image)              🔴S     75      3-4         309✅
+7       FIB_R(fill in blanks R)         🟡R     75      4-5         387✅           Draw
+8       RL(retell lecture)              🔴S     75      1-2         67(hot)✅
+9       RS(repeat sentence)             🔴S     60      10-12       850✅
 10      RA(read aloud)                  🔴S     55      6-7         427
-11      RO(re-order paragraph)          🟡R     55      2-3         298
-12      FIB_L(fill in blanks L)         🟢L     30✅    2-3         127
-13      HIW(highlight incorrect word)   🟢L     --✅    2-3         18
+11      RO(re-order paragraph)          🟡R     55      2-3         289✅
+12      FIB_L(fill in blanks L)         🟢L     30      2-3         127✅
+13      HIW(highlight incorrect word)   🟢L     --      2-3         18✅

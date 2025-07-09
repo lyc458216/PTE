@@ -1,0 +1,143 @@
+Requirements:
+You will hear a lecture.
+After listening to the lecture, in 10 seconds, please speak into the microphone and retell what you have just heard from the lecture in your own words.
+You will have 40 seconds to give your response.
+
+Filter: Test
+Sort Type: Creation time(Ascending order)
+
+**Comments: There is only a lecture, but not include title.
+
+1.Infinite Monkey Theory
+
+2.Galaxy Darkness
+
+3.Welsh Speaker
+
+4.Bomb calorimeter
+
+5.Australian Export Business
+
+6.Variation in Frogs
+
+7.Human's Creativity
+
+8.Performance of boys and girls
+
+9.Underwater Detectors
+
+10.Three Stages of Brain Development
+
+11.Marshmallow test
+
+12.Civil Society Groups
+
+13.Climate change
+
+14.Narratives
+
+15.Australian city
+
+16.Human behavior
+
+17.Overweight problem
+
+18.Black Hole
+
+19.Loggerhead Turtles
+
+20.Engineers
+
+21.Randomness of flipping coin
+
+22.British policy
+
+23.Morton Prince
+
+24.Gene and DNA
+
+25.Price of Housing
+
+26.Mars
+
+27.Trade-offs triangle
+
+28.Three plans to stimulate the consumer
+
+29.Chest X-Ray
+
+30.Robots
+
+31.Wilson
+
+32.Teaching
+
+33.Happiness
+
+34.Psychologist
+
+35.A Ship
+
+36.Library
+
+37.Bees talks
+
+38.Superhuman
+
+39.Clouds
+
+40.Rice
+
+41.Venus
+
+42.Practice
+
+43.Linguists
+
+44.Government Blogging
+
+45.A survey
+
+46.The politics of happiness
+
+47.Melatonin
+
+48.Early spring
+
+49.Bird migration
+
+50.Hazardous chemical product
+
+51.Animal behavior
+
+52.Smell of books
+
+53.Shy fish
+
+54.Knee
+
+55.Sugar
+
+56.Music and well-being
+
+57.Early Robot
+
+58.London fog
+
+59.Biology
+
+60.Pavlov Experiment V2
+
+61.Cars in Washington
+
+62.King
+
+63.Telescope
+
+64.A successful entrepreneur
+
+65.Four fundamental forces
+
+66.Universal philosophy
+
+67.Licking and grooming.
