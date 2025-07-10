@@ -7,580 +7,320 @@ Sort Type: Creation time(Ascending order)
 
 **Comments: There is only item paragraphs, but not include title.
 
-1.Religious. 宗教的  
+1.Volkswagen. 大众汽车  
 
-2.Volkswagen. 大众汽车  
+2.Peru Timber. 秘鲁木材  
 
-3.Peru Timber. 秘鲁木材  
+3.Wal-mart CEO comments. 沃尔玛CEO评论  
 
-4.System. 系统  
+4.German Writer and His Books. 德国作家及其著作  
 
-5.Wal-mart CEO comments. 沃尔玛CEO评论  
+5.Rosa Parks. 罗莎·帕克斯  
 
-6.Mayors. 市长们  
+6.International date line. 国际日期变更线  
 
-7.Amazon children's depression. 亚马逊地区儿童抑郁症  
+7.Language. 语言  
 
-8.German Writer and His Books. 德国作家和他的书籍  
+8.Indian IT. 印度IT行业  
 
-9.Rosa Parks. 罗莎·帕克斯  
+9.Mother of Storm. 风暴之母  
 
-10.International date line. 国际日期变更线  
+10.Market. 市场  
 
-11.Sea Level Raise. 海平面上升  
+11.Fiber v.s Wool and Silk. 纤维 vs 羊毛与丝绸  
 
-12.Language. 语言  
+12.Fruit intake. 水果摄入  
 
-13.Indian IT. 印度IT产业  
+13.Charles Lindbergh. 查尔斯·林德伯格  
 
-14.Issue currency. 货币发行  
+14.Memory loss. 记忆丧失  
 
-15.Railway development. 铁路发展  
+15.Investigation for Children's Medicine. 儿童药物调查  
 
-16.Record. 记录  
+16.University of Canberra. 堪培拉大学  
 
-17.Mother of Storm. 风暴之母  
+17.Map. 地图  
 
-18.Market. 市场  
+18.Marine Creatures. 海洋生物  
 
-19.Conferences. 会议  
+19.Foreign aid. 外援  
 
-20.Fiber v.s Wool and Silk. 纤维 vs 羊毛和丝绸  
+20.Stored food. 储存食品  
 
-21.Fruit intake. 水果摄入  
+21.Earth-like planets. 类地行星  
 
-22.Cell. 细胞  
+22.Jet Stream. 急流  
 
-23.The ability to write. 写作能力  
+23.Chimpanzees. 黑猩猩  
 
-24.Australia's refugee policy. 澳大利亚难民政策  
+24.Vegetarian. 素食者  
 
-25.Car accident. 车祸  
+25.Choosing Schools. 择校  
 
-26.Green tea. 绿茶  
+26.Hypothesis. 假设  
 
-27.Charles Lindbergh. 查尔斯·林德伯格  
+27.Aviation. 航空  
 
-28.Traffic Accidents. 交通事故  
+28.Piano. 钢琴  
 
-29.Time management. 时间管理  
+29.Sustainable Development. 可持续发展  
 
-30.Memory loss. 记忆丧失  
+30.Tree ring. 年轮  
 
-31.Investigation for Children's Medicine. 儿童药物调查  
+31.Bankrupt. 破产  
 
-32.University of Canberra. 堪培拉大学  
+32.The pilot. 飞行员  
 
-33.Map. 地图  
+33.Motivation of employee. 员工激励  
 
-34.Electronic transactions. 电子交易  
+34.Children. 儿童  
 
-35.Marine Creatures. 海洋生物  
+35.Carbon Detox. 碳排毒  
 
-36.Foreign aid. 外国援助  
+36.Brazil's Rainforests. 巴西雨林  
 
-37.Stored food. 储存食物  
+37.Cropping. 种植  
 
-38.Weather in Delhi. 德里天气  
+38.Heart attack. 心脏病发作  
 
-39.Internet search. 互联网搜索  
+39.Scientific dishonesty. 学术不端  
 
-40.Marquez. 马尔克斯  
+40.Technology Revolutions. 技术革命  
 
-41.Earth-like planets. 类地行星  
+41.Carbon pricing. 碳定价  
 
-42.The process behind the ads. 广告背后的过程  
+42.International Economics. 国际经济学  
 
-43.Jet Stream. 急流  
+43.Journalists objectivity. 记者客观性  
 
-44.Chimpanzees. 黑猩猩  
+44.Study overseas. 海外学习  
 
-45.Energy Industry Employment. 能源行业就业  
+45.University's Offer. 大学录取  
 
-46.Vegetarian. 素食者  
+46.Higher Income. 更高收入  
 
-47.Choosing Schools. 选择学校  
+47.Mario de Andrade. 马里奥·德·安德拉德  
 
-48.Hypothesis. 假设  
+48.University of Otago. 奥塔哥大学  
 
-49.Aviation. 航空  
+49.Speak English well. 说好英语  
 
-50.False memories. 虚假记忆  
+50.Hire young people. 雇佣年轻人  
 
-51.Piano. 钢琴  
+51.Summer school. 暑期学校  
 
-52.Desert festival. 沙漠节  
+52.European Union. 欧盟  
 
-53.Sustainable Development. 可持续发展  
+53.Squares and rectangles. 正方形与长方形  
 
-54.Tree ring. 年轮  
+54.Airbnb. 爱彼迎  
 
-55.Bankrupt. 破产  
+55.New Ventures. 新企业  
 
-56.Meeting. 会议  
+56.Monash student. 莫纳什大学学生  
 
-57.Opinion compromise. 意见妥协  
+57.An underperforming company. 表现不佳的公司  
 
-58.Sherbet powder. 果汁粉  
+58.Assignment. 作业  
 
-59.Meetings. 会议  
+59.Artificial intelligence. 人工智能  
 
-60.The pilot. 飞行员  
+60.Sloths and birds. 树懒与鸟类  
 
-61.Motivation of employee. 员工激励  
+61.Arcelor V2. 阿塞洛V2  
 
-62.Liberal Town. 自由城  
+62.Tutorial. 辅导课  
 
-63.Children. 儿童  
+63.Good listener. 善于倾听  
 
-64.Carbon Detox. 碳排毒  
+64.Botanical conservation. 植物保护  
 
-65.Brazil's Rainforests. 巴西雨林  
+65.Railway. 铁路  
 
-66.Superpower. 超级大国  
+66.Restaurant. 餐厅  
 
-67.Ancestors of Human. 人类祖先  
+67.Ocean floors. 海底  
 
-68.Competence and performance. 能力与表现  
+68.Environmental revolution. 环境革命  
 
-69.Cropping. 裁切/种植  
+69.German invasion of Poland. 德国入侵波兰  
 
-70.Graduation. 毕业  
+70.Easier said than done. 说起来容易做起来难  
 
-71.Heart attack. 心脏病发作  
+71.3-D Printing. 3D打印  
 
-72.Scientific dishonesty. 科学不端行为  
+72.Repeat Photography Project. 重复摄影项目  
 
-73.Technology Revolutions. 技术革命  
+73.Health and Disease. 健康与疾病  
 
-74.Carbon pricing. 碳定价  
+74.5 hertz. 5赫兹  
 
-75.International Economics. 国际经济学  
+75.Charles Darwin. 查尔斯·达尔文  
 
-76.Journalists objectivity. 记者客观性  
+76.Science and technology. 科学与技术  
 
-77.Study overseas. 海外学习  
+77.Copernicanism. 哥白尼学说  
 
-78.E-waste. 电子垃圾  
+78.Worms are important than panda. 蠕虫比熊猫重要  
 
-79.University's Offer. 大学录取通知  
+79.Copernicus. 哥白尼  
 
-80.Current Students. 在校学生  
+80.Short-term memory. 短期记忆  
 
-81.A requirement of Humanities. 人文科学要求  
+81.Ice age affect. 冰河时代影响  
 
-82.Internet. 互联网  
+82.Hudson. 哈德逊  
 
-83.Higher Income. 更高收入  
+83.Draft and paper. 草稿与论文  
 
-84.Mario de Andrade. 马里奥·德·安德拉德  
+84.Feeding birds. 喂鸟  
 
-85.University of Otago. 奥塔哥大学  
+85.Recycling. 回收  
 
-86.Animal. 动物  
+86.Green areas. 绿地  
 
-87.Harvard Business Review. 哈佛商业评论  
+87.Egypt death temple. 埃及死亡神庙  
 
-88.Speak English well. 说好英语  
+88.Hip hop. 嘻哈  
 
-89.Arcelor. 阿塞洛  
+89.Feed the world. 养活世界  
 
-90.Hire young people. 雇佣年轻人  
+90.Experiment on calves. 小牛实验  
 
-91.Summer school. 暑期学校  
+91.The glow worms. 萤火虫  
 
-92.European Union. 欧盟  
+92.Unprecedented opportunity. 前所未有的机会  
 
-93.Squares and rectangles. 正方形和长方形  
+93.IQ Test. 智商测试  
 
-94.Painting and photography. 绘画和摄影  
+94.Answer questions in exam. 考试答题  
 
-95.Airbnb. 爱彼迎  
+95.A challenging job. 具有挑战性的工作  
 
-96.Tectonic plate. 构造板块  
+96.Native plants and animals. 本土动植物  
 
-97.Ecological footprint. 生态足迹  
+97.Food diet research. 膳食研究  
 
-98.New Ventures. 新企业  
+98.Blue halo. 蓝色光晕  
 
-99.Monash student. 莫纳什大学学生  
+99.Define gender. 定义性别  
 
-100.An underperforming company. 表现不佳的公司  
+100.Japanese studying English. 日本人学英语  
 
-101.Jean Briggs. 让·布里格斯  
+101.The speed. 速度  
 
-102.3D models. 3D模型  
+102.Medical education. 医学教育  
 
-103.Elephants. 大象  
+103.Marshmallow test. 棉花糖测试  
 
-104.Earthquake. 地震  
+104.Mink. 水貂  
 
-105.Reading. 阅读  
+105.Brain's function. 大脑功能  
 
-106.Assignment. 作业  
+106.Sea turtles and shells. 海龟与龟壳  
 
-107.Artificial intelligence. 人工智能  
+107.Tree roots. 树根  
 
-108.A study. 一项研究  
+108.Bitcoin. 比特币  
 
-109.Employees. 员工  
+109.O’Keeffe. 欧姬芙  
 
-110.Rugby. 橄榄球  
+110.Totalitarianism. 极权主义  
 
-111.Mind wandering. 走神  
+111.Seawater pollution. 海水污染  
 
-112.Sloths and birds. 树懒和鸟类  
+112.Snake. 蛇  
 
-113.Arcelor V2. 阿塞洛 第二版  
+113.History. 历史  
 
-114.Thinking about knowledge. 关于知识的思考  
+114.Education services. 教育服务  
 
-115.Tutorial. 教程  
+115.Literature book. 文学书籍  
 
-116.Canal. 运河  
+116.Coding. 编程  
 
-117.Good listener. 好的倾听者  
+117.Kids' clothing. 童装  
 
-118.Sojourner. 旅居者  
+118.Vaccines. 疫苗  
 
-119.Botanical conservation. 植物保护  
+119.Performance. 表现  
 
-120.Certification. 认证  
+120.Language. 语言  
 
-121.Railway. 铁路  
+121.Water Resources. 水资源  
 
-122.Restaurant. 餐厅  
+122.Voice. 声音  
 
-123.Ocean floors. 海底  
+123.Moon. 月亮  
 
-124.Environmental revolution. 环境革命  
+124.Recycling electronic waste. 回收电子垃圾  
 
-125.German invasion of Poland. 德国入侵波兰  
+125.Deaf-mutism school. 聋哑学校  
 
-126.Top executives. 高层管理人员  
+126.Selective book. 精选书籍  
 
-127.Easier said than done. 说起来容易做起来难  
+127.Fireworks and special effects. 烟花与特效  
 
-128.Material. 材料  
+128.Noise and study. 噪音与学习  
 
-129.Five aspects of language knowledge. 语言知识的五个方面  
+129.LiDARS. 激光雷达  
 
-130.3-D Printing. 3D打印  
+130.Research report. 研究报告  
 
-131.Repeat Photography Project. 重复摄影项目  
+131.Vision and echolocation. 视觉与回声定位  
 
-132.Ants communities. 蚂蚁群落  
+132.Photogrammetry. 摄影测量  
 
-133.Health and Disease. 健康与疾病  
+133.First publication. 首次出版  
 
-134.5 hertz. 5赫兹  
+134.The Arctic environment. 北极环境  
 
-135.Charles Darwin. 查尔斯·达尔文  
+135.Drug resistance. 耐药性  
 
-136.Debt. 债务  
+136.English agricultural revolution. 英国农业革命  
 
-137.Easier said than Done V2. 说起来容易做起来难 第二版  
+137.West Antarctic Ice Sheet. 西南极冰盖  
 
-138.Poor students. 贫困学生  
+138.Locomotion. 运动  
 
-139.Validity and reliability. 效度和信度  
+139.Takeaway meals. 外卖餐食  
 
-140.Farmlands. 农田  
+140.Leaf Structure. 叶片结构  
 
-141.London. 伦敦  
+141.Mandarin. 普通话  
 
-142.Science and technology. 科学技术  
+142.St. Johns River. 圣约翰河  
 
-143.Palaus. 帕劳  
+143.Answering Question. 回答问题  
 
-144.Copernicanism. 哥白尼学说  
+144.Interesting View. 有趣的观点  
 
-145.Computer Science. 计算机科学  
+145.Mining Company. 矿业公司  
 
-146.Worms are important than panda. 蚯蚓比熊猫更重要  
+146.Plato. 柏拉图  
 
-147.Mayors V2. 市长们 第二版  
+147.Color TV. 彩色电视  
 
-148.Spring water. 泉水  
+148.HUAWEI certification program. 华为认证计划  
 
-149.Copernicus. 哥白尼  
+149.Financial Stability. 金融稳定  
 
-150.Taste sense and toxin. 味觉和毒素  
+150.MBTI. MBTI性格测试  
 
-151.Short-term memory. 短期记忆  
+151.Everest. 珠穆朗玛峰  
 
-152.Ice age affect. 冰河时代影响  
+152.Crab. 螃蟹  
 
-153.Data and analysis. 数据与分析  
+153.Learning Categories. 学习分类  
 
-154.E-mail list. 电子邮件列表  
+154.Underground Life in Coober Pedy. 库伯佩迪的地下生活  
 
-155.A woman writer and a book. 一位女作家和一本书  
+155.Costly Panda. 昂贵的大熊猫  
 
-156.American ethnic culture. 美国民族文化  
+156.Piano keys. 钢琴键  
 
-157.Change of environment. 环境变化  
+157.Toxicology. 毒理学  
 
-158.Literacy skills. 读写能力  
+158.Why a Candle Flame Always Points Up. 为什么蜡烛火焰总向上  
 
-159.Hudson. 哈德逊  
-
-160.Satellite. 卫星  
-
-161.Ocean pollution. 海洋污染  
-
-162.Draft and paper. 草稿和论文  
-
-163.Feeding birds. 喂鸟  
-
-164.Recycling. 回收利用  
-
-165.Green areas. 绿地  
-
-166.Egypt death temple. 埃及死亡神庙  
-
-167.Hip hop. 嘻哈  
-
-168.Dyslexia. 阅读障碍  
-
-169.Pronunciation. 发音  
-
-170.Feed the world. 养活世界  
-
-171.Experiment on calves. 小牛实验  
-
-172.The glow worms. 萤火虫  
-
-173.Teacher's report. 教师报告  
-
-174.Minority language. 少数民族语言  
-
-175.Unprecedented opportunity. 前所未有的机会  
-
-176.University competition. 大学竞争  
-
-177.Personal profile. 个人简介  
-
-178.Sun energy. 太阳能  
-
-179.Advertising. 广告  
-
-180.Numbering helps decision-making. 编号有助于决策  
-
-181.IQ Test. 智商测试  
-
-182.Answer questions in exam. 考试答题  
-
-183.Art history. 艺术史  
-
-184.A challenging job. 具有挑战性的工作  
-
-185.Native plants and animals. 本土动植物  
-
-186.Food diet research. 膳食研究  
-
-187.Mining. 采矿  
-
-188.History events. 历史事件  
-
-189.Integral spirituality. 整体灵性  
-
-190.German and French. 德语和法语  
-
-191.Ada. 艾达  
-
-192.Blue halo. 蓝色光环  
-
-193.Ants' prediction. 蚂蚁的预测  
-
-194.Food labels. 食品标签  
-
-195.Define gender. 定义性别  
-
-196.Travel agency. 旅行社  
-
-197.Japanese studying English. 日本人学习英语  
-
-198.The speed. 速度  
-
-199.Visit Turkey. 访问土耳其  
-
-200.Medical education. 医学教育  
-
-201.Marshmallow test. 棉花糖测试  
-
-202.Palm oil. 棕榈油  
-
-203.Digital Rights Management. 数字版权管理  
-
-204.Sign language. 手语  
-
-205.Mink. 水貂  
-
-206.Heart. 心脏  
-
-207.Brain's function. 大脑功能  
-
-208.Sea turtles and shells. 海龟和贝壳  
-
-209.Tree roots. 树根  
-
-210.Bitcoin. 比特币  
-
-211.Engine knock. 发动机爆震  
-
-212.O'Keeffe. 奥基夫  
-
-213.Totalitarianism. 极权主义  
-
-214.Health and illness. 健康与疾病  
-
-215.English teaching. 英语教学  
-
-216.Clear bugs. 清除虫子  
-
-217.Seawater pollution. 海水污染  
-
-218.Facebook. 脸书  
-
-219.Snake. 蛇  
-
-220.History. 历史  
-
-221.E-mail lists. 电子邮件列表  
-
-222.Car accidents. 车祸  
-
-223.Marriage. 婚姻  
-
-224.Education services. 教育服务  
-
-225.Literature book. 文学书籍  
-
-226.Fatal crashes. 致命车祸  
-
-227.Coding. 编码  
-
-228.Kids' clothing. 童装  
-
-229.Vaccines. 疫苗  
-
-230.Performance. 表现  
-
-231.Financial Literacy. 金融素养  
-
-232.Language. 语言  
-
-233.Chanan Tigay. 查南·蒂盖  
-
-234.Water Resources. 水资源  
-
-235.Voice. 声音  
-
-236.Moon. 月亮  
-
-237.Recycling electronic waste. 回收电子垃圾  
-
-238.Railway. 铁路  
-
-239.American Housing. 美国住房  
-
-240.Impacts by Meteorites. 陨石影响  
-
-241.Migration. 迁徙  
-
-242.Controlled Nuclear Fission. 受控核裂变  
-
-243.Weapons. 武器  
-
-244.Millipede. 千足虫  
-
-245.Deaf-mutism school. 聋哑学校  
-
-246.Wild pandas. 野生大熊猫  
-
-247.The Internet of things. 物联网  
-
-248.Fax machine. 传真机  
-
-249.Botanist. 植物学家  
-
-250.Selective book. 精选书籍  
-
-251.Written format. 书面格式  
-
-252.Review. 评论  
-
-253.Fireworks and special effects. 烟花和特效  
-
-254.Noise and study. 噪音和学习  
-
-255.LiDARS. 激光雷达  
-
-256.Research report. 研究报告  
-
-257.Vision and echolocation. 视觉和回声定位  
-
-258.Photogrammetry. 摄影测量  
-
-259.First publication. 首次出版  
-
-260.The Arctic environment. 北极环境  
-
-261.Drug resistance. 耐药性  
-
-262.Biosphere. 生物圈  
-
-263.Playwrights. 剧作家  
-
-264.English agricultural revolution. 英国农业革命  
-
-265.West Antarctic Ice Sheet. 西南极冰盖  
-
-266.Locomotion. 运动  
-
-267.Takeaway meals. 外卖餐  
-
-268.Meerkats. 猫鼬  
-
-269.Leaf Structure. 叶片结构  
-
-270.Mandarin. 普通话  
-
-271.St. Johns River. 圣约翰河  
-
-272.Geodetic Data. 大地测量数据  
-
-273.Answering Question. 回答问题  
-
-274.Interesting View. 有趣的观点  
-
-275.Mining Company. 矿业公司  
-
-276.Plato. 柏拉图  
-
-277.Color TV. 彩色电视  
-
-278.HUAWEI certification program. 华为认证计划  
-
-279.Financial Stability. 金融稳定  
-
-280.MBTI. MBTI性格测试  
-
-281.Everest. 珠穆朗玛峰  
-
-282.Crab. 螃蟹  
-
-283.Learning Categories. 学习类别  
-
-284.Underground Life in Coober Pedy. 库伯佩迪的地下生活  
-
-285.Costly Panda. 昂贵的大熊猫  
-
-286.Piano keys. 钢琴键  
-
-287.Toxicology. 毒理学  
-
-288.Why a Candle Flame Always Points Up. 为什么蜡烛火焰总是向上  
-
-289.Grasses. 草
+159.Grasses. 草
