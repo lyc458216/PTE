@@ -6,7 +6,7 @@ You will have 40 seconds to give your response.
 Filter: Test
 Sort Type: Creation time(Ascending order)
 
-**Comments: There is only a image, but not include title.
+Tips: There is only a image, but not include title.
 
 Step graph - 5
 Pie chart - 3

@@ -1,14 +1,18 @@
 Requirements:
+
 You will hear a short lecture.
 Write a summary for a fellow student who was not present at the lecture.
 You should write 50-70 words.
 You have 10 minutes to finish this task.
 Your response will be judged on the quality of your writing and on how well your response presents the key points presented in the lecture.
 
+Tips: 
+All the vocabulary is required to be written.
+There is only a short lecture, but not include title.
+
 Filter: Test
 Sort Type: Creation time(Ascending order)
-
-**Comments: There is only a short lecture, but not include title.
+Total: 287
 
 1.Cocoa. 可可
 

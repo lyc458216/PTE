@@ -1,11 +1,17 @@
 Requirements:
+
 Read the passage below and summarize it using one sentence.
 Type your response in the box at the bottom of the screen.
 You have 10 minutes to finish this task.
 Your response will be judged on the quality of your writing and on how well your response presents the key points in the passage.
 
+Tips: 
+All the vocabulary is required to be written.
+There is only a image, but not include title.
+
 Filter: Test
 Sort Type: Creation time(Ascending order)
+Total: 198
 
 1.Labor comparative advantage. 劳动力比较优势  
 
