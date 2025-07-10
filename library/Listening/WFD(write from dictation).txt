@@ -3307,349 +3307,1042 @@ Sort Type: Creation time(Ascending order)
 1100.Average earnings have risen slightly over the decades.  
 数十年来平均收入缓慢增长  
 
-1111.The integration of archeologists' studies with community projects is widely encouraged.
-1112.Students in the first year usually live on campus.
-1113.The full list of undergraduate programs can be found on the website.
-1114.The new lecture theater can accommodate a large number of students.
-1115.Social media has a significant impact on journalism.
-1116.The excursion will go ahead on Thursday as planned.
-1117.You may be charged for additional art supplies.
-1118.They are most likely to achieve more of these objectives.
-1119.It is compulsory to attend the laboratory introduction.
-1120.While some people regard it as care, others regard it as recklessness.
-1121.The key to clear writing is the clarity of thought.
-1122.The new properties for sale should be properly listed.
-1123.The department has been reimbursed for equipment.
-1124.Please make an appointment with your tutor about work.
-1125.All the gains in property sales must be allocated promptly.
-1126.Research showed that knowledge and experience are essential to creativity.
-1127.Any game must be properly elaborated.
-1128.All students can learn, even if they have different speeds.
-1129.There is no ideal debate on this topic.
-1130.The guide is qualified to lead the groups into the mountains.
-1131.The results of this research presented a value of the balance of the ecosystem.
-1132.The main aim is to introduce educational reforms.
-1133.Tuition fees will vary according to the fields of study.
-1134.Marketing involves many activities including doing research, developing products and promoting them.
-1135.Keeping organized class notes makes study time more efficient.
-1136.Children need books in their own language with settings that reflect their lives.
-1137.Our students have participated in exchange programs to widen their horizons.
-1138.All students joined the art class in the first term.
-1139.Traffic noise is intensified by high buildings.
-1140.You do not need to be encouraged to be a hero.
-1141.Visual aid is really helpful for revising.
-1142.You may not arrange your time when reading the text.
-1143.I will come back as soon as possible.
-1144.The marketing budget has doubled since the beginning of the year.
-1145.We encourage students to complete applications before the deadline.
-1146.Many students are now studying science, technology, engineering and maths.
-1147.More and more courses have become available online.
-1148.Even the most motivated students may need help with choosing a career.
-1149.They cannot put in everything: choices have to be made.
-1150.Consumer confidence has a direct influence on sales.
-1151.We have a great deal of debate on that topic.
-1152.Over the years, more and more students are young.
-1153.A few journalism students need to read the school newspaper.
-1154.The residence hall is closed prior to the academic building closing time at the end of the semester.
-1155.Consumers are better informed today because of the internet.
-1156.Today we have a guest speaker who is visiting from Canada.
-1157.More choices are available other than studying full time at university.
-1158.Job opportunities are created for a better economy of the future.
-1159.An introduction is an essential element of a presentation.
-1160.Many experts think that the world climate is constantly changing.
-1161.It is really a comprehensive program covering both theory and practice.
-1162.We were able to contact a number of research subjects.
-1163.Let me give you an example to explain what I mean.
-1164.It took three years to build the football stadium.
-1165.During the examination, electronic devices must be left to the supervisors.
-1166.Students are advised to use multiple methods for this project.
-1167.You may not manage to read everything on the reading list.
-1168.Before choosing your university course, you should consider your future career.
-1169.The rationale of my research is to present the value of the urban ecosystem.
-1170.Graduates from this course typically find careers in the financial sector.
-1171.Digital scans of archive materials are provided for a small fee.
-1172.It is a debate about the value of knowledge.
-1173.Your term papers should include current social issues.
-1174.All of your assignments are due on Wednesday.
-1175.She is giving an outline of the previous lecture.
-1176.Calcium's nutritional value enjoys growing popularity every year.
-1177.Undergraduate students can select what interests them the most in the science program.
-1178.Recession triggers exciting creativity and high rates of public wisdom.
-1179.Students lived in the residence hall during the term time.
-1180.The office opens on Monday and Thursday following the freshman seminar.
-1181.All laboratory equipment will be provided in class.
-1182.You do not need a lot of courage to be a hero.
-1183.Affordable housing is an important issue for all members of society.
-1184.Auditions for the university theater will be held next week.
-1185.The essay should be clear during the exam.
-1186.Optional tutorials are offered in the first week of the term.
-1187.Remember, the prestigious election of stewardship has strict eligibility criteria.
-1188.Courses on nutrition are growing in popularity every year.
-1189.Tomorrow's lecture has been canceled due to the power cut.
-1190.The commissioners will apportion the funds among all the authorities.
-1191.Many students live in the hall of residence in term time.
-1192.The vocabulary that is peculiar in a specialist field is called jargon.
-1193.New media have a significant impact on human communications.
-1194.The year when the ship of artifacts was wrecked interested historians.
-1195.Communication skills have become more important in recent years.
-1196.Your ideas are encouraged to be discussed in seminars and tutorials.
-1197.It is clear that national trading system is a good thing.
-1198.Tutorials are scheduled in the final week of the term.
-1199.A demonstrated ability to write clear, correct and concise English is obligatory.
-1200.The study of physiology involves traditional sciences and social sciences.
-1201.The deadline for this assignment is next Wednesday.
-1202.He was constantly looking for ways to bring industry and agriculture together.
-1203.Students must wear protective clothing in the medical laboratory.
-1204.The student union will host a leadership conference for club members.
-1205.Mixture is defined as the compound of chemically separate parts.
-1206.The student union hosts a variety of social events.
-1207.Educational level is found to be related to social and economic background.
-1208.You must answer security questions when you reset your password.
-1209.Imported default packages are likely to be used for most computers.
-1210.The northern campus car park is located behind the library.
-1211.The disease that was serious has now been eradicated.
-1212.Sugar is a compound which includes carbon, oxygen, and hydrogen atoms.
-1213.The course involves a combination of pure and applied mathematics.
-1214.Students must wear protective clothing that is provided in the medical laboratory.
-1215.Trees benefit the city by soaking up the rainwater that runs off the roads.
-1216.The exam application system has been upgraded for professional exams.
-1217.High fees caused students to look more critically at what universities offer.
-1218.Before attending classes, you must register online or by post.
-1219.Some economists argue that the entire financial system is fatally flawed.
-1220.Convincing evidence to support this theory is hard to obtain.
-1221.Economic streams of early Roman Republic will be examined.
-1222.The essay contains most of the important information.
-1223.The economic strength of the early Roman Republic will be examined.
-1224.As student union members, you can influence and change our university.
-1225.You will be tested via quizzes and a dissertation.
-1226.The new articles for the study and the subject are collected.
-1227.Default designed packages are likely to be used for most computers.
-1228.Student representatives will be visiting the classes with voting forms.
-1229.Most lectures begin promptly, so do not be late.
-1230.We encourage students to complete their applications before the deadline.
-1231.The essay should be easy to complete once the research is finished.
-1232.There are many different types of governments in the world.
-1233.A world-renowned expert on economics and marketing will give a lecture.
-1234.Photography can be very useful for geographical research.
-1235.During that time, people had large families as an insurance against some children loss.
-1236.A campus tour is beneficial at the beginning of each term.
-1237.Exotic activities can help students develop more talents.
-1238.Students should leave their bags on the table behind the door.
-1239.Listening is the key skill needed to succeed in this course.
-1240.The very basic feature of computing would be counting and calculating.
-1241.Momentum is defined as the combination of mass and velocity.
-1242.Houses were built for workers near the factories.
-1243.College students are assessed by continuous assessment.
-1244.Contemporary critics dismissed his idea as eccentric.
-1245.New materials and techniques are changing the style of modern architecture.
-1246.You will be able to work in a team.
-1247.He is regarded as the foremost economist this year.
-1248.Years of training are required to become a medical specialist.
-1249.The study of anthropology can help us learn about society today.
-1250.Population has really shrunk in the recent twenty years.
-1251.Rising sea temperatures are a sign of climate change.
-1252.Stories often contain a lot of messages in our lives.
-1253.A good academic paper should have a clear argument.
-1254.The field of journalism has been seeing job declines for decades.
-1255.There is no fixed career path for a qualified journalist.
-1256.The professor takes a year off to prepare his book.
-1257.Studies showed there is a positive correlation between the two variables.
-1258.It may not mean that it is possible to solve the problem easily.
-.1259.Some people believe that education should be free to everyone.
-1260.The department is doing some crucial work on climate change.
-1261.You are required to attend lectures and write weekly reports.
-1262.The best student has an opportunity to require a scholarship.
-1263.You should have awareness of how the business operates globally.
-1264.Computers used to be larger than they are now.
-1265.It is important to plan your study time carefully.
-1266.He wrote poetry and plays as well as scientific papers.
-1267.Figures could be established through rigorous establishment.
-1268.Our faculty includes five libraries in the university.
-1269.This is the first example of a modern and professional army.
-1270.Many different conferences offer opportunities for volunteer work.
-1271.New media has transcended traditional national boundaries.
-1272.Food that contains antibiotics provides few or no nutritional value.
-1273.A visit to the designed museum is of great value.
-1274.Certain scientific principles must be learned verbally or by logical deduction.
-1275.Physical strength can be enhanced through regular training.
-1276.Visual aid can be really helpful when you are revising.
-1277.This course is based on experimentation and practice.
-1278.The subject was complex and difficult to explain.
-1279.The university will seek a colossal renovation to the faint empty theater.
-1280.Social psychology is concerned with the understanding of human behaviors.
-1281.When the root system of a plant fails, foliage suffers.
-1282.It may not be possible to solve the problem easily.
-1283.You do not need specialist knowledge to enjoy this book.
-1284.The student service center is located on the main campus behind the library.
-1285.I thought a good architectural structure should be useful, durable and beautiful.
-1286.Americans have typically defined the process of plant growth in quantitative terms.
-1287.The biology department is dedicated to research activities.
-1288.The restroom is down the hall and on the right.
-1289.The teacher explains the homework to the students.
-1290.At that time, few people moved through the town to the village.
-1291.The finding shows that chocolate can improve memory, immunity and mood.
-1292.The curriculum should be adjusted to the current development.
-1293.The lecture is about the reasons for the financial crisis.
-1294.You will get your uniform on the first day.
-1295.The weather used to be lovely at this time of the year.
-1296.Before the refrigerator was invented, people used underground ice houses.
-1297.In my opinion, this car should be repaired soon.
-1298.All answers must be thoroughly researched and supported by relevant theories.
-1299....stand in the previously framework.
-1300.Please move us to the meeting room for the next hour.
-1301.A series of lectures showcasing economic research have been recorded.
-1302.This course considerably emphasizes critical thinking skills.
-1303.We learned through observations and the analysis of human behaviors.
-1304.Public perception about biotechnology is crucial for developing scientific consensus.
-1305.The results of the study underscored the discoveries from early detection.
-1306.Distance learning allows you to develop a career around your commitments.
-1307.We have not yet achieved equality in our society.
-1308.Our view is that educational reforms have been inadequately implemented.
-1309.Efforts are being made to reduce harmful emissions.
-1310.She began by giving an outline of the previous lecture.
-1311.Water filters on campus will discourage the unnecessary use of plastic bottles.
-1312.Mathematics can be applied to various disciplines.
-1313.The author expressed an idea that modern readers inevitably cannot accept.
-1314.Making mistakes is fine as long as you learn from them.
-1315.The supposed scientific benefit of space exploration is frequently questioned.
-1316.Some people are motivated by competition, while others prefer to collaborate.
-1317.The transformation of media has changed the way information is both used and studied.
-1318.Note lecture will begin punctually, so please do not be late.
-1319.Despite their differences, all forms of life share certain characteristics.
-1320.The economic status of the early Roman Republic will be examined.
-1321.Studying medicine allows for a wide range of career opportunities.
-1322.The capacity of programming computers is expanding enormously every year.
-1323.Higher education treats plagiarism extremely seriously.
-1324.Please note that the seminar has now been canceled.
-1325.Please make sure your applications follow the guideline provided.
-1326.Many universities are continuously expanding the postgraduate education online learning resources.
-1327.Experts said reading and listening to music can reduce stress.
-1328.British students must study mathematics at secondary schools.
-1329.Students will develop confidence in their ability to think critically.
-1330.This course can help to deepen your appreciation of art.
-1331.Implementation figures are expected to be improved in the next few years.
-1332.Peer review is an essential part of scientific methods.
-1333.Technologies have enormously transformed the lifestyle of the majority.
-1334.The theater study course encourages students to exercise creativity.
-.1335.Students are permitted to park at campus parking spaces.
-1336.This project is divided into four main sections.
-1337.Our company must have independent financial auditing.
-1338.We hope students ignite and follow their interests.
-1339.Lecture outlines are available on the college internal website.
-1340.You are advised to use multiple research methods for this project.
-1341.The study of utilizing projects is funded by the university.
-1342.Please return your reference books to the library shelves.
-1343.New developments in technology are influencing current research.
-1344.The history of economics is a tricky subject to study.
-1345.Please refer to the guidelines for more information on setting goals.
-1346.Scientific experiments should be repeated to verify the results.
-1347.There is an agreed consensus that leadership skills can be taught.
-1348.We can see the stars that were formed 13 billion years ago.
-1349.An essay should use evidence from both primary and secondary sources.
-1350.Most teaching staff make their lecture notes available online.
-1351.We help students to develop their individualities and follow their interests.
-1352.The course will start with the history of architecture.
-1353.The summer course is canceled due to insufficient enrollment.
-1354.Urbanization provides the expenses of other communities.
-1355.Urban planning emphasizes efficiency and expansion of communities.
-1356.This is a compulsory course, so make sure you attend.
-1357.The goal of the government is to increase the investments.
-1358.Social media is responsible for helping the government to solve social problems.
-1359.The university library has a collection of early geography maps.
-1360.The academic department needs to be supported by the government.
-1361.When sentencing, the court will consider whether the criminal is guilty or not.
-1362.Despite the protest, the chemistry department was closed down.
-1363.For the small businesses, making profit is the main priority.
-1364.Food containing ample calories provides little or no nutritional value.
-1365.The timetable for the next term will be available next week.
-1366.The university's main library will be open till midnight next Saturday.
-1367.We hold the visiting tours throughout the year for undergraduate students.
-1368.There is a list of dedicated librarians available during teaching time each term.
-1369.We will hold a celebration for the graduated students.
-1370.Employment figures will decrease in the next few years.
-1371.Submission of your group assignment must be issued punctually by one of your group members.
-1372.The study is among the initial projects funded by the university.
-1373.Archeologists are astonished by unexpected previously overlooked foundations.
-1374.The biology department is respected in research activities.
-1375.Many diseases that were once serious have now been eradicated.
-1376.Social policy describes the ways societies meet human needs.
-1377.University staff provide advice on renting and accommodation.
-1378.Please click on the logon button above to enter the site.
-1379.A very basic foundation of computing is counting and calculating.
-1380.Critical thinking is an essential component of a broad education.
-1381.Companies' projects must adapt to the general data protection regulations.
-1382.Statistical results should be expressed in different ways, depending on circumstances.
-1383.All of your assignments are due by tomorrow.
-1384.It is argued that students can learn more by collaboration rather than as individuals.
-1385.Open days for undergraduates occur all year round for campus visits.
-1386.A surprisingly large number of students applied for that course.
-1387.The untapped potential of using the sun is enormous.
-1388.Medical books and journals have been moved to the second floor.
-1389.When parents talk to children, the tense is simplified.
-1390.Mental health professionals are talking about the topic of vulnerability.
-1391.Our company is intended to hire more than ten thousand people worldwide.
-.1392.Students build confidence in their critical thinking skills over time.
-1393.Your tutor will provide the guidance on how to structure the essay.
-1394.Gold is a metal that appears naturally and in a pure state.
-1395.Music has the ability to shape our emotions.
-1396.The lecture will take place in the main hall.
-1397.The university will cease the colossal renovation of the faint empty theater.
-1398.Extension requirement for the assignment must be submitted before the deadline.
-1399.Assignments must be submitted at the end of the term.
-1400.We hold visiting hours throughout the year for students.
-1401.Practical experiments are a central part of the chemistry course.
-1402.Some studies show the link between depression and social media.
-1403.Our aim is to transmit mathematics teaching in the classroom.
-1404.Having a strong motivation is important to achieve your goals.
-1405.Agricultural development plays a vital role in rural areas.
-1406.Having clean water for consumption is vital for health.
-1407.People with an active lifestyle are less likely to die early or have major illness.
-1408.Your tutor will show you how to prepare the essay.
-1409.Students may only park their cars in authorized university parking spaces.
-1410.His proposal had gained further support by the local community.
-1411.A wide range of courses covered different aspects in this subject.
-1412.In the next project, you will need to present all the different news items.
-1413.Before preparing any food, be sure to wash your hands well.
-1414.The fiction books have just passed to the counter.
-1415.Everyone in this room needs to follow the rules.1416.You have to make an appointment with your doctor.
-1417.New classroom will be put into use next month.
-1418.You can get your coffee or tea in the lunch room.
-1419.We cannot consider an increase in our price at this stage.
-1420.The teacher explained the homework to the students.
-1421.You must call your doctor to make an appointment.
-1422.Speak to your tutor if you need further assistance.
-1423.Social policy is a study of social respondence for the government.
-1424.Rising inflation may indicate an increase in the demand for consumer products.
-1425.Archeologists discovered tools and other artifacts near the ancient tomb.
-1426.International exchange formed the important part of our study program.
-1427.The local government has adopted a plan for infrastructure development.
-1428.The curriculum should be adjusted to incorporate recent developments.
-1429.Strangely, people are simultaneously impressed by and skeptical about statistics.
-1430.The quality of your statistical information depends on your raw data.
-1431.Blue whales are the largest animals that have ever lived.
-1432.Population has a sharp rise in the recent twenty years.
-1433.When attending a job interview, punctuality is the key.
-1434.Students intending to go to the conference must register now.
-1435.Please click the information on the website for the opening times.
-1436.The secretary of state is presently considering the proposal.
-1437.Graduates from this course typically pursue careers in financial sector.
-1438.There must be planets in the universe that can support life.
-1439.The study of the economy is a tricky subject to research.
-1440.Mathematics provides a foundation for understanding and analyzing data.
-1441.The office hours will change next term.
-1442.We are looking for new ways to engage learners.
-1443.There is probably life in the other planets in the universe.
-1444.Undoubtedly, this theory has a number of limitations.
-1445.The science we used featured both explanations of the problems.
-1446.Auditions for the university choir will be held next week.
-1447.Important details from the argument are missing in the summary.
-1448.Dealing with the growing population is a challenge for many governments.
-1449.The university canteen is now offering many healthy meal options.
-1450.Gravity makes objects attracted to one another.
-1451.Football is played throughout all years at the university.
-1452.Please remember to bring a highlighter and your textbook to class next Thursday.
-1453.Experts are now able to forecast weather over a much longer period.
-1454.Many vocational courses at institutions are funded by private enterprises.
-1455.She has been in the library for a long time.
-1456.Our company currently employs more than ten thousand people worldwide.
-1457.This course places considerable emphasis on critical thinking skills.
+1111.The integration of archeologists' studies with community projects is widely encouraged.  
+考古学研究与社区项目的结合受到广泛鼓励  
+
+1112.Students in the first year usually live on campus.  
+一年级学生通常住校  
+
+1113.The full list of undergraduate programs can be found on the website.  
+本科课程完整列表可在网站查询  
+
+1114.The new lecture theater can accommodate a large number of students.  
+新演讲厅可容纳大量学生  
+
+1115.Social media has a significant impact on journalism.  
+社交媒体对新闻业影响重大  
+
+1116.The excursion will go ahead on Thursday as planned.  
+考察活动将按计划于周四进行  
+
+1117.You may be charged for additional art supplies.  
+额外美术材料可能需要付费  
+
+1118.They are most likely to achieve more of these objectives.  
+他们极有可能实现更多目标  
+
+1119.It is compulsory to attend the laboratory introduction.  
+必须参加实验室安全培训  
+
+1120.While some people regard it as care, others regard it as recklessness.  
+有人认为这是谨慎，有人则认为这是鲁莽  
+
+1121.The key to clear writing is the clarity of thought.  
+清晰写作的关键在于思维清晰  
+
+1122.The new properties for sale should be properly listed.  
+待售新房产应规范挂牌  
+
+1123.The department has been reimbursed for equipment.  
+该部门已获设备费用报销  
+
+1124.Please make an appointment with your tutor about work.  
+请预约导师讨论作业  
+
+1125.All the gains in property sales must be allocated promptly.  
+房产销售收益需及时分配  
+
+1126.Research showed that knowledge and experience are essential to creativity.  
+研究表明知识和经验对创造力至关重要  
+
+1127.Any game must be properly elaborated.  
+任何游戏都应精心设计  
+
+1128.All students can learn, even if they have different speeds.  
+所有学生都能学习，尽管进度不同  
+
+1129.There is no ideal debate on this topic.  
+这个话题没有完美辩论  
+
+1130.The guide is qualified to lead the groups into the mountains.  
+向导具备带队进山资质  
+
+1131.The results of this research presented a value of the balance of the ecosystem.  
+该研究结果体现了生态平衡的价值  
+
+1132.The main aim is to introduce educational reforms.  
+主要目标是推行教育改革  
+
+1133.Tuition fees will vary according to the fields of study.  
+学费因专业领域而异  
+
+1134.Marketing involves many activities including doing research, developing products and promoting them.  
+营销包含调研、产品开发和推广等多方面活动  
+
+1135.Keeping organized class notes makes study time more efficient.  
+整理课堂笔记能提高学习效率  
+
+1136.Children need books in their own language with settings that reflect their lives.  
+儿童需要母语书籍和贴近生活的场景  
+
+1137.Our students have participated in exchange programs to widen their horizons.  
+我校学生参与交换项目以拓宽视野  
+
+1138.All students joined the art class in the first term.  
+所有学生第一学期都参加了艺术课  
+
+1139.Traffic noise is intensified by high buildings.  
+高楼加剧了交通噪音  
+
+1140.You do not need to be encouraged to be a hero.  
+成为英雄无需他人鼓励  
+
+1141.Visual aid is really helpful for revising.  
+视觉辅助对复习很有帮助  
+
+1142.You may not arrange your time when reading the text.  
+阅读时可能无法合理安排时间  
+
+1143.I will come back as soon as possible.  
+我会尽快回来  
+
+1144.The marketing budget has doubled since the beginning of the year.  
+营销预算自年初已翻倍  
+
+1145.We encourage students to complete applications before the deadline.  
+我们鼓励学生在截止日期前完成申请  
+
+1146.Many students are now studying science, technology, engineering and maths.  
+许多学生正在学习STEM科目  
+
+1147.More and more courses have become available online.  
+在线课程越来越丰富  
+
+1148.Even the most motivated students may need help with choosing a career.  
+即使最积极的学生也可能需要职业规划帮助  
+
+1149.They cannot put in everything: choices have to be made.  
+无法面面俱到，必须做出选择  
+
+1150.Consumer confidence has a direct influence on sales.  
+消费者信心直接影响销售额  
+
+1151.We have a great deal of debate on that topic.  
+我们对该话题争论不休  
+
+1152.Over the years, more and more students are young.  
+近年来学生越来越年轻化  
+
+1153.A few journalism students need to read the school newspaper.  
+部分新闻专业学生需阅读校报  
+
+1154.The residence hall is closed prior to the academic building closing time at the end of the semester.  
+学期结束前宿舍比教学楼提前关闭  
+
+1155.Consumers are better informed today because of the internet.  
+互联网使消费者信息更灵通  
+
+1156.Today we have a guest speaker who is visiting from Canada.  
+今天我们有位来自加拿大的客座讲师  
+
+1157.More choices are available other than studying full time at university.  
+除全日制大学外还有更多选择  
+
+1158.Job opportunities are created for a better economy of the future.  
+创造就业机会是为了更好的未来经济  
+
+1159.An introduction is an essential element of a presentation.  
+引言是演示的必要组成部分  
+
+1160.Many experts think that the world climate is constantly changing.  
+许多专家认为全球气候持续变化  
+
+1161.It is really a comprehensive program covering both theory and practice.  
+这是涵盖理论与实践的综合课程  
+
+1162.We were able to contact a number of research subjects.  
+我们联系到了若干研究对象  
+
+1163.Let me give you an example to explain what I mean.  
+举例说明我的意思  
+
+1164.It took three years to build the football stadium.  
+足球场建设耗时三年  
+
+1165.During the examination, electronic devices must be left to the supervisors.  
+考试期间电子设备需交给监考老师  
+
+1166.Students are advised to use multiple methods for this project.  
+建议学生采用多种方法完成项目  
+
+1167.You may not manage to read everything on the reading list.  
+可能无法读完所有推荐书目  
+
+1168.Before choosing your university course, you should consider your future career.  
+选择大学课程前应考虑未来职业  
+
+1169.The rationale of my research is to present the value of the urban ecosystem.  
+我的研究旨在呈现城市生态系统价值  
+
+1170.Graduates from this course typically find careers in the financial sector.  
+本课程毕业生多在金融行业就业  
+
+1171.Digital scans of archive materials are provided for a small fee.  
+档案资料数字化扫描需支付小额费用  
+
+1172.It is a debate about the value of knowledge.  
+这是关于知识价值的辩论  
+
+1173.Your term papers should include current social issues.  
+学期论文应包含当前社会问题  
+
+1174.All of your assignments are due on Wednesday.  
+所有作业周三截止  
+
+1175.She is giving an outline of the previous lecture.  
+她正在概述上节课内容  
+
+1176.Calcium's nutritional value enjoys growing popularity every year.  
+钙的营养价值逐年受重视  
+
+1177.Undergraduate students can select what interests them the most in the science program.  
+本科生可选择科学课程中最感兴趣的内容  
+
+1178.Recession triggers exciting creativity and high rates of public wisdom.  
+经济衰退激发惊人创造力和公众智慧  
+
+1179.Students lived in the residence hall during the term time.  
+学期期间学生住宿舍  
+
+1180.The office opens on Monday and Thursday following the freshman seminar.  
+新生研讨会后的周一和周四办公室开放  
+
+1181.All laboratory equipment will be provided in class.  
+实验课提供全部器材  
+
+1182.You do not need a lot of courage to be a hero.  
+成为英雄无需太多勇气  
+
+1183.Affordable housing is an important issue for all members of society.  
+经济适用房是全社会的重点议题  
+
+1184.Auditions for the university theater will be held next week.  
+大学剧团试镜下周举行  
+
+1185.The essay should be clear during the exam.  
+考试时论文表述需清晰  
+
+1186.Optional tutorials are offered in the first week of the term.  
+学期第一周提供选修辅导  
+
+1187.Remember, the prestigious election of stewardship has strict eligibility criteria.  
+请注意，这项重要管理职位选举有严格资格标准  
+
+1188.Courses on nutrition are growing in popularity every year.  
+营养学课程逐年受欢迎  
+
+1189.Tomorrow's lecture has been canceled due to the power cut.  
+因停电取消明日讲座  
+
+1190.The commissioners will apportion the funds among all the authorities.  
+专员将在各部门间分配资金  
+
+1191.Many students live in the hall of residence in term time.  
+许多学生学期期间住校  
+
+1192.The vocabulary that is peculiar in a specialist field is called jargon.  
+专业领域的特定词汇称为术语  
+
+1193.New media have a significant impact on human communications.  
+新媒体深刻影响人类交流  
+
+1194.The year when the ship of artifacts was wrecked interested historians.  
+文物沉船年份引起历史学家兴趣  
+
+1195.Communication skills have become more important in recent years.  
+近年来沟通技巧越发重要  
+
+1196.Your ideas are encouraged to be discussed in seminars and tutorials.  
+鼓励在研讨课中讨论你的观点  
+
+1197.It is clear that national trading system is a good thing.  
+国家贸易体系显然是好事  
+
+1198.Tutorials are scheduled in the final week of the term.  
+辅导课安排在学期最后一周  
+
+1199.A demonstrated ability to write clear, correct and concise English is obligatory.  
+必须具备撰写清晰准确英语的能力  
+
+1200.The study of physiology involves traditional sciences and social sciences.  
+生理学研究包含传统科学和社会科学
+1201.The deadline for this assignment is next Wednesday.  
+本次作业截止日期为下周三  
+
+1202.He was constantly looking for ways to bring industry and agriculture together.  
+他不断寻求工农业结合的方法  
+
+1203.Students must wear protective clothing in the medical laboratory.  
+学生在医学实验室必须穿戴防护服  
+
+1204.The student union will host a leadership conference for club members.  
+学生会将为社团成员举办领导力会议  
+
+1205.Mixture is defined as the compound of chemically separate parts.  
+混合物被定义为化学分离组分的化合物  
+
+1206.The student union hosts a variety of social events.  
+学生会举办各类社交活动  
+
+1207.Educational level is found to be related to social and economic background.  
+教育水平与社会经济背景相关  
+
+1208.You must answer security questions when you reset your password.  
+重置密码需回答安全问题  
+
+1209.Imported default packages are likely to be used for most computers.  
+多数计算机可能使用进口默认软件包  
+
+1210.The northern campus car park is located behind the library.  
+北校区停车场位于图书馆后方  
+
+1211.The disease that was serious has now been eradicated.  
+这种严重疾病现已被根除  
+
+1212.Sugar is a compound which includes carbon, oxygen, and hydrogen atoms.  
+糖是含有碳、氧和氢原子的化合物  
+
+1213.The course involves a combination of pure and applied mathematics.  
+本课程包含纯数学与应用数学  
+
+1214.Students must wear protective clothing that is provided in the medical laboratory.  
+学生必须穿戴医学实验室提供的防护服  
+
+1215.Trees benefit the city by soaking up the rainwater that runs off the roads.  
+树木通过吸收路面径流雨水改善城市环境  
+
+1216.The exam application system has been upgraded for professional exams.  
+专业考试报名系统已升级  
+
+1217.High fees caused students to look more critically at what universities offer.  
+高昂费用使学生更审慎看待大学教育  
+
+1218.Before attending classes, you must register online or by post.  
+上课前需通过线上或邮寄方式注册  
+
+1219.Some economists argue that the entire financial system is fatally flawed.  
+部分经济学家认为金融体系存在致命缺陷  
+
+1220.Convincing evidence to support this theory is hard to obtain.  
+该理论难以获得令人信服的证据  
+
+1221.Economic streams of early Roman Republic will be examined.  
+将研究早期罗马共和国的经济形态  
+
+1222.The essay contains most of the important information.  
+论文包含大部分重要信息  
+
+1223.The economic strength of the early Roman Republic will be examined.  
+将考察早期罗马共和国的经济实力  
+
+1224.As student union members, you can influence and change our university.  
+作为学生会成员，你们能推动大学变革  
+
+1225.You will be tested via quizzes and a dissertation.  
+通过测验和论文进行考核  
+
+1226.The new articles for the study and the subject are collected.  
+已收集该学科研究的新论文  
+
+1227.Default designed packages are likely to be used for most computers.  
+多数计算机可能使用默认设计软件包  
+
+1228.Student representatives will be visiting the classes with voting forms.  
+学生代表将携投票表走访各班级  
+
+1229.Most lectures begin promptly, so do not be late.  
+多数讲座准时开始，请勿迟到  
+
+1230.We encourage students to complete their applications before the deadline.  
+我们鼓励学生在截止日期前完成申请  
+
+1231.The essay should be easy to complete once the research is finished.  
+研究完成后论文撰写就会容易  
+
+1232.There are many different types of governments in the world.  
+世界上存在多种政府类型  
+
+1233.A world-renowned expert on economics and marketing will give a lecture.  
+世界知名经济与营销专家将举办讲座  
+
+1234.Photography can be very useful for geographical research.  
+摄影对地理研究非常有用  
+
+1235.During that time, people had large families as an insurance against some children loss.  
+那时人们通过多生育防止子女夭折  
+
+1236.A campus tour is beneficial at the beginning of each term.  
+每学期初的校园参观很有帮助  
+
+1237.Exotic activities can help students develop more talents.  
+特色活动有助于学生发展更多才能  
+
+1238.Students should leave their bags on the table behind the door.  
+学生应将包放在门后的桌上  
+
+1239.Listening is the key skill needed to succeed in this course.  
+听力是本课程成功的关键技能  
+
+1240.The very basic feature of computing would be counting and calculating.  
+计算的基本特征就是计数与运算  
+
+1241.Momentum is defined as the combination of mass and velocity.  
+动量定义为质量与速度的乘积  
+
+1242.Houses were built for workers near the factories.  
+工厂附近为工人建造了住宅  
+
+1243.College students are assessed by continuous assessment.  
+大学生通过持续评估考核  
+
+1244.Contemporary critics dismissed his idea as eccentric.  
+当代评论家认为他的想法古怪  
+
+1245.New materials and techniques are changing the style of modern architecture.  
+新材料新技术正改变现代建筑风格  
+
+1246.You will be able to work in a team.  
+你将具备团队合作能力  
+
+1247.He is regarded as the foremost economist this year.  
+他被视为今年最重要的经济学家  
+
+1248.Years of training are required to become a medical specialist.  
+成为医学专家需要多年培训  
+
+1249.The study of anthropology can help us learn about society today.  
+人类学研究有助于理解当今社会  
+
+1250.Population has really shrunk in the recent twenty years.  
+近二十年人口确实减少  
+
+1251.Rising sea temperatures are a sign of climate change.  
+海水温度上升是气候变化的迹象  
+
+1252.Stories often contain a lot of messages in our lives.  
+故事常蕴含生活哲理  
+
+1253.A good academic paper should have a clear argument.  
+优秀学术论文应观点明确  
+
+1254.The field of journalism has been seeing job declines for decades.  
+新闻业岗位数十年来持续减少  
+
+1255.There is no fixed career path for a qualified journalist.  
+合格记者没有固定职业路径  
+
+1256.The professor takes a year off to prepare his book.  
+教授休假一年准备著作  
+
+1257.Studies showed there is a positive correlation between the two variables.  
+研究显示两变量呈正相关  
+
+1258.It may not mean that it is possible to solve the problem easily.  
+这未必意味着问题容易解决  
+
+1259.Some people believe that education should be free to everyone.  
+有人认为教育应全民免费  
+
+1260.The department is doing some crucial work on climate change.  
+该部门正开展气候变化关键研究  
+
+1261.You are required to attend lectures and write weekly reports.  
+需参加讲座并撰写周报  
+
+1262.The best student has an opportunity to require a scholarship.  
+最优秀学生有机会获得奖学金  
+
+1263.You should have awareness of how the business operates globally.  
+应了解全球商业运作方式  
+
+1264.Computers used to be larger than they are now.  
+计算机过去比现在体积大  
+
+1265.It is important to plan your study time carefully.  
+认真规划学习时间很重要  
+
+1266.He wrote poetry and plays as well as scientific papers.  
+他创作诗歌、戏剧及科学论文  
+
+1267.Figures could be established through rigorous establishment.  
+数据需通过严格验证确立  
+
+1268.Our faculty includes five libraries in the university.  
+我院在大学拥有五座图书馆  
+
+1269.This is the first example of a modern and professional army.  
+这是现代职业军队的首个范例  
+
+1270.Many different conferences offer opportunities for volunteer work.  
+许多会议提供志愿者机会  
+
+1271.New media has transcended traditional national boundaries.  
+新媒体已超越传统国界  
+
+1272.Food that contains antibiotics provides few or no nutritional value.  
+含抗生素食物几乎无营养价值  
+
+1273.A visit to the designed museum is of great value.  
+参观设计博物馆很有价值  
+
+1274.Certain scientific principles must be learned verbally or by logical deduction.  
+某些科学原理需通过语言或逻辑推理学习  
+
+1275.Physical strength can be enhanced through regular training.  
+定期锻炼能增强体力  
+
+1276.Visual aid can be really helpful when you are revising.  
+视觉辅助对复习很有帮助  
+
+1277.This course is based on experimentation and practice.  
+本课程以实验和实践为基础  
+
+1278.The subject was complex and difficult to explain.  
+该课题复杂难解  
+
+1279.The university will seek a colossal renovation to the faint empty theater.  
+大学将对破旧剧场进行大规模翻修  
+
+1280.Social psychology is concerned with the understanding of human behaviors.  
+社会心理学研究人类行为理解  
+
+1281.When the root system of a plant fails, foliage suffers.  
+植物根系受损时叶片会枯萎  
+
+1282.It may not be possible to solve the problem easily.  
+该问题可能不易解决  
+
+1283.You do not need specialist knowledge to enjoy this book.  
+阅读本书无需专业知识  
+
+1284.The student service center is located on the main campus behind the library.  
+学生服务中心位于主校区图书馆后方  
+
+1285.I thought a good architectural structure should be useful, durable and beautiful.  
+我认为优秀建筑应实用、耐久且美观  
+
+1286.Americans have typically defined the process of plant growth in quantitative terms.  
+美国人通常用量化术语定义植物生长过程  
+
+1287.The biology department is dedicated to research activities.  
+生物系专注科研活动  
+
+1288.The restroom is down the hall and on the right.  
+洗手间在走廊右侧  
+
+1289.The teacher explains the homework to the students.  
+老师向学生讲解作业  
+
+1290.At that time, few people moved through the town to the village.  
+那时很少有人从城镇迁往村庄  
+
+1291.The finding shows that chocolate can improve memory, immunity and mood.  
+研究表明巧克力能改善记忆、免疫力和情绪  
+
+1292.The curriculum should be adjusted to the current development.  
+课程应适应当前发展  
+
+1293.The lecture is about the reasons for the financial crisis.  
+本讲座探讨金融危机成因  
+
+1294.You will get your uniform on the first day.  
+首日将领取制服  
+
+1295.The weather used to be lovely at this time of the year.  
+往年此时天气宜人  
+
+1296.Before the refrigerator was invented, people used underground ice houses.  
+冰箱发明前人们使用地下冰窖  
+
+1297.In my opinion, this car should be repaired soon.  
+我认为这辆车应尽快修理  
+
+1298.All answers must be thoroughly researched and supported by relevant theories.  
+所有答案需深入研究并有理论支持  
+
+1299....stand in the previously framework.  
+...处于先前框架中...  
+
+1300.Please move us to the meeting room for the next hour.  
+请安排我们下小时使用会议室  
+
+1301.A series of lectures showcasing economic research have been recorded.  
+经济学研究系列讲座已录制  
+
+1302.This course considerably emphasizes critical thinking skills.  
+本课程极其强调批判性思维  
+
+1303.We learned through observations and the analysis of human behaviors.  
+我们通过观察分析人类行为学习  
+
+1304.Public perception about biotechnology is crucial for developing scientific consensus.  
+公众对生物技术的认知对形成科学共识至关重要  
+
+1305.The results of the study underscored the discoveries from early detection.  
+研究结果凸显了早期检测的发现  
+
+1306.Distance learning allows you to develop a career around your commitments.  
+远程教育可根据个人安排发展职业  
+
+1307.We have not yet achieved equality in our society.  
+我们的社会尚未实现平等
+
+1308.Our view is that educational reforms have been inadequately implemented.  
+我们认为教育改革实施不足  
+
+1309.Efforts are being made to reduce harmful emissions.  
+正在努力减少有害排放  
+
+1310.She began by giving an outline of the previous lecture.  
+她首先概述了上一讲的内容  
+
+1311.Water filters on campus will discourage the unnecessary use of plastic bottles.  
+校园净水器将减少塑料瓶的过度使用  
+
+1312.Mathematics can be applied to various disciplines.  
+数学可应用于多门学科  
+
+1313.The author expressed an idea that modern readers inevitably cannot accept.  
+作者提出了现代读者必然无法接受的观点  
+
+1314.Making mistakes is fine as long as you learn from them.  
+犯错没关系，只要从中吸取教训  
+
+1315.The supposed scientific benefit of space exploration is frequently questioned.  
+太空探索的科学价值常受质疑  
+
+1316.Some people are motivated by competition, while others prefer to collaborate.  
+有人受竞争驱动，有人偏爱合作  
+
+1317.The transformation of media has changed the way information is both used and studied.  
+媒体变革改变了信息使用和研究方式  
+
+1318.Note lecture will begin punctually, so please do not be late.  
+请注意讲座准时开始，请勿迟到  
+
+1319.Despite their differences, all forms of life share certain characteristics.  
+尽管存在差异，所有生命形式都具有某些共同特征  
+
+1320.The economic status of the early Roman Republic will be examined.  
+将考察早期罗马共和国的经济状况  
+
+1321.Studying medicine allows for a wide range of career opportunities.  
+医学研究提供广泛的职业机会  
+
+1322.The capacity of programming computers is expanding enormously every year.  
+计算机编程能力每年大幅提升  
+
+1323.Higher education treats plagiarism extremely seriously.  
+高等教育对抄袭行为零容忍  
+
+1324.Please note that the seminar has now been canceled.  
+请注意研讨会已取消  
+
+1325.Please make sure your applications follow the guideline provided.  
+请确保申请符合提供的指南  
+
+1326.Many universities are continuously expanding the postgraduate education online learning resources.  
+许多大学持续扩展研究生在线教育资源  
+
+1327.Experts said reading and listening to music can reduce stress.  
+专家表示阅读和听音乐能缓解压力  
+
+1328.British students must study mathematics at secondary schools.  
+英国学生中学阶段必须学习数学  
+
+1329.Students will develop confidence in their ability to think critically.  
+学生将培养批判性思维能力的信心  
+
+1330.This course can help to deepen your appreciation of art.  
+本课程有助于提升艺术鉴赏力  
+
+1331.Implementation figures are expected to be improved in the next few years.  
+预计未来几年实施数据将改善  
+
+1332.Peer review is an essential part of scientific methods.  
+同行评审是科学方法的核心环节  
+
+1333.Technologies have enormously transformed the lifestyle of the majority.  
+技术极大改变了多数人的生活方式  
+
+1334.The theater study course encourages students to exercise creativity.  
+戏剧研究课程鼓励学生发挥创造力  
+
+1335.Students are permitted to park at campus parking spaces.  
+学生可在校园指定区域停车  
+
+1336.This project is divided into four main sections.  
+本项目分为四个主要部分  
+
+1337.Our company must have independent financial auditing.  
+我们公司必须进行独立财务审计  
+
+1338.We hope students ignite and follow their interests.  
+我们希望学生激发并追随兴趣  
+
+1339.Lecture outlines are available on the college internal website.  
+讲座大纲可在学院内网查询  
+
+1340.You are advised to use multiple research methods for this project.  
+建议本项目采用多种研究方法  
+
+1341.The study of utilizing projects is funded by the university.  
+该实践项目研究由大学资助  
+
+1342.Please return your reference books to the library shelves.  
+请将参考书放回图书馆书架  
+
+1343.New developments in technology are influencing current research.  
+技术新发展影响当前研究  
+
+1344.The history of economics is a tricky subject to study.  
+经济史是复杂的研究课题  
+
+1345.Please refer to the guidelines for more information on setting goals.  
+目标设定详见指南  
+
+1346.Scientific experiments should be repeated to verify the results.  
+科学实验需重复验证结果  
+
+1347.There is an agreed consensus that leadership skills can be taught.  
+人们普遍认同领导力可以培养  
+
+1348.We can see the stars that were formed 13 billion years ago.  
+我们能看到130亿年前形成的恒星  
+
+1349.An essay should use evidence from both primary and secondary sources.  
+论文应引用一手和二手资料  
+
+1350.Most teaching staff make their lecture notes available online.  
+多数教师在线提供讲义  
+
+1351.We help students to develop their individualities and follow their interests.  
+我们帮助学生发展个性并追随兴趣  
+
+1352.The course will start with the history of architecture.  
+本课程将从建筑史开始  
+
+1353.The summer course is canceled due to insufficient enrollment.  
+暑期课程因报名人数不足取消  
+
+1354.Urbanization provides the expenses of other communities.  
+城市化承担其他社区的支出  
+
+1355.Urban planning emphasizes efficiency and expansion of communities.  
+城市规划强调效率与社区扩展  
+
+1356.This is a compulsory course, so make sure you attend.  
+这是必修课，请务必参加  
+
+1357.The goal of the government is to increase the investments.  
+政府目标是增加投资  
+
+1358.Social media is responsible for helping the government to solve social problems.  
+社交媒体协助政府解决社会问题  
+
+1359.The university library has a collection of early geography maps.  
+大学图书馆藏有早期地理地图  
+
+1360.The academic department needs to be supported by the government.  
+学术部门需要政府支持  
+
+1361.When sentencing, the court will consider whether the criminal is guilty or not.  
+量刑时法庭会考虑罪犯是否有罪  
+
+1362.Despite the protest, the chemistry department was closed down.  
+尽管抗议，化学系仍被关闭  
+
+1363.For the small businesses, making profit is the main priority.  
+盈利是小企业的首要目标  
+
+1364.Food containing ample calories provides little or no nutritional value.  
+高热量食物几乎无营养价值  
+
+1365.The timetable for the next term will be available next week.  
+下学期课表下周公布  
+
+1366.The university's main library will be open till midnight next Saturday.  
+大学主图书馆下周六将开放至午夜  
+
+1367.We hold the visiting tours throughout the year for undergraduate students.  
+我们全年为本科生提供参观导览  
+
+1368.There is a list of dedicated librarians available during teaching time each term.  
+每学期教学期间配备专业图书馆员名单  
+
+1369.We will hold a celebration for the graduated students.  
+我们将为毕业生举办庆祝活动  
+
+1370.Employment figures will decrease in the next few years.  
+未来几年就业数据将下降  
+
+1371.Submission of your group assignment must be issued punctually by one of your group members.  
+小组作业需由组员准时提交  
+
+1372.The study is among the initial projects funded by the university.  
+该研究是大学首批资助项目之一  
+
+1373.Archeologists are astonished by unexpected previously overlooked foundations.  
+考古学家对意外发现的被忽视遗址感到震惊  
+
+1374.The biology department is respected in research activities.  
+生物系因研究活动受尊敬  
+
+1375.Many diseases that were once serious have now been eradicated.  
+许多曾严重的疾病现已被根除  
+
+1376.Social policy describes the ways societies meet human needs.  
+社会政策描述社会满足人类需求的方式  
+
+1377.University staff provide advice on renting and accommodation.  
+大学员工提供租房住宿建议  
+
+1378.Please click on the logon button above to enter the site.  
+请点击上方登录按钮进入网站  
+
+1379.A very basic foundation of computing is counting and calculating.  
+计算的最基础是计数与运算  
+
+1380.Critical thinking is an essential component of a broad education.  
+批判性思维是通识教育的重要组成部分  
+
+1381.Companies' projects must adapt to the general data protection regulations.  
+公司项目必须符合通用数据保护条例  
+
+1382.Statistical results should be expressed in different ways, depending on circumstances.  
+统计结果应根据情况以不同方式呈现  
+
+1383.All of your assignments are due by tomorrow.  
+所有作业明天截止  
+
+1384.It is argued that students can learn more by collaboration rather than as individuals.  
+有人认为协作学习比单独学习效果更好  
+
+1385.Open days for undergraduates occur all year round for campus visits.  
+本科生开放日全年举办校园参观  
+
+1386.A surprisingly large number of students applied for that course.  
+申请该课程的学生数量惊人  
+
+1387.The untapped potential of using the sun is enormous.  
+太阳能的未开发潜力巨大  
+
+1388.Medical books and journals have been moved to the second floor.  
+医学书籍期刊已移至二楼  
+
+1389.When parents talk to children, the tense is simplified.  
+父母对孩子说话时时态会简化  
+
+1390.Mental health professionals are talking about the topic of vulnerability.  
+心理健康专家正讨论脆弱性话题  
+
+1391.Our company is intended to hire more than ten thousand people worldwide.  
+我们公司计划全球招聘超万人  
+
+1392.Students build confidence in their critical thinking skills over time.  
+学生逐渐建立批判性思维能力的信心  
+
+1393.Your tutor will provide the guidance on how to structure the essay.  
+导师将指导论文结构  
+
+1394.Gold is a metal that appears naturally and in a pure state.  
+黄金是以天然纯净状态存在的金属  
+
+1395.Music has the ability to shape our emotions.  
+音乐能塑造我们的情绪  
+
+1396.The lecture will take place in the main hall.  
+讲座将在主礼堂举行  
+
+1397.The university will cease the colossal renovation of the faint empty theater.  
+大学将停止对破旧剧场的大规模翻修  
+
+1398.Extension requirement for the assignment must be submitted before the deadline.  
+作业延期申请需在截止日期前提交  
+
+1399.Assignments must be submitted at the end of the term.  
+作业需在学期末提交  
+
+1400.We hold visiting hours throughout the year for students.  
+我们全年为学生安排访问时间  
+
+1401.Practical experiments are a central part of the chemistry course.  
+实验是化学课程的核心部分  
+
+1402.Some studies show the link between depression and social media.  
+研究显示抑郁症与社交媒体存在关联  
+
+1403.Our aim is to transmit mathematics teaching in the classroom.  
+我们的目标是改革数学课堂教学  
+
+1404.Having a strong motivation is important to achieve your goals.  
+强烈动机对实现目标很重要  
+
+1405.Agricultural development plays a vital role in rural areas.  
+农业发展对农村地区至关重要  
+
+1406.Having clean water for consumption is vital for health.  
+获得清洁饮用水对健康至关重要  
+
+1407.People with an active lifestyle are less likely to die early or have major illness.  
+积极生活方式人群早逝或患重病概率更低  
+
+1408.Your tutor will show you how to prepare the essay.  
+导师将指导如何准备论文  
+
+1409.Students may only park their cars in authorized university parking spaces.  
+学生只能在指定校园停车位停车  
+
+1410.His proposal had gained further support by the local community.  
+他的提案获得当地社区进一步支持  
+
+1411.A wide range of courses covered different aspects in this subject.  
+多门课程涵盖该学科不同方面  
+
+1412.In the next project, you will need to present all the different news items.  
+下个项目需展示各类新闻条目  
+
+1413.Before preparing any food, be sure to wash your hands well.  
+准备食物前务必彻底洗手  
+
+1414.The fiction books have just passed to the counter.  
+小说类图书刚送至柜台  
+
+1415.Everyone in this room needs to follow the rules.  
+室内所有人都需遵守规则  
+
+1416.You have to make an appointment with your doctor.  
+需预约医生  
+
+1417.New classroom will be put into use next month.  
+新教室下月投入使用  
+
+1418.You can get your coffee or tea in the lunch room.  
+可在午餐室取咖啡或茶  
+
+1419.We cannot consider an increase in our price at this stage.  
+现阶段无法考虑涨价  
+
+1420.The teacher explained the homework to the students.  
+老师向学生讲解作业  
+
+1421.You must call your doctor to make an appointment.  
+必须电话预约医生  
+
+1422.Speak to your tutor if you need further assistance.  
+如需进一步帮助请咨询导师  
+
+1423.Social policy is a study of social respondence for the government.  
+社会政策研究政府的社会应对  
+
+1424.Rising inflation may indicate an increase in the demand for consumer products.  
+通胀上升可能表明消费品需求增加  
+
+1425.Archeologists discovered tools and other artifacts near the ancient tomb.  
+考古学家在古墓附近发现工具和其他文物  
+
+1426.International exchange formed the important part of our study program.  
+国际交流是我们学习计划的重要部分  
+
+1427.The local government has adopted a plan for infrastructure development.  
+地方政府通过了基础设施发展计划  
+
+1428.The curriculum should be adjusted to incorporate recent developments.  
+课程应调整以纳入最新发展  
+
+1429.Strangely, people are simultaneously impressed by and skeptical about statistics.  
+奇怪的是，人们对统计既印象深刻又持怀疑态度  
+
+1430.The quality of your statistical information depends on your raw data.  
+统计信息质量取决于原始数据  
+
+1431.Blue whales are the largest animals that have ever lived.  
+蓝鲸是有史以来最大的动物  
+
+1432.Population has a sharp rise in the recent twenty years.  
+近二十年人口激增  
+
+1433.When attending a job interview, punctuality is the key.  
+参加面试守时是关键  
+
+1434.Students intending to go to the conference must register now.  
+欲参会学生须立即注册  
+
+1435.Please click the information on the website for the opening times.  
+开放时间请点击网站查询  
+
+1436.The secretary of state is presently considering the proposal.  
+国务卿正在审议该提案  
+
+1437.Graduates from this course typically pursue careers in financial sector.  
+本课程毕业生多在金融领域发展  
+
+1438.There must be planets in the universe that can support life.  
+宇宙中必定存在适合生命生存的行星  
+
+1439.The study of the economy is a tricky subject to research.  
+经济研究是复杂课题  
+
+1440.Mathematics provides a foundation for understanding and analyzing data.  
+数学为理解和分析数据提供基础  
+
+1441.The office hours will change next term.  
+下学期办公时间将调整  
+
+1442.We are looking for new ways to engage learners.  
+我们正寻找吸引学习者的新方法  
+
+1443.There is probably life in the other planets in the universe.  
+宇宙其他行星可能存在生命  
+
+1444.Undoubtedly, this theory has a number of limitations.  
+该理论无疑存在诸多局限  
+
+1445.The science we used featured both explanations of the problems.  
+我们采用的科学方法同时解释了这些问题  
+
+1446.Auditions for the university choir will be held next week.  
+大学合唱团试镜下周举行  
+
+1447.Important details from the argument are missing in the summary.  
+摘要遗漏了论证的关键细节  
+
+1448.Dealing with the growing population is a challenge for many governments.  
+人口增长是许多政府面临的挑战  
+
+1449.The university canteen is now offering many healthy meal options.  
+大学食堂现提供多种健康餐食  
+
+1450.Gravity makes objects attracted to one another.  
+引力使物体相互吸引  
+
+1451.Football is played throughout all years at the university.  
+足球在大学全年开展  
+
+1452.Please remember to bring a highlighter and your textbook to class next Thursday.  
+请记住下周四带荧光笔和课本  
+
+1453.Experts are now able to forecast weather over a much longer period.  
+专家现已能进行更长期天气预报  
+
+1454.Many vocational courses at institutions are funded by private enterprises.  
+院校许多职业课程由私企资助  
+
+1455.She has been in the library for a long time.  
+她在图书馆待了很久  
+
+1456.Our company currently employs more than ten thousand people worldwide.  
+我们公司目前全球雇佣超万人  
+
+1457.This course places considerable emphasis on critical thinking skills.  
+本课程极其重视批判性思维培养
