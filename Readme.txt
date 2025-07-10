@@ -28,23 +28,23 @@ FIB_RW                          1   R
 
 3.按命中率排序
 Order   Priority    Name                            Type    HitRate     Quantity    LibraryItems    Comments    Speaking    Writing Reading Listening   Comments
-1                   WFD(write from dictation)       🟢L     99          3-4         1457                                    36              30       
-2                   SST(summarize spoken text)      🟢L     95          1-2         287                                     12              10
-3                   SWT(summarize written text)     🟣W     92          1-2         198                                     13      13
-4                   FIB_RW(fill in blanks R&W)      🟡R     88          5-6         540             Select                  14      20
+1       *           WFD(write from dictation)       🟢L     99          3-4         1457                                    36              30       
+2       *           SST(summarize spoken text)      🟢L     95          1-2         287                                     12              10
+3       *           SWT(summarize written text)     🟣W     92          1-2         198                                     13      13
+4       *           FIB_RW(fill in blanks R&W)      🟡R     88          5-6         540             Select                  14      20
 5                   WE(write essay)                 🟣W     85          1-2         59(hot)                                 13
 6                   DI(describe image)              🔴S     75          3-4         32(classic)                 20
 7                   FIB_R(fill in blanks R)         🟡R     75          4-5         150(classic)    Draw                            17
 8                   RL(retell lecture)              🔴S     75          1-2         67(hot)                     5                           5
-9                   RS(repeat sentence)             🔴S     60          10-12       850                         30                          30 
-10                  RA(read aloud)                  🔴S     55          6-7         427                         40                  30     
+9       *           RS(repeat sentence)             🔴S     60          10-12       850                         30                          30 
+10      *           RA(read aloud)                  🔴S     55          6-7         427                         40                  30     
 11                  RO(re-order paragraph)          🟡R     55          2-3         159(hot)                                        7
 12                  FIB_L(fill in blanks L)         🟢L     30          2-3         127                                     12              9  
 13                  HIW(highlight incorrect word)   🟢L     --          2-3         18                                              8       8
 
 4.考试结构
-Part            Content                     Duration
+Part            Content                     Duration            Focus
 Introduction    Personal Introduction       1(not included)
-No.1            S&W                         54-67mins       
-No.2            R                           29-30mins
-No.3            L                           30-43mins
+No.1            S & W                       54-67mins           RA/RS/SWT
+No.2            R                           29-30mins           FIB_RW
+No.3            L                           30-43mins           WFD/SST
