@@ -16,23 +16,43 @@ Total: 287
 
 1.Cocoa. 可可
 
+This topic is significantly focusing on cocoa. The speaker points out that cocoa used to be beverage and drinks with corn and water. This lecture gives information that cocoa used to be currency and be protected. The speaker also mentioned that someone believes cocoa give mortals wisdom, they drink it at their 18 years old ceremony.
+
 2.Sea creature. 海洋生物  
+
+This lecture significantly focuses on the last devices inspired by sea creatures that can harness wave power. The first device is an oyster that sits above the sea floor and has been powering 9000 families. The second device looks like a snake that is made of rubber tube and flows below the surface. The third device also looks like a snake that is made of steel and drive hydraulic systems.
 
 3.Computers and AI. 计算机与人工智能  
 
+The lecture gives us information about scientists, data and its structure. What's more, he mentions brains, researchers and engineers. Moreover, he mentions the relationship between new technologies and artificial intelligence. Also, he talks about the functions of computers, and computers can operate programs, develop systems and analysis data. Finally, he mentions AI is similar to human brains.
+
 4.Talent war. 人才争夺战  
+
+The topic is mainly focusing the war of talent in order to show the importance of talent for organizations. In addition, decreasing demand and increasing supply in US and Europe, shrinking labor force, knowledge, not defining in books, managerial talent are involved. It can help companies to find the talent.
 
 5.Benefits of Laugh. 笑的益处  
 
+The speaker talked about the benefits of laughter. According to the speech, laughter is one of the greatest therapies in combating adversity. This is particularly true for people living in Berlin during the Berlin Wall period. During that period, all jokes proliferated and laughing was all that's left for people living in East Berlin. This could also be seen in other countries such as Iran.
+
 6.Indian peasants debt. 印度农民债务  
+
+The lecture was mainly about debt. First, the speaker mentioned the debt comes from the cost of seeds. Seeds used to be free for peasants in India. The more pesticide you use, the more you need. Peasants have no money to buy seeds and the pesticide, so they buy them by borrowing. The people who lend the money are their major creditors.
 
 7.Mary Mallon. 玛丽·马伦（伤寒玛丽）  
 
+The topic significantly focuses on Mary who was identified by the asymptomatic carrier of pathogen associated with typhoid fever. Firstly, she was presumed to infect 51 people. Secondly, Mary was forcibly isolated by the public health authorities and died after nearly three decades in isolation. Finally, from 1900 to 1907, she worked as a cook in New York City area, and then shed moved to Manhattan.
+
 8.Governments use tricks. 政府使用的策略  
+
+The lecture was about government ticks.Firstly, the speaker mentioned that citizens need to be well informed , and we take it for granted in western societies. Many areas still suffer from the deliberate missing information. Governments, either elected or unelected ones, have denied some events that have taken place. Finally, governments will use every trick in the book to cover up their mistakes.
 
 9.A mother’s loan. 母亲的贷款  
 
+This lecture discussed a woman's financial strain. A 43-year-old woman who has had ongoing student loans for 15 years. She would not have her college degree without her current job. The interest rate on the loan was 10 %, and the repayment amount was more than her car payment. She felt there was little hope of repayment and I regretted my educational path.
+
 10.Globalization. 全球化  
+
+The lecture mainly talked about the definitions of globalization. Globalization means the proliferation of transactions across countries and more international communication, such as multinationals. Besides, we can see globalization as an integrated economic system. This system splits the world into consuming countries and producing countries. This is a new era where nations’ economics depend on each other. The post-industrial economy has been a global issue.
 
 11.A Female Novelist. 一位女小说家  
 
