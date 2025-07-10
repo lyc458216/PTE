@@ -1,11 +1,16 @@
 Requirements:
+
 You will hear a sentence.
 Type the sentence in the box below exactly as you hear it.
 Write as much of the sentence as you can.
 You will hear the sentence only once.
 
+Tips: 
+All the vocabulary is required to be written.
+
 Filter: Test
 Sort Type: Creation time(Ascending order)
+Total: 1457
 
 1.You must submit your assignments by next Friday at the latest.  
 你必须最迟在下周五提交作业  

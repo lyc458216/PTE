@@ -1,10 +1,15 @@
 Requirements:
+
 You will hear a sentence.
 Please repeat the sentence exactly as you hear it.
 You will hear the sentence only once.
 
+Tips: 
+All the vocabulary is required to be spoken.
+
 Filter: Test 
 Sort Type: Creation time(Ascending order)
+Total: 850
 
 1.The seminar on writing skills has been canceled.  
 写作技巧研讨会已取消  
