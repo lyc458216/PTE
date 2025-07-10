@@ -3,12 +3,12 @@ https://www.youtube.com/watch?v=z1B0mzTWA6k
 
 1.重点题型（按分值占比排序）
 Order   Priority    Name                            Type    Quantity    Consume(S)  LibraryItems    Speaking    Writing Reading Listening   Comments    HitRate     
-1                   RA(read aloud)                  🔴S     6-7         30+40       427             40                  30                              55          
-2                   WFD(write from dictation)       🟢L     3-4         2mins       1457                        36              30                      99          
-3                   RS(repeat sentence)             🔴S     10-12       0+15        850             30                          30                      60          
-4                   FIB_RW(fill in blanks R&W)      🟡R     5-6         3mins       540                         14      20                  Select      88               
-5                   SWT(summarize written text)     🟣W     1-2         10mins      198                         13      13                              92          
-6                   SST(summarize spoken text)      🟢L     1-2         10mins      287                         12              10                      95          
+1       *           RA(read aloud)                  🔴S     6-7         30+40       427             40(40)              30(30)                          55          
+2       *           WFD(write from dictation)       🟢L     3-4         2mins       1457                        36(36)          30(30)                  99          
+3       *           RS(repeat sentence)             🔴S     10-12       0+15        850             30(70)                      30(60)                  60          
+4       *           FIB_RW(fill in blanks R&W)      🟡R     5-6         3mins       540                         14(50)  20(50)              Select      88               
+5       *           SWT(summarize written text)     🟣W     1-2         10mins      198                         13(63)  13(63)                          92          
+6       *           SST(summarize spoken text)      🟢L     1-2         10mins      287                         12(75)          10(70)                  95          
 7                   FIB_L(fill in blanks L)         🟢L     2-3         2mins       127                         12              9                       30          
 8                   DI(describe image)              🔴S     3-4         25+40       130(hot)        20                                                  75          
 9                   FIB_R(fill in blanks R)         🟡R     4-5         2mins       387                                 17                  Draw        75          
