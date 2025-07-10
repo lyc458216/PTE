@@ -24,7 +24,7 @@ summarize text * 2(SWT/SST)     2   1W + 1L
 WFD                             1   L
 FIB_RW                          1   R
 
-1W(SWT) + 1R(FIB_RW) + 2S(RA/RS/) + 2L(WFD/SST)
+2S(RA/RS) + 1W(SWT) + 1R(FIB_RW) + 2L(WFD/SST)
 
 3.按命中率排序
 Order   Priority    Name                            Type    HitRate     Quantity    LibraryItems    Comments    Speaking    Writing Reading Listening   Comments
