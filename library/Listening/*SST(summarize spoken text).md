@@ -682,159 +682,351 @@ This lecture gives information about successful entrepreneurs. Firstly, the spea
 
 171.Intuition. 直觉  
 
+This topic is described as intuition and brain. Intuition is an intuitive thought that all people have but not understand. People know things without knowing how themselves know them. Furthermore, intuition is from the right hemisphere and related to
+understanding while the left brain produces logic and conscious activities. In conclusion, the right hemisphere produces the understanding of a big picture, emotion and feelings.
+
 172.Fast radio burst. 快速射电暴  
+
+The lecture tells about fast radio burst. Firstly, the burst is so fast that it can stop in seconds. Secondly, it is very mysterious. We don't know where it is from. And there are many questions about it with no answer. Thirdly, there are some theories about what makes them. Ten years later, our telescope will find the burst more quickly. So we can know more about the burst.
 
 173.Instinct and reflex. 本能与反射  
 
+The lecture was mainly about instinct and reflexes in order to explain their differences. Firstly, instinct is unlearned behavior and it is often related to internal motivation to survive. Reflex is a typically a simple reaction or a response to an environmental trigger. In addition, instinct is a much more complex set of behaviors. In conclusion, instincts and reflexes are different.
+
 174.What if money were no object. 如果金钱不是问题  
+
+The lecture is about what do people really want to do if they have enough money. Students have totally different answers to the questions "What do you want to do in the future" and "what do you really want to spend your life if you don't need to think about money". If individuals think the most important thing is money, they are wasting time to go on living.
 
 175.Globalization and IT. 全球化与信息技术  
 
+This lecturer argues that merge globalization and IT revolution is the most important thing in the early 21st century. He thinks that more IT started to drive more and more globalization, they are very different from each other. He also mentioned that they can convert the world from connected into hyperconnected, and inner into independent. Everyone feels this in jobs, universities from the last decade, but no one explains why.
+
 176.Shakespeare's poem. 莎士比亚的诗  
+
+The lecture talked about Shakespeare's works. Firstly, the speaker mentions Shakespeare did leave 400 years ago. Secondly, his language is out of date and not easy to understand. Thirdly, Shakespeare was a great poet, and he wrote narrative and theatre poems etc. Last but not the least, the speaker states his dramatic poetry focused on interactions between characters in plays.
 
 177.Judgement. 判断  
 
+The speaker’s friend is a company executive who rejected a candidate after an interview. The manager claimed that the candidate was not good for them, even he was highly recommended by his previous employer. Another example happens on a football coach as well. People often make dubious decisions, so it is difficult to judge a person within just 30 minutes or one hour, especially in job interviews.
+
 178.Dogs. 狗  
+
+What makes a happy home for dogs is a broad question, and the answer depends on individual cases. Firstly, dog owners should provide dogs with some basic needs, such as food, water and shelter. Secondly, as a social animal, dogs need communication and interactive stimulation just like humans do. However, dog owners often leave dogs alone at home. Even a luxury penthouse is not a happy home for dogs.
 
 179.Human memory. 人类记忆  
 
+This lecture talks about human memory. people forget things every day. including their experience, feelings and thoughts,Forgetting is easy, and remembering is hard due to biological forgetting. People try to overcome the biological forgetting by telling the particular thing to their children, it can be help them to remember more. People memory is not fixed and can be reconstructed, because the thing is shaped by the past. Only thing we do progressively can be remembered for a long period of time.
+
 180.Analyzing walking data. 分析步行数据  
+
+The lecture talks about analyzing the walking data of students at campus.
+The experiment is combined with psychology, social science and computer science.
+The experiment recorded students position every 3 to 5 seconds, and then questions pop on the screen to collect information about space and how space can affect learning.
+Although the experiment only focuses on the campus, the results can be used for urban planning and campus design.
 
 181.Poverty in China. 中国的贫困  
 
+The lecture is about the challenges and opportunities in rising China. Firstly, the challenge is that china contributes to a large percentage of the world's poverty population. In 2015, the situation gets better, there is a decreasing number of people living in extreme poverty. China has taken action to make poverty reduction. Finally, China has a lot of middle-income people now, and China has also created new opportunities for other economies, such as Australia. 
+
 182.Driving. 驾驶  
+
+Driving is dangerous for two reasons
+One is driving in a wrong way，the driver need to turn back immediately under this circumstance.
+Another one is driving after taking medicine or drugs. （这一点我估计文章会说吃药开车具体为什么危险。仅为推测）
+However, there are several ways could help reduce such risks.
 
 183.Efficiency of cognitive skill. 认知技能效率  
 
+This topic talks about efficiency of cognitive skill which can improve our development and help us remember things and process information faster.
+The efficiency is not only about speed but also about accuracy, so we need to pay attention to it.
+People have limited resources and brain compensation to process information so improving efficiency is important.
+But resources for cars are unlimited, so people will not consider the efficiency of fuel of car.
+
 184.How to construct argument. 如何构建论点  
+
+The topic is about how to construct an argument. Firstly, you should have a thesis, which is the most important part of the paper, and it can provide points for readers and yourself. A thesis has two important things, one is to think carefully before writing, another is that a thesis should be debatable可争议的 and supportable. You should provide points which people are interested, not something they already knew.
 
 185.Human freedom. 人类自由  
 
+This lecture mainly talks about human freedom. Firstly, we are in an age that is related to the change of human freedom in business. Secondly, the government can have an adverse impact on human history , because large organisations can lead to economy and knowledge. Small organisations can be related to freedom and creativity . Lastly, information technology can be conducive to a huge number of people.
+
 186.The study of the law. 法律研究  
+
+The lecture talked about the study of law. Firstly, the benefit of studying law is that people will get unique opportunities to understand the knowledge of law, which promotes their career development. Secondly, law is a very useful degree, including politics and united nations etc. Finally, what makes studying law special is the way to teach the law, and what the law could and should be in the future.
 
 187.Decisions. 决策  
 
+The topic is significantly focusing on decisions. Some international states are more equal than others. The speaker mentions G7 and United States. After the Second World War, the United States has international power and a historical president and decided on the interest of a powerful sector. Financial institutions such as world banks are globally controlled by rich countries. The United States has an overwhelming influence.
+
 188.Bureaucracy. 官僚主义  
+
+In the world which was 30 years ago, people can easily find out who was in charge of the world. But the globalization/ digitization has disconnected the world and bureaucracy. Big governments and companies hold technical data which means information can reach out and touch people but people cannot touch information. The world now is made of bytes and bits which means the digitization has changed the world and bureaucracy. 
 
 189.Mars. 火星  
 
+The lecture talks about Mars is a neighboring planet to the Earth . Firstly , there are similar geological features and there is the highest mountain and the greatest canyon and solar system . Secondly , water is proved , and it has a thin layer of atmosphere . Thirdly , it also has the season and weather like the dust storms . In conclusion , Mars is worth to explored the most and it is the best idea t destination.
+
 190.Curator. 策展人  
+
+This lecture elaborates on the topic of curator, which would involve the National Museum. Firstly, they have mentioned tools and courses, related to histories and communications, due to a particular history and films. Secondly, they have mentioned compositions and collections while elaborating on people and why they make choices. Therefore, the underlying issue of changes can be proved by objects of the past and exhibitions.
 
 191.Father and child. 父亲与孩子  
 
+This lecture talks about the relationship between father and children.
+Firstly, father plays an important role in children's growth and teaches his children feeling of safely.
+Secondly, father asks children to leave the sweet home and taking risks, but they are always welcome to go back home.
+Thirdly, all those things make children more independent and passionate.
+
 192.Resource research. 资源研究  
+
+This lecture talks about the resource.
+Firstly, an American research analyzed the resources in developing countries worldwide, including Middle East countries such as Iran and Iraq.
+Secondly, the developing countries have a lot of natural resources, especially oil resources, but the government are not strong enough to protect the nation.
+Thirdly, the counties are damaged by war and weapons are available to the public.
 
 193.Rejection. 拒绝  
 
+This lecture mainly talks about rejection. Firstly, a disappointing experience can be seriously affected by giving some advice, which can be related to a paper published. Secondly, the beginning of your career can have a negative impact on a better result, because the career path can lead to submission to another journal. Lastly, advancing your paper and future work can be beneficial to attracting and engaging young researchers.
+
 194.Microsoft. 微软  
+
+There are different uses of the stock market before and after. In the 18th century, manufacturing companies came into the market. However, modern companies, including Apple, Google, and Facebook, use stocks differently. Traditional companies used stocks to raise money, and input money into companies. Modern companies used stocks to output money. 
 
 195.Market. 市场  
 
+市场变得unethical and unfair；举例说 欧洲和美国之间的贸易；这个议题 will be on the agenda for years.
+
 196.Glorious revolution. 光荣革命  
+
+关键词glorious revolution, monarchy, Cromwell, plot, assassination
 
 197.Luxury brand. 奢侈品牌  
 
+This lecture mainly talks about luxury brands. Firstly, the speaker mentions that how a luxury brand is formed is hard to answer. Secondly, the standard business response is that luxury brands are more exclusive by having high prices and relatively small amounts of product available. Finally, the speaker thinks that the answer is relative and complicated.
+
 198.A good engineer. 一位优秀的工程师  
+
+This lecture mainly talks about a good engineer. Firstly, the speaker mentions that engineers should know how to work with a complicated system. Secondly, inspiration comes from their personal life experience. Also, complicated systems cannot see. Therefore complicated systems are becoming reliable, and engineers should deliver reliable outcomes as well. In conclusion, engineers need to consider the risks, potential and accuracy.
 
 199.Smith model. 史密斯模型  
 
+modernization; smith model;poem诗poet诗人;modern poetry现代诗歌 literature文学；
+
 200.The stability of mood. 情绪稳定性  
+
+The lecture discussed emotional stability. Some people are constantly relaxed and some people get stressed easily. The lecturer highlighted that it is important to regulate emotions to achieve happiness. She suggested us allowing natural flows of emotions, keeping it at a moderate level, and finding the balance between intense and loose. By doing so, people get a sense of containment and well-being which is essential for our health and happiness.
 
 201.MPA marine campaign. 海洋保护区运动  
 
+The ocean provides a habitat for fish, which is the source of protein that feeds billions of people.
+But there are many species of fish that are endangered.
+The government created a network to protect the environment, called MPA marine campaign.
+But MPA is facing lots of challenges, as some development countries lack management.
+
 202.Sleep and brain. 睡眠与大脑  
+
+This speaker mainly talked about memory and sleep. First of all, people need to sleep before learning, and people also need to sleep after learning. Secondly, the speaker claimed that there are bad things that happen when you do not get enough sleep. Moreover, the speaker emphasized that sleep can prepare your brain and body. In conclusion, when you have enough sleep, you can make new memories.
 
 203.Paper rejection. 论文拒稿  
 
+This lecture mainly talks about rejection. Firstly, a disappointing experience can be seriously affected by giving some advice, which can be related to a paper published. Secondly, the beginning of your career can have a negative impact on a better result, because the career path can lead to submission to another journal. Lastly, advancing your paper and future work can be beneficial to attracting and engaging young researchers.
+
 204.Hook sentence. 钩子句  
+
+The lecture gives information about essay writing and essay hooks.
+There is a connection between the introduction and the sentence or paragraph.
+A persuasive essay can be related to emotional connection in some ways.
+A quote should be important for a strange fact or a statistic.
+All these points help us understand the main message about hooks.
 
 205.Boys and girls. 男孩与女孩  
 
+This lecture talks about girls and boys. Firstly, the speaker mentioned that girls have higher English levels than boys. Moreover, the speaker pointed out that their brain functions are different. For example, males are more interested in technical developments. Furthermore, he said that girls are more general in social structures. While, boys are more simplified. In conclusion, teachers need to find different teaching approaches.
+
 206.Free sugars. 游离糖  
+
+The lecture discusses free sugars, highlighting their significance in health. The speaker explains that milk contains healthy sugar. Unhealthy sugars are always found in desserts and ice cream. Free sugars are natural parts of food, such as vegetables and fruits. Directly eating food is better rather than drinking smoothies and juice, because your body can easily recognise the nutrients of foods. In conclusion, the lecture underscores free sugars.
 
 207.The importance of tea. 茶的重要性  
 
+About the importance of tea, one of the three most favorite drinks in England in which the others are chocolate and coffee.Drinking tea in England was a symbol of social freedom, was very expensive and could only be ordered by men in public.Men had tea in coffee houses, making trades and chatting business, while women could only drink tea in private places or wait for their husbands to bring tea back home.
+
 208.Andrew Carnegie. 安德鲁·卡内基  
+
+Andrew Carnegie, who was a motivated individual, went to America to find a job in telegrams, and railroad services. He made noticeable profits through his investments, after which he moved to England to learn steel-making. After returning to America, he established a successful factory. Despite his prominence, he was known to be selfless, funding numerous libraries, universities, and museums. Eventually, he gave away 90% of his fortunate to charities.
 
 209.Clone. 克隆  
 
+The lecture was mainly about clone. Firstly, it mentioned that clones are cloning. According to the speaker, we understood that the roots of plants are on the ground. Furthermore, it showed the fact that an American was working on a progress which copying the same plant to another in 1903. In conclusion, we should know that cutting one plant in half and growing a short one is called clone.
+
 210.Smaller brain. 更小的大脑  
+
+The human brain is becoming smaller during evolution, and there is no reverse trend. One theory is that our brains are expensive organs, so natural selection must make them smaller during evolution. But the speaker doesn’t agree because the energy consumed by the brain and the heat generated from the brain remains the same. What he believes is that humans no longer need bigger brains because we have changed from generalists to specialists. 
 
 211.Actor training. 演员训练  
 
+The speaker gives a lecture about the training of an actor. According to the speaker, to be a good actor, training is an essential component. During the training, an actor would need to observe others' behaviors and imitate others' performances. Apart from observation and imitation, it is also important to use your body movements to reflect your emotions. Your imagination and expressions are also very important to be an actor.
+
 212.The internet requires energy. 互联网需要能源  
+
+This lecture mainly talks about the Internet and energy. Firstly, the Internet is made up of a lot of things. Secondly, there are many things connected to the Internet and every single one of these devices requires electricity. Finally, it is hard to estimate how much energy the Internet uses because things are changing too fast. But the Internet contributes only two percent of global emissions.
 
 213.Competent people. 有能力的人  
 
+People fear competent people because they feel diminished and incompetent.
+COMPETENT people make mistake, people like them.
+Public figures became more popular after they made mistake and suffered a failure. public figures are super-competent. 
+
 214.Speech-language therapy. 言语治疗  
+
+A professor of speech language therapy introduced a course. They used a different approach from clinical therapy. The best part of this course is that you can study the message behind the speech, just like handwriting. You can tell a speaker's background and where he comes from. This course has created contactbetween speech language and professionals.
 
 215.Literature. 文学  
 
+We should understand the causes and effects of literature. To understand this, we should ask ourselves several sub-questions, such as "what is an author" and "what is a reader". He organizes questions by rationalizing the question, and the answer is that literature comes from a sense of society and social and economic forces.
+
 216.Ice core. 冰芯  
+
+1.metal cutting device to drill ice core.金属切割设备钻孔
+2.cylinder to pull the ice core out and stored.气泵拉出
+3.oldest ice to test the atmosphere.最老的用来气候
+4.recent ice to analyze the past.最近的用来测量过去。
 
 217.Civil rights. 公民权利  
 
+civil right公民权利:
+多余的freedom of speech自由演讲; 观察促进Observation Promotion; 出口exportation.
+以及基本的人权human right. 
+
 218.Eating vegetables. 吃蔬菜  
+
+Children should eat more vegetables at school. If they eat more vegetables or salads at lunch, they will have some collectible coins as a reward. These coins can be used to exchange for some toys in the shop. By doing so. paying people for eating vegetables is possible.
 
 219.Poetry. 诗歌  
 
+The lecture mainly talks about poetry and literature. People often talk about knowledge in poems. The English in poems is hard to understand. It gives readers a sense of frustration and makes it hard to enjoy poetry. This is because poems use literary expressions. However, the speaker says we should learn to enjoy it. People need to know more about literature.
+
 220.Complex problems. 复杂问题  
+
+When you are facing a complex problem, you might need to break it into several manageable problems and solve one at a time. 把她拆解成小问题去解决，最后再put together，举了一些例子。当你在看世界的时候，你需要看世界之间的关系。when you understand the world, a few things are in relation to each other. 你在学不同学科的时候，他们之间有关系。应该把一个学科fits into a larger picture
 
 221.Neolithic Stones. 新石器时代石器  
 
+The lecture was mainly about mathematicians. At the beginning, the speaker mentioned that it had a mathematical significance, such as the concept of symmetry. After that, it looks like dice, which was a part of a game or a symbol of power. What's more, people don't really know what they are and mathematics is a great subject with joy and beauty and can let people know what is possible.
+
 222.Experiment on climate change. 气候变化实验  
+
+This lecture gives information about climate change. Firstly, humans are faced with many challenges. In addition, people are trying to change their lifestyles to deal with it. Lastly, researchers predict that the temperature will increase, but what rising temperature means for the planet is uncertain. In summary, cutting green house gases can reduce the impact of global warming.
 
 223.Human behaviors. 人类行为  
 
+If you look at the recent research conducted on human behavior, you will be surprised about the findings. It is said that there is a correlation betwen human behavior and our physical feature. It was believed that genes are the only factor that determine physical appearance. This includes height and hair color. However, a recent study showed that behavior is also another factor that can change height and hair color. The findings in the study further state that a person's habits can change the physical features of human. These findings have a tremendous impact on scientific fields such as biology, psychology, sociology and neuroscience.
+
 224.Decision making. 决策制定  
+
+There should be decision making in some occasions, like when starting a company, but people don't know if their decisions are right or wrong. Usually the decisions that are thought to be right initially turn out to be wrong. It takes a great team to make the right decisions and discussing the best minds also helps. Finally, making a rigorous decision is mentioned.
 
 225.Los Angeles. 洛杉矶  
 
+Los Angeles was established in 1781, and, 65 years later, the discovery of gold drove settlers to North California. Los Angeles gained more residents, and the increasing population put a strain on water. To avoid tragedy, a new source of water needs to be found. In 1900, the population grew faster than water sources. Finally, Owen’s Lake has been settled to supply Los Angeles with water it needed to expand.
+
 226.Telescope. 望远镜  
+
+So let's just talk a little bit about a telescope. Our eye is the telescope we all are used to. It's a little tiny five millimeter telescope, and it serves us very well. But if we make telescopes bigger, we get a couple of good things. We have larger telescopes and they collect a lot more light so we can see things that are fainter. But it turns out they greatly improve detail. And that's because of the nature that light is a wave, and wave effects are what we call quantum mechanical effects, meaning that when you use a little telescope to look at waves, it becomes blurry through what we call diffraction. And so larger telescopes are extremely useful to improve detail. The other thing that telescopes allow us to do is to put modern digital detectors behind them. Our eye is about the same sensitivity as a photographic plate. A photographic plate can be sat there and it can look at the sky for an hour so it can see fainter. But modern digital detectors are almost 100 times more efficient than our eyes at collecting light. And so you can improve things by a factor of 100. That's like building a telescope ten times bigger. And so that improvement has been one of the things that's allowed astronomy to do so much in the optical regime in the last 30 years. 
 
 227.Basic social values. 基本社会价值观  
 
+The lecture is mainly about basic social values. According to the speaker, many basic social values are passed on unconsciously, already in babyhood. All of us in different ways are working with the unloving side of society and trying to find ways to offer a more caring response. And particularly those people who are working in Africa are doing cutting edge work in dealing with traumatic social problems.
+
 228.Negative bias. 负面偏见  
+
+The lecture is about negativity bias that means people pay more attention to negative emotions , such as fears . First , positive emotions are lighter , such as content and pleasant . Furthermore , negative emotions are less but strong and intense . Finally , we can recall negative emotions easily , and they stay in our minds . In conclusion , negativity bias can help us evaluate and survive when we face life - threatening issues.
 
 229.Drilling rigs. 钻探设备  
 
+Today the drilling rigs are operating in water that's three or four kilometers deep. Tomorrow they could go deeper still. But at some stage global production of oil will peak and begin a remorseless decline. The question is, how soon. I'm sure that we're talking here, decades. So, we're not hitting peak in 2010? We don't believe we are even in 2030. The worse case is that it's occurring now or very soon because the world is unprepared. It's absolutely unprepared. There are no quick fixes in something like this, is a world addicted to cheap liquid energy facing the beginning of the end of the age of oil? In the ever-spreading suburbs of Australia's great cities where mortgages are high and private transport indispensable, everyone's feeling the pinch.
+
 230.Underestimated women. 被低估的女性  
+
+This article mainly talks about underestimated women. First, the speaker mentions that people always underestimate the abilities of women. In fact, the GAP between women and men is nearly the same. Women don’t negotiate for themselves in the workforce. If you ask a man why he succeeded, he would definitely say he is awesome. But a woman will attribute her success to other external factors.
 
 231.Research on an insect. 昆虫研究  
 
+--
+
 232.Portrait. 肖像  
+
+Looks like a person, photograph, similar to a person, kid physical, The king has a crown. With the beard, the king should be considered as old. Without the beard, the king should be considered as young. 关键词还有middle-age, portrait
 
 233.Trust levels. 信任水平  
 
+The lecture discusses sharing economic platforms, such as Uber and Airbnb, highlighting their significance in rebuilding trust in America. The speaker explains that those platforms allow Americans to trust each other again. Additionally, they develop a high level of trust in strangers. It shows that people interact with comments and reviews from strangers. Furthermore, the speaker mentions friends and family. In conclusion, society builds trust dramatically through economic activities.
+
 234.Climate change in Australia. 澳大利亚的气候变化  
+
+The lecture mainly talked about climate change. Firstly sea level rising can be seriously affected by climate change, which can be related to floods, drought and rain. Secondly, a large city in Australia can have an adverse impact on sea-level rise because low-lying areas can lead to disturbing discoveries. Lastly, the world's population can be conducive to geologists' work, which can be crucial to sea level rising.
 
 235.Human rights. 人权  
 
+Human rights are essential to society and can protect the diversity of beliefs for humans.
+人权对社会至关重要，可以保护人类信仰的多样性。 
+
 236.The universe and time machine. 宇宙与时间机器  
+
+If we look far away, it is hard to detect whether the universe exists or not. Because we don't have a time machine, we cannot go back to look at it. But we can find fossils to do research. Finally, we can use the eight-dimensional model to look back at the history of the universe.
 
 237.Improving teaching qualities. 提高教学质量  
 
+We should think about how to improve teaching quality. Teaching is not all about teachers. What we should do is to put emphasis on teachers rather than on teaching. In this case, we should not only evaluate and rate teachers' performance but should also improve the education system.
+
 238.Making right decisions. 做出正确决策  
+
+Making the right decisions on certain occasions is just like starting up a company. Sometimes a right decision initially turned out to be wrong. Firstly, you should find a team because you need a good team to make good decisions. Secondly, you should take sufficient information before you can make the right decision. Thirdly, you should talk with your team and try to make a rigorous decision.
 
 239.Theater study. 戏剧研究  
 
+Theater study is a difficult subject in the academy because it cannot be experimental and it is a mixture of literature and personal life experience. Theatre should show pure lives, although there will be new actors or directors. It is also a collection of different skills, such as writing and singing. To succeed in this subject, you need knowledge of linguistics, sociology, archeology, physics, psychology, and philosophy. Theater study is interdisciplinary, and you need to be a linguist and archaeologist to fully understand theater study. If we move everything away, there are some intellectual and distinctive things left. Hence, it is an ongoing project in the academy. What makes theater study distinctive is that it is an ongoing project that requires a study lifespan of 60 to 70 years. Theater study is a difficult subject in academy, and theater study is a combination of literature and life experience.
+
 240.Population growth. 人口增长  
+
+This lecture mainly talks about the population. Firstly, the population should be related to the environment. And the increase in population will become a challenge. Secondly, opportunities can exist in the population. They will increase to six billion people. After all, food sources must have positive impacts on our lives. In conclusion, the population can be vital to the world.
 
 241.Leadership. 领导力  
 
+This lecture mainly talks about leadership. Firstly, leaders can mobilize people’s energies in ways. Sometimes they can define goals and mobilize energies through rhetoric and the power of example. Secondly, we can think of leadership as a spectrum, including authoritative leaders like the president and casual, low-key leadership. Finally, the first one has been exhibited by men and the second one was women, but the pattern has been changing.
+
 242.Organizational study. 组织研究  
+
+The lecture mainly talks about organization courses. Firstly, organization courses should be related to our career due to leadership skills. Secondly, organization courses can exist in our universities. Thirdly, he mentioned that organization courses are very important. After that, organization courses must have a positive significant impact on our careers. In conclusion, organization courses can be vital to how to work with different people.
 
 243.Inequality in children. 儿童不平等  
 
+According to the professor’s sociology research, the capacity of well-educated parents will remain in their prosperous children because these children have sufficient educational capacity and support since they were born. According to studies, the life chance of a child has been set by five years old, which is a compelling and disturbing fact. The professor cannot find obvious ways to address this deep root of inequality in our society. 
+
 244.A device. 一种设备  
+
+--
 
 245.Nuts. 坚果  
 
+The lecturer is interested in find out why we work and how we work when technology brings about changes. A starting point is to learn the labor process. Examples include how people interact with the environment and find shelters. The development of society is closely related to the labor process because labor process meets the basic human needs. 大概这样，我语言组织没什么逻辑，希望有大神带回来题。
+
 246.Exercise. 锻炼  
+
+Exercise has two conditions: 1. health exercise 2.investment investigation on the benefit of exercise: half hour daily at least;
+At last, how much exercise can we tolerate(sunscreen)
 
 247.Data privacy. 数据隐私  
 
+Data privacy issue; technology develops; devices companies; devices with voice activation tech monitor daily life,because monitor so refuse to use(voice activation technology)
+this is controversial, because some users prefer to give up data privacy and share personal information or experience.
+
 248.Risk management. 风险管理  
+
+the lecture talks about how to do risk management in investment.
+First of all, the directors should acknowledge the ideal of the investment.
+Secondly, the investment plan should be made and reviewed by the CEO and CFO.
+At last, the lecture also mentioned the risk shareholders and applying strategy.
 
 249.Biggish city. 较大的城市  
 
