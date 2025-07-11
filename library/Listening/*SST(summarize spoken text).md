@@ -524,55 +524,103 @@ This lecture is about the relation between the Internet and journalism. Firstly,
 
 117.California water war. 加州水战争  
 
-
+The lecture discussed California water wars. Firstly, as Los Angeles expanded, its demand of water outgrew the supply of water. Therefore, Angeles derived water from Owens Valley in 1913, which ruined the valley’s agricultural economy although farmers tried to destroy the aqueduct水槽 in 1924. Then, LA derived water from Mono Lake in 1941, which threatened the habitat for migrating birds. Finally, the Mono Lake Committee conducted the litigation诉讼 in 1992 to force LA to stop diverting water.
 
 118.Internet. 互联网  
 
+This lecture is about the internet. The internet was developed by people who are good at programming. The internet can achieve many things. It has both good and bad sides. People who use email need to trust each other. There is no authentication in the system. Email was developed by students. They did not consider security.
+
 119.Consumer conduct. 消费者行为  
+
+Messages have different impacts on consumers’ behavior. The study sent messages to people who have credit cards but did not use them. Half people received messages about the beneficial aspects of using the cards, while the rest customers received letters which focused on the potential loss/missing out. Twice of the people start using credit cards by knowing the potential loss. In conclusion, people are more aware of the loss than the gain and threaten is more effective.
 
 120.The history of software. 软件的历史  
 
+This lecture mainly talks about the history of software. Firstly, the speaker mentions that the history of software is very new. Secondly, the rapid expansion in the power of computing and the rapid fall of the cost of computing and storage and communications has made it feasible for information technology to move into all sorts of areas of life. Finally, the progression of the IT industry is a stampede.
+
 121.Language in vocabulary. 词汇中的语言  
+
+According to the lecture, historical linguists compare languages at several levels and look for the basic vocabulary. Some languages may have certain words, but other languages don't include these words like head and ears. When you are looking for notions that are totally comparable, you should refer to the most universal notions, which are closely related. Also, you may also look for the words that sound the same.
 
 122.Roman building. 罗马建筑  
 
+This lecture mainly talks about Roman cities. Firstly, the speaker mentions that the Roman city was not planned all at once and it just grew over time. Secondly, the Romans structured the city in a care and methodical way and based on military strategy and military planning. Finally, the Romans built camps and the camps were laid out in a geometric plan along a grid.
+
 123.Online research. 在线研究  
+
+This lecture mainly talks about the Internet and online research. Firstly, online researching may have a negative effect on low cost, because online researching can harm the progress of traditional messages. Secondly, face-to-face communication can be significantly influenced by online communication, which may pose a challenge to those who communicate with. Lastly, valuable online research can support the improvement of the digital age.
 
 124.Semantic noise. 语义噪声  
 
+The lecture discusses the subject of semantic noise. The lecture mentions communications and messages. Semantic noise in communication is a type of message. Noise exits in all examinations. The ambiguity is caused because everybody sees different meanings in the same sentences. In regular people of different ages, cultures, experience and education.
+
 125.Drop out of school. 辍学  
+
+The lecture was about dropping out of school. Firstly, the speaker mentioned that low achievers are likely to drop out of school because of the push and pull factor. Boys have more job opportunities available and traineeship. The transmission is hard. However, it is completely bad for girls to drop out of school because they will only do part-time job or stay unemployed. In conclusion, this lecture was informative.
 
 126.Can food. 罐头食品  
 
+The lecture was about canned food. Firstly, there were a lot of canned foods during the Great Depression. Secondly, refrigerators became very popular during the Great Depression. The lecture suggested that thanks to electrification, people could buy appliances and frozen foods with rows and rows of canned foods at supermarkets.
+
 127.Climate and crops. 气候与作物  
+
+The lecture is about a difficult understanding topic that crops and the climate affect each other . If we deforest and plant crops , it will alter the characteristics of the land surface . It will change the way water and heat flow from the surface to the atmosphere . It will change the regional climate . It requires crop scientists and climate scientists to join their models .
 
 128.Language acquisition. 语言习得  
 
+Language acquisition starts earlier than most people think. They think language acquisition starts when children say the first word, but it starts in the first year, even before children are born.Similarly, language acquisition ends later than people think. In conclusion, the two ends of child language acquisition are further apart and there is more scope for studying language than people think.
+
 129.Mind-brain identity theory. 心脑同一理论  
+
+This lecture mainly talks about identity theory. Firstly, identity can be seriously affected by the brain. Philosophers used to think the mind was just identical to the brain in the 1950s. Later, some philosophers claimed the mind is the brain. When identity happens between A and B, you don't have two things but one thing. Lastly, basic ideas can be conducive to metal properties about mental and brain events.
 
 130.Recycling water. 水循环利用  
 
+This lecture mainly talks about water recycling. Firstly, the speaker mentions that we don’t have enough water in the world, so we have to recycle water. Secondly, the water in the world is changing, but the new fresh water we need is not changing. Moreover, there are a lot of different areas of technology involved in water recycling. Finally, water recycling is not a closed loop in the home.
+
 131.Research on social science. 社会科学研究  
+
+The speaker mainly talks about inequality in our society. Firstly, true factors should be related to many children due to well-educated parents. Secondly, their capacity can exist at five years old. After that, deep roots should have a positive impact on our society. In conclusion, life changes can be vital to inequality in our society.
 
 132.Demolition of buildings. 建筑拆除  
 
+This lecture mainly talks about the design of buildings. Firstly, architecture provides a physical environment for people to live in, and is also a part of our culture. Secondly, Darwin's theory of natural selection for architecture is that buildings should adapt to the new world to survive or be pulled down. Finally, culture is still important for modern construction.
+
 133.Biology application. 生物学应用  
+
+This lecture mainly talks about the application of synthetic biology. Firstly, the speaker mentions that life has evolved, and now they have the ability and the power to engineer it. Secondly, synthetic biology is the next level of genetic engineering. Finally, now they are no longer limited to the pieces, and now they can even create new organisms from scratch.
 
 134.Food crisis. 粮食危机  
 
+The lecture mainly talks about the food crisis. There is a serious food crisis expected to last until 2030. We must double production yield to feed the growing global population. This is an urgent issue, and people should increase food production now. In developing countries, scientists predict food production will rise by 30% to 50% in the next three years.
+
 135.English language. 英语语言  
+
+This lecture mainly talks about the history of the English language. Firstly, the speaker mentions that English is not a pure language and there are not any pure languages in the world. Secondly, the English language has been borrowed from other languages and it is a variety of many languages. Finally, today we are not only learning about languages but we are learning about history.
 
 136.Earth and Mars. 地球与火星  
 
+This lecture mainly talks about Mars and Earth. Firstly, Mars may have a detrimental effect on not far away from Earth, because Mars can hinder the progress of no evidence of water. Secondly, ice and water can be significant influenced by heavy gases, which may pose a challenge to low gravity. Lastly, the destination of Earth can support the improvement of Mars.
+
 137.Clear and understandable. 清晰易懂  
+
+The lecture is about precision and clarity. Some people speak words without connecting them to any meaning. Therefore, we should make things clear and correct, and specify详尽说明 what we say with enough details. For example, if someone asks “do you want to eat”, you should specify what you want to eat instead of simply saying “yes”. Thus, you should say everything clearly and understandable if you want everyone to understand you well. 
 
 138.Human immigration. 人类移民  
 
+The topic focuses on human immigration during the Paleolithic period. During that time, temperature plummeted, rain levels decreased and ice sheets melted. It was discovered that people retreat to the northeastern tip of Spain. The growing ice mass had to take water, causing sea levels to fall. These areas were exposed, and people could live on these areas but we have no evidence of their settlements because it's underwater.
+
 139.French women rights. 法国女性权利  
+
+--
 
 140.The real science. 真正的科学  
 
+The lecture is about a book which is talking about real science. Moreover, the book including 1-2 incorrect phenomenon and many negative examples to show the process of seeking the truth is time-consuming and involving many failures. Finally, real science may not be what people thought it would be, and it might be boring and time-consuming. 
+
 141.A successful entrepreneur. 一位成功的企业家  
+
+This lecture gives information about successful entrepreneurs. Firstly, the speaker talks about why it needs good ideas. In addition, he also mentions several features which need to be unique, transformative and productive. Lastly, unique concepts are inspired by simple things. In summary, it is important to present them in a better or more precise way.
 
 142.The exposure to emotions. 情感暴露  
 
