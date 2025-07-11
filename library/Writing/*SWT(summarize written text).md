@@ -5,9 +5,11 @@ Type your response in the box at the bottom of the screen.
 You have 10 minutes to finish this task.
 Your response will be judged on the quality of your writing and on how well your response presents the key points in the passage.
 
+Vocabulary: 
+Writing
+
 Tips: 
-All the vocabulary is required to be written.
-There is only a image, but not include title.
+There is only messages, but not include title.
 
 Filter: Test
 Sort Type: Creation time(Ascending order)
@@ -15,25 +17,47 @@ Total: 198
 
 1.Labor comparative advantage. 劳动力比较优势  
 
+With an abundance of low-priced labor relative to the United States, it is no surprise that developing countries specialize in the production of labor-intensive products, but logic implies that the United States is not relatively intensive in human and physical capital, so once these technologies become well-understood and production processes are designed that can make use of less-skilled labor; production will migrate to countries with less expensive labor.
+
 2.Nobel peace prize. 诺贝尔和平奖  
+
+This year's Nobel Priz rewards the thousands of scientists of the United Nations Climate Change Panel the IPCC, and the best study shows that heat will claim 400,000 more lives, but 1.8 million fewer will die because of cold, and according to the first complete survey of the economic effects of climate change on the world, and global warming will actually save lives.
 
 3.Coffee House in London. 伦敦咖啡馆  
 
+The South Sea Bubble burst in 1720, and the coffee house exchanges burned down in 1748, and yet the 325000 souls have now overtaken their New York rivals in the size of the funds managed including offshore business, and for foreigners in finance, London is the place to be, and yet the fact that s still files so high is against the odds, and the deals just keep on getting bigger.
+
 4.Beauty contest in Australia. 澳大利亚选美比赛  
+
+Despite the feminist movement in the 1960s and 70s, which was to picket beauty pageants on the premise that women are judged on their appearance, many young Australian women today are still profoundly uncomfortable with their body image, especially for young women, who want to lose weight with a normal BMI, and this beauty obsession are profoundly hazardous to the mental health of young Australians.
 
 5.Technology prediction IBM. IBM技术预测  
 
+The chairman of IBM predicted in the fifties that the world would need a maximum of around half a dozen computers, and the British Department for Education for education seemed to think in the eighties that we would all need to be able to code in BASIC and that in the nineties Microsoft failed to foresee the rapid growth of the Internet, which means that i am not entirely convinced that they are very relevant.
+
 6.Children watching TV. 儿童看电视  
+
+For children, the amount of time spent watching TV goes up, the amount of time devoted not only to homework and study but other important aspects of life such as social development and physical activities decreases and television is bound to have its tremendous impact on a child, both in terms of how many hours a week he watches TV and of what he sees.
 
 7.Namibia. 纳米比亚  
 
+When Namibia gained independence in 1990, teenager Pascolena Florry was herding goats in the country's dry, desolate northern savannah, and she saw wildlife as the enemy, and many of the other indigenous inhabitants of Namibia's rural communal lands shared her view, and she has built a previously undreamed career in tourism and is the first black Namibian to be appointed a manager of a guest lodge.
+
 8.Armed Police. 武装警察  
+
+Armed police have been brought into NSW schools to reduce crime rates and educate students, so the SLPs will conduct crime prevention workshops, talking to students about issues including shoplifting, offensive behavior, graffiti and drugs, and alcohol, then the use of fake ID among older students is among the issues he has already discussed with principals, and different communities will respond to this kind of presence in different ways.
 
 9.Grass and cow. 草与牛  
 
+The co-evolutionary relationship between cows and grass is one of nature's underappreciated wonders, and it is key to understanding modern meat, and for the grasses, which have evolved to withstand the grazing of ruminants, the cow maintains and expands their habitat by preventing trees, and the animal spreads grass seed, and this is an excellent system: for the grasses, for the bacteria, for the animals, the animals eaters.
+
 10.Songbirds. 鸣禽  
 
+Males do the singing and females do the listening, and it was a cherished view of courtship in birds, but now some ornithologists are changing the tune, and females that sing have been overlooked, and the findings go beyond modern species, and they suggest these ancient females may have been using their songs to deter other females from their territories, and to coordinate breeding activities with males.
+
 11.Parent's born order. 父母出生顺序  
+
+Parents' own birth order can become an issue when dynamics in the family they are raising replicate the family in which they were raised , and the youngest parents can be helpful to their firstborn , who may have a harder time with social situations , and these parents can help their eldest kids loosen up and not be so hard on themselves , and biases can surface no matter what your own birth position was .
 
 12.Living in countryside. 乡村生活  
 
