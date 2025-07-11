@@ -838,78 +838,159 @@ This lecture gives information about successful entrepreneurs. Firstly, the spea
 
 249.Biggish city. 较大的城市  
 
+This lecture mainly talks about the population of cities in the past. Firstly, the population of cities in history can be seriously affected by numbers in thousands and millions, which can be related to scientists. Secondly, the same figures can have an adverse impact on ideal cities, because citizens can lead to low. Finally , citizens can be conductive to governments, which can be crucial to easier management.
+
 250.Salt. 盐  
+
+This lecture is about salt and its effects on us. Firstly, salt can be found in our sweat, so remember to take some salt after exercising for a long time to prevent dehydration. Secondly, salt can also be found in salty food. However, we should be cautious because salt is realted to some illnesses such as high blood pressure and heart disease.
+这堂课是关于盐及其对我们的影响。首先，盐可以在我们的汗液中找到，所以记得在长时间运动后服用一些盐以防止脱水。其次，盐也可以在咸味食物中找到。然而，我们应该谨慎，因为盐与某些疾病有关，如高血压和心脏病。
 
 251.Cover letters. 求职信  
 
+1 phase:mobile number,school;university information;
+2 phase: motivation;suitable,skills and abilities;
+3 phase:resume; thank you for taking time to read my resume;if the recruitment unit is interested,please contact me. 
+
 252.Strategy to categorize. 分类策略  
+
+--
 
 253.Air pollution. 空气污染  
 
+This lecture mainly talks about air pollution. Firstly, visible pollution such as black smog is coming from the factories and causes health problems. Secondly, air pollution can result in death, so the cleaning policy was introduced. In addition, the current air pollution is invisible but still has significant impacts on health. Finally, the key factor of air pollution is because we are vehicle dependent.
+
 254.Implicit and explicit memory. 内隐与外显记忆  
+
+This lecture mainly talks about different types of memories. Firstly, its background can be seriously affected by cultural and social factors, which can be related to procedure memories. Secondly, the system of memory can have an impact on automatic nature, which can lead to reading and driving. Lastly, our hour memories can be beneficial to its implicit memories. In conclusion, this lecture mainly talks about different types of memories.
 
 255.Sugar. 糖  
 
-256.Tutorial. 教程  
+This lecture is mainly about sugar. Firstly, sugar is in a lot of food. Sugar is in ice cream and candy. Secondly, people do not expect to find sugar in other places. Sugar is the second most common ingredient in peanut butter. Sugar comes right after peanuts. Lastly, people would not expect to find sugar in beef stew, but it is there.
+
+256.Tutorial. 教程；专题报告；学习指南  
+
+This lecture mainly talks about tutorials and lectures. Firstly, tutorials can be seriously affected by students, which can be related to tutors. Secondly, subjects can have an adverse impact on tutorials because time management can lead to critical thinking. Lastly, small groups can be conducive to tutorials, which can be crucial to general ideas.
 
 257.John Milton. 约翰·弥尔顿  
 
+The lecture mainly talks about the topic of John Milton. Firstly, his poetry can be seriously affected by new sonnets, which can be related to the prose. Secondly, different writings can have an adverse impact on the content, because a lot of events can lead to personal freedom. Lastly, a work can be conducive to the publication, which can be crucial to a pamphlet.
+
 258.Australian Immigration. 澳大利亚移民  
+
+This lecture mainly talks about Australian immigration. Firstly, migration may have a negative effect on indigenous people, because migration can harm the progress of humans in Australia. Secondly, sea levels lower than today can be significant influenced by coastline and tourists, which may pose a challenge to content separate. Lastly, multiculturalism can support the improvement of the majority of the population from Asia and South Asia.
 
 259.Telescope. 望远镜  
 
+The lecture mainly talked about telescopes. Firstly, the speaker said eyes are our human telescopes. Secondly, a bigger telescope can see more things and details because there is more light coming into the telescope. Thirdly, the speaker introduced the digital telescope, which is 100 times more efficient than a normal telescope. In conclusion, the lecture mainly talked about different types of telescopes.
+
 260.Market. 市场  
+
+This lecture mainly talks about markets. We need to focus on products . Then customers and people will buy your products . It 's very important to focus on the product . We need to sell as much as we can and we pay attention to the business project. The bigger your market share is , the more value and profits you will get. We develop based on your marketing.
 
 261.Marine Protected Areas. 海洋保护区  
 
+This lecture mainly talks about marine protected areas. Firstly, human activities can be seriously affected by climate change, which can be related to some form of protection. Secondly, entire ecosystems can have a negative impact on international fishing routes, because this fish hatchery can lead to coastal economies. Lastly, conservation requires money can be beneficial to very high debt, which can be crucial to prioritizing conservation.
+
 262.Unfair trade. 不公平贸易  
+
+This lecture mainly talks about common ethical values and standards. Firstly, financial crisis can be seriously affected by financial instability, which can be related to new risks. Secondly, specific cultures can have a negative impact on the global market economy, because different regions can lead to financial gains. Lastly, ethical considerations and fairness can be beneficial to a fundamental guideline, which can be crucial to a fair global economy.
 
 263.Height and Social Status. 身高与社会地位  
 
+This lecture mainly talks about height and social status. Firstly, a study discovered individuals tend to overestimate a person’s height based on their higher social status. Secondly, when a man was introduced as a professor, the estimations were taller. However, when he was introduced as a normal guy, the estimations were lower. Finally, people need to strive for a more objective and equitable perception of others.
+
 264.Digital Technology and Globalization of Services. 数字技术与服务全球化  
+
+This lecture mainly talks about the lack of globalisation. Firstly, lack of globalisation may have a negative effect on shipping goods, because lack of globalisation can harm the progress of many services. Secondly, technological can be significant influenced by limited globalisation, which may pose a challenge to physical goods. Lastly, digital technologies can support the improvement of activities than others.
 
 265.Global fishing crisis. 全球渔业危机  
 
+This lecture mainly talks about the fish player. Firstly, the fish player can be seriously affected by the ecosystem, which can be related to marine mammals. Secondly, it can be important to human beings, which can lead to fish industries. Lastly, overfishing can have an adverse impact on fish populations, which can be crucial to the global fishing crisis.
+
 266.Machines increase unemployment. 机器增加失业  
+
+This lecture mainly talks about computers. Firstly, artificial intelligence can be seriously affected by spoken language, which can be related to composing music. Secondly, driving vehicles can have a negative impact on one of the most common occupations, because taxi drivers can lead to bus drivers. Lastly, the healthcare industry can be beneficial to the administration, which can be crucial to being replaced by technology.
 
 267.Honeybee Hives. 蜂箱  
 
+This lecture mainly talks about honeybee hives . Firstly , he points out that there are queen and worker bees in the hives . Secondly , he also mentioned that females and males are also important . Thirdly , males can live about 30 days and they also have a strong body . What 's more , the speaker also talks about the importance of new generations of bees .
+
 268.Food Waste Crisis. 食物浪费危机  
+
+This lecture mainly talks about food waste. Firstly, food waste can be seriously affected by supermarkets, which can be related to consumers. Secondly, food waste can have an adverse impact on the United States, because eating habits can lead to food waste. Lastly, food waste can be beneficial to individuals, which can be crucial to the environment.
 
 269.Black Fly. 黑蝇  
 
+This lecture mainly talks about black flies. Firstly, black flies will crash the exposed areas of skin and feed on flood. Secondly, in West Africa, one person may get ten thousand bites each year. Moreover, the bits can lead to reactions such as small red spots, but repeated bites can lead to blindness. In conclusion, this lecture talks about black flies.
+
 270.Smart Consumers Choose Brands. 精明消费者选择品牌  
+
+The speaker mentions that consumers are incredibly smart. Consumers combine products and brands. He talks about how the brands make them feel. Brands are essential and they 're associated with products. Consumers buy the best laundry detergent. If consumers select you, they want you to better perform. This is called engineering contradiction. They 're not common things and you don't want to shake them before you use your washing machine.
 
 271.Stock Market and Business. 股票市场与商业  
 
+The lecture discussed stock markets. The speaker explained that a stock market is a place where people buy and sell stocks. The lecturer said that people can buy stocks online through stock markets by using an account. He mentioned that manufacturing companies used to use stock markets to collect money from investors. Modern companies, such as Apple and Google, are big enough to earn money and use stocks differently.
+
 272.Sleep. 睡眠  
+
+This speaker mainly talked about memory and sleep. First of all, people need to sleep before learning, and people also need to sleep after learning. Secondly, the speaker claimed that there are bad things that happen when you do not get enough sleep. Moreover, the speaker emphasized that sleep can prepare your brain and body. In conclusion, when you have enough sleep, you can make new memories.
 
 273.Journalism and Internet. 新闻业与互联网  
 
+This lecture mainly talks about journalism and the internet. Firstly, journalism can be seriously affected by the internet, which can be related to newspapers and TV. Secondly, you can have a video on the internet, because the internet has both negative and positive impact. Lastly, information can have an adverse impact on journalism, which can be crucial to the story.
+
 274.Credit Card Experiment. 信用卡实验  
+
+The speaker talked about an experiment about credit cards , and the study found that the potential loss is a more effective way for customers to let them use the credit card , compared with directly active activities . He also mentioned that further studies of this area can make companies get a better understanding of customer decision making .
 
 275.Bees' genes and Darwin. 蜜蜂基因与达尔文  
 
+The speaker talked about the honeybees ' perfect organism , and the queen is the most important role of honeybees . They can produce many eggs , and nearly 2 million in their whole life , and the male bee can not work . Furthermore , the speaker also mentioned the worker bees feed others till they die , and the younger generation will show up .
+
 276.Children Directors. 儿童导演  
+
+This lecture mainly talks about social skills. Firstly, social skills can be seriously affected by individuals, which can be related to students. Secondly, social skills can have an adverse impact on strong relationships, because social activity can lead to understanding. Lastly,social skills can be beneficial to self-regulation, which can be crucial to critical thinking skills.
 
 277.International Law. 国际法  
 
+The speaker discusses several historical perspectives of international law, emphasizing that there are many new settings of significant and development. It was also mentioned that many countries had already established international law one hundred years ago like the United States and Australia in 1648, indicating that it makes the rules formally and shade light.
+
 278.Dialects. 方言  
+
+The lecture gives information about the distinction between dialects and accents; the speaker underscores the shaping of dialects by diverse influences, such as geography, society, family and education; the speaker emphasizes the adaptability and interconnectedness of dialects within our linguistic landscape; overall, the lecture presents a comprehensive analysis of the nuanced difference between dialects and accents.
 
 279.Multiculturalism & Cultural Diversity. 多元文化与文化多样性  
 
+The speaker talked about the importance of multiculturalism and diversity , which means we have different cultures and believe in the world . He also mentioned we should not only respect the different cultures but also celebrate them . Furthermore , we can learn from different cultures , and it is a good way to understand the world , and make the word inclusive . In conclusion , celebrating our differences can make the world better .
+
 280.Sound of words. 词语的声音  
+
+This lecture emphasises the importance of the world and sounds. Sounds have played an important role in natural processes. They lead to significant communication and cognitive development. Sounds can express complex ideas and information. Phone numbers are mentioned in the speech. Conversations underscore the practical information of words. Sounds interact with the world.
 
 281.International trading system. 国际贸易体系  
 
+This lecture gives information about exploration of international trading systems. Firstly, the speaker talks about international commerce. In addition, he also mentions that consumers enjoy the improvement of quality and economic growth. Lastly, we know that international trading is not just an economic move but a force of society and opportunities for development. In summary, it is indeed a boom on the global scale.
+
 282.Singapore. 新加坡  
+
+This lecture mainly discussed the relationship between globalisation and Singapore. Firstly, the speaker highlighted the city model like Singapore. Secondly, the speaker also mentioned urban planning as well as talked about how we need to think forward for urban planning. In conclusion, this lecturer talked about globalisation, urban planning and Singapore.
 
 283.Cosmology and maths. 宇宙学与数学  
 
+The lecture mainly talks about the relationship between cosmology and mathematics . Firstly , the lecture begins with cosmology and mathematics as tools to understand the natural world . Secondly , the mental aspects and shape of the customs are mentioned by the speaker . And then , the speaker mentioned that mathematics is the foundation for exploring the universe , which guides scientists .
+
 284.Bees waggle dance. 蜜蜂摇摆舞  
+
+This lecture mainly talks about the communication model of honey bees. Firstly, honey bees can communicate with each other about nectar, which can be related to other bees. Secondly, they can do warning signals, which can inform others about the dangerous sources of nectar. Lastly, they can benefit from dancing and singing, because they can use dances and sounds to describe different flowers and ensure their safety and colonies.
 
 285.Transportation Network in Paris. 巴黎交通网络  
 
+This lecture mentioned the transportation network in Paris is good. First of all, the speaker said there is good underground transportation. Secondly, the speaker mentioned the Paris metro is not the cleanest. Moreover, the speaker emphasized that the metro and trains make long-distance travel easy. In conclusion, we need to bring a passport and a photo ID.
+
 286.Genes and Intelligence. 基因与智力  
 
+The lecturer published an article about genes and intelligence on a journal. It mentions "gene" "supergene" and  "the brightest people" The scope of the limited within America. It also mentions "life science" with a curve of normal distribution about people of low and high intelligence. A hypothesis in mentioned, with "functional... solving-skills" and "medical problem".
+
 287.Organizational study. 组织研究
+
+The lecture mainly discusses organization studies, emphasizing its interdisciplinary nature that involves social sciences, psychology, and cultural studies. The speaker explains that this broad approach allows for more creative thinking and the breaking of traditional academic boundaries. In the end, the lecture highlights how organization studies provide a unique platform for understanding real-world contexts and decision-making processes.
