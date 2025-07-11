@@ -4,8 +4,8 @@ You will hear a sentence.
 Please repeat the sentence exactly as you hear it.
 You will hear the sentence only once.
 
-Tips: 
-All the vocabulary is required to be spoken.
+Vocabulary: 
+Speaking
 
 Filter: Test 
 Sort Type: Creation time(Ascending order)

@@ -6,8 +6,10 @@ You should write 50-70 words.
 You have 10 minutes to finish this task.
 Your response will be judged on the quality of your writing and on how well your response presents the key points presented in the lecture.
 
+Vocabulary: 
+Writing
+
 Tips: 
-All the vocabulary is required to be written.
 There is only a short lecture, but not include title.
 
 Filter: Test

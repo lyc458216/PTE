@@ -5,8 +5,8 @@ Type the sentence in the box below exactly as you hear it.
 Write as much of the sentence as you can.
 You will hear the sentence only once.
 
-Tips: 
-All the vocabulary is required to be written.
+Vocabulary: 
+Writing
 
 Filter: Test
 Sort Type: Creation time(Ascending order)

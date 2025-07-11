@@ -3,10 +3,13 @@ Look at the image below.
 In 25 seconds, please speak into the microphone and describe in detail what the image is showing.
 You will have 40 seconds to give your response.
 
-Filter: Test
-Sort Type: Creation time(Ascending order)
+Vocabulary: 
+Speaking
 
 Tips: There is only a image, but not include title.
+
+Filter: Test
+Sort Type: Creation time(Ascending order)
 
 Step graph - 5
 Pie chart - 3
