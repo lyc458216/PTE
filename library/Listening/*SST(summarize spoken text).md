@@ -624,61 +624,125 @@ This lecture gives information about successful entrepreneurs. Firstly, the spea
 
 142.The exposure to emotions. 情感暴露  
 
+The topic is about the utility效用 of negative emotions. Humans usually pay more attention to negative things such as fears because these negative emotions promote evolution and help people to survive and evaluate. However, we experience positive emotions much more frequently, but the effects are very limiting. Therefore, the negative emotions are less frequently but very intensive and life threatening. 
+
 143.Books. 书籍  
+
+This lecture mainly talks about the Republic. Reading books can develop our ideas, and there are two reasons. The first reason is the Republic is readable. It is not a dry textbook. There is a living conversation to support the short answers. It is easy to read, not difficult. The second reason is this book is meaningful. We can know an absolutely fundamental question and why we should be good.
 
 144.Australian transportation. 澳大利亚交通  
 
+The speaker talked about Australian transportation. Firstly, there are many people living in the countryside, so they need cars. In Australia, half of people don’t have a car and twenty percent of people cannot drive and most of them are elder or young people like students. Therefore, the government should emphasis on these people and improve public transportation. However, it may lead to some other impacts.
+
 145.Device. 设备  
+
+The emphasis of the lecture is about device usage into universe exploration. Firstly, the telescope is a device aiming at measuring the speed and look things far away, but some bad things regarding the universe due to the image is unable to reach there. As we don’t have the time machine, we cannot go back to look it. However, we can find some fossils to do research and use 8 dimensions theory to look back the history of the universe. 
 
 146.Internet structure. 互联网结构  
 
+This lecture mainly talks about the internet structure. Internet is a complicated structure. If you are going to send an email to your home, a telephone exchanging equipment will work on it. This switching equipment transfer the information from one city to another city through cables. The more we use the equipment, the more energy we consume.
+
 147.World's globalization. 世界全球化  
+
+This lecture mainly discussed globalization. Firstly, the speaker mentions that globalization is an overused and often misunderstood concept. In the beginning, it's a globalization process of markets and industries instead of countries. Then, she talks about it's helpful to think of globalization as ' the integration of economic activities across borders. Finally, globalization is very important because it means the rise of interconnectedness between countries and markets across the world.
 
 148.Foreign lands. 异国土地  
 
+The books in libraries have popular titles and describe the world with travel, distant lands and areas off the horizon. The lands are weird to reality. A guy travelled out of England in the 1930s. His journey involved the Middle East, Africa and Asia. He found foreign lands and became a parent. Europeans thought and recognised that it was outside their civilizations and beyond the mountains, which are unknown.
+
 149.Renewable energy. 可再生能源  
+
+This lecture mainly talks about renewable energy. Firstly, combating climate change can be seriously affected by generating from sources, which can be related to the most common sources. Secondly, the total energy consumed by humans can have a negative impact on fossil fuels, because greenhouse gas emissions can lead to the only emissions. Lastly, minimal emissions can be beneficial to renewable energy.
 
 150.Vitamin D V3. 维生素D 第三版  
 
+The human body manufactures vitamin D through the action of sunlight on the skin.However, some people do not get enough vitamin D from the sun and correctly applied sunscreen highly prevents people’ s absorption of vitamin D. Furthermore, all sunlight is not created equally and varies in different geographical locations.So, in the fall and winter, people who live at higher latitudes cannot get much vitamin D from the sun.
+
 151.Young people communities. 年轻人社区  
+
+This Uk research looks at how young students participate in communities, and how they form values through character education. Factors include parents, friends, schools, and siblings. Families are important to children's learning and development. Good parenting can provide support, care, love, guidance, and protection. This research has attracted the attention of national policymakers.
 
 152.Business and management education. 商业与管理教育  
 
+The lecturer was discussing management and leadership at Stanford University. Leaders need to be dynamic and entrepreneurial change agents, but management is not enough. Therefore, the School of Education will focus on learning while the School of Business will focus on management. Besides this, Stanford commits to deliver services with good quality. As a result, individuals should be responsible for achievement and accomplishment through group work. 
+
 153.Science. 科学  
+
+The two speakers are talking about organization study and how they appreciate it. Organization study is about a whole family of disciplines, such as social science, psychology, history, cultural studies. The speaker enjoys studying organization study because of its broad range and its breadth. What organization study has taught him is liberating释放 ideas without disciplinary规律的 boundaries.
 
 154.British colonies. 英国殖民地  
 
+In 1901, the new Australian nation codified these racist sentiments into law. Collectively called the White Australia policy, these immigration laws barred immigrants pending their successful completion of Byzantine “language tests,” administered in any European language immigration officers pleased. Like the “literacy tests” of the U.S. Jim Crow South, these tests were about race, not language; the arcane requirements magically loosened for European applicants. The policy halted almost all non-white immigration until the Australian government relaxed enforcement in the 1970s.1901年，新成立的澳大利亚将这些种族主义情绪写入法律。这些移民法律统称为“白澳大利亚政策”，禁止移民在成功完成拜占庭式的“语言测试”之前进入澳大利亚。就像美国南方的“读写测试”一样，这些测试是关于种族的，而不是语言;对欧洲申请人的神秘要求神奇地放宽了。直到上世纪70年代澳大利亚政府放松执法，这项政策才停止了几乎所有的非白人移民。
+
 155.Network. 网络  
+
+This lecture is about network. Network is a social relationship which helps to transfer information from one place to another. The transportation network provides numbers of public service and links places together. A good network can help people get to different destinations quickly with long-distance and multi-destination trips. In an old city with a high-density population such as Paris, people would better carefully plan their journey before traveling to reduce the density of commutes at the same time.
 
 156.Motivation V2. 动机 第二版  
 
+The lecture discusses achieving goals, highlighting its significance in communicating with others. The speaker explains that there are two ways to interpret it. One is approaching way while another is avoiding way. The approaching way is often related to good outcomes, which is more positive and more likely to succeed. One the other hand, the avoiding way usually ends with bad outcomes. In conclusion, the lecture underscores the goals.
+
 157.Industrial Revolution. 工业革命  
+
+The lecture talks about the industrial revolution. Today, the industrial revolutions could be measured through industrial workers and the number of machines in industries. Industrial productions rely on traditional forms of production. In 1871, the average number of units of production were more than 7 people. Therefore, if we only look at these big factories, we may miss the boat on the industrial revolution.
 
 158.Industrial Revolution V2. 工业革命 第二版  
 
+The lecture mainly talked about the Industrial Revolution. Firstly, the Industrial Revolution was the result of some great inventors. Secondly, people concentrate on England where the Industrial Revolution began. Moreover, the Industrial Revolution was a form of production. Lastly, the rapid development of industrial production was linked with traditional production.
+
 159.Cognitive Advantages of Bilingualism. 双语认知优势  
+
+The topic is significantly focusing on example in order to explain life and study. Additionally, border and babies are involved in supporting the topic. Italian babies has been discussed. The speaker mentioned situation. She provides explanation on settings. The lecture gives information on bilingual baby and head. This lecture talks about position. In conclusion, this lecture is very useful.
 
 160.Dress history. 服装史  
 
+According to a book, understanding the history of dress is important. People have three necessities: food, shelter, and clothing. In the past, people cared about food and shelter, but clothing has been ignored for a long period of time. Now, people think clothing matters as people are judged by what they wear.
+根据一本书，了解服装的历史是很重要的。人们有三种必需品:食物、住所和衣服。在过去，人们关心的是食物和住所，但是很长一段时间以来，人们忽视了衣服。现在，人们认为衣服很重要，因为人们是根据他们的穿着来判断的。----满足温饱后就想美美的，就想关注自己的形象
+
 161.The role of women. 女性角色  
+
+The role of women is constantly changing over years. In the 19th century, women played an important role in domesticity, who did domestic work, took classes and provided for their home, so women were the keeper of home. Later, women became mothers, and played a special role of motherhood in social identity, who used experience and knowledge to raise children and help their husbands, so women brought models for society.
+妇女的作用多年来不断变化。在19世纪，女性在家庭生活中扮演着重要的角色，她们做家务，上课，养家，所以女性是家庭的守护者。后来，女性成为了母亲，在社会认同中扮演着特殊的母亲角色，她们用经验和知识来养育孩子，帮助丈夫，为社会带来了榜样。----之前女人在家庭里主要是做家务，现在用经验相夫教子，越来越牛掰，成为榜样models
 
 162.Lawyers. 律师  
 
+The main topic is why to study law if you don't want to become a lawyer. He states studying law university is not necessary for becoming a practicing lawyer because law is not a vocational subject but an academic subject and an intellectual discipline and it is not sufficient until get additional training. And studying law university trains the student to write and think logically and clearly.
+
 163.Ancient people. 古代人类  
+
+According to the information we get from skeletons in Stone Age, our ancestors hunted animals for food with stone tools instead of planting their food, so there was a wide variety of food. However, the lifestyle was still difficult because the number of plants and animals reduced, so people had to consume bad quality food, resulting in infectious diseases. That’s why the quality of diets was physically hard.
+根据我们从石器时代的骨骼中得到的信息，我们的祖先用石器工具狩猎动物来获取食物，而不是种植他们的食物，所以有各种各样的食物。然而，生活方式仍然是困难的，因为植物和动物的数量减少了，所以人们不得不消费劣质的食物，导致了传染病。这就是为什么饮食的质量是身体上的困难。
 
 164.Urban technology. 城市技术  
 
+The smart city is a new project which is about the development of urbanization. Urban technology is a integrated technology. For example, there is traffic light and its sensor put into the ground that can identify the vehicle's location and guide drivers to a given position. The sensor can turn on and off automatically, save energy and collect data, so make sure the technology does not cross the line.
+
 165.Ocean environment. 海洋环境  
+
+The lecture is about oceam environment which is a problematic issue. 
+1.The sea level has changed because of the human footprint such as overfishing, heat storing, coral form and so on.
+2.So people need to provoke critical ways to find potential soulutions to sove these problems.
+3.And we also have to reduce human footpint and restore limited sapce on the earth.
 
 166.New Zealand. 新西兰  
 
+The lecture is about a super diverse New Zealand, such as having over two hundred ethnicities. Its megatrend is demography. There has great renovation, productivity and investment increasing New Zealand's financial capital, whereas most of the challenges from super - diversity adversely affect New Zealand's social capital. In conclusion, New Zealand is suitable for people to live in.
+
 167.Research in marketing. 市场营销研究  
+
+The lecture is about research in marketing on customers. In marketing, companies need to know their customers and how their customers look like, including their ages and product propensities, The research in marketing can help companies to identify the target audience and target pricing of your products, but companies should also clarify their ideas, think about the problems like competition, and buy new materials in a practical process.
 
 168.Geography. 地理学  
 
+This lecture mainly discussed geography. Firstly, the speaker mentioned geography is a subject of the earth's surface. After that, the speaker mentioned human geography and physical geography. After that, the speaker mentioned culture and languages. After that, the speaker mentioned the physical properties of the earth's surface, and human society spread across it. Finally, the speaker mentioned people could become a natural scientist or cultural specialist by studying geography. 
+
 169.The history of laundry. 洗衣的历史  
 
+This lecture talks about clothes washing. It is about hours of washing and boiling. The runing water and electricity washer and labors cost 50 gallons of water. It takes an entire day for the machine to lift and remove dirt. In 1846, human hands were replaced by machines. In 1927, the US households used this simple principle in the 19th century. A washboard was the first electric washer in 1900.
+
 170.Music and the brain. 音乐与大脑  
+
+The lecture talks about how music influences people's brain. Plato was marveled at the power of music over human characters and emotions. He also concerned that music could degrade or elevate the mind of young people. Some young scientists confirmed music's power over us. They did study to investigate what happened to the brain when people get chills to music. Intense music, spine and instrumental music are mentioned.
 
 171.Intuition. 直觉  
 
