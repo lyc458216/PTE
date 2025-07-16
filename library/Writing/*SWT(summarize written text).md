@@ -316,7 +316,6 @@ It might seem a little eccentric, but reviewing your work by reading it aloud ca
 
 35.Africans. 非洲人  
 
-
 ---
 Africa, which consists of more than 50 countries, has rich natural resources that attracts businesses all over the world and local conflicts in Africa can be solved through cooperation of governments and international communities; Africans identify their needs and the social cohesion can help them to develop tourism.
 
@@ -347,6 +346,7 @@ Nonetheless, viewing the double-blind trial as necessarily superior is problemat
 The feature of being double-blind, where neither patients nor physicians are aware of who receives the experimental treatment, is almost universally trumpeted as being a virtue of clinical trials, and the trials that fail to remain successfully double blind are regarded as providing inferior evidential support, and viewing the double-blind trial as necessarily superior is problematic, and it would be different if the claims at issue were pseudo-scientific untestable.
 
 39.Carbon Dioxide emissions. 二氧化碳排放  
+
 ---
 
 40.Population. 人口  
@@ -557,6 +557,7 @@ Like the viceroy butterfly imitating the monarch, we humans are imitating the be
 Biomimicry is a new science that studies nature's best ideas and then imitates these designs and processes to solve human problems, and we humans are imitating the best and brightest organisms in our habitat, andthe conscious emulation of life's genius is a survival strategy for the human race, and a path it a sustainable future, and the more wold looks and functions like the natural world, the more likely to endure in this home.
 
 99.Course. 课程  
+
 ---
 
 100.Microorganism. 微生物  
@@ -570,6 +571,7 @@ During the fallow period, there are many beneficial flora and micro-fauna, inclu
 With a good system of crop rotation, and especially with the addition of any sort of fertilizer you may be able to come up with, it's possible to grow crops on a plot of land for unwards of 23 years at a time with good results, and this fallow period allows the land to replenish many of its nutrients, and these microorganisms continue to be active at the root level.
 
 101.Curiosity. 好奇心  
+
 ---
 
 102.Fish. 鱼  
@@ -586,6 +588,7 @@ For the first time, scientists have demonstrated that fish exposed to such mater
 Fish are being killed, and prevented from reaching maturity, by the litter of plastic particles finding their way into the world's oceans, new research has proved, but the study published on Thursday is the first to prove the damage in trials, but can last for decades in our oceans, and for the first time, scientists have demonstrated that fish exposed to such materials during their development show stunted growth.
 
 103.Demand for resources. 资源需求  
+
 ---
 
 104.Visualization skills. 可视化技能  
@@ -643,6 +646,7 @@ The researchers also found that when the subjects were shown the chess diagrams,
 In a study in the current issue of the journal PLOS One, a team of scientists in Germany showed experts and novices simple geometric objects and simple chess positions and asked the subjects to identify them, and reaction times were measured and brain activity was monitored using functional MRI scans, and the researchers found that when the subjects were shown the chess diagrams, the novices looked directly at the pieces to recognize them.
 
 110.Translation and interpretation. 笔译与口译  
+
 ---
 
 111.Asda. 阿斯达  
@@ -655,6 +659,7 @@ A key aspect of a KTP is that an associate is employed by the University to work
 Asda has become the first food retailer in the country to measure how much customers can save by cutting back on food waste, and the campaign focused on providing customers with advice on everything from food storage and labeling to creative recipes for leftovers, and some events encouraged customers to make changes in their own homes, and Laura eventually became a permanent member of the team at Asda.
 
 112.Cellphone. 手机  
+
 ---
 
 113.Movies. 电影  
@@ -668,6 +673,7 @@ The first movie theatres were called Nickelodeons and were very basic compared t
 The 1920s moviegoers' experience was dominated by silent movies but saw the introduction of synchronized sound, and in the 1920s movie stars were really stars, and early silent movies were often accompanied by piano or organ music and provided enormous entertainment value, and it wasn't until 1923 that a synchronized soundtrack was printed onto the side of the strip of motion picture film, and it would still be seven years before talking pictures gained supremacy.
 
 114.Women Power. 女性力量  
+
 ---
 
 115.Architecture. 建筑  
@@ -707,6 +713,7 @@ Brand loyalty exists when consumers repeat-purchase your brand rather than swapp
 Brand loyalty exists when consumers repeat-purchase your brand rather than swapping and switching between brands and it is widely agreed that it is far more expensive to have to find a new customer though it's important to set a marketing objective of improving brand loyalty and repositioning occurs when a firm aims to change a brand's image then new packaging was designed.
 
 120.Curriculum. 课程  
+
 ---
 
 121.Honey and benefits. 蜂蜜及其益处  
@@ -731,12 +738,15 @@ Online communication can enable disabled students to communicate with their peer
 Disabled people were among the early adopters of personal computers, and they also gained the confidence to ask that providers of education make adjustments, and for some disability groups, and information in electronic format can be more accessible than printed information, and online communication can enable disabled students to communicate with their peers ob an equal basis, and they do not have to declare their disability and are not different.
 
 123.Cross-curriculum. 跨课程  
+
 ---
 
 124.The definition of psychology. 心理学定义  
+
 ---
 
 125.Australian housing price. 澳大利亚房价  
+
 ---
 
 126.Greenland shark. 格陵兰鲨  
@@ -761,21 +771,27 @@ Skipping Breakfast Has Drawbacks It's no mystery why so many people routinely sk
 Skipping Breakfast Has Drawbacks It's no mystery why so many people routinely skip breakfast bad timing and otherwise making themselves presentable for a new day and students who skip breakfast are not as efficient at selecting critical information for problem-solving as their peers who have had breakfast and skipping breakfast can impair thinking in adults and breakfast then becomes more of a learned experience than a response to a biological need, Hirshburg says.
 
 129.Winner. 赢家  
+
 ---
 
 130.Stages of a product. 产品阶段  
+
 ---
 
 131.Divide the world. 划分世界  
+
 ---
 
 132.Center and periphery. 中心与边缘  
+
 ---
 
 133.Summer vacation. 暑假  
+
 ---
 
 134.People who don't sleep well. 睡眠不好的人  
+
 ---
 
 135.Bertrand Russell. 伯特兰·罗素  
@@ -803,6 +819,7 @@ Solar panels have no moving parts and require very little maintenance beyond reg
 The advantages and disadvantages of solar power compared to other forms of renewable energy have been greatly debated, but a large number of advantages also merit further development and even possible adaptation for residences, and solar energy remains popular because it is both a renewable and clean source of energy, which is a true reneable reource and non-polluting, and solar panels have no moving parts and require very little maintenance beyond regular cleaning.
 
 137.The demand for resources. 资源需求  
+
 ---
 
 138.Education technology. 教育技术  
@@ -844,6 +861,7 @@ Translate this into a work setting, people, often unconsciously, believe being p
 Humans love to complain to each other, and it helps us feel less alone, and negative bonding is the default for many groups, and the reason these conversations feel good is because we feel understood, and in a work setting, people often unconsciously, believe being positive keeps you out of the cool club, and when negativity provides bonding, humans are reluctant to abandon the behavior that brings them comfort.
 
 142.Cognitive scientist. 认知科学家  
+
 ---
 
 143.Independent work. 独立工作  
@@ -909,6 +927,7 @@ The origin of these sciences is attributed to Aristotle and Theophrastus and the
 Ecology is the study of interactions of organisms , which seeks to understand patterns in nature , and climatology is the study of the physical state of the atmosphere , which studies how climate changes over time , and ecology and climatology share a common history , where their modern beginnings trace back to natural history and planet geography .
 
 151.Researching methods. 研究方法  
+
 ---
 
 152.Public speaking. 公开演讲  
@@ -923,9 +942,11 @@ This rule applies to any area where you feel insecure. Read and research as much
 Many insecurities, fears, and doubts stem from lack of understanding or lack of knowledge about something, so read and research as much about the topic as possible and it will help increase your confidence enough to give the activity a try to see if you might be able to become better at it, and initial confidence to take action is all you need to get the ball rolling and overcome your shyness.
 
 153.Predict volcano eruption. 预测火山喷发  
+
 ---
 
 154.Intelligence difference. 智力差异  
+
 ---
 
 155.A new studying mode. 新的学习模式  
@@ -1002,6 +1023,7 @@ Men hunted mostly with spears; the bow and arrow were probably not invented unti
 The ways of life of Upper Paleolithic people are known through the remains of meals scattered around their hearths, together with many tools and weapons and the debris left over from their making, and contrary to popular beliefs about 'cavemen', people did not live deep inside caves, and men hunted mostly with spears; the bow and arrow were probably not invented until the Magdalenian period that came at the end of the Upper Palaeolithic.
 
 164.Darwin. 达尔文  
+
 ---
 
 165.Legume. 豆科植物  
@@ -1069,12 +1091,15 @@ In compromise situations, neither side gets all of what they really want, but th
 Negotiation is a common process in business to mainly solve business conflicts between both parties, and compromise is a basic negotiation state, in which neither side gets all of what they really want, but they each make concessions in order to reach an agreement that is acceptable to both, and both parties usually can reach a win-win concept, although negotiation cannot resolve all the conflicts if one party is unwilling to resolve the problem.
 
 173.Three kinds of leadership. 三种领导力  
+
 ---
 
 174.Porous organic cages. 多孔有机笼  
+
 ---
 
 175.Standard English. 标准英语  
+
 ---
 
 176.Mugginess. 闷热  
@@ -1244,6 +1269,7 @@ The second study in the series( with 39 weight trained subjects) investigated th
 In order to have a competitive edge, athletes often use drugs with high athletic performance and, the national honey board recently found that honey has the same functions but less negative impact and, the second study in the series investigated the combination of honey with a protein supplement and suggested that honey speeds muscle recover after a workout.
 
 194.Open day event. 开放日活动  
+
 ---
 
 195.Immune System. 免疫系统  
