@@ -376,7 +376,7 @@ Researcher Dr. Anna Keski-Rahkonen said that Smoking, infrequent exercise, a low
 Previously, experts assumed that missing breakfast often called the most important meal of the day was simply the marker of a hectic life or a way to try to lose weight. But Dr. Keski-Rahkonen, who led the study at Helsinki University, said the results revealed starting the day without food suggests an unhealthy lifestyle.
 
 ---
-Skipping breakfast is a sign of an unhealthy lifestyle with potentially dangerous consequences , including a higher risk of premature death, and skipping food in the morning are also more likely to be fatter and less well - educated , meaning they find it harder to get a job, and breakfast may care less about their health than those who eat breakfast , and the results revealed starting the day without food suggests an unhealthy lifestyle.
+Skipping breakfast is a sign of an unhealthy lifestyle with potentially dangerous consequences, including a higher risk of premature death, and skipping food in the morning are also more likely to be fatter and less well - educated, meaning they find it harder to get a job, and breakfast may care less about their health than those who eat breakfast, and the results revealed starting the day without food suggests an unhealthy lifestyle.
 
 43.Voting. 投票  
 
@@ -615,39 +615,180 @@ A miner in the state of Chiapas found a tiny tree frog that has been preserved i
 
 71.Farming Technology. 农业技术  
 
+A farming technique practiced for centuries by villagers in West Africa, which converts nutrient-poor rainforest soil into fertile farmland, could be the answer to mitigating climate change and revolutionizing farming across Africa.
+A global study by researchers has for the first-time identified and analyzed rich fertile soils found in Liberia and Ghana. They discovered that the ancient West African method of adding charcoal and kitchen waste to highly weathered, nutrient-poor tropical soils can transform the land into enduringly fertile, carbon-rich black soils which the researchers dub African Dark Earths.
+Similar soils created by Amazonian people in pre-Columbian eras have recently been discovered in South America but the techniques people used to create these soils are unknown. Moreover, the activities that led to the creation of these anthropogenic soils were largely disrupted after the European conquest.
+Encouragingly researchers in the West Africa study were able to live within communities as they created their fertile soils. This enabled them to learn the techniques used by the women from the indigenous communities who disposed of ash, bones and other organic waste to create the African Dark Earths.
 
+---
+A farming technique practiced for centuries by villagers in West Africa, which converts nutrient-poor rainforest soil into fertile farmland, could be the answer to mitigating climate change and revolutionizing farming across Africa and a global study by researchers has for the first-time identified and analyzed rich fertile soils found in Liberia and Ghana and this enable them to learn the techniques used by the women from the indigenous communities.
 
 72.Nurse sharks. 护士鲨  
 
+Nurse sharks are nocturnal animals, spending the day in large inactive groups of up to 40 individuals. Hidden under submerged ledges or in crevices within the reef, the Nurse sharks seem to prefer specific resting sites and will return to them each day after the night hunting. By night, the sharks are largely solitary. Nurse sharks spend most of their time foraging through the bottom sediments in search of food. Their diet consists primarily of crustaceans, mollusks, tunicates and other fish such as spiny lobsters, crabs, shrimps, sea urchins, octopuses, squid, marine snails and bivalves and in particular, stingrays.
+Nurse sharks are thought to take advantage of dormant fish which would otherwise be too fast for the sharks to catch, although their small mouths limit the size of prey items, the sharks have large throat cavities that are used as a sort of bellows valve. In this way, Nurse sharks are able to suck in their prey. Nurse sharks are also known to graze algae and coral.
+
+---
+Nurse sharks are nocturnal animals, spending the day in large inactive groups of up to 40 individuals and by night, the sharks are largely solitary and nurse sharks spend most of their time foraging through the bottom sediments in search of food and nurse sharks are able to suck in their prey and nurse sharks are also known to graze algae and coral.
+
 73.Presidential election. 总统选举  
+
+According to the United States Constitution, a presidential election is to be held once every fourth year. The process of electing a President and Vice-President begins long before Election Day. Candidates from both major and minor political parties and independent candidates begin to raise money and campaign at least one year in advance of the general presidential election. In order to officially represent a political party, a candidate must be nominated by that party.
+This primary nomination process is a contest that often produces factions within political parties. These divisions impact the policy stances and agendas of the candidates running for nomination as they attempt to garner the support of party leaders and activists. The nominating process officially begins with the first state primaries and caucuses, which usually occur in the month of February of the election year. It is at these local events that voters are given their first chance to participate in electing the nation's next President.
+There are many factors that influence who will ultimately become the candidate for a party. The public's perception of the candidates is influenced by such things as media reports, public opinion polls, candidate preference surveys, and advertising. These factors will help determine the perceived strengths and weaknesses of the candidates in the months leading up to the caucuses and primaries.
+
+---
+According to the United States Constitution, a presidential election is to be held once every fourth year, and this primary nomination process is a contest that often produces factions within political parties, and the nominating process officially begins with the first state primaries and caucuses, and there are many factors that influence who will ultimately vecome the candidate for a party, and these factors will help determine the perceived strengths and weaknesses of the candidates.
 
 74.Overqualified worker. 资历过高的工人  
 
+If your recruiting efforts attract job applicants with too much experience a near certainty in this weak labor market you should consider a response that runs counter to most hiring managers MO: Don't reject those applicants out of hand.
+Instead, take a closer look. New research shows that overqualified workers tend to perform better than other employees, and they don't quit any sooner. Furthermore, a simple managerial tactic of empowerment can mitigate any dissatisfaction they may feel.
+The prejudice against too-good employees is pervasive. Companies tend to prefer an applicant who is a perfect fit over someone who brings more intelligence, education, or experience than needed. On the surface, this bias makes sense: Studies have consistently shown that employees who consider themselves overqualified exhibit higher levels of discontent. For example, over-qualification correlated well with job dissatisfaction in a 2008 study of 156 call-center reps by Israeli researchers Saul Fine and Baruch Nevo. And unlike discrimination based on age or gender, declining to hire overqualified workers is perfectly legal.
+But even before the economic downturn, a surplus of overqualified candidates was a global problem, particularly in developing economies, where rising education levels are giving workers more skills than are needed to supply the growing service sectors. If managers can get beyond the conventional wisdom, the growing pool of too-good applicants is a great opportunity. Berrin Erdogan and Talya N. Bauer of Portland State University in Oregon found that overqualified workers feelings of dissatisfaction can be dissipated by giving them autonomy in decision-making. At stores where employees didn't feel empowered, over-educated workers expressed greater dissatisfaction than their colleagues did and were more likely to state an intention to quit. But that difference vanished where self-reported autonomy was high.
+
+---
+New research shows that overqualified workers tend to perform better than other employees, and they don't quit any sooner, while a simple managerial tactic empowerment can mitigate any dissatisfaction they may feel, and employees who consider themselves overqualified exhibit higher levels of discontent, but even before the economic downturn, a surplus of overqualified candidates was a global problem, which means that difference vanished where self-reported autonomy was high.
+
+---
+You should consider a response that runs counter to most hiring managers, and overqualified workers tend to perform better than other employees, and a simple managerial tactic of empowerment can mitigate any dissatisfaction, and the prejudice against good employees is pervasive, and an applicant is perfect, and a surplus of overqualified candidates was a global problem, and workers expressed greater dissatisfaction than their colleagues did and were likely to state an intention to quit.
+
 75.Electric eels. 电鳗  
+
+On a field trip to the Amazon in 1807, 19th century explorer Alexander Von Humboldt witnessed a group of horses lead through a muddy pool filled with electric eels, which he described as dramatically leaping up to attack the intruders. But scientists have doubted the story. An illustration of Alexander Von Humboldt's story of the battle between the horses and electric eels.
+The first time I read Von Humboldt's tale, I thought it was completely bizarre, Catania says. Why would the eels attack the horses instead of swimming away? But then he observed the same behavior by accident as he transferred the eels in his lab from one tank to another using a metal-rimmed net. Instead of swimming away, larger eels attacked the net by leaping out of the water.
+Catania tracked the strength of the eel's electric shock by attaching a voltmeter to an aluminium plate, or conductive metal strips to predator objects such as a crocodile head replica. The zap a submerged eel distributes through the water is relatively weak when it reaches the target.
+But when an eel touches it with its electricity-generating chin, the current travels directly to the target and has to travel through its body before it gets back to the water, Catania reported in Proceedings of the National Academy of Sciences.
+This allows the eels to deliver shocks with a maximum amount of power to partially submerged land animals that invade their territory, Catania explains. It also allows them to electrify a much larger portion of the invader's body.
+Catania found the eels leaped to attack, rather than receding, more often when the water in the aquarium was lower. He argues the attack lets electric eels better defend themselves during the Amazon dry season. When they're cornered in small pools and make easy prey.
+
+---
+An illustration of Alexander Von Humboldt's story of the battle between the horses and electric eels and catania tracked the strength of the eel's electric shock by attaching a voltmeter to an aluminium plate, or conductive metal strips to predator objects such as a crocodile head replica and this allows the eels to deliver shocks with a maximum amount of power to partially submerged land animals that invade their territory, cantania explains.
 
 76.Food and eating in Australia. 澳大利亚饮食  
 
+In the past two centuries, there has been a dramatic change in the role of food and eating in Australian public consciousness. Public discussion of food was largely confined to matters of supply, distribution and price. Towards the end of the nineteenth century, some newspapers were offering regular columns of advice on housekeeping topics, including menu planning and recipes. However, eating remained essentially a private activity, even when undertaken in a company.
+By the late twentieth century, food and eating had become prominent public preoccupations. Evidence of this dramatic cultural revaluation abounds. In bookstores, for example, cookery and all things related to it are often among the larger displays. There are specialty stores selling all manner of cookware, tableware and other paraphernalia associated with food, eating and drinking.
+Perhaps most telling is the extension of the phenomenon of mass media celebrity to include culinary personalities. Scholars, too, have jumped on the commodification bandwagon. Now degrees in gastronomy seem set to emulate the MBA phenomenon of the 1980s and food has become a respectable subject for investigation with philosophers, sociologists, historians, cultural theorists, ecologists and many others all having a go at it.
+However, surprisingly, the question seems to have held little fascination for most historians. For the best part of two centuries, they have managed to write their accounts of colonization and nationhood with only scant reference to how the settlers and their descendants fed themselves.
+
+---
+In the past two centuries, there has been a dramatic change in the role of food and eating in Australian public consciousness, and by the late twentieth century, food and eating had become prominent public preoccupations, and perhaps most telling is the extension of the phenomenon of mass media celebrity to include culinary personalities, and the question seems to have held little fascination for most historians.
+
 77.Plan. 计划  
+
+---
 
 78.Mini war. 小型战争  
 
+In such an environment, warfare is no longer purely directed against the military potential of adversarial states. It is rather directed at infiltrating all areas of their societies and threatening their existence. The comparatively easy access to weapons of mass destruction, in particular relatively low-cost biological agents, is of key concern. Both governmental and nongovernmental actors prefer to use force in a way that can be characterized as unconventional or also as small wars. War waged according to conventions is an interstate phenomenon. The small war is the archetype of war, in which the protagonists acknowledge no rules and permanently try to violate what conventions do exist. The protagonists of the small war observe neither international standards nor arms control agreements. They make use of territories where they do not have to fear any sanctions because there is no functioning state to assume charge of such sanctions or because the state in question is too weak to impose such sanctions.
+This type of war does not provide for any warning time. It challenges not only the external security of the nation-states and international community but also their internal safety.
+
+---
+Warfare is no longer purely directed against the military potential of adversarial states, and it is rather directed at infiltrating all areas of their societies and threatening their existence, and both governmental and nongovernmental actors prefer to use force in a way that can be characterized as uncoventional or also as small wars, and war waged according to conventions is an interstate phenomenon.
+
+---
+Both government and nongovernmental actors prefer to use force in a way, while war waged according to conventions is an interstate phemomenon, and the small war is the archetype of war, which the protagonists of the small war observe neither international standards nor arms control agreements, as well as it challenges not only the external security of the nation-states and international community but also their internal safety.
+
+---
+In such an environment, warfare is no longer purely directed against the military potential of adversarial states, and it is rather directed at infiltrating all areas of their societies and threatening their existence, and nongovernmental actors prefer to use force in a way that can be characterized as unconventional or also as small wars, and this type of war does not provide for any warning time.
+
 79.Technology course. 技术课程  
+
+While each course has a specific syllabus to highlight specific technologies required, some teachers know how to integrate technologies while some others don’t, but there will be instructors helping pre-service teachers learn how to integrate technology and experiences in class, which allows them to learn online anytime.
 
 80.Dinosaurs extinction. 恐龙灭绝  
 
+What killed off the dinosaurs?
+The end of the Cretaceous Period saw one of the most dramatic mass extinctions the Earth has ever seen.
+The fossil record shows that throughout their 160 million year existence, dinosaurs took on a huge variety of forms as the environment changed and new species evolved that were suited to these new conditions. Others that failed to adapt went extinct.
+But then 66 million years ago, over a relatively short time, dinosaurs disappeared completely( except for birds). Many other animals also died out, including pterosaurs, large marine reptiles, and other sea creatures such as ammonites.
+Although the number of dinosaur species was already declining, this suggests a sudden catastrophic event sealed their fate, causing unfavorable changes to the environment more quickly than dinosaurs and other creatures could adapt.
+The exact nature of this catastrophic event is still open to scientific debate. The catastrophe could have been an asteroid impact, volcanic eruptions or the effect of both, together with more gradual changes in the Earth's climate over millions of years.
+Whatever the causes, the huge extinction that ended the age of the dinosaur left gaps in the ecosystem that were subsequently filled by mammals and birds, allowing them to evolve rapidly.
+
+---
+The end of the Cretaceous Period saw one of the most dramatic mass extinctions the Earth has ever seen, and the fossil record shows that throughout their 160 million year existence, dinosaurs took on a huge variety of forms as the environment changed, but 66 million years ago, dinosaurs disappeared completely, and the exact nature of catastrophic event is open to scientific debate, and the huge extinction of the dinosaur left gaps in the ecosystem.
+
+---
+The end of the Cretaceous Period saw one of the most dramatic mass extinctions the Earth has ever seen and dinosaurs took on a huge variety of forms as the environment changed and new species evolved that were suited to these new conditions and the huge extinction that ended the age of the dinosaur left gaps in the ecosystem that were subsequently filled by mammals and birds, allowing them to evolve rapidly.
+
 81.Madeline Gannon. 玛德琳·甘农  
+
+Madeline Gannon is a researcher, teacher at the Carnegie Mellon University School of Architecture and, Ph. D. candidate in Computational Design but that's not all. She is on a mission to open up the infinite design possibilities of 3D printing to the world.
+Currently, you have to have a lot of technical background in order to participate in creating things to 3D printers, Gannon says. There is still a huge knowledge barrier for how we create digital models.
+As the technology has advanced, prices have plummeted, and now anyone can buy a 3D printer for a few hundred dollars, Gannon notes. However, not just anyone can create original designs for 3D printed artifacts.
+To put true creative power into the hands of any ordinary 3D printer owner, Gannon has developed an innovative new system called Tactum.
+DESIGN WITHIN REACH
+Tactum is a new type of software that lets users create their own unique designs for 3D printers by simply touching a projected image.
+Using their innate hand gestures, someone using Tactum can poke, rub and otherwise manipulate the projected image that will become their 3D printed object, and see it instantly change shape in response.
+In keeping with the goal of democratizing the process, Gannon designed her first series of Tactum artifacts on a surface that everyone can access freely and manipulate instinctively, that being the human body.
+My goal was to bring the digital out to the physical world and out onto your body, says Gannon.
+Along with a companion project called Reverb which translates these user-created designs into printable meshes that impulse has resulted in a spectacular diversity of bracelet and necklace designs, ranging from smooth landscapes, intricate textures and chaotic free forms to delicate geometries derived from the 19th century art of chronography.
+
+---
+To put true creative power into the hands of any ordinary 3D printer owner, Gannon has developed an innovative new system called Tactum, and Tactum is a new type of software that lets users create their own unique designs for 3D printers by simply touching a projected image, and this has resulted in a spectacular diversity of bracelet and necklace designs.
+
+---
+Madeline Gannon is a researcher, teacher at the Carnegie Mellon University School of Architecture, and to put true creative power into the hands of any ordinary 3D printer owner, Gannon has developed an innovative new system called Tactum, and Tactum is a new type of software that lets users create their own unique, and his goal was to bring the digital out to the physical world and out onto your body.
+
+---
+She is on a mission to open up the infinite design possibilities of 3D printing to the world, and there is still a huge knowledge barrier for how we create digital models,and not just anyone can create original designs for 3D printed artifacts, and tactum is a new type of software that lets users create their own unique designs for 3D printers by simply touching a projected image.
 
 82.Coffee. 咖啡  
 
+Coffee is enjoyed by millions of people every day and the coffee experience has become a staple of our modern life and culture. While the current body of research related to the effects of coffee consumption on human health has been contradictory, a study in the June issue of Comprehensive Reviews in Food Science and Food Safety, which is published by the Institute of Food Technologists( IFT), found that the potential benefits of moderate coffee drinking outweigh the risks in adult consumers for the majority of major health outcomes considered.
+Researchers at Ulster University systematically reviewed 1, 277 studies from 1970 to date on coffee's effect on human health and found the general scientific consensus is that regular, moderate coffee drinking( defined as 3 4 cups per day) essentially has a neutral effect on health, or can be mildly beneficial.
+The authors noted causality of risks and benefits cannot be established for either with the research currently available as they are largely based on observational data. Further research is needed to quantify the risk-benefit balance for coffee consumption, as well as identify which of coffee's many active ingredients, or indeed the combination of such, could be inducing these health benefits.
+
+---
+Coffee is enjoyed by millions of people every day and the coffee experience has become a staple of our modern life and culture, and the potential benefits of moderate coffee drinking outweight the risks in adult consumers of the majority of major health outcomes considered, and the authors noted causality of risks and benefits cannot be established for either with the research currently available as they are largely based on observational data.
+
+---
+Coffee is enjoyed by millions of people and the experience has become a staple of modern life and culture, while research found that moderate coffee drinking essentially has a neutral effect on health, but further research is needed to quantify the risk - benefit balance for coffee consumption, identify coffees ' many active ingredients, could be inducing these health benefits.
+
 83.Psychologist. 心理学家  
+
+---
 
 84.Soya Biofuels. 大豆生物燃料  
 
+---
+
 85.Moments. 瞬间  
+
+Some"moments" seem more important in hindsight than they were at the time. David Day, for example, looks at John Curtin's famous"Australia looks to America" statement of December 1941, a moment remembered as embodying a fundamental shift in Australia's strategic alliance away from Britain towards the US.
+As Day points out, the shift to the US as our primary ally was a long, drawn-out process that occurred over half a century. There are many other important events that our contributors examine the campaign to save the Franklin River; the landings at Gallipoli, the discovery of gold in 185 1, and the disastrous Premiers Plan designed to cope with the Great Depression, to name just a few. Taken together, our contributors show that narrative approaches to Australian history are not as simple as might be imagined.
+There is, of course, the issue of what should be included and what should not be what, after all, makes a moment or an event sufficiently important to be included in an official narrative? Just as importantly, the moments and events that are included in narrative histories are open to multiple interpretations. We hope this collection will provide an important reminder to those wanting to impose a universal history curriculum for our school children, and indeed a lesson to all Australians wishing to understand their nation's past; History is never simple or straightforward, and it always resists attempts to make it so.
+
+---
+Some "moments" seem more important in hindsight than they were at the time, and a moment remembered as embodying a fundamental shift in Australia's strategic alliance away from Britain towards the US, and our contributors show that narrative approaches to Australian history are not as simple as might be imagined, because the moments and events that are included in narrative histories are open to multiple interpretations.
 
 86.Language Decay. 语言衰退  
 
+Let us begin by asking why the conviction that our language is decaying is so much more widespread than the belief that it is progressing. In an intellectual climate where the notion of the survival of the fittest is at least as strong as the belief in inevitable decay, it is strange that so many people are convinced of the decline in the quality of English, a language that is now spoken by an estimated half billion people a possible hundredfold increase in the number of speakers during the past millennium.
+One's first reaction is to wonder whether the members of the anti-slovenliness brigade, as we may call them, are subconsciously reacting to the fast-moving world we live in, and consequently resenting change in any area of life. To some extent, this is likely to be true. A feeling that fings ain't wot they used to be and an attempt to preserve life unchanged seem to be natural reactions to insecurity, symptoms of growing old. Every generation inevitably believes that the clothes, manners and speech of the following one have deteriorated. We would, therefore, expect to find respect for conservative language in every century and every culture and, in literate societies, a reverence for the language of the best authors of the past.
+
+---
+Let us begin by asking why the conviction that our language is decaying is so much more widespread than the belief that it is progressing, and so many people are convinced of the decline in the quality of English, and one's first reaction is to wonder whether the members of the anti-slovenliness brigade, as we may call them, are subconsciously reacting to the fast-moving world we live in, and change in any area of life.
+
+---
+Many people are convinced of the decline in the quality of English, and people want to make sure whether the members of the anti-slovenliness bridge are subconsciously reaching to the fast-moving world, which means that every generation believes that the clothes of the following one have deteriorated, so we expect to find respect for conservative language in every century and every culture.
+
+---
+The conviction that our language is decaying is so much more widespread than the belief that it is progressing, and it is strange that so many people are convinced of the decline in the quality of English, and a feeling they used to be and an attempt to preserve life unchanged seem to be natural reactions to insecurity, symptoms of growing old, and we would expect to find a respect for conservative language.
+
 87.Sunshine revolution. 阳光革命  
+
+The suburbs of Las Vegas do not look like the cradle of a revolution. Golden stucco-clad houses stretch for the street after identical street, interspersed with gated communities with names such as Spanish Oaks and Rancho Bel Air. The sky is the deepest blue, the desert air is clear and the distant mountains are beautiful. The only sounds are the buzz of a gardener's hedge trimmer and a squeaking baby buggy pushed by a power-walking mother. The bright lights of Sin City seem a very long way away.
+Yet these quiet streets are being changed by a movement that is gathering momentum across America and around the world, challenging one of the most fundamental of economic relationships: the way we use and pay for energy. There are now more than 7, 000 homes in Nevada fitted with solar panels to generate their own electricity, and the number is rising fast. Just five years ago, residential solar power was still a niche product for the homeowner with a fat wallet and a bleeding heart. Not anymore. Technology, politics and finance have aligned to move it into the mainstream. Solar power has become the fastest-growing energy source in the US.
+For decades the electricity industry has been a cautious and conservative business, but the plunging prices of solar panels, down by about two-thirds in the past six years, have woken it up with a bang. Dynamic rooftop solar power companies have entered the market, in the most radical change to electricity supplies since the industry was born in the 19th century. It has been described as the equivalent of the mobile revolution in telephony or the PC in computing.
+
+---
+The suburbs of Las Vegas do not look like the cradle of a revolution, and the bright lights of Sin City seem a very long way away, and these quiet streets are being changed by a movement, and solar power has become the fastest-growing energy source in the US, and the electricity industry has been a cautious and conservative business, but the plunging prices of solar panels, down by about two-third.
+
+---
+The suburbs of Las Vegas do not look like the cradle of a revolution and the say is the deepest blue, the sesert air is clear and the distant mountains are beautiful and technology, politics and finance have aligned to move it into the mainstream and solar power has become the fastest-growing energy source in the US and it has been describe as the equivalent of the mobile revolution in telephony of the PC.
 
 88.The origins of writing. 文字起源  
 
@@ -793,7 +934,7 @@ In a study conducted in Tubingen, Germany, chess experts and novices were shown 
 As the researchers geared toward an element of a study previously conducted on pattern and object recognition by the chess experts, they had anticipated noticing areas of the left hemisphere of the experts brains( involved in object recognition) to be more reactive when they performed the tasks. However, the reaction times of the subjects were virtually identical. The very thing that sets the experts apart from the amateurs is that the former's right brain hemispheres( involved in pattern recognition) were to be seen to have also lit up during the activity. Therefore, both sides of the experts brains were active, processing information in two places simultaneously. The researchers added that when they showed the chess diagrams to the subjects, they observed that the amateurs relied on looking at the pieces intently to be able to recognize them, whereas the experts merely relied on their peripheral vision and looked across the boards.
 
 ---
-In a study conducted in Tubingen German chess experts and novices were shown geometric objects and chess positions,and were later asked to identify each one of them ,which means that reaction times and brain activity were closely monitored with the use of functional MrI scans so thy observed that the amateurs relied on looking at the pieces intently to be able to recognize them.
+In a study conducted in Tubingen German chess experts and novices were shown geometric objects and chess positions,and were later asked to identify each one of them,which means that reaction times and brain activity were closely monitored with the use of functional MrI scans so thy observed that the amateurs relied on looking at the pieces intently to be able to recognize them.
 
 105.The future of manufacturing. 制造业未来  
 
@@ -995,7 +1136,7 @@ Skipping Breakfast Has Drawbacks It's no mystery why so many people routinely sk
 Philosophers typically classify Russell not only as an analytic philosopher but as one of the founders of analytic philosophy and
 for good reasons, for one thing he always insisted upon was that his method of philosophizing (and the one others should follow) was
 the method of analysis. This method of analysis is a version of the older version of the method of analysis-synthesis.
-The methof of analysis consists of two steps: first analyzing a phenomenon into its basic parts, and secondly synthesizing or re-constructing this original phenomenon. In the method of analysis one begins with something as a daturn, e.g., the existence of scientific knowledge , and proceeds to infer the conditions making it possible. This reference occurs by means of analysis, which was traditinally thought to be the task of philosophy. The synthetic method, on the other hand, proceeds from these conditions to（deductively）inferring the original datum; this is the hallmark of the mathematical sciences. (In some places, however, Russel contrasts philosophy and mathematics, whereas in still other places he claims that philosophy subsums both methods.)
+The methof of analysis consists of two steps: first analyzing a phenomenon into its basic parts, and secondly synthesizing or re-constructing this original phenomenon. In the method of analysis one begins with something as a daturn, e.g., the existence of scientific knowledge, and proceeds to infer the conditions making it possible. This reference occurs by means of analysis, which was traditinally thought to be the task of philosophy. The synthetic method, on the other hand, proceeds from these conditions to（deductively）inferring the original datum; this is the hallmark of the mathematical sciences. (In some places, however, Russel contrasts philosophy and mathematics, whereas in still other places he claims that philosophy subsums both methods.)
 Russell employed this twofold method in the early decades of the twentieth century, attempting to reduce mathematics to logic or show how mathematics could be constructed from logic(plus set theory). Russell applied this same technique to several other problems—the problem of reference or denotation –then to the problem of our knowledge of the external world. It is this latter problem, of showing how, beginning from one’s initial sensory experience, it is possible to ‘construct ‘ our scientific knowledge of the world, that marks the decisive move of Russell’s towards a more naturalistic interpretation of epistemology.
 
 ---
@@ -1035,7 +1176,7 @@ The Harvard psychologist found every pupil learning the same topic in the same w
 As with any enduring controversy, the matter is not easily resolved. For one thing, there is evidence to support both points of view. It is not uncommon to find learners who, for whatever reason, find themselves in a new country or a new region of their own country, who need to learn a new language, and who do so without the benefit of formal instruction. If they are postpubescent, they may well retain an accent of some kind, but they can pick up enough language to satisfy their communicative needs. In fact, some are natural acquirers who become highly proficient in this manner. In contrast, there are learners whose entire exposure to the new language comes in the form of classroom instruction in lexicogrammar. Yet they too achieve a measure of communicative proficiency, and certain of these learners become highly proficient as well. What we can infer from this is that humans are amazingly versatile learners and that some people have a natural aptitude for acquiring languages and will succeed no matter what the circumstances.
 
 ---
-Over the years, language teachers have alternted between favoring teaching approaches that focus primarily on language use and those that focus on language forms or analysis, and they too achieve a measure of communicative proficiency, and certain of these learners become highly proficient , and what we can infer from this is that humans are amazingly versatile learners that some people have a natural aptitude for acquiring languages will suceed no matter what the circumstances.
+Over the years, language teachers have alternted between favoring teaching approaches that focus primarily on language use and those that focus on language forms or analysis, and they too achieve a measure of communicative proficiency, and certain of these learners become highly proficient, and what we can infer from this is that humans are amazingly versatile learners that some people have a natural aptitude for acquiring languages will suceed no matter what the circumstances.
 
 140.Three types of authority. 三种权威类型  
 
@@ -1122,7 +1263,7 @@ Ecology is the study of interactions of organisms among themselves and with thei
 The origin of these sciences is attributed to Aristotle and Theophrastus and their books Meteorological and Enquiry into Plants, respectively, but their modern beginnings trace back to natural history and plant geography. Seventeenth, eighteenth, and nineteenth-century naturalists and geographers saw changes in vegetation as they explored new regions and laid the foundation for the development of ecology and climatology as they sought explanations for these geographic patterns. Alexander von Humboldt, in the early 1800s, observed that widely separated regions have structurally and functionally similar vegetation if their climates are similar. Alphonse de Candolle hypothesized that latitudinal zones of tropical, temperate, and arctic vegetation are caused by temperature and in 1874 proposed formal vegetation zones with associated temperature limits.
 
 ---
-Ecology is the study of interactions of organisms , which seeks to understand patterns in nature , and climatology is the study of the physical state of the atmosphere , which studies how climate changes over time , and ecology and climatology share a common history , where their modern beginnings trace back to natural history and planet geography .
+Ecology is the study of interactions of organisms, which seeks to understand patterns in nature, and climatology is the study of the physical state of the atmosphere, which studies how climate changes over time, and ecology and climatology share a common history, where their modern beginnings trace back to natural history and planet geography.
 
 151.Researching methods. 研究方法  
 
@@ -1229,7 +1370,7 @@ The ways of life of Upper Paleolithic people are known through the remains of me
 Gardeners can feed their families and enrich the soil by growing legumes, such as green beans, soybeans, lentils and peas. Legume roots produce their own nitrogen, which is a major fertilizer nutrient needed by all plants for growth. Nitrogen is produced in nodules that form on the roots of legumes, which contain Rhizobium bacteria. The bacteria take nitrogen from the air and convert it into a form the plants can use. When legumes are pulled up in the fall, excess nitrogen from the nodules is left in the soil. The excess organic nitrogen can be used by other plants in following growing season. It's considered organic nitrogen because it was produced naturally, making green beans or peas great rotational crops in an organic crop production system. Organic growers prefer organic nitrogen because of its natural origins and because it breaks down slowly in the soil, thus slowly feeding plants throughout the growing season. Synthetic nitrogen fertilizers tend to release nitrogen quickly and are harsher on the environment. Synthetic nitrogen fertilizers are generally applied in split applications during the season to mimic the slow release of organic nitrogen sources. Each specific legume generally requires a specific type of Rhizobium bacteria to produce nodules on their roots. Gardeners who have never grown green beans before can purchase small bags of inoculum or bacteria from the most popular vegetable seed catalogs. Before planting beans, open the package and pour in the dust-like bacteria among the seeds. Shake the package and then plant. Nodules will form on the roots as they develop. The bacteria will remain in the soil, making it unnecessary to inoculate the seed next year. Do not apply extra nitrogen fertilizer to bean crops. Doing so makes bacteria in the nodules lazy, encouraging them to stop producing their own nitrogen. Legumes that are particularly popular in the home vegetable garden include lima beans, peas, edible soybeans, lentils and fava beans. In a recent survey, 44 percent of gardeners trained through New Mexico State University's Master Gardener Program said they grew green beans and other legumes in their home gardens. When planting, be sure to purchase appropriate strains of Rhizobium bacteria for each type of legume.
 
 ---
-Gardeners can feed their families and enrich the soil by growing legumes , which is a major fertilizer nutrient needed by all plants for growth ; legumes are pulled up in the fall , excess nitrogen from the nodules is left in the soil ; organic growers prefer organic nitrogen because of its natural origins and because it breaks down slowly in the soil , and do not apply extra nitrogen fertilizer to bean crops .
+Gardeners can feed their families and enrich the soil by growing legumes, which is a major fertilizer nutrient needed by all plants for growth; legumes are pulled up in the fall, excess nitrogen from the nodules is left in the soil; organic growers prefer organic nitrogen because of its natural origins and because it breaks down slowly in the soil, and do not apply extra nitrogen fertilizer to bean crops.
 
 166.Leadership. 领导力  
 
@@ -1269,7 +1410,7 @@ Banks provide short-term finance to companies in the form of an overdraft on a c
 If it seems like you're not getting enough sleep, you're not alone. People have evolved to sleep much less than chimps, baboons or any other primates studied so far, a new study finds. Charles Nunn and David Samson are evolutionary anthropologists. They study how humans have evolved to behave the way we do. Nunn works at Duke University in Durham, N. C. Samson works at the University of Toronto Mississauga in Canada. In their new study, the two compared sleep patterns in 30 different species of primates, including humans. Most species slept between nine and 15 hours daily. Humans averaged just seven hours of shut-eye. Based on lifestyle and biological factors, however, people should get 9. 55 hours, Nunn and Samson calculate. Most other primates in the study typically sleep as much as the scientists predicted they should. Nunn and Samson shared their findings on online February 14 in the American Journal of Physical Anthropology.
 
 ---
-A new study finds people have envolved to sleep much less than chimps , baboons or any other primates studied so far ; in Nunn and Samson's new study , the two compared sleep patterns , species of primates and humans , and most species slept between nine and 15 hours daily , but humans ageraged just seven hours of shut - eye , so people should get 9.55 hours based on lifestyle and biological factors .
+A new study finds people have envolved to sleep much less than chimps, baboons or any other primates studied so far; in Nunn and Samson's new study, the two compared sleep patterns, species of primates and humans, and most species slept between nine and 15 hours daily, but humans ageraged just seven hours of shut - eye, so people should get 9.55 hours based on lifestyle and biological factors.
 
 171.Work from home. 在家工作  
 
@@ -1318,7 +1459,7 @@ Clearly, in one sense, children learn whatever language they are exposed to, be 
 This question of whether language is partly due to nature or wholly due to learning or nurture is often referred to as the nature-nurture controversy and has been discussed for centuries. For example, it was the topic of one of Plato's dialogues, the Cratylus. Controversies which have been going on for literally ages tend to behave in a characteristic fashion. They lie dormant for a while, then break out fiercely. This particular issue resurfaced in linguistics in 1959 when the linguist Noam Chomsky wrote a devastating and witty review of Verbal Behavior, a book by the Harvard psychologist B. F. Skinner( Skinner 1957; Chomsky 1959). This book claims to explain language as a set of habits gradually built up over the years. According to Skinner, no complicated innate or mental mechanisms are needed. All that is necessary is the systematic observation of the events in the external world which prompt the speaker to utter sounds.
 
 ---
-When people start thinking about language,the first question that often occurs to them is this:is language natural to humans,and this question of whether language is partly due to nature or wholly due to learning or nurture is often referred to as the nature-nurture controversy and has been discussioned for centuries,and they lie dormant for a while ,then break out fiercely.
+When people start thinking about language,the first question that often occurs to them is this:is language natural to humans,and this question of whether language is partly due to nature or wholly due to learning or nurture is often referred to as the nature-nurture controversy and has been discussioned for centuries,and they lie dormant for a while,then break out fiercely.
 
 178.Family therapist. 家庭治疗师  
 
