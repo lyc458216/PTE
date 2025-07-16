@@ -403,83 +403,198 @@ Sales jobs allow for a 【great】 deal of discretionary time and effort on the 
 
 83.Brain actions. 大脑活动  
 
+Researchers in Europe and the US wanted to find out exactly what happens to our brain when we find ourselves stunned with fright in the hope of better understanding how fear interplays with human anxiety disorders.
+For the first time, they traced and linked three parts of the brain 【responsible】 for freezing behaviours: the amygdala, ventrolateral periaqueductal grey region and magnocellular nucleus.
+Mice are excellent lab animals where it comes to anxiety and fear experiments. When a mouse is scared, its defensive behaviours range from freezing, attacking, risk 【assessment】 or fleeing the scene. How a mouse acts depends on variables such as access to escape routes or the level of threat faced.
+So Andreas Luthi at the Friedrich Miescher Institute for Biomedical Research in Switzerland and colleagues from Europe and the US observed brain activity in mice placed in frightening situations to 【trace】 the brain circuits responsible for freezing behaviours.
+In particular, the researchers wanted to learn more about a part of the brain called the ventrolateral periaqueductal grey region, which was believed to 【play】 some part in a mouse's instinct to freeze or flee.
+
 84.Anxiety. 焦虑  
+
+It's that time again: exams looming, essays or reports outstanding and you wonder where the year's gone already. You start 【wondering】 how you going to cope with it all. Fear and anxiety are 【insidious】 things and they can take hold if you don't do something about them. This amounts to a bad type of stress which is just what you don't need, especially at this time of year. This is not to say that all anxiety is bad, however. A limited amount of anxiety can help you to be more motivated and more 【purposeful】. It can help you to plan your work and to think more clearly and 【logically】 about it. In other words, it can help you to stay on top of things. So how can you limit your stress and stay in control? There are a number of practical things you can do, even at this late stage before the exams. Don't give up hope, even if you start to feel snowballed when you think of the all the work you have to do. First of all, it's essential to get yourself organised. Sit down at your desk and make a start on writing down all the things you have to do to 【prepare】 for the exams. If you feel there's too much to do, then work out priorities for your work. Outstanding assignments should take priority but make sure to leave time for revision of your lecture notes.
 
 85.Fluid. 流体  
 
+If you see a movie, or a TV advertisement, that involves a fluid behaving in an unusual way, it was probably made using technology based on the work of a Monash researcher. Professor Joseph Monaghan who pioneered an influential 【method】 for interpreting the behaviour of liquids that underlies most special effects involving water has been 【honoured】 with election to the Australian Academy of Sciences.
+Professor Monaghan, one of only 17 members elected in 2011, was recognised for developing the method of Smoothed Particle Hydrodynamics, SPH, which has applications in the fields of astrophysics, engineering and physiology, as well as movie special effects.
+His research started in 1977 when he tried to use computer 【simulation】 to describe the formation of stars and stellar systems. The algorithms available at the time were 【incapable】 of describing the complicated systems that evolve out of chaotic clouds of gas in the galaxy.
+Professor Monaghan, and his colleague Bob Gingold, took the novel and effective approach of replacing the fluid or gas in the simulation with large numbers of particles with properties that 【mimicked】 those of the fluid. SPH has become a central tool in astrophysics, where it is currently used to simulate the evolution of the universe after the Big Bang, the formation of stars, and the processes of planet building.
+
 86.Kiwi. 几维鸟/新西兰人  
+
+A Massey ecologist has teamed up with a leading wildlife photographer to produce the definitive book on New Zealand's national bird, the kiwi. Kiwi: A Natural History was written by Dr. Isabel Castro and 【features】 photographs by Rod Morris. Dr. Castro has been working with kiwi 【since】 1999, with a focus on their behaviour."I've specifically been looking at the sense of smell that kiwi uses when foraging, but also in their interactions with their environment and other kiwi," she says. The book covers all aspects of kiwi, from their evolution, prehistory and closest relatives to their feeding and breeding behaviour and current conservation issues, 【making】 this the perfect 【introduction】 for anyone with an interest in these fascinating birds. The book is the second title in a new 【series】 on New Zealand's wildlife, targeted at a family readership.
 
 87.Tomb. 坟墓  
 
+The last tourists may have been leaving the Valley of the Kings on the West Bank in Luxor but the area in front of the tomb of Tutankhamun remained far from deserted. Instead of the 【tranquility】 that usually descends on the area in the evening, it was a hive of activity. TV crews trailed masses of equipment, journalists milled and 【photographers】 held their cameras at the ready. The reason? For the first time since Howard Carter 【discovered】 the tomb in 1922 the mummy of Tutankhamun was being prepared for public display.
+Inside the subterranean burial chamber Egypt's archaeology supremo Zahi Hawass, 【accompanied】 by four Egyptologists, two restorers and three workmen, were slowly lifting the mummy from the golden sarcophagus where it has been rested, mostly undisturbed, for more than 3,000 years. The body was then placed on a wooden stretcher and 【transported】 to its new home, a high-tech, climate-controlled plexi-glass showcase located in the outer chamber of the tomb where, covered in linen, with only the face and feet exposed, it now greets visitors.
+
 88.Herbal. 草药  
+
+A herbal is a book of plants, describing their appearance, their properties and how they may be used for preparing ointments and medicines. The medical use of plants is 【recorded】 on fragments of papyrus and clay tablets from ancient Egypt, Samaria and China that date back 5,000 years but document traditions far older still. Over 700 herbal remedies were detailed in the Papyrus Ebers, an Egyptian text written in 1500 BC.
+Around 65 BC, a Greek physician called Dioscorides wrote a herbal that was 【translated】 into Latin and Arabic. Known as' De materia medica', it became the most influential work on medicinal plants in both Christian and Islamic worlds until the late 17th century. An illustrated manuscript copy of the text made in Constantinople, modern-day Istanbul, 【survives】 from the sixth century.
+The first printed herbals date from the dawn of European printing in the 1480s. They provided valuable information for apothecaries, whose job it was to make the pills and potions 【prescribed】 by physicians. In the next century, landmark herbals were produced in England by William Turner, considered to be the father of British botany, and John Gerard, whose illustrations would 【inspire】 the floral fabric, wallpaper and tile designs of William Morris four centuries later.
 
 89.Colorful poison frogs. 彩色毒蛙  
 
+Colourful poison frogs in the Amazon owe their great 【diversity】 to ancestors that leapt into the region from the Andes Mountains several times during the last 10 million years, a new study from The University of Texas at Austin suggests.
+This is the first study to show that the Andes have been a major 【source】 of diversity for the Amazon 【basin】, one of the largest 【reservoirs】 of biological diversity on Earth. The finding runs 【counter】 to the idea that Amazonian diversity is the 【result】 of evolution only within the tropical forest itself.
+"Basically, the Amazon basin is a' melting pot' for South American frogs," says graduate student Juan Santos, lead author of the study."Poison frogs there have come from multiple places of 【origin】, notably the Andes Mountains, over many millions of years. We have shown that you cannot understand Amazonian biodiversity by looking only in the basin. Adjacent regions have played a major role."
+
 90.Skip school. 逃学  
+
+Children who skip school are increasingly on family holidays, government figures 【revealed】 today. 【Fewer】 children played truant this spring term compared with the spring term last year. Children missed 3 unauthorised days of school last term, compared with 3.7 days of school in the same period last year. But a 【hardcore】 group of truants, 6 percent of the school population, who account for more than three-quarters of all those on unauthorised absence, are more likely to be on a family holiday than they were in the same 【period】 last year. Some 1.2 percent of all absence was for family holidays not 【agreed】 by their school last term, compared with 0.9 percent for the same term last year.
+More than 60 percent of all absences were for illness, the same figure as last year.
 
 91.Foreign policy. 外交政策  
 
+The foreign policy of a state, it is often argued, begins and ends with the border. No doubt an exaggeration, this aphorism nevertheless has an 【element】 of truth. A state's relation with its neighbours, at least in the 【formative】 years, are greatly influenced by its frontier policy, especially when there are no 【settled】 borders. Empire builders in the past sought to extend imperial frontiers for a variety of reasons; subjugation of kings and princes to gain their 【allegiance】, as well as handsome tributes or the coffers of the state, and, security of the core of the empire from external attacks by establishing a string of buffer states in areas Adjoining the frontiers. The history of British empire in India was no different. It is important to note in this connexion that the concept of international boundaries, between two sovereign states, demarcated and 【delineated】, was yet to emerge in India under Mughal rule.
+
 92.Food Minding. 食物照管  
+
+At supper Johnson talked of good eating with uncommon 【satisfaction】."Some people," said he,"have a foolish way of not minding, or pretending not to mind, what they eat. For my part, I mind my belly very 【studiously】, and very carefully; for I look upon it, that he who does not mind his belly will hardly mind anything else," He was, for the moment, not only serious but 【vehement】." Yet I have heard him, upon other occasions, talk with great contempt of people who were anxious to gratify their palates; and the 206 th number of his Rambler is a masterly essay against 【gulosity】. His practise, indeed, I must acknowledge, may be considered as casting the balance of his different opinions upon this subject; for I never knew any man who 【relished】 good eating more than he did.
 
 93.Film. 电影  
 
+Film is where art meets commerce. 【As】 Orson Welles said:"A painter just needs a brush and the writer just needs a pen, but the producer needs an army." And an army needs money. A producer is just like an entrepreneur, we 【raise】 money to make films. First, we need to find an original idea or a book or a play and purchase the rights, then we need money to develop that idea often a reasonably small sum. 【Besides】, to commission a writer for the screenplay isn't something you would want to gamble your own money on, so you find a partner. We are lucky here in the UK, as we have Film 4, BBC Films and the UK Film Council, all of 【which】 are good places to develop an idea.
+Producing in Britain is very different to producing in America or 【even】 Europe because the economic dynamic is different.
+
 94.Learning online. 在线学习  
+
+Remember when universities were bursting at the seams with students sitting in the aisles, balancing books on their knees?
+No more, it seems. E-learning is as likely to stand for empty lecture theatres as for the Internet 【revolution】, which has greatly increased the 【volume】 and range of course materials available online in the past five years.
+The 【temptation】 now is to simply think,' Everything will be online so I don't need to go to class'," said Dr Kerri-Lee Krause, of the Center for the Study of Higher Education at the University of Melbourne.
+The nation's universities are in the process of opening the doors for the new academic year and, while classes are generally well 【attended】 for the early weeks, it often does not last.
+"There is concern at the university level about student 【attendance】 dropping and why students are not coming to lectures." Dr Krause said.
+But lecturers' pride, and 【fierce】 competition among universities for students, mean few are willing to acknowledge publicly how poorly attended many classes are.
 
 95.English Language. 英语语言  
 
+English is the world's language. Such 【dominance】 has its downside, of course. There are now about 6,800 languages left in the world, compared with perhaps 【twice】 that number back at the dawn of agriculture. Thanks in 【part】 to the rise of uber-languages, most importantly English, the remaining languages are now dying at the 【rate】 of about one a fortnight.
+
 96.Agrarian parties. 农业政党  
+
+Agrarian parties are political parties chiefly representing the interests of peasants or, more broadly, the 【rural】 sector of society. The extent to which they are important, or 【whether】 they even exist, depends mainly on two factors. One, obviously, is the size of an identifiable peasantry, or the size of the rural relative 【to】 the urban population. The other is a matter of social integration: 【for】 agrarian parties to be important, the representation of countryside or peasantry must not be integrated with the other major sections of society. 【Thus】 a country might possess a sizable rural population but have an economic system in which the interests of the voters were predominantly related to their incomes, 【not】 to their occupations or location.
 
 97.Most respected companies. 最受尊敬的公司  
 
+Look at the recent"Most Respected Companies" survey by the Financial Times. Who are the most respected companies and business leaders at the 【current】 time? Rather predictably, they are Jack Welch and General Electric, and Bill Gates, and Microsoft. 【Neither】 has achieved their world-class status through playing nice. Welch is still remembered for the brutal downsizing he led his business 【through】, and for the environmental pollution incidents and prosecutions. Microsoft has had one of the 【highest】 profile cases of bullying market dominance of recent times- and Gates has been able to 【achieve】 the financial status where he can choose to give lots of money away by being ruthless in business.
+
 98.Intelligence comparing. 智力比较  
+
+Comparing the intelligence of animals of different species is difficult, how do you compare a dolphin and a horse? Psychologists have a technique for looking at intelligence that 【does】 not require the cooperation of the animal involved. The relative size of an individual's brain is a reasonable indication of intelligence. Comparing 【across】 species is not as simple an elephant will have a larger brain than a human simple because it is a large beast. 【Instead】 we use the Cephalization index, which compare the size of an animal's brain to the size of its body. Based on the Cephalization index, the brightest animals on the planet are humans, 【followed】 by great apes, porpoises and elephants. As a general 【rule】, animals that hunt for a living, like canines, are smarter than strict vegetarians- you don't need much intelligence to outsmart a leaf of lettuce. Animals that live in social groups are always smarter and have large EQ's than solitary animals.
 
 99.Northern spotted owls. 北方斑点猫头鹰  
 
+Our analysis of the genetic structure of northern spotted owls across most of the range of the subspecies allowed us to test for genetic discontinuities and identify landscape features that influence the subspecies' genetic structure. Although no 【distinct】 genetic breaks were found in northern spotted owls, 【several】 landscape features were important in structuring genetic variation. Dry, low elevation valleys and the high elevation Cascade and Olympic Mountains restricted gene flow, while the lower Oregon Coast Range 【facilitated】 gene flow, acting as a"genetic corridor." The Columbia River did not act as a 【barrier】, 【suggesting】 owls 【readily】 fly over this large river. Thus, even in taxa such as northern spotted owls with potential for long-distance dispersal, landscape features can have an important impact on gene flow and genetic structure.
+
 100.Cognitive Health. 认知健康  
+
+Neuropsychological testing is one way to 【assess】 cognitive health. However, this option can be costly and labour intensive. In many cases, basic screening will suffice for an understanding of a given individual's cognitive health status. There are a number of excellent tools available to 【practitioners】 for basic screening and tracking of cognitive health. Many of these tools are designed for use with older people, but some are meant for use with younger people as well. The Alzheimer's Association website offers a cognitive assessment toolkit that includes the Medicare Annual Wellness Visit algorithm for the assessment of cognition. This assessment uses patient history, observations by clinicians, and concerns 【raised】 by the patient, family, or caregivers. The toolkit further includes three measures 【validated】 for use by professionals to assess and track a patient's cognitive health. These measures include the General Practitioner Assessment of Cognition, Memory Impairment Screen, and the Mini- Cog brief psychometric test.
 
 101.Push and pull factors. 推拉因素  
 
+People move to a new region for many different reasons. The 【motivation】 for moving can come from a combination of what researchers sometimes call' push and pull 【factors】', those that encourage people to leave a region, and those that attract people to a region. Some of the factors that motivate people to move 【include】 seeking a better climate, finding more affordable housing, looking for work or retiring from work, leaving the 【congestion】 of city living, wanting a more pleasant environment, and wanting to be near to family and friends. In reality, many complex factors and personal reasons may 【interact】 to motivate a person or family to move.
+
 102.Noise Control. 噪音控制  
+
+At the local and state level, demanding funding for repairs and improvement to outdated transit infrastructure will greatly reduce the noise caused by trains, cars, and trucks. Urban- planning approaches to 【eliminating】 noise on a city- by- city basis can be as simple as taking a single lane away from cars and giving it to bicycles, people, or green space. Improving, expanding, and properly funding public transit removes cars from the road, both reducing the sound they 【produce】 and replacing it with quieter options like trams and high- speed light- rail. In architecture, acoustics should play a greater 【role】 in all structures, from mundane apartment buildings to the grandest art museums. Noise control should be a consideration from the very first planning stage, 【rather】 than tacked on as an afterthought.
 
 103.Answer questions. 回答问题  
 
+You have about 30 minutes to answer each question. You must take 【account】 of how many marks are 【available】 for each part when you answer it. Even if you think you can write more, don't spend 15 minutes 【answering】 a part worth only 5 marks. Leave space at the end of your answer and come back to it if you have time to 【spare】 later. And if you can't think of an answer to some part, leave a space and move on to the next part. Don't write about something else if you don't know the correct answer, this is just a 【waste】 of your 【valuable】 【time】 and the examiner's
+
 104.Architectural Museum. 建筑博物馆  
+
+The Edo Tokyo Tatemono En is an open-air architectural museum, but could be better thought of as a park. Thirty buildings from the 19th and early 20th centuries from all around Tokyo were 【restored】 and relocated to the space, where they can be explored by future generations to come. The buildings are a collection of houses and businesses, shops, and bathhouses, 【all】 of which would have been present on a typical middle-class street from Edoera to Showa era Tokyo. The west section is 【residential】, with traditional thatched roof bungalows of the 19th century. Meiji-era houses are also on view, constructed in a more Western style after Japan opened its borders in 1868. The Musashino Sabo Cafe occupies the 【ground】 floor of one such house, where visitors can enjoy a cup of tea. Grand residences like that of Korekiyo Takahashi, an early 20th century politician assassinated over his controversial policies, demonstrate how the upper class lived during that time period. The east section is primarily businesses from the 1920s and" 30s, preserved with their wares on display. Visitors are free to 【wander】 through a kitchenware ship, a florist's an umbrella store, a bar, a soy sauce shop, a tailor's a cosmetics shop, and an inn complete with an operational noodle shop.
 
 105.Opportunity cost. 机会成本  
 
+Opportunity cost incorporates the 【notion】 of scarcity: No matter what we do, there is always a 【trade-off】. We must trade off one thing for another because resources are limited and can be used in different ways. 【By acquiring something】, we use up resources that could have been used to acquire something else. The notion of opportunity cost allows us to measure this trade-off. Most decisions 【involve】 several alternatives. For example, if you spend an hour studying for an economics exam, you have one fewer hour to 【pursue】 other activities. To 【determine】 the opportunity cost of an activity, we look at what you consider the best of these"other" activities. For example, suppose the alternatives to studying economics are studying for a history exam or working in a job that pays 10 per hour. If you consider studying for history a 【better】 use of your time than working, then the opportunity cost of studying economics is the four extra points you could have received on a history exam if you studied history instead of economics. Alternatively, if working is the best alternative, the opportunity cost of studying economics is the 10 you could have earned instead.
+
 106.Primates. 灵长类动物  
+
+With their punk hairstyles and bright colours, marmosets and tamarins are among the most attractive primates on earth. These fast-moving, lightweight animals live in the rainforests of South America. Their small size 【makes】 it easy for them to dart about the trees, catching insects and small animals such as lizards, frogs, and snails. Marmosets have another unusual food 【source】, they use their chisel-like incisor teeth to 【dig】 into tree bark and lap up the gummy sap that seeps out, leaving telltale, oval-shaped holes in the 【branches】 when they have finished. But as vast tracts of rainforest are cleared for plantations and cattle ranches marmosets and tamarins are in serious 【danger】 of extinction.
 
 107.SpaceX. 太空探索技术公司  
 
+SpaceX's Falcon 9 rocket lifted off from Cape Canaveral, Florida, on Friday at 18:45 GMT, 14:45 EDT,, reaching 【orbit】 9 minutes later.
+The rocket lofted an uncrewed 【mockup】 of SpaceX's Dragon capsule, which is designed to one day carry both crew and cargo to orbit."This has been a good day for SpaceX and a 【promising】 development for the US human spaceflight programme," said Robyn Ringuette of SpaceX in a webcast of the launch.
+In a teleconference with the media on Thursday, SpaceX's CEO, Paypal co-founder Elon Musk, said he would consider the flight 100 percent successful if it reached orbit."Even if we prove out just that the first stage functions correctly, I'd still say that's a good day for a test," he said."It's a great day if both stages work correctly."
+SpaceX hopes to win a NASA 【contract】 to launch astronauts to the International Space Station using the Falcon 9. US government space shuttles, which currently make these trips, are scheduled to 【retire】 for safety reasons at the end of 2010.
+
 108.History books. 历史书籍  
+
+What history books tell us about the past is not everything that happened, but what historians 【have selected】. They cannot put in everything: choices have to be made. Choices must similarly be made about which aspects of the past should be formally taught to the next generation in the shape of school history lessons. 【So】, for example, when a national school curriculum for England and Wales was first discussed at the end of the 1980s, the history curriculum was the subject of considerable public and media 【interest】. Politicians argued about it; people wrote letters to the press about it; the Prime Minister of the time, Margaret Thatcher, 【intervened】 in the debate. Let us think first about the question of content. There were two main camps on this issue, those who thought the history of Britain should take 【pride】 of 【place】, and those who favoured what was referred to as' world history'.
 
 109.Alchemy. 炼金术  
 
+To learn the speech of alchemy, an early form of chemistry in which people 【attempted】 to turn metals into gold, it helps to think back to a time when there was no science: no atomic number or weight, no periodic chart no list of elements, to the alchemists the 【universe】 was not made of leptons, bosons, gluons, and quarks. Instead, it was made of substances, and one substance, say, walnut oil, could be just as 【pure】 as another, say, silver, even though modern 【scientists】 would say one is heterogeneous and the other homogeneous. Without knowledge of atomic structures, how would it be 【possible】 to tell elements from compounds?
+
 110.Paris. 巴黎  
+
+Paris is very old- there has been a settlement there for at least 6,000 years and its shape has been determined in part by the River Seine, and in part by the 【edicts】 of France's rulers. But the great boulevards we admire today are relatively new, and were constructed to prevent any more barricades 【being created】 by the rebellious population; that work was carried out in the middle 19th century. The earlier Paris had been 【in part】 a maze of narrow streets and alleyways. But you can imagine that the work was not only highly expensive, but caused great distress among the half a million or so whose houses were 【simply】 razed, and whose neighbourhoods disappeared. What is done cannot usually be undone, especially when buildings are 【torn down】.
 
 111.Children sleep patterns. 儿童睡眠模式  
 
+Children have sound sleep patterns. They can 【successfully】 sleep for 8 to 9 hours and get up at a fixed time. But teenagers don't. Their need of an early start to schools or other schedules can 【influence】 their sleep patterns. Despite these factors, they actually need longer sleep. So, parents should try and speak to their children, who are suitable to help them understand that a night of 【sound】 sleep is always helpful.
+
 112.Omniscience. 全知  
+
+Omniscience may be a foible of men, but it is not so of books. Knowledge, as Johnson said, is of two 【kinds】, you may know a thing yourself, and you may know where to find it. Now the amount which you may actually know yourself must, at its best, be limited, but what you may know of the 【sources】 of information may, with proper training, become almost boundless. And here come the 【value】 and use of reference books, the working of one book in connection with another- and applying your own 【intelligence】 to both. By this means we get as near to that omniscient volume which tells everything as ever we shall get, and although the single volume or work which tells everything does not exist, there is a vast number of reference books in existence, a knowledge and proper use of which is essential to every intelligent person. Necessary as I believe reference books to be, they can easily be made to be 【contributory】 to idleness, and too mechanical a use should not be made of them.
 
 113.Australian women novelist. 澳大利亚女性小说家  
 
+In the literary world, it was an accepted assumption that the 1970 s was a time of unprecedented growth in homegrown Australian fiction. And everybody was reading and talking about books by young Australian women.
+But it was 【not until recently】 that a researcher was able to measure just how many novels were published in that decade, and she found that there 【had been】 a decline in novels by Australian writers overall, but confirmed an increase in women's novels.
+It is this sort of research-testing ideas about literary history, that 【is becoming】 possible with the spread of' Digital Humanities.'
+The intersection of Humanities and digital technologies is opening up opportunities in the fields of literature, linguistics, history and language that were not possible without computational methods and digitised resources to 【bring】 information together in an accessible way.
+Transcription software is being developed for turning scans of books and documents into text, as the field of digital humanities really 【takes off】.
+
 114.Steven Pinker. 史蒂芬·平克  
+
+Steven Pinker, a cognitive psychologist best known for his book"The Language Instinct" 【has called】 music"auditory cheesecake, an exquisite confection crafted to tickle the sensitive spots of at least six of our mental faculties." If it vanished from our species, he said,"the rest of our lifestyle would be 【virtually】 unchanged." Others have argued that, on the 【contrary】, music, along with art and literature, is part of what makes people human; its absence would have a brutalising effect. Philip Ball, a British science writer and an 【avid】 music enthusiast, comes down somewhere in the middle. He says that music is 【ingrained】 in our auditory, cognitive and motor functions. We have a music instinct as much as a language instinct, and could not rid ourselves of it if we tried.
 
 115.The wholeness of thought. 思维的完整性  
 
+The writer- or, for that matter, the speaker conceives his thought whole, as a unity, but must express it in a line of words; the reader, or listener, must take this line of symbols and from it 【reconstruct】 the original wholeness of thought. There is 【little】 difficulty in conversation, because the listener receives innumerable cues from the physical expressions of the speaker; there is a dialogue, and the listener can 【cut】 in at any time. The advantage of group discussion is that people can overcome linear sequence of words by 【converging】 on ideas from different directions; which makes for wholeness of thought. But the reader is confronted by line upon line of printed symbols, without benefits of physical 【tone】 and emphasis or the possibility of dialogue or discussion.
+
 116.Sustainable transportation system. 可持续交通系统  
+
+A sustainable transportation system is one in which peoples needs and desires for access to jobs, commerce, recreation, culture and home are accommodated using a minimum of resources. Applying principles of 【sustainability】 to transportation will reduce pollution generated by gasoline-powered engines, noise, traffic congestion, land devaluation, urban sprawl, economic segregation, and injury to drivers, pedestrians and cyclists. In addition, the costs of commuting, shipping, housing and goods will be 【reduced】.
+Ultimately in a sustainable San Francisco, almost all trips to and 【within】 the City will be on public transit, foot or bicycle, as will a good part of trips to the larger Bay Region. Walking through streets designed for pedestrians and bicycles will be more pleasant than walking through those designed for the automobile. Street-front retail and commercial establishments will 【prosper】 from the large volume of foot traffic drawn to an environment enhanced by trees, appropriately designed"street furniture"" street lights, bicycle racks, benches, and the like, and other people. Rents and property costs will be lowered as land for off-street parking is no 【longer】 required or needed.
 
 117.Instinct in business. 商业直觉  
 
+What is the significance of instinct in business? Does a reliable gut feeling separate winners from losers? And is it the most valuable emotional tool any entrepreneur can possess?
+My 【observations】 of successful company owners lead me to believe that a highly analytical attitude can be a drawback. At critical junctures in commercial life, risk-taking is more an 【act】 of faith than a carefully balanced choice. Frequently, such moments require 【decisiveness】 and absolute conviction above all else. There is simply no time to wait for all the facts, or room for doubt. A computer programme cannot tell you how to invent and launch a new product. That 【journey】 involves too many unknowns, too much luck, and too much sheer intuition, rather than the infallible 【logic】 that machines deliver so well. As Chekhov said:"An artist's flair is sometimes worth a scientist's brains" entrepreneurs need right-brain thinking.
+When I have been considering whether to buy a company and what price to offer, I have been 【blinded】 too often by reams of due diligence from the accountants and lawyers. Usually, it pays to stand back from such mountains of grey data and weigh up the really important issues, and decide how you feel about the opportunity.
+
 118.Global textile industry. 全球纺织业  
+
+The environmental impact of the global textile industry is hard to overstate. One-third of the water used worldwide is spent fashioning fabrics. For every tonne of cloth 【produced】, 200 tonnes of water is polluted with chemicals and heavy metals. An estimated 1 trillion kilowatt-hours of electricity powers the factories that card and comb, spin and weave, and cut and stitch materials into everything from T-shirts to towels, 【leaving】 behind mountains of solid waste and a massive carbon footprint.
+"Where the industry is today is not really sustainable for the long term," says Shreyaskar Chaudhary, chief executive of Pratibha Syntex, a textile manufacturer based outside Indore, India.
+With something of an"if you build it, they will come" attitude, Mr. Chaudhary has steered Pratibha 【toward】 the leading edge of eco-friendly textile production. Under his direction, Pratibha began making clothes with organic cotton in 1999. Initially, the company couldn't find enough organic farms growing cotton in central India to 【supply】 its factories. To meet production demands, Chaudhary's team had to convince conventional cotton farmers to change 【their】 growing methods. Pratibha provided seeds, cultivation instruction, and a guarantee of fairtrade prices for their crops. Today, Pratibha has a network of 28,000 organic cotton growers across the central states of Madhya Pradesh, Maharashtra, and Orissa.
 
 119.How to make cloth. 布料制作方法  
 
+About 10,000 years ago, people learned how to make cloth. Wool, 【cotton】, flax, or hemp was first spun into a thin thread, using a spindle. The thread was then woven into a fabric. The earliest weaving machines 【probably】 consisted of little more than a pair of sticks that held a set of parallel threads, called the wrap, while the cross-thread, called the weft was inserted. Later machines called looms had roads that separated the threads to allow the weft to be inserted more 【easily】, a piece of wood, called the shuttle, holding a spool of thread, was passed between the separated threads. The basic 【principles】 of spinning and weaving have stayed the same until the present day. Though during the Industrial Revolution of the 18th century, many ways were found of 【automating】 the processes. With new machines such as the spinning mule, many threads could be spun at the same time, and, with the help of devices like the flying shuttle, broad pieces of cloth could be woven at great speed.
+
 120.Distance learning. 远程学习  
+
+Distance learning can be highly beneficial to a large variety of people from young students wanting to expand their horizons to adults looking for more job security, with programmes that allow learners of all ages to take courses for fun, personal advancement and degrees, distance learning can 【meet】 the needs of a diverse population.
+Perhaps one of the most notable and often talked about 【advantages】 of distance learning is the flexibility. The majority of programmes allow students to learn when and where it's convenient for them. For 【those】 who are struggling to balance their distance learning goals with working a fulltime job and taking care of a family this kind of flexibility can allow many people to 【pursue】 education who would not otherwise be able to do so. 【Since】 there are no on-campus courses to attend, students can learn from their own homes, at work on their lunch breaks and from virtually anywhere with internet access. For some it can even be a big source of savings on the fuel costs and time required to commute to classes.
 
 121.Criminal acts. 犯罪行为  
 
+The narrative of law and order is located fundamentally at the level of individual guilt and responsibility. Criminal acts are seen as individual issues of personal responsibility and 【culpability】, to which the state responds by way of policing, 【prosecution】, adjudication and punishment.
+This is but one level at which crime and criminal justice can be analysed. The problem is that so often analysis ends there, at the level of individual action, 【characterised】 in terms of responsibility, guilt, evil.
+In few other areas of social life does individualism have this hold. To take but one 【instance】, it would be absurd to 【restrict】 analysis of obesity, to individual greed. It should similarly be widely seen as absurd to restrict analysis of criminal justice issues to the culpability of individuals.
+
 122.Psychology. 心理学  
+
+Psychology as a subject of study has largely developed in the West since the late nineteenth century. During this period there has been an emphasis on scientific thinking. Because of this 【emphasis】, there have been many scientific studies in psychology which 【explore】 different aspects of human nature. These include studies into how biology, physical factors, influence human experience, how people use their 【senses】, touch, taste, smell, sight and hearing, to get to know the world, how people develop, why people behave in certain ways, how memory works, how people develop language, how people 【understand】 and think about the world, what motivates people, why people have emotions and how personality develops. These scientific investigations all contribute to an 【understanding】 of human nature.
+What do we mean by the practical applications of these studies? An understanding of psychology is useful in many different areas in life, such as education, the workplace, social services and medicine. This means that people who have knowledge of psychology can 【use】 or apply that knowledge in areas such as the ones listed above.
 
 123.Material culture studies. 物质文化研究  
 
