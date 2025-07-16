@@ -722,9 +722,9 @@ The smart city is a new project which is about the development of urbanization. 
 165.Ocean environment. 海洋环境  
 
 The lecture is about oceam environment which is a problematic issue. 
-1.The sea level has changed because of the human footprint such as overfishing, heat storing, coral form and so on.
-2.So people need to provoke critical ways to find potential soulutions to sove these problems.
-3.And we also have to reduce human footpint and restore limited sapce on the earth.
+1. The sea level has changed because of the human footprint such as overfishing, heat storing, coral form and so on.
+2. So people need to provoke critical ways to find potential soulutions to sove these problems.
+3. And we also have to reduce human footpint and restore limited sapce on the earth.
 
 166.New Zealand. 新西兰  
 
@@ -953,10 +953,10 @@ We should understand the causes and effects of literature. To understand this, w
 
 216.Ice core. 冰芯  
 
-1.metal cutting device to drill ice core.金属切割设备钻孔
-2.cylinder to pull the ice core out and stored.气泵拉出
-3.oldest ice to test the atmosphere.最老的用来气候
-4.recent ice to analyze the past.最近的用来测量过去。
+1. metal cutting device to drill ice core.金属切割设备钻孔
+2. cylinder to pull the ice core out and stored.气泵拉出
+3. oldest ice to test the atmosphere.最老的用来气候
+4. recent ice to analyze the past.最近的用来测量过去。
 
 217.Civil rights. 公民权利  
 
@@ -1079,8 +1079,7 @@ The lecturer is interested in find out why we work and how we work when technolo
 
 246.Exercise. 锻炼  
 
-Exercise has two conditions: 1. health exercise 2.investment investigation on the benefit of exercise: half hour daily at least;
-At last, how much exercise can we tolerate(sunscreen)
+Exercise has two conditions: 1.health exercise 2.investment investigation on the benefit of exercise: half hour daily at least; At last, how much exercise can we tolerate(sunscreen)
 
 247.Data privacy. 数据隐私  
 
