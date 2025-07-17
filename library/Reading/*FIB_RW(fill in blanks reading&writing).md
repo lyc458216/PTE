@@ -1411,83 +1411,163 @@ Mischel is the creator of the marshmallow test, one of the most famous experimen
 
 372.Bones. 骨骼
 
+
+
 373.Digital Media. 数字媒体
+
+Digital media and the internet have made the sharing of texts, music and images easier than ever, and the 【enforcement】 of copyright restriction harder. This situation has encouraged the growth of IP law, and 【prompted】 increased industrial concentration on extending and' policing' IP protection, while also leading to the growth of an' open access', or' creative commons' movement which 【challenges】 such control of knowledge and 【creativity】.
 
 374.Class Participation. 课堂参与
 
+Because the instructional methods, expected class participation and the nature of the courses vary, no fixed number of absences is 【applicable】 to all situations. Each instructor is 【responsible】 for making clear to the class at the beginning of the semester his or her 【policies】 and procedures in 【regard】 to class attendance and the reasons for them.
+
 375.Bacteria Sinus Infections. 细菌性鼻窦感染
+
+This is the season when 【bacterial】 sinus infections run rampant. But some people are better able to ward off that malady. And they can be identified by their taste buds. Because those of us who can better detect bitter flavours may also be better equipped to fight off upper 【respiratory】 tract infections. The finding is in the Journal of Clinical Investigation. It turns out that those bitter taste 【receptors】 aren't just in our mouths. They're also in our noses. Being better able to sense bitterness may be a first line of defence against bacteria. That's because those bacteria 【actually】 taste bitter to us. So when taste receptors in our airways sense a bitter flavour they roll out the 【defences】. Cilia lining our sinuses beat faster, to sweep away germs. And bacteria- killing nitric oxide gets released into our nasal 【cavities】. Better bitter sensing means a bigger response. It's one reason researchers at the Monell Chemical Senses Centre are trying to come up with a universal taste test- a standardised measurement of how well we sense flavours. Because one key to living healthier could be on the tip of your tongue.
 
 376.Powerless Creatures. 无能力生物
 
+Individual human beings are relatively powerless creatures, no match for lions or bears. It's what they can do as groups that has 【enabled】 them to take over the planet. These groupings- corporations, religions, states- are now part of a vast network of 【interconnected】 information flows. Finding points of resistance, where smaller units can 【stand】 up to the waves of information washing around the globe, is becoming harder all the time.
+
 377.Keith Haring. 凯斯·哈林
+
+Keith Haring began as an underground artist, literally. His first famous projects were pieces of stylized graffiti 【drawn】 in New York subway stations. Haring travelled from station to station, drawing with chalk and chatting with commuters about his work. These doodles helped him develop his classic style and he grew so 【prolific】, doing up to 40 drawings a day, that it was not long before fame and a measure of fortune followed. Soon, galleries and collectors from the art establishment wanted to buy full- sized pieces by Haring. The paintings skyrocketed in price but this did not sit well with Haring's philosophy. He believed that art, or 【at least】 his art, was for everyone. Soon, Haring opened a store which he called the Pop Shop, which he hoped would attract a broad range of people. While somewhat controversial among street artists, some of 【whom】 accused Haring of' selling out', the Pop Shop changed the way people thought about the relationship between art and business.
 
 378.Ebb and Flow. 涨落
 
+Roman poet Ovid wrote that"there is nothing 【constant】 in the universe. All ebb and flow, and every shape that's born bears in its 【womb】 the seeds of change". These words are remarkably 【relevant】 when one considers the way life has changed through time as revealed by fossil record.
+
 379.Health Concept. 健康概念
+
+The concept of health holds different meanings for different people and groups. These meanings of health have also 【changed】 over time. This difference is no more 【evident】 than in Western society today, when 【notions】 of health and health promotion are being challenged and 【expanded】 in new ways.
 
 380.Climate. 气候
 
+Climate is the word we 【use】 for weather over a long period of time. The desert has a dry climate because there is very little rain. The UK 【has】 a' temperate climate', 【which】 means winters are, overall, mild and 【summers】, generally, don't get too hot.
+
 381.Nepalese Gharial. 尼泊尔长吻鳄
+
+Which would you rather see: a rare Nepalese gharial or a common vole? Even without knowing what these animals are, you might be more intrigued by the gharial, simply because it is rare. This is the conclusion of research 【published】 in the journal Public Library of Science ONE. The researchers say that labelling endangered animals as"rare," may harm the species, raising its value and so putting it at greater risk of being exploited within the illegal 【pet-trade】, for either medicines or exotic zoos. Scientists created a Web site where users could view images of either"rare" or"common" animals. When users clicked on one of the two options, up popped a progress bar showing the images in the process of downloading. But, 【irritatingly】, the download took a 【whopping】 six minutes- although users did have the option to cancel. When the download finally completed, the images were designed not to show up! Well, significantly more users chose the rare 【slideshow】, waited for it to download and often tried again after it didn't work. So, maybe to save the endangered gharial, we ought to just call it just a tired, ugly crocodile.
 
 382.Birds. 鸟类
 
+Some birds of prey have learned to control fire, a 【skill】 previously thought to be unique to humans. The birds appear to deliberately spread wildfires in order to 【flush】 out prey. The finding suggests that birds may have 【beaten】 us to the use of fire.
+
 383.Event Management. 活动管理
+
+Event management is particularly challenging from an operational viewpoint. In many cases, events are staged on sites where everything has been set up over a 24-hour period, with all elements carefully 【synchronised】. In contrast, many events are years in the planning: large convention bids are often won five years before the event is held. For the very 【competitive】 bidding process, budgets need to be developed and prices quoted, requiring a good understanding of market, economic and political trends, as well as consumer choices. This long- term view is the basis of strategic management, which is covered in Part 1, and focuses on the event concept, feasibility of the event, legal compliance and financial management. Marketing is a critical 【success】 factor and other important topic of this first section, many events 'sporting, cultural and arts' involving long- term sponsorship 【arrangements】 with key industry players. Relationship building is particularly 【challenging】 since there are so many stakeholders involved in events, including government agencies at many levels. Part 1 will look at all these aspects, including strategic risk, before moving on to the second part where operational planning and implementation will be covered in detail.
 
 384.Australia's Dwellings. 澳大利亚住宅
 
+The stock of Australia's dwellings is 【evolving】, with current homes having more bedrooms on average than homes ten years ago. At the same time, households are getting smaller on average with decreasing 【proportions】 of couple families with children and 【increasing】 couple only and lone person households. This article 【examines】 the changes in household size and number of bedrooms from 1994- 95 to 2003- 04.
+
 385.Fine Arts. 美术
+
+The Department of Fine Arts is a vibrant department comprising active art professionals housed in a modern, well- equipped facility. The faculty enjoys 【collaborative】 relationships with local museums, numerous galleries and a variety of other art organisations. Fine Arts students benefit from studying with artistically 【active】 mentors who exhibit and research regionally, nationally and internationally. The department provides students with many opportunities for artistic and personal 【growth】 through daily contact with full- time faculty members who are noted artists and researchers. Classes are small to allow for personalised feedback and guidance. Well- appointed studios on campus 【facilitate】 the daily practise of art in combination with the study of liberal arts. During their studies, students gain exposure to world- class visiting artists and exhibitions, and also have local and international travel opportunities.
 
 386.Low-cost Housing. 低成本住房
 
+When it comes to low- cost housing, architects are hardly ever 【involved】. About 98 % of the market is built without architects and the result is usually rows of clones of a building, regardless of whether they are 【practical】 for an area or not. Developers alone, without the 【input】 of an architect, do not see the big picture needed to make housing part of a safe, vibrant community. A little more thought could instantly improve community 【safety】 as well as lead to building houses that are both comfortable and cheap.
+
 387.Fingerprints. 指纹
+
+Fingerprints can 【prove】 that a suspect was actually at the scene of a crime. As long as a human entered a crime scene, there will be traces of DNA. DNA can help the police to 【identify】 an individual to crack a case. An institute in London can help 【preserve】 DNA and be used to match with the 【samples】 taken from the crime scenes.
 
 388.Reading. 阅读
 
+Reading is an active process, not a 【passive】 one. We always read within a 【specific】 context and this affects what we notice and what seems to matter. We always have a purpose in reading a text, and this will shape how we 【approach】 it. Our purpose and background knowledge will also 【determine】 the strategies we use to read the text.
+
 389.Buying a House. 购房
+
+Buying a 【house】 can seem like a daunting process. First you need to work out how much you can borrow. This is where our services will really help you. Make sure you have an accurate and detailed budget that takes into account all associated with purchasing a property, including stamp duty, council rates, and other fees. We can help you identify these extra costs. Ask us for our budget planner if you don't already have one. Interest rates move constantly, so you will need to allow room in your budget for interest rate increases and for other 【unforeseen】 events. All purchase funds are paid at settlement. In the ordinary course of events, settlement takes place, the purchase price is paid in full and the deposit bond simply lapses into group certificates for the 【past】 two years.
 
 390.Copyright. 版权
 
+The presentation will cover copyright's position as one of the intellectual property rights and how it 【differs】 from other intellectual property rights. It will give an 【overview】 of what copyright protects as well as what may be done with copyright protected works without permission under permitted acts. It is by manipulating the restricted acts through licencing arrangements that rights owners establish and 【exploit】 commercial markets. In contrast to commercial markets, the growth of open source and open content licencing models has challenged established business models. The presentation gives a brief commentary on two of the more 【prominent】 open licencing frameworks: the GNU Creative Commons licences.
+
 391.Good Sense. 良好判断力
+
+Good sense appears to have 【prevailed】 at last. With a fresh set of draught rules to replace last year's poorly conceived ones, the centre has sought to withdraw the ban on sale of cattle for slaughter in animal markets. The draught rules are now open for comments and suggestions. When the Union Ministry for environment, forests and climate change notified the rules under the prevention of the cruelty to animals Act on May 23, 2017, there was 【concern】 that in the name of preventing cruelty to animals and regulating livestock markets the government was surreptitiously throttling the cattle trade and furthering the BJP's cow protection agenda. The rules were criticised for restricting legitimate animal trade and interfering with 【dietary】 habits.
 
 392.Agrarian Parties. 农业政党
 
+Agrarian parties are political parties chiefly representing the interests of peasants or, more broadly, the rural sector of society. The extent to which they are important, or 【whether】 they even exist, depends mainly on two factors. One, obviously, is the size of an identifiable peasantry, or the size of the rural relative 【to】 the urban population. The other is a matter of social integration: 【for】 agrarian parties to be important, the representation of countryside or peasantry must not be integrated with the other major sections of society. 【Thus】, a country might possess a sizable rural population, but have an economic system in which the interests of the voters were predominantly related to their incomes, 【rather】 than their occupations or location; and in such a country the political system would be unlikely to include an important agrarian party.
+
 393.Japan and China. 日本与中国
+
+At times, a broad stream of knowledge 【flowed】 from China to Japan. At other times, this transfer was 【halted】 from one side or the other, and Japan 【developed】 on its own culture. But whether in isolation or not, Japan was always itself. Everything that 【arrived】 from China was 【adapted】 to suit Japanese tastes and needs.
 
 394.Chemistry. 化学
 
+Chemistry is an extremely important topic in physiology. Most physiological processes occur as the 【result】 of chemical changes that occur within the body. These changes include the influx of ions across a neuron's membrane, causing a 【signal】 to pass from one end to the other. Other examples include the 【storage】 of oxygen in the blood by a protein as it passes through the lungs for 【usage】 throughout the body.
+
 395.Siblings. 兄弟姐妹
+
+No two siblings are the same, not even 【identical】 twins. Parents often 【puzzle】 about why their children are so different from one another. They'll say, I 【brought】 them up all the same. They forget that what 【determines】 our behaviour isn't what happens to us but how we 【interpret】 what happens to us, and no two people ever see anything in exactly the same way.
 
 396.Biological Systems. 生物系统
 
+Since biological systems with signs of 【complex】 engineering are unlikely to have arisen from accidents or coincidences, their 【organisation】 must come from natural selection, and hence should have 【functions】 useful for survival and reproduction in the environments in which humans evolved.
+
 397.International Journal. 国际期刊
+
+The international journal of design is a peer- reviewed, open access journal devoted to publishing research papers in all fields of design, including industrial design, visual communication design, interface design, animation and game design, architectural design, urban design, and other design related fields. It aims to provide an international forum for the 【exchange】 of ideas and findings from researchers across different cultures and encourages research on the impact of cultural factors 【on】 design theory and practise. It also seeks to promote the 【transfer】 of knowledge between professionals in academia and industry by emphasising research in 【which】 results are of interest or applicable to design practises.
 
 398.Musical Experiences V2. 音乐体验 第二版
 
+The general perception is that children are 【surrounded】 by a variety of musical experiences. There are often fewer and fewer opportunities for children to actively engage in music making themselves. They are inundated with music emitting from a wide 【array】 of electronic devices, toys, and computers offering a 【limitless】 number of musical selections. However, much of the music in children's lives is' unchosen', in other words they are 【passive】 recipients in much of the music in their lives, and not actively engaged in its selection. They experience background music in computer games, cartoons, TV shows, films, on iPads, radios, and ringtones. They listen to music choices of their parents or siblings, and even the schools they attend often play music before the school day begins or in classrooms while students are working. Studies are being 【conducted】 on the effects of the ubiquitous pre- recorded music they encounter and whether or not it 【is intruding】 on their desire to make their own music or interact with each other on the playground.
+
 399.United Nations. 联合国
+
+The United Nations is an international organisation founded in 1945. Due to its unique international character, and the powers vested in its founding Charter, the organisation can take 【action】 on a wide range of issues and provide a forum for its 193 Member States to 【express】 their views, through the General Assembly, the Security Council, the Economic and Social Council and other bodies and committees. The work of the United Nations reaches every 【corner】 of the globe. Although best known for peacekeeping, peacebuilding, conflict 【prevention】 and humanitarian assistance, there are many other ways the United Nations and its System, specialised agencies, funds and programmes, affect our lives and make the world a better place.
 
 400.Funerary Violin. 丧葬小提琴
 
+In the 250 years of its active evolution, funerary violin moved from the formal to the personal. It is clear from the earliest 【accounts】 of the form that its role during the sixteenth and seventeenth centuries was largely heraldic, to 【exemplify】 the continuity of the social 【structure】. The few works that have survived from this period are often 【surprisingly】 unemotional and at times overtly grandiose.
+
 401.Amount of Sleep. 睡眠量
+
+The amount of sleep you need depends on many 【factors】, especially your age. Newborns sleep between 16 and 18 hours a day and preschool children should sleep between 10 and 12 hours. Older children and teens need at least nine hours to be well rested. For most adults, seven to eight hours a night appears to the best amount of sleep. However, for some people"enough sleep" may be as few as five hours or as many as 10 hours of sleep. As you get older, your sleeping 【patterns】 change. Older adults tend to sleep more lightly and awaken more frequently in the night than younger adults. This can have many causes including medical conditions and medications used to treat them. But there's no evidence that older adults need less sleep than younger adults. Getting enough sleep is 【important】 to your health because it boosts your 【immune】 system, which makes your body better able to fight disease. Sleep is necessary for your nervous system to work properly. Too little sleep makes you drowsy and unable to concentrate. It also impairs memory and physical performance. So how many hours of sleep are enough for You? Experts say that if you feel drowsy during the day- even during boring activities- you are not getting enough sleep. Also, quality of sleep is just as important as quantity. People whose sleep is frequently interrupted or cut short are not getting quality sleep. If you experience frequent daytime sleepiness, even after increasing the amount of quality sleep you get, talk to your doctor. He or she may be able to 【identify】 the cause of sleep problems and offer advice on how to get a better night's sleep.
 
 402.Conflict. 冲突
 
+Most of us are 【scared】 of open conflict and avoid it if we can. And there is a 【risk】 to expressing and working through conflict. If the working involves harsh words and name- calling, people feel deeply hurt and relationships can be 【damaged】. Some group members may be afraid that if they really 【express】 their anger, they may go out of control and become violent, or they may do this. These fears can be very 【real】 and based on experience.
+
 403.Mass Migration. 大规模迁徙
+
+Mass migration has produced a huge worldwide economy of its own which has 【accelerated】 so fast during the past few years that the figures have 【astonished】 experts. Last year remittances sent home by migrants were expected to 【exceed】 232 billion according to the World Bank which 【tracks】 these vital figures through the flow of remittances and is to alleviate the plight of migrants' families. Those who study the 【impacts】 of remittances argue that money allows poor countries to put off basic decisions of economic management like reforming their tax collection systems and building schools.
 
 404.Plants. 植物
 
+Plants serve as the conduit of energy into the biosphere, provide food and materials used by humans, and they 【shape】 our environment. According to Ehrhardt and Frommer, the three major challenges facing humanity in our time are food, energy, and environmental 【degradation】. All three are plant related. All of our food is produced by plants, either directly or indirectly via animals that eat them. Plants are a 【source】 of energy production. And they are intimately involved in climate change and a major factor in a variety of environmental concerns, including agricultural expansion and its impact on habitat destruction and waterway pollution. What's more, none of these issues is independent of each other. Climate change places additional stresses on the food supply and on various habitats. So, plant research is instrumental in addressing all of these problems and moving into the future. For plant research to move significantly forward, Ehrhardt and Former say technological development is critical, both to test existing hypotheses and to gain new information and generate fresh hypotheses. If we are to make headway in understanding how these essential organisms function and build the foundation for a sustainable future, then we need to apply the most advanced technologies available to the study of plant life, they say.
+
 405.English in Change. 变化中的英语
+
+English has been changing throughout its lifetime and it's still changing today. For most of us, these changes are fine as long as they're well and truly in the past. Paradoxically, we can be 【curious】 about word origins and the stories behind the 【structures】 we find in our language, but we 【experience】 a queasy distaste for any change that might be happening right under our noses. There are even language critics who are 【convinced】 that English is dying, or if not dying at least being progressively 【crippled】 through long years of mistreatment. For example, many people in Australia worry about their language and its relationship with its powerful relative, American English. In particular, they express concern for the' Americanisation' of the language- it's a hot topic here in Australia.
 
 406.Learning Process. 学习过程
 
+Learning is a process by which behaviour or knowledge changes as a result of experience. Learning from experience plays a major role 【in】 enabling us to do many things that we clearly were not born to do, from the simplest tasks, such as flipping a light switch, to the more 【complex】, such as playing a musical instrument. To many people, the term' learning' signifies the 【activities】 that students do reading, listening, and taking tests in order to acquire new information. This process, which is known as cognitive learning, is just 【one】 type of learning, however. Another way that we learn is by associative learning, which is the focus of this module. You probably associate 【certain】 holidays with specific sights, sounds, and smells, or foods with specific flavours and textures. We are not the only 【species】 with this skill even the simplest animals such as the earthworm can learn by association.
+
 407.Flexibility. 灵活性
+
+Engineers would love to embed flexible 【electronics】 into things like paper, or surgical gloves or conventional clothing. But the wiring usually gets twisted and damaged. Now M. I. T. 【researchers】 have found inspiration in an 【unlikely】 place- the annoying air pockets that pop up in parking pass stickers on car windows. Those bubbles arise because the thin sticker film expands at a different rate than the window glass when they both heat up. And the opposite is also true- the material can compress differently than the glass until it separates and blisters form. The scientists were 【studying】 this kind of wrinkling behaviour. They developed a model that predicted the formation, size and evolution of the bubbles that depends on three things: the elasticity of the film and the glass, and the strength of the bond between them. Then they realised that carefully controlled delamination could be applied to make elastic electronics. Wires in the bubbly elastic material would start out only partially attached to a surface. So there'd be some slack allowing for safe stretching and 【twisting】. The work appears in the Proceedings of the National Academy of Sciences, and shows that a different 【approach】 can make a tough problem less sticky.
 
 408.Medical Examination. 医学检查
 
+The most common 【reason】 for carrying out a detailed medical examination of a dead person, a post- mortem or autopsy, is when it is necessary to 【establish】 the cause of death. In some circumstances, a doctor may be allowed to perform a post- mortem in pursuit of medical 【knowledge】. The examination is usually performed by a pathologist and 【involves】 dissection of the body, and tests were done on blood, tissues and internal organs, but sometimes it is performed by a doctor.
+
 409.Big Buildings. 大型建筑
+
+The desire to build big is nothing new. Big buildings have been used to show off power and wealth; to honour leaders or religious beliefs; to stretch the limits of what's possible; and even as simple 【competition】 among owners, families, architects, and builders. Some of the most 【dramatic】 buildings of the past include the pyramids in Egypt, the skinny towers stretching towards the sky in Italian hill towns, and the gothic cathedrals of France. While these types of buildings may look very different from each other, they all have one thing in 【common】. They were built with masonry or stone walls supporting most of the weight' so- called load- bearing walls', including that of the floors, the people, and everything the rooms contained. Because of this, the height of these buildings was limited by how massive and heavy they had to be at the base. Two 【developments】 in the 19 th century paved the way for a whole new type of building: the skyscraper. The first was the development of a safe elevator. Primitive elevators of various designs had been used for centuries, and starting in the mid 19 th century, steam- operated elevators were used to move materials in factories, mines, and warehouses. But these elevators were not 【considered】 safe for people; if the cable broke, they would plummet to the bottom of the elevator shaft.
 
 410.Conservancy. 保护管理
 
+To qualify as a conservancy, a committee must define the conservancy' s boundary, elect a 【representative】 conservancy committee, negotiate a legal constitution, prove the committee's ability to 【manage】 funds, and produce an acceptable plan for 【equitable】 distribution of wildlife- related benefits. Once approved, registered conservancies acquire the 【rights】 to a sustainable wildlife 【quota】, set by the ministry.
+
 411.Crop Losses. 作物损失
+
+As demand for food and competition for land rises, it is vital that crop losses are limited. Chemical protection has 【provided】 effective control of crop losses in recent years. Alongside chemical fertilisers and improved crop genetics, it has helped to increase crop yields dramatically over the last six decades. 【However】, there is now a need to develop complementary alternatives, and researchers from the Rural Economy and Land Use Programme have been exploring the potential of-- and barriers to-- alternative pest management approaches.' Alternatives to chemical pesticides are 【needed】 because overuse of them leads to pesticide resistance and affects biodiversity and water quality,' says Dr Alastair Bailey.' Heightened EU regulations are also leading to the withdrawal of many pesticide products. 【Hence】, complementary approaches are required to reduce use and preserve the efficacy of those valuable pesticides that are still available to sustain food production systems.'
 
 412.Charles Darwin. 查尔斯·达尔文
 
