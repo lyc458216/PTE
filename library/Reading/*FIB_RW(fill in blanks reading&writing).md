@@ -918,145 +918,296 @@ The Ironbridge Gorge World Heritage property covers an area of 5.5 km2, 550 ha, 
 
 201.Divorces in Australia. 澳大利亚离婚率  
 
+In 2005, 109,000 new marriages were registered in Australia. This was equivalent to 5.4 marriages for every 1,000 people in the population. This rate has been in overall decline since 1986 when there were 7.2 marriages per 1,000 people.
+Over the same period, the crude divorce rate has remained relatively unchanged with 2.6 divorces for every 1, 000 people in 2005 and 2.5 divorces per 1,000 people in 1986. The greatest annual number of divorces occurred in 2001 when there were 55,300 divorces recorded. This peak has been followed by recent declines, with 52,400 divorces in 2005.
+As well as marrying less, Australians are 【tending】 to marry later than in the past. In 1986, the median age at first marriage for men was 25.6 years, increasing to 30.0 years in 2005. For women, the median age at first marriage increased from 23.5 years in 1986 to 28.0 years in 2005.
+People are also divorcing at older ages. In 2005, the median age of divorcing men was 43.5 years, compared with 37.5 years in 1986, while for women the median age in 2005 was 40.8 compared with 34.7 years in 1986.
+The 【decline】 in marriage rates and increase in divorce rates has led to a 【decrease】 in the 【level】 of the population that is formally married. In 1986, 60 percent of the population aged 15 years and over were married; by 2001 this proportion had decreased to 55 percent. 【Conversely】, the proportion of the population aged 15 years and over who were never married increased from 29 percent in 1986 to 32 percent in 2001.
+
 202.Science. 科学  
+
+---
 
 203.Population change. 人口变化  
 
+Populations can change through three processes: fertility, mortality and migration. Fertility 【involves】 the number of children that women 【have】 and differs from fecundity, a woman's childbearing potential. Mortality involves the causes, consequences and measurement of processes affecting death in a population. Demographers most commonly study mortality using the Life Table, a statistical 【device】 which provides information about the mortality conditions most notably the life expectancy in the population. Migration refers to the movement of persons from an origin place to a destination place across some pre-defined political boundary. Migration researchers do not designate movements as migrations, 【unless】 they are somewhat permanent. Thus demographers do not consider tourists and traveller to be migrating. While demographers who study migration typically do so through census data on place of 【residence】, indirect sources of data including tax forms and labour force surveys.
+Demography is today widely taught in many universities across the world, 【attracting】 students with initial training in social sciences, statistics or health studies.
+
 204.Small. 小的  
+
+---
 
 205.Photography. 摄影  
 
+---
+
 206.Bones. 骨骼  
+
+Bones are extremely strong. One of their 【main】 functions is to protect organs. For example, the skull protects the brain and forms the shape of the face. The spinal cord, a pathway for messages between the brain and the body, is protected by the backbone, or spinal column. The ribs form a cage that shelters 【the】 heart and lungs, and the pelvis helps protect the bladder, part of the intestines, and in women, the reproductive organs. Joints make the skeleton flexible, without them, movement 【would】 be impossible. 【Three】 kinds of freely movable joints play a big part in voluntary movement: Hinge joints allow movement in one direction, as 【seen】 in the knees and elbows. Pivot joints allow a rotating or twisting motion, like that of the head moving from side to side. Ball-and-socket joints allow the greatest freedom of movement. The hips and shoulders have this type of joint, in which the round end of a long bone fits into the hollow of another bone.
 
 207.Sydney density. 悉尼人口密度  
 
+Sydney is becoming effective in making the best of its limited available unconstrained land. Sydney is suitable for integrating suitable business, office, residential, retail and other 【development】 in accessible locations so as to maximise public transport 【patronage】 and encourage walking and cycling. Also this city can reduce the 【consumption】 of land for housing and associated urban development on the urban fringe. For the proposed mixed business, mixed-use and business park areas, there was no employment data available for 【comparable】 areas. It is also concluded that lack of housing supply will affect 【affordability】 in Sydney.
+
 208.Charles Dickens. 查尔斯·狄更斯  
+
+At the age of 12, the delicate and genteelly brought up Charles Dickens was 【plunged】 into employment in a boot-blacking factory, while his father was incarcerated in Marshalsea debtors' prison. These events traumatised the young Dickens, and greatly 【influenced】 his future work. However, as an adult this difficult period was never discussed, and only after his death did his account come out. That account has never been corroborated or challenged, but author Michael Allen has 【discovered】 that Dickens' employers at Warren's Blacking were fighting each other in the Chancery Court, revealing a great deal of new information.
 
 209.Nightjar. 夜鹰  
 
+The nightjar's soft plumage and variegated colouring help it 【blend】 in with its surrounds, 【but】 it is the bird's own judgement in choosing the most sympathetic background that 【makes】 it a camouflage champion. Each bird chooses where to nest 【based】 on its specific patterns and colours, says camouflage researcher Martin Stevens, of the Center for Ecology and Conservation at the University of Exeter in Cornwall."Each individual bird looks a little bit different," he says."This is not a species level choice. Individual birds consistently sit in places that enhance their own unique markings, 【both】 within a habitat and at a fine scale with regards to specific background sites."
+
 210.Computer simulation. 计算机模拟  
+
+The purpose of this paper is to consider the claim, often made, that computer simulation exercises provide an excellent source of speaking practise. In so doing I shall first consider the properties of computer simulations from a theoretical 【point of view】, then describe the experience of 【using】 a particular simulation with a general EFL class. On the basis of this experience, and of some very straightforward pedagogical considerations, I shall argue that the claim is justified, 【subject to】 a very important caveat: computer simulations can form the basis of excellent speaking exercises, provided you do not expect the computer to do all the work. Put in another way, many computer simulations only 【attain】 their full potential as language exercises if they are 【integrated】 into a larger, planned, teacher- managed activity.
 
 211.Heart of Study. 研究核心  
 
+Turning now to the heart of the study, in two divisions an attempt 【was made】 to change the supervision so that the decision levels were 【pushed down】 and detailed supervision of the workers reduced. More general supervision of the clerks and their supervisors was introduced. In addition, the managers, assistant managers, supervisors and assistant supervisors of these two divisions were 【trained】 in group methods of leadership, which they 【endeavoured】 to use as much as their skill would permit during the experimental year. For easy reference, the experimental changes in these two divisions 【will be labeled】 the' participative programme'!
+
 212.A bad title. 糟糕的标题  
+
+A good story may be given a bad title by its author, and so started toward failure. Novices are peculiarly 【liable】 to this fault, usually through 【allowing】 themselves to be too easily satisfied. They go to 【infinite】 pains to make the story itself fresh and individual, and then cap it with a 【commonplace】 phrase that is worse than no title at all. A good title is apt, specific, attractive, new, and short. A title is apt if it is an outgrowth of the plot, a text, as I have said. It stands definitely for that particular story, and gives a suggestion of what is to come, but only a suggestion, lest it should anticipate the denouement and so 【satisfy】 the curiosity of the reader too soon.
 
 213.Genetically Modified Foods. 转基因食品  
 
+Genetically modified foods provide no 【direct】 benefit to consumers; the food is not 【noticeably】 better or cheaper. The greater benefit, 【proponents】 argue, is that genetic engineering will play a crucial role in 【feeding】 the world's 【burgeoning】 population. Opponents disagree, 【asserting】 that the world already grows more food per person than ever before- more, even, than we can 【consume】.
+
 214.Fitness club. 健身俱乐部  
+
+Whether you want to exercise and stay 【healthy】, train professionally with like-minded people, or indulge your competitive streak, Trinity Sport and Fitness 【has it covered】. We've got a dedicated support development team on campus to support every student in 【taking】 part in sports. You might want to participate in sports competitions volunteer with a local sports class or simply play for 【fun】 with our social sport programme. Trinity fitness members of our public-facing sports facility will also 【entitle】 you to discounts when you are booking a sports facility and fitness class. You will also 【get】 an opportunity to 【benefit】 from tailored personal training, free activities events, and lots more.
 
 215.Chemicals. 化学品  
 
+Chemicals used to control weeds in crops such as corn and soybeans may sometimes run off farmland and enter surface water bodies such as lakes and streams. If a surface water body that is used as a 【drinking】 water supply receives excess amounts of these herbicides, then the municipal water treatment plant must 【filter】 them out in order for the water to be safe to drink. This added filtration process can be expensive. Farmers can help control excess herbicides in runoff by choosing chemicals that bind with 【soil】 more readily, are less toxic, or degrade more quickly. Additionally, selecting the best tillage practise can help minimise herbicide 【pollution】.
+
 216.Lumiere. 卢米埃尔（兄弟）  
+
+Our sense of cinema as a site of commercial entertainment can be traced back to the Lumiere brothers. In December 1895 they 【attracted】 a fee-paying public in Paris to sit and watch flickering images on an illuminated screen. The commercial Pandora's Box they opened was to blossom in a few years into a world cinema 【industry】 and, at its peak, the fantastical Hollywood. Yet in the 30 years in which this miraculous construction was accomplished, audiences rarely 【had】 to 【listen】 to films, only watch them. Hence, the early decades of cinema were characterised by the title silent. 【In fact】, there was a lot of noise, machinery, audiences, musicians and commentators. Even so, the absence of the human voice and 【dialogue】 make the films seem rather strange when viewed by a modern audience.
 
 217.Pop stars. 流行明星  
 
+A MUSIC student at the University of Salford who wrote a song in two weeks is celebrating 【after】 being featured on a compilation album produced by Metropolis Studios. Pop mega-stars including Adele, Michael Jackson and Sir Elton John have all recorded music at the world-famous Metropolis Studios. Last year, the recording studios set 【about】 compiling an album called' Lost Songs', which features songs from relatively unknown musicians. First-year student Zak Taylor Fray decided to submit his song demo to be included in Volume Two of the Lost Songs album which was released this year, after he saw 【how】 successful Volume One had been. Zak 24, said:"I found this competition when simply 【searching】 the internet for songwriting competitions one day, and was lucky that there was still 【time】 to enter. It amazes me that people who have worked with huge pop stars thought my song was good and worth something."
+
 218.Believe it or not. 信不信由你  
+
+---
 
 219.Mass-communication. 大众传播  
 
+Traditionally, mass-communications research has conceptualised the process of communication in terms of a circulation circuit or loop. This 【model】 has been criticised for its linearity, sender, message, receiver- for its concentration on the level of message exchange and for the absence of a structured conception of the different moments as a complex structure of relations. But it is also 【useful】 to think of this process in terms of a structure produced and sustained through the articulation of linked 【but】 distinctive moments production, circulation, distribution, consumption, reproduction. This would be to think of the 【process】 as a' complex structure in dominance', sustained through the articulation of connected practises, each of which, however, retains its distinctiveness and has its own 【specific】 modality, its own forms and conditions of existence.
+
 220.Supreme Court. 最高法院  
+
+One of the Supreme Court's most important 【responsibilities】 is to decide cases that raise questions of constitutional interpretation. The Court decides if a law or government 【action】 violates the Constitution. This is known as judicial review and enables the Court to invalidate both federal and state laws when they 【conflict】 with the Constitution. Since the Supreme Court stands as the ultimate authority in constitutional interpretation, its decisions can be 【changed】 only by another Supreme Court decision or by a constitutional amendment.
 
 221.Emotions. 情绪  
 
+---
+
 222.Bennett. 贝内特  
+
+In the last years of the wheat boom, Bennett had become increasingly 【frustrated】 at how the government seemed to be encouraging an 【exploitative】 farming binge. He went directly after the Department of Agriculture for 【misleading】 people. Farmers on the Great Plains were working 【against】 nature, he 【thundered】 in speeches.
 
 223.David Lynch. 大卫·林奇  
 
+David Lynch is professor and head of education at Charles Darwin University. 【Prior】 to this he was sub dean in the Faculty of Education and Creative Arts at Central Queensland University and foundation head of the University's Noosa 【campus】. David's career in education began as a primary school teacher in Queensland in the early 1980' s and 【progressed】 to four principal positions before 【entering】 higher education. David's research interests predominate in teacher education with particular interest in building teacher capability to meet a changed world.
+
 224.Darkness. 黑暗  
+
+The increasing darkness in the Northern Hemisphere this time of year indicates to the plant that 【fall】 is coming on. So it starts recouping materials from the 【leaves】 before they drop off. Evergreens protect their needle- like foliage from freezing with 【waxy】 coatings and natural"antifreezes." But broadleaf plants, like sugar maples, birches, and sumacs, have no such protections. As a result, they 【shed】 their leaves. But before they do, the plants first try to 【salvage】 important nutrients such as nitrogen and phosphorus.
 
 225.Standard language. 标准语言  
 
+At the beginning of the twenty-first century, the relationship between standard and nonstandard language is, evidently, still an uncertain one. We are at a 【transitional】 point between two eras. We seem to be leaving an era when the rules of Standard English, as elected and defined by prescriptive grammarians, totally conditioned our sense of 【acceptable】 usage, so that all other usages and varieties were considered to be inferior or corrupt, and 【excluded】 from serious consideration. And we seem to be 【approaching】 an era when nonstandard usages and varieties, previously denigrated or ignored, are achieving a new presence and 【respectability】 within society, reminiscent of that found in Middle English, when dialect variation in literature was widespread and uncontentious. But we are not there 【yet】. The rise of Standard English has resulted in a confrontation between the standard and nonstandard dimensions of the language which has lasted for over 200 years, and this has had traumatic 【consequences】 which will take some years to eliminate. Once people have been given an inferiority complex about the way they speak or write, they find it difficult to shake off.
+
 226.Archaeology. 考古学  
+
+Archaeology is the study of our human past. The evidence that archaeologists use to answer these questions is often found during excavations or digs. The evidence can 【include】 objects like pottery, jewellery, building materials, coins, weapons and tools. Soil samples from archaeological sites can reveal information about past environments, like what kinds of plants were 【growing】. Features like ditches, pits, post holes and the remains of walls can help archaeologists piece 【together】 what buildings looked like and what they were made of. The ways that people were buried tells us about past beliefs, and the skeletons themselves reveal information about people's health in the past and the types of diseases and injuries that killed them. Scientific 【experiments】 on teeth can even show where people came from.
 
 227.Katakana. 片假名  
 
+An eccentric mix of English, German and French has entered Japanese usage with grand abandon. A"kariya" woman is a career woman, and a"manshon" is an apartment. This increasing use of katakana, or unique Japanese versions of Western words, and the younger generation's more casual use of the Japanese language have 【prompted】 Prime Minister Junichiro Koizumi to worry that these new words may not be understood by a wider audience. 【As a result】, a government panel is proposing to publish a manual on how to speak proper Japanese. Foreign words became katakana Japanese 【because】 no existing Japanese words could quite capture a specific meaning or feeling. When the word"cool" travelled east, all of its English connotations did not make the journey. A kuru person in Japan is someone who is calm and never gets upset. 【On the other hand】, someone who is kakkoii is hip, or in translation,"cool." 【Similarly】, a hotto person is one who is easily excitable, perhaps passionate, but not necessarily a popular person or personality of the moment.
+
 228.French lords. 法国领主  
+
+France was still essentially a feudal nation with lords, due to a range of ancient and modern rights from their peasants who comprised about 80 percent of the population and the majority lived in rural contexts. France was a predominantly agricultural nation, 【even though】 this agriculture was low in productivity, wasteful, and using out of date methods. An attempt to introduce modern techniques from Britain had not succeeded. Inheritance laws, 【whereby】 estates were divided up among all the heirs, had 【left】 France divided into many tiny farms; even the large estates were small when compared to other European nations. The only major region 【of】 large-scale farming was around Paris, where the always hungry capital city provided a convenient market. Harvests were critical but fluctuating, causing famine, high prices, and riots.
 
 229.TV. 音乐电视  
 
+---
+
 230.Fluid Mechanics. 流体力学  
+
+Fluid Mechanics with Historical Perspective is part of a series of modules covering the broader subject of thermodynamics at the University of Bath. At the start of each hour-long lecture, the tutor gives a 15-minute input on the aspect of discoveries and developments related to flight. This historical background usually consists of a five-minute PowerPoint presentation, 【followed】 by a short video clip proving the context for the formulate and calculations that are to be explained in the lecture. For example, at the start of a lecture on compressible flow of gases, the presentation is on the story of the first supersonic flight. The tutor 【developed】 24' mini-history lectures' to accompany the lecture series which he hopes will make this largely theoretical-based subject more interesting for his students. The lectures are supported by a set of notes 【given】 out at the beginning of each topic. The notes include visual images, as well as a brief note on the historical 【perspective】 shown and the theoretical concepts explored. The notes are not, however, complete and students are expected to bring them to the lecture each week to fill in the blanks.
 
 231.Tai Chi movement. 太极动作  
 
+---
+
 232.Original stage. 原始阶段  
+
+---
 
 233.Good information. 优质信息  
 
+Good information One of the characteristics of' good' information identified earlier was that it should be' balanced'. In an ideal world,' objective' or' balanced' information would present all the 【evidence】 for and against, and leave you to weigh this up and draw conclusions. In the real world, however, we recognise that all information presents a position of 【interest】, although this may not necessarily be intentional. Objectivity may therefore be an unachievable ideal. This means that the onus is on you as the reader and user of the information to 【develop】 a critical awareness of the positions represented in what you read, and to take account of this when you interpret the information. In some cases, authors may explicitly express a particular viewpoint, this is perfectly valid as long as they are open about the perspective they represent. Hidden bias, whether or not it is 【deliberate】, can be misleading. This could be particularly important in a subject area where there is controversy.
+
 234.Customer Demand. 客户需求  
+
+It originally referred to the production of goods to meet customer 【demand】 exactly in time, quality and quantity, 【whether】 the' customer' is the final purchaser of the product or another process 【further】 along the production line.
 
 235.A giant turtle. 巨型龟  
 
+A giant turtle made from discarded plastic trash will greet visitors to the British Science Festival this week. The plastic containers, bottles and cups were collected locally in Hull, where the event is taking place at the city's university. Standing 3.5 m tall, 11.5ft, the art installation 【was】 commissioned by the University of Hull with the aim of raising 【awareness】 of plastic waste. Professor Dan Parsons, director of the university's Energy and Environment Institute, said:"Marine pollution is a mounting global challenge, which is 【already】 having devastating consequences." We have a duty to protect these fragile environments and the marine life and ecosystems which we 【call】 home. The university has commissioned this installation as a physical 【reminder】 of what is ending up in the oceans, but also ask visitors to campus to stop and think what they could do to try to reduce their own waste."
+
 236.Crime. 犯罪  
+
+A crime is generally a deliberate act that results in harm, physical or otherwise, toward one or more people, in a manner 【prohibited】 by law. The determination of which acts are to be considered criminal has varied 【historically】, and continues to do so among cultures and nations. When a crime is committed, a process of 【discovery】, trial by judge or jury, conviction, and punishment occurs. Just as what is considered criminal varies between 【jurisdictions】, so does the punishment, but elements of restitution and 【deterrence】 are common.
 
 237.Societal expectation. 社会期望  
 
+Social expectations are not static and tend to rise over time, particularly in a wealthy nation like the UK. For example, the standards of safety 【accepted】 in a motor car 50 years ago would be considered to be 【totally】 inadequate at the beginning of the 21 st century. People expect safe, quiet, comfortable cars that do not break down and which retain their appearance for many thousands of miles. Industry should strive to deliver these same high standards for the wealth and safety of employees or service 【providers】. The question is whether societal expectations are as great an influence on workplace safety standards as they are on product safety standards.
+
 238.Poetry and confidence. 诗歌与自信  
+
+---
 
 239.Non-indigenous Plants. 非本土植物  
 
+The invasion of non- indigenous plants is considered a primary threat to integrity and function of ecosystems. However, there is little quantitative or 【experimental】 evidence for ecosystem impacts of invasive species. Justifications for control are often based on potential, but not presently realised, recognised or quantified, negative impacts. Should lack of scientific certainty about impacts of non- indigenous species result in postponing measures to prevent degradation? Recently, management of purple loosestrife- Lythrum salicaria , has been criticised for lack of evidence demonstrating negative impacts of L. salicaria, and management using biocontrol for lack of evidence documenting the failure of conventional control methods. Although little quantitative evidence on negative impacts on native wetland biota and wetland function was available at the onset of the control programme in 1985, recent work has demonstrated that the invasion of purple loosestrife into North American freshwater wetlands alters 【decomposition】 rates and nutrient cycling, leads to reductions in wetland plant diversity, reduces pollination and seed output of the native Lythrum alatum, and reduces habitat 【suitability】 for specialised wetland bird species such as black terns, least bitterns, pied- billed grebes, and marsh wrens. Conventional methods- physical, mechanical or chemical , have continuously failed to 【curb】 the spread of purple loosestrife or to provide satisfactory control. Although a number of generalist insect and bird species utilise purple loosestrife, wetland habitat specialists are excluded by 【encroachment】 of L. salicaria. We conclude that negative ecosystem impacts of purple loosestrife in North America justify control of the species and that 【detrimental】 effects of purple loosestrife on wetland systems and biota and the potential benefits of control outweigh potential risks associated with the introduction of biocontrol agents. Long term experiments and monitoring programmes that are in place will evaluate the impact of these insects on purple loosestrife, on wetland plant succession and other wetland biota.
+
 240.People live longer. 人类寿命延长  
+
+People are generally living longer than previous generations across most parts of the world. Rising life expectancy is a result of advances in medicine as well as improving living standards and healthier lifestyles. But while this should be 【celebrated】 for social reasons, is it beneficial in economic terms? Does the increase in the older population create an 【economic】 burden on society or can older people be mobilised 【to enhance】 the productivity of communities in which they work and live?
+New analysis of international data from 35 countries, published by the International Longevity Center, provides more evidence 【in favor of】 a"longevity dividend". The authors found that as life expectancy increases, so 【does】"output per hour worked, per worker and per capita"
 
 241.Substitute. 替代品  
 
+While workers worry about whether robots will take their jobs, teachers are wondering how to use education to insulate the next generation from such a fate. This 【has worked】 before. When the last wave of automation swept the developed world at the start of the 20th century, policymakers decided education was the answer. If machines were going to substitute for brawn, they 【reasoned】, more people would need to use their brains. The US invested 【heavily】 in education, with good results. Workers reaped the benefits through better jobs and higher wages. Economists Andrew McAfee and Erik Brynjolfsson summed it up like this:"The Industrial Revolution 【started】 a race 【between】 technology and education, and, for most of the 20th century, humans won that race."
+
 242.Democratic government. 民主政府  
+
+The essential problem, as Rosenfeld sees it, is that democratic government is predicated on an aspiration to collective truth. 【Unlike】 older systems of aristocratic and monarchical rule, which excluded the people from power and stressed the need for administrative secrecy, the new republics of the late 18 th century, and the more egalitarian mass democracies that 【succeeded】 them, depended on openness and trust between citizens and rulers. Through the free discussion and united wisdom of the educated and the masses, errors would be dispelled,"public knowledge" established and societies advanced. And yet, she points out, the reality has never 【lived up to】 this powerful ideal. From the 【outset】, democratic societies contained vast inequalities of power and education, and their media have always been driven by commercial and partisan imperatives. In 【practise】, instead of a free civil marketplace of ideas, politics has always been a vicious fight over the truth and the power of determining it.
 
 243.Renewable energy. 可再生能源  
 
+Recently, due to concerns over pollution and the possibility that some sources of fuel might eventually run out or become 【uneconomic】 to obtain, there has been much greater support for renewable sources of power, such as wind or solar energy. Renewable energy sources 【provide】 25 percent of the electricity we use. Unlike 【fossil】 fuels, they tend not to produce any waste or significantly add to global warming by producing gases.
+
 244.Underground houses. 地下房屋  
+
+Underground houses have many advantages over conventional housing. Unlike conventional homes, they can be built on 【steep】 surfaces and can maximise space in small areas by going below the surface. In addition, the materials excavated in construction can be used in the building process. Underground houses have less surface area so fewer building materials are used, and 【maintenance】 costs are lower. They are also wind, fire, and earthquake resistant, providing a secure and safe environment in extreme weather.
+One of the greatest benefits of underground living is energy 【efficiency】. The earth's subsurface temperature remains stable, so underground dwellings benefit from geothermal mass and heat exchange, staying cool in the summer and warm in the winter. This saves around 80 percent in energy costs. By 【incorporating】 solar design this energy bill can be 【reduced】 to zero, providing hot water and heat to the home all year round.
 
 245.Lucy. 露西（古人类化石）  
 
+Lucy was a single hominid skeleton found in Ethiopia. First, she was a bunch of broken fragments lying in Ethiopia. She was found by Donald Johanson and Tom Gray, who headed out to the area looking for rocks, and then drove back. 【During】 that return journey, Johanson spotted a forearm bone, identified it, and then kept looking, where the two found a huge set of bones that would eventually 【represent】 40 percent of the entire skeleton. The discovery was so important because it entirely 【upset】 our understanding of the process of evolution. She showed that people had been wrong to think that we became intelligent before we stood up, Lucy and her contemporaries were better suited for walking 【upright】 than we were, but appear to have been much less 【intellectually】 advanced. That was important because it changed our understanding of the story of evolution, implying that walking was one of the most important things in moving us towards our current state, and that brainpower might not have been the most important thing.
+
 246.iPhone. 苹果手机  
+
+The iPhone is a line of touchscreen- based smartphones designed and marketed by Apple Inc. that use Apple's iOS mobile operating system. The first- generation iPhone was 【announced】 by Apple co-founder Steve Jobs on January 9, 2007. Since then Apple has periodically released new iPhone models and iOS updates. of November 1, 2018, more than 2. 2 billion iPhones had been sold. The iPhone's user interface is built around a multi-touch screen with a 【virtual】 keyboard. The iPhone connects to cellular networks or Wi-Fi. An iPhone can make calls, browse the web, take pictures, play music and send and receive emails and text messages. Since the iPhone's launch further features have been added, including larger screen sizes, shooting video, waterproofing and the ability to instal third- party mobile apps through an app store, 【as well as】 accessibility support. Up to 2017, iPhones used a layout with a single button on the front panel that returns the user to the home screen. Since 2017, more expensive iPhone models have switched to a nearly bezel- less front screen design with app switching activated by gesture 【recognition】.
 
 247.Musical experience. 音乐体验  
 
+The general perception is that children are surrounded by a variety of musical experiences. There are often fewer and fewer opportunities for children to actively engage in music making themselves. They are inundated with music emitting from a wide 【array】 of electronic devices, toys, and computers offering a limitless number of musical selections. However, much of the music in children's lives is"unchosen," in other words they are 【passive】 recipients in much of the music in their lives, and not actively engaged in its selection. They experience background music in computer games, cartoons, TV shows, films, on iPads, radios, and ringtones. They listen to music choices of their parents or siblings, and even the schools they attend often play music before the school day begins or in classrooms 【while】 students are working. Studies are being 【conducted】 on the effects of the ubiquitous pre-recorded music they encounter and whether or not it is 【intruding】 on their desire to make their own music or interact with each other on the playground.
+
 248.Advanced animals. 高级动物  
+
+---
 
 249.Parks in cities. 城市公园  
 
+---
+
 250.Mechanical engineering. 机械工程  
+
+Mechanical engineering was at the heart of Taylor's theorising, providing the context for its development, the world view by which it was sustained and, finally, the justification for its widespread application. Scientific management aimed 【to analyze】 and control the activities of people 【in the same way that】, engineers analysed and controlled machines. Central 【to】 Taylor's system was the desire to rationalise and standardise production techniques in the interests of economy, efficiency and mutual prosperity. His primary point of interest was the individual worker 【pursuing】 individual goals and motivated by incentive payments. 【Undoubtedly】 Taylor's view of human motivation was somewhat simplistic and his apprehension of the significance of groups limited and generally negative.
 
 251.Educational scheme. 教育计划  
 
+The Elder Academy scheme, an education and social inclusion initiative, was 【launched】 in early 2007 by The Labor and Welfare Bureau and the Elderly Commission. The activities provide 【access】 to learning opportunities in schools and university campuses and are aimed primarily at older people who have had little or no education. The scheme optimises the use of existing 【educational】 facilities and has been successful in promoting both lifelong and initial learning for older people, encouraging participation and helping to maintain 【physical】 and mental wellbeing. School and university students are engaged in the scheme, thereby also promoting civic education and intergenerational understanding. Currently, some 125 elder academies in various districts and seven tertiary institutions offer a wide variety of courses.
+
 252.Drama. 戏剧  
+
+I do not think I am twisting the usual meaning of drama if I define it as a presentation before spectators by performers who take on roles and Juho interact with each other to further a story, or a text intended for such presentation. This is intended as a 【working】 definition, simple enough to be recalled easily to the mind. Indeed, it is so simple that I should 【point】 out that it makes one or two distinctions that are perhaps not immediately obvious. First, to say that performers"take on roles" leaves 【open】 the possibility that they are not within the roles throughout the performance, as such alternative phrases as"performers in character" or"characters represented by actors" do not. To say that the performers"interact with each other" might seem 【unnecessary】, but is in fact important, for in traditional societies there are many performances in which different characters appear successively or simultaneously but who 【nevertheless】 do not interact. And I say"to further a story" because the progression of the story may not provide the structure for the performance.
 
 253.Mendeleev. 门捷列夫  
 
+Uniquely stable, they 【seemed】 to participate in no chemical reactions. But by understanding the stability of the noble gases, physicists discovered the key to chemical bonding 【itself】. Dmitri Mendeleev added the noble gases to his periodic table in 1902, where he 【arranged】 the elements in rows and columns 【according】 to their atomic weight.
+Mendeleev was able to see repeating, or periodic, patterns in their properties. The noble gases appeared 【regularly】 in the periodic table, occurring in every eighth position, at least amongst the lighter elements.
+
 254.Foraminifera. 有孔虫  
+
+Scientists have discovered the cause of a mass extinction of sea- floor marine organisms 800, 000 years ago- which also provides insight into how climate change can impact 【on】 deep ocean biota. In a new study 【published】 in the journal Nature Communications, scientists from the universities of Nottingham and Durham and the British Geological Survey, BGS , have discovered the cause of a mass extinction within marine organisms called foraminifera. Foraminifera are an important group in relation to biomass in the deep ocean and the cause of their extinction was 【previously】 unknown. Scientists tested various possible 【causes】 for the mass extinction and were able to discount others such as ocean cooling. 【Instead】, they discovered that the extinction was caused by a global change in plankton at the surface of the ocean.
 
 255.Paraphrasing. 释义  
 
+Paraphrasing is often defined as putting a passage from an author into your own words. However, what are your own words? How different must your paraphrase be from the original? The answer is it should be 【considerably】 different. The whole point of paraphrasing is to show you have read and understood another person's ideas, and can summarise them in your own writing style rather than borrowing their phrases. If you just change a few words, or add some bits 【of】 your own to an otherwise reproduced passage, you will probably be 【penalised】 for plagiarism. You should aim to 【condense】 and simplify a writer's ideas and describe them using different sentence structures and expressions. 【It is】 also important to credit the original writer by referencing.
+
 256.Laptop. 笔记本电脑  
+
+UMN's ALCs features large 【circular】 tables that seat nine students and can accommodate laptop computers for 【collaborative】 work. Typically, students bring their own computers to class and use the building's ubiquitous wireless capability. The classrooms are designed to 【facilitate】 hands-on activities and problems that require students to interact with each other to reach a solution. Students can display their work on large LCD screens mounted around the room to promote small-and large-group discussions. Each table is allotted three gooseneck microphones so that students can make themselves heard without shouting during group discussions. Additionally, students can press a button on their table console to light a 【signal】 lamp to 【indicate】 when they need help or wish to speak. To facilitate brainstorming and group reporting, the room is also lined with erasable marker-boards.
 
 257.Sociology. 社会学  
 
+Sociology is the study of human societies. It is usually 【classed】 as one of the social sciences and was 【established】 as a subject in the late 18th century.
+【However】, the subject has only really gained 【acceptance】 as an academic subject in the 20th century through the work of writers such as Emile Durkheim, Max Weber and Talcott Parsons. One name that you may have heard of, Karl Marx, has probably done more to 【stimulate】 people's interest in the subject than anyone else, even though he lived and wrote in a period before Sociology became fully established as an academic discipline.
+
 258.Student-run Restaurant. 学生经营的餐厅  
+
+The rest of Taylor's restaurant is student- run. Students in quantity food production and service management 【classes】 make the articulate and detailed dishes."We teach students to understand where a product comes from and to respect that product," Garmy said. Sceptics might doubt the 【quality】 of a student- run restaurant, but one visit to Taylor's will immediately change their outlook. Dishes such as orecchiette and butternut squash, pappardelle with duck and bistro chicken will please any appetite while imparting the need to 【return】 for a second taste. Students are taught to use ratios and proportions rather than recipes when creating dishes."Understanding ratios and proportions when creating dishes instead of recipes makes students think and 【actually】 teaches them how to cook, rather than just reading a recipe and not learning from it," Garmy said. Garmy said he believes in using all aspects of a product, which Taylor's 【menu】 reflects.
 
 259.Colonial Era. 殖民时代  
 
+At the end of the colonial era, as many new nations gained independence, relative levels of economic development became an important criterion 【by which】 to distinguish between countries. The former colonial powers and 【wealthier】 parts of the world generally became known as advanced industrial, or developed, countries, 【while】 former colonies and poorer nations became known as less developed, or more positively, developing countries. Critics of the 【uneven】 distribution of wealth across the globe highlighted the role which wealth creation in some places had played in impoverishing poorer nations and, rather, described them as actively underdeveloped. The question as to 【whether】 economic change is developing or underdeveloping countries remains a vital issue, as the debate over sweatshops highlights.
+
 260.British lantern. 英国灯笼  
+
+---
 
 261.Birds. 鸟类  
 
+For birdwatchers in southern New Mexico, September can be highly entertaining. Good numbers of many diverse 【species】 are on the move during this time, 【travelling】 southward from northern 【breeding】 grounds to places they will spend the winter, and there's always a 【chance】 that some rare or unusual bird will turn up.
+
 262.Love of reading. 阅读的热爱  
+
+Many parents want their children to grow up with a love of reading. However, recent research has 【shown】 that children nowadays spend far more of their time using their phones or computers than reading books. Of course, technology brings children many advantages, but books are as important 【as】 computers. For instance, when children read storybooks, they imagine the characters and practise their language skills, too. Many British schools run an event called World Book Day. This event 【aims】 to promote reading to pupils using various fun activities. Some pupils come to school in costumes inspired by their favourite book. Other schools organise World Book Day activities where pupils create music, art or plays about books. But it's also important for children to read at home, too. At the moment, 【very few】 parents spend time reading with their children regularly. 【Unfortunately】, this means that these children are missing an opportunity to develop the reading habit at an early age.
 
 263.Behaviorists. 行为主义者  
 
+Another way to looking at personality is the behaviourist approach. According to behaviourists, the inner 【facts】 of the consciousness are not important. Instead, they believed that our behaviours, and therefore our 【personalities】 are learned primarily through our experiences. The theories of behaviourism arose through 【experiments】 largely on animals in which behaviours were learned through carefully controlled 【stimuli】.
+
 264.Bees and flowers. 蜜蜂与花朵  
+
+Bees and flowers have evolved together for millions of years. It is a 【mutual】 relationship where the bee is provided with food, nectar or pollen, and the stationary plant gets to 【disperse】 its pollen, sperm cells, to other plants of the same 【species】. For the plant this is much more efficient than using wind to reach the goal. Consequently, over millions of years plants have developed flowers with increasingly specialised features to attract visiting bees who, in turn, would distribute pollen grains and optimise the plant's reproductive 【capabilities】. Simultaneously, bees underwent physiological, behavioural and structural adaptations to take advantage of the nutritional benefits 【offered】 by flowering plants. This is an example of a co-evolutionary relationship.
 
 265.Help Other People. 帮助他人  
 
+There are many different ways to help other people. Perhaps the most common of these involves giving others 【practical】 help. In our society, there are many individuals who spontaneously help others in this way. Additionally, there are others who belong to organisations which have been set up to provide help to specific groups, such as the elderly, the disabled, and those with serious physical or 【mental】 health problems. Most importantly, there are many 【occupations】, such as nursing, occupational therapy and social work, which involve professionals who are trained to provide or organise practical help for others. 【While】 helping other people in a practical way, many volunteer and professional helpers also make use of some counselling skills. These skills can be very useful in enabling people to feel better as described in this book and our book, Counselling Skills in Everyday Life. However, it needs to be 【recognised】 that just being able to make use of some counselling skills does not qualify a person as a counsellor.
+
 266.An abstract. 摘要  
+
+An abstract is an original work, not an excerpted passage. An abstract must be fully self-contained and 【make】 sense by itself, without further reference to outside sources or to the actual paper. It highlihts key content areas, your research purpose, the relevance of importance of your work, and the main outcomes. It is a well-developed single paragraph of approximately 250 words in length, which is indented and spaced. The function of the abstract is to outline briefly all parts of the paper. Although 【it is placed】 at the beginning of your paper, immediately following the title page, the abstract should be the last thing that you write, 【once】 you are sure of the conclusions you will reach.
 
 267.Newspapers. 报纸  
 
+Who won the World Cup 1994 football game? What happened at the United Nations? How did the critics like the new play? Just when an event takes place, newspapers are on the streets to 【give】 the details. Wherever anything happens in the world, reporters are on the spot to 【gather】 the news. Newspapers have one basic purpose to get the news as quickly as possible from its source, from those who make it to those who want to know it. Radio, telegraph, television, and other inventions brought competition for newspapers. So did the development of magazines and other means of communication. However, this competition merely spurred the newspapers on. They quickly made use of the newer and faster means of communication to improve the 【speed】 and thus the efficiency of their own operations. Today more newspapers are printed and read than ever before. Competition also led newspapers to branch out into so many other fields. Besides keeping readers 【informed】 of the latest news, today's newspapers educate and influence readers about politics and other important and serious matters. Newspapers influence readers' economic choices through advertising. Most newspapers depend on advertising for their very existence. Newspapers are sold at a price that fails to cover even a small fraction of the cost of production. The main source of income for most newspapers is commercial advertising. The success is selling advertising depends on a newspaper's value to advertisers. This is 【measured】 in terms of circulation. How many people read the newspaper? Circulation depends much on the work of the circulation department and on the services or entertainment offered in a newspaper's pages. But for the most part, circulation depends on a newspaper's value to readers as a source of information about the community, city, country, state, nation and world and even outer space.
+
 268.Life science. 生命科学  
+
+The Life Science Institute at the University of Michigan achieves 【excellence】 in biomedical research by bringing together the world's 【leading】 scientists from a variety of life science disciplines to 【accelerate】 breakthroughs and discoveries that will improve human health. With close to 400 scientific staff members, the LSI is exploiting the power of a 【collaborative】 and interdisciplinary 【approach】 to biomedical research in an open-laboratory 【facility】.
 
 269.Women's opportunities. 女性机会  
 
+---
+
 270.Democracy. 民主
 
+Democracy is a system of government in which laws, policies, leadership, and major 【undertakings】 of a state or other polity are directly or indirectly decided by the' people', a group historically constituted by only a minority of the population, e. g., all free adult males in ancient Athens or all sufficiently propertied adult males in 19 th-century Britain, but generally understood 【since】 the mid-20 th century to include all, or nearly all, adult citizens. By and large, states with democratic governments prevent rule by autocrats, 【guarantee】 fundamental individual rights, allow 【for】 a relatively high level of political equality, and rarely make war on each other. As compared with nondemocratic states, they also better foster human development as 【measured】 by indicators such as health and education, provide more prosperity for their citizens, and ensure a 【broader】 range of personal freedoms.
+
 271.Marshmallow Test. 棉花糖实验
+
+Mischel is the creator of the marshmallow test, one of the most famous experiments in the history of psychology, which is often cited as evidence of the importance of self-control. In the original test, which was administered at the Bing Nursery School, at Stanford, in the nineteen-sixties, Mischel's team would present a child with a treat and tell her that she could either eat the one treat 【immediately】 or wait alone in the room for several minutes until the researcher returned, at which point she could have two treats. The promised treats were always visible and the child knew that all she had to do to stop the agonising 【wait】 was ring a bell to call the experimenter back, although in that 【case】, she wouldn't get the second treat. The longer a child delayed gratification, Mischel found, that is, the longer she was able to wait, the better she would fare later in life at numerous measures of what we now call executive function. She would 【perform】 better academically, earn more money, and be healthier and happier. She would also be more likely to avoid a number of 【negative】 outcomes, including jail time, obesity, and drug use.
 
 272.Gunpowder and fireworks. 火药与烟花
 
