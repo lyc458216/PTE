@@ -556,32 +556,67 @@ Scientists preparing for NASA's proposed Jupiter Icy Moons Orbiter believe that 
 
 135.Electorate. 选民  
 
+It would be reassuring to think that the 【electorate】 choose who to vote for based on the candidates' track records and future policy promises. 【In truth】, many of us are swayed simply by the way that politicians look. Consider a 2009 study that asked Swiss students to look at multiple pairs of unfamiliar French political candidates and in each case to select the one who looked most competent. Most of the time, the candidate selected by students 【as】 looking the most competent was also the one who'd had real life electoral success, the 【implication】 being that voters too had been swayed by the candidates' appearance. There's little evidence that appearance and competence actually 【correlate】. 【Unsurprisingly】, being attractive also helps win votes, especially in war time, in peace time, looking trustworthy is more of an advantage. Other research has shown that we're more likely to vote for male and female candidates with deeper voices.
+
 136.Anthropologists. 人类学家  
+
+It is commonly said by anthropologists that the primitive man is 【less】 individual and more completely moulded by his society than civilised man. This contains an 【element】 of truth. Simpler societies are more 【uniform】, in the sense that they call for, and provide opportunities for, a far 【smaller】 diversity of 【individual】 skills and occupations than the most complex and 【advanced】 societies. Increasing individualization in this sense is a necessary 【product】 of modern advanced society and runs through all its activities from top to bottom.
 
 137.Gun violence. 枪支暴力  
 
+Exposure to gun violence makes adolescents twice as 【likely】 to perpetrate serious violence in the next two years, according to a University of Michigan 【study】. Researchers found there is a 【substantial】 cause and effect 【relationship】 between exposure and perpetration of violence. Jeffrey B. Bingenheimer, a doctoral student in health behaviour and health education, analysed five years of data from adolescents living in 78 neighbourhoods in Chicago. Bingenheimer is lead author on a paper in this week's journal Science.
+
 138.Scientific method. 科学方法  
+
+The logic of the scientific method was set out by John Stuart Mill in 1843 and was named the method of difference. A simple example of what he meant by this is to take two glasses of water which are 【identical】 in every respect. Introduce a few drops of ink into one of these glasses. The water changes colour! According to Mills method of difference it is safe to assume that the change in the colour of the water is due to the 【introduction】 of a new factor, the 【independent】 variable, in this case, the ink.
 
 139.Resultant force. 合力  
 
+The overall result of two or 【more】 forces acting on an object is called the resultant force. The resultant of two forces is a single force, which has the same effect as the two forces combined. If two forces pull an object in 【opposite】 directions, the size of the resultant can be found by 【subtracting】 one force from the other. If the forces are 【equal】, they balance each other.
+
 140.Neuroscientists. 神经科学家  
+
+We now know through the work of neuroscientists that the human brain is wired to mimic other people, and this mimicry involves actual involuntary physiological experience in the observer. Human beings tend to 【imitate】 actions that they see. Physiologically, our brains include mirror neurons, which 【react】 to actions that are seen as if we are doing the action ourselves. It is largely an unconscious and automatic experience. When we hear people speak, observe their vocal 【nuances】, watch their posture, gestures, and facial expressions, etc, neural networks in our brains are stimulated by the"shared representations" generating feelings within us that 【reflect】 the experience of those we are observing.
 
 141.The Petrified Forest. 石化森林  
 
+The Petrified Forest is home to some of the most impressive fossils ever found and more are being discovered each year as continuing erosion is 【exposing】 new evidence. Fossils found here show the Forest was once a tropical region, 【filled】 with towering trees and extraordinary creatures. More than 150 different species of fossilised plants have been discovered by paleontologists and evidence 【indicating】 ancient native people who inhabited this region about 10,000 years ago has been 【confirmed】 by archaeologists.
+
 142.Computational thinking. 计算思维  
+
+Developing computational thinking helps students to better understand the world around them, many of us happily drive a car without 【understanding】 what goes on under the bonnet. So is it necessary for children to 【learn】 how to programme computers? After all, some experts say coding is one of the human skills that will become 【obsolete】 as artificial intelligence grows. Nevertheless, governments believe coding is an essential skill. Since 2014, the principles of computer programming have 【featured】 on England's curriculum for children from the age of five or six, when they start primary school.
+While not all children will become programmers, Mark Martin, a computing teacher at Sydenham High School, London, argues that they should learn to understand what 【makes】 computers work and try to solve problems as a computer might.
 
 143.Seminars. 研讨会  
 
+Seminars are not designed to be mini-lectures. Their educational 【role】 is to provide an opportunity for you to discuss interesting and difficult aspects of the course. This is founded on the 【assumption】 that it is only by actively trying to use the knowledge that you have acquired from lectures and texts that you can achieve an adequate understanding of the subject. If you do not understand a point it is highly 【unlikely】 that you will be the only person in the group in that position, you will invariably be undertaking a 【service】 for the entire group if you come to the seminar equipped with questions on matters which you feel you did not fully understand. The seminar is to introduce and 【provoke】 discussion.
+
 144.DNA sequence. DNA序列  
+
+The recipe for making any creature is written in its DNA. So last November when geneticists published the near-complete DNA sequence of the long-extinct woolly mammoth, there was much speculation about whether we could bring this behemoth back to life.
+Creating a living, breathing creature from a genome sequence that exists only in a computer's memory is not possible right now. But someone someday is sure to try it, 【predicts】 Stephan Schuster, a 【molecular】 biologist at Pennsylvania State University, University Park, and a 【driving】 force behind the mammoth genome project.
 
 145.Great engineers. 伟大工程师  
 
+Great engineers have a passion to improve life; a burning conviction that they can make life better for everyone. Engineers need to have a talent for invention and innovation, but what 【drives】 them is the conviction that they can find a better way to do things; a cheaper and more efficient solution to the problems of human existence on this planet of 【limited】 resources that we call Earth.
+Many of us 【spend】 a lot of time complaining about the difficulties and problems of life. It is easy to find fault with things that make daily life arduous. For an engineer, these difficulties can be opportunities. How can this be made to work better? How can that process be made more efficient? How can 【components】 be made more cheaply, more accurately and more fit-for-purpose? Great engineers are convinced that everything can be 【improved】. Instead of complaining, they think of ways to make things better.
+
 146.Evolution. 进化  
+
+In The Origin of Species, Darwin provided abundant evidence that life on Earth has evolved over time, and he proposed natural selection as the primary mechanism for that change. He observed that individuals 【differ】 in their inherited traits and that selection acts on such differences, leading to 【evolutionary】 change. Although Darwin realised that variation in heritable traits is a prerequisite for 【evolution】, he did not know precisely how organisms pass heritable traits to their offspring. Just a few years after Darwin published The Origin of Species, Gregor Mendel wrote a groundbreaking paper on inheritance in pea plants in that paper, Mendel proposed a model of inheritance in which organisms transmit discrete heritable units, now called genes, to their offspring. Although Darwin did not know about genes, MendeFs paper set the stage for understanding the genetic differences on which evolution is based.
 
 147.Conservancy. 保护机构  
 
+To qualify as a conservancy, a committee must define the conservancy's boundary, elect a 【representative】 conservancy committee, negotiate a legal constitution, prove the committee's ability to 【manage】 funds, and produce an acceptable plan for 【equitable】 distribution of wildlife-related benefits. Once approved, registered conservancies acquire the 【rights】 to a sustainable wildlife 【quota】, set by the ministry.
+
 148.MBA. 工商管理硕士  
+
+Deciding to go to business school is perhaps the simplest part of what can be a complicated process. With nearly 600 accredited MBA programmes on 【offer】 around the world, the choice of where to study can be overwhelming. Here we explain how to 【choose】 the right school and course for you and unravel the application and funding process."Probably the 【majority】 of people applying to business school are at a point in their careers where they know they 【want】 to shake things up, but they don't know exactly what they want to do with their professional lives," says Stacy Blackman, an MBA admissions consultant based in Los Angeles."If that's the case with you, look at other 【criteria】: culture, teaching method, location, and then pick a place that's a good fit for you with a strong general management programme. Super-defined career goals don't have to be a part of this process."
 
 149.Rudman. 拉德曼（人名）  
 
+Rudman looks at how a poor understanding of Maths has led historians to false conclusions about the Mathematical sophistication of early societies. Rudman's final observation, that ancient Greece 【enjoyed】 unrivalled progress in the subject while 【failing】 to teach it at school- leads to a 【radical】 punchline; Mathematics could be better learned after we 【leave】 school.
+
 150.Civil society. 公民社会
+
+For too long we have held preconceived notions of the market and the state that were seemingly independent of local societies and cultures. The debate about civil society ultimately is about how culture, market and state 【relate】 to each other. Concern about civil society, however, is not only relevant to central and eastern Europe and the developing world. It is very much of 【interest】 to the European Union as well. The Civil Dialogue Initiated by the Commission in the 1990s was a first attempt by the EU to give the institutions of society, and not only governments and businesses, a voice at the policy-making tables in Brussels. The EU, like other international institutions, has a long way to go in trying to 【accommodate】 the frequently divergent interests of non-governmental organisations and citizen groups. There is increasing 【recognition】 that international and national governments have to open up to civil society institutions.
