@@ -4,6 +4,7 @@ Type the missing words in each blank.
 
 Filter: Test
 Sort Type: Creation time(Ascending order)
+Total: 127
 
 **Comments: There is only a recording paragraph, but not include title.
 

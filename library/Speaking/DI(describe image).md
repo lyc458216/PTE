@@ -10,6 +10,7 @@ Tips: There is only a image, but not include title.
 
 Filter: Test
 Sort Type: Creation time(Ascending order)
+Total: 32
 
 Step graph - 5
 Pie chart - 3

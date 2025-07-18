@@ -4,6 +4,7 @@ Drag words from the box below to the appropriate place in the text To undo an an
 
 Filter: Test
 Sort Type: Creation time(Ascending order)
+Total: 150
 
 **Comments: There is only a paragraph, but not include title.
 
