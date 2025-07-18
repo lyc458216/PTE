@@ -99,7 +99,7 @@ Total: 1457
 29.A number of students have volunteer jobs.  
 许多学生从事志愿工作  
 
-30.不完整题目：archaeologists need ... design...  
+30.不完整题目：archaeologists need... design...  
 考古学家需要...设计...  
 
 31.The essay is easy to write once the research is completed.  
@@ -378,7 +378,7 @@ Total: 1457
 122.The massive accumulation of data was converted into a communicable argument.  
 海量数据被转化为可传播的论点  
 
-123.不完整题目：a main cause ... traditional style.  
+123.不完整题目：a main cause... traditional style.  
 主要原因...传统风格...  
 
 124.Organization plays an important role in academic literature.  
@@ -540,7 +540,7 @@ Total: 1457
 176.You need to hand in the essay next semester.  
 你需在下学期提交论文  
 
-177.不完整题目：The university has ... intelligence ... technology scientific ... machine ... for research  
+177.不完整题目：The university has... intelligence... technology scientific... machine... for research  
 该大学拥有...智能...科技...科研...机器...用于研究  
 
 178.The scientists will face both the explanations and the problems.  
@@ -1458,7 +1458,7 @@ Total: 1457
 482.Make sure you have saved all the files before turning off the computer.  
 关闭电脑前请确保已保存所有文件  
 
-483.不完整题目：how many styles in the ... next Monday.  
+483.不完整题目：how many styles in the... next Monday.  
 ...下周一有多少种风格...  
 
 484.International exchanges form an important part of our study programs.  
@@ -2010,7 +2010,7 @@ Total: 1457
 666.When the roots of a plant failed, foliage suffers.  
 植物根部受损时，叶片会受影响  
 
-667.不完整题目：a united ... change in the university,  
+667.不完整题目：a united... change in the university,  
 大学里一次联合的...变革  
 
 668.The school canteen sells a large variety of water and food.  
@@ -2823,7 +2823,7 @@ Total: 1457
 937.The company was established in London by two former colleagues.  
 公司由两位前同事在伦敦创立  
 
-938.不完整题目：experts ... new talents.  
+938.不完整题目：experts... new talents.  
 专家...新人才...  
 
 939.Effective presenters make eye contact with the audience.  
