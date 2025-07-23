@@ -54,7 +54,7 @@ Total: 850
 食堂即将关闭，但零食贩卖机24小时可用  
 
 15.We'd like people to write a case study, describing an organization they know.  
-要求撰写熟悉组织的案例研究  
+我们希望人们写一个案例研究，描述一个他们所知道的组织 
 
 16.We are warning the clients that the rates are increasing.  
 我们正告知客户费率上涨  
@@ -63,7 +63,7 @@ Total: 850
 周五截止日期后不再接收作业  
 
 18.The books reserved in the library can be borrowed for up to 3 hours.  
-图书馆预约书籍限借3小时  
+图书馆里的书最多可以借三个小时 
 
 19.This course will examine some of the profound ethical dilemmas.  
 本课程将探讨深刻伦理困境  
@@ -87,13 +87,13 @@ Total: 850
 客座教授将举办地质学讲座  
 
 26.The technology they didn't introduce meant that metal and leather goods were produced there for the first time.  
-未引进该技术导致首次在当地生产金属皮革制品  
+他们没有引进的技术意味着金属和皮革制品第一次在那里生产 
 
 27.The student welfare officer can help with questions about exam techniques.  
-学生福利官员可提供考试技巧咨询  
+学生福利官可以帮助解答有关考试技巧的问题  
 
 28.The smoke from these contributed a great deal to the air pollution.  
-这些排放的烟雾严重污染空气  
+这些工厂产生的烟雾对空气污染造成了很大的影响  
 
 29.The Romans left in 410 at the beginning of the fifth century.  
 罗马人于五世纪初的410年撤离  
