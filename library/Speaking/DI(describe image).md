@@ -3,7 +3,7 @@ Look at the image below.
 In 25 seconds, please speak into the microphone and describe in detail what the image is showing.
 You will have 40 seconds to give your response.
 
-Vocabulary: 
+Vocabulary:
 Speaking
 
 Tips: There is only a image, but not include title.
@@ -11,6 +11,19 @@ Tips: There is only a image, but not include title.
 Filter: Test
 Sort Type: Creation time(Ascending order)
 Total: 32
+
+Total template:
+1.The following graph shows the information about (title);
+2.It is shown that the items include (different items);
+3.According to this graph, it can be seen that ( );
+4.What is more, we can see that ( );
+5.In conclusion, we can known the trend of (different items);
+
+Branch template:
+(Table, Bar, Pie): the largest/smallest number is ( ), which is ( ).
+(Line): the number of ( ) increased/decreased slowly (dramatically/with a lot of fluctuation) from ( ) to ( ), reaching the (maximum/minimum) in ( ).
+(Follow chart): the first/second/next step is ( ), (which is ).
+(Map, Image): to the (left/right/top/bottom/central/outside) part of the picture, there is ( ), which is ( ).
 
 Step graph - 5
 Pie chart - 3
