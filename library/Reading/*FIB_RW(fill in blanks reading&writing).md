@@ -12,12 +12,19 @@ Sort Type: Creation time(Ascending order)
 
 Arab students will be able to sign up to study at a 【distance】 for the business courses in their own language. The Edinburgh Business School 【announced】 the project at a 【reception】 in Cairo on Saturday. It is hoped the course will improve links between the university and the Arab business world. A university spokeswoman said: The Arabic MBA will 【raise】 the profile of Heriot Watt University and the Edinburgh Business School among businesses in the Arabic-speaking world and will create a strong 【network】 of graduates in the 【region】. The first 【intake】 of students is expected later this year. Professor Keith Lumsden, director of Edinburgh Business School, said: Arabic is a major global language and the Arab world is a centre for business and industrial development. We are proud to work with Arab International Education to meet the demands of the region.
 
+阿拉伯学生将能够报名参加以本族语授课的【远程】商务课程。爱丁堡商学院周六在开罗的一次【招待会】上【宣布】了该项目。希望该课程能够加强该大学与阿拉伯商界的联系。一位大学发言人表示：“阿拉伯语 MBA 项目将【提升】赫瑞瓦特大学和爱丁堡商学院在阿拉伯语国家商界的形象，并将在【地区】建立一个强大的毕业生【网络】。预计首批学生将于今年晚些时候入学。爱丁堡商学院院长基思·拉姆斯登教授表示：“阿拉伯语是一种主要的全球语言，阿拉伯世界是商业和工业发展的中心。我们很荣幸能与阿拉伯国际教育合作，满足该地区的需求。
+
 2.Mount Everest. 珠穆朗玛峰
 
-Called Chomolungma, goddess mother of the world, in Tibet and Sagarmatha, goddess of the sky, in Nepal. Mount Everest once went by the pedestrian name Peak XV among Westerners. That was before 【surveyors】 established that it was the highest mountain on Earth, a fact that cames something of a surprise, Peak XV had seemed lost in the crowd of other formidable Himalayan peaks, many of which gave the 【illusion】 of greater height.
+Called Chomolungma, goddess mother of the world, in Tibet and Sagarmatha, goddess of the sky, in Nepal. Mount Everest once went by the pedestrian name Peak XV among Westerners. That was before 【surveyors】 established that it was the highest mountain on Earth, a fact that comes something of a surprise, Peak XV had seemed lost in the crowd of other formidable Himalayan peaks, many of which gave the 【illusion】 of greater height.
 In 1852 the Great Trigonometrically Survey of India measured Everest's elevation as 29,002 feet above sea level. This figure remained the officially 【accepted】 height for more than one hundred years. In 1955 it was adjusted by a mere 26 feet to 29,028.
 The mountain received its official name in 1865 in honour of Sir George Everest, the British Surveyor General from 1830 to 1843 who had mapped the India subcontinent. He had some 【reservations】 about having his name bestowed on the peak, arguing that the mountain should retain its local appellation, the standard policy of geographical societies.
 Before the Survey of India, a number of the other mountains ranked supreme in the eyes of the world. In the seventeenth and eighteenth centuries, the Andean peak Chimborazo was considered the highest. At a relatively unremarkable 20,561 feet. it is in fact nowhere near the highest, 【surpassed】 by about thirty other Andean peaks and several dozens in the Himalayas. In 1809, the Himalayan peak Dhaulagiri was declared the ultimate, only to be shunted aside in 1840 by Kanchenjunga, which today ranks third. Everest's status has been unrivalled for the last century and a half, but not without a few threats.
+
+在西藏，它被称为珠穆朗玛峰，意为世界之母；在尼泊尔，它被称为萨加玛塔峰，意为天空女神。在西方，珠穆朗玛峰曾被戏称为第十五峰。那是在测量员确定它是世界最高峰之前，这一事实多少让人感到意外，因为第十五峰似乎淹没在喜马拉雅山脉众多巍峨山峰之中，其中许多山峰给人一种更高的错觉。
+1852年，印度大三角测量局测得珠穆朗玛峰的海拔高度为29,002英尺。这一数字在随后的一百多年里一直是官方认可的高度。1955年，珠穆朗玛峰的高度仅调整了26英尺，达到29,028英尺。
+这座山峰于1865年正式命名，以纪念乔治·埃弗勒斯爵士，他于1830年至1843年担任英国测量局局长，绘制了印度次大陆的地图。他对以自己的名字命名这座山峰有一些【保留意见】，认为这座山峰应该保留其当地的称谓，这是地理学会的标准政策。
+在印度测量局成立之前，在世界眼中，许多其他山峰也位居最高地位。在十七和十八世纪，安第斯山脉的钦博拉索山被认为是最高峰。它的高度相对平凡，只有20,561英尺，实际上远不及最高点，大约有30座其他安第斯山脉的山峰和数十座喜马拉雅山脉的山峰【超过】了它。1809年，喜马拉雅山脉的道拉吉里峰被宣布为最高点，但在1840年，干城章嘉峰取代了它，如今排名第三。在过去的一个半世纪里，珠穆朗玛峰的地位一直无人能及，但也面临着一些威胁。
 
 3.Richard Morris. 理查德·莫里斯
 
@@ -26,6 +33,12 @@ Richard Morris, of the school of accounting at the University of NSW, which requ
 "It definitely is a problem. If you don't turn up to class you're missing out on the whole richness of the 【experience】: you don't think a whole lot, you don't 【engage】 in debates with other students, or with your teachers."
 It is not all gloom, said Professor John Dearn, a Province-Chancellor at the University of Canberra, who said the Internet was 【transforming】 the way students access and use information.
 "It is strange that despite all the evidence as to their ineffectiveness, 【traditional】 lecture seems to persist in our universities."
+
+新南威尔士大学会计学院的理查德·莫里斯表示，自20世纪90年代末以来，出勤率一直是个问题。新南威尔士大学要求学生的入学成绩在前5%。
+“有时，我们只有大约三分之一的学生（注册）到场，”他说。
+“这绝对是个问题。如果你不来上课，你就错过了丰富的学习体验：你不会思考太多，也不会与其他学生或老师进行辩论。”
+堪培拉大学省级校长约翰·迪恩教授表示，情况并非全是悲观的，他表示，互联网正在改变学生获取和使用信息的方式。
+“奇怪的是，尽管所有证据表明传统讲座的有效性，但它似乎仍然在我们的大学里持续存在。”
 
 4.Foreign students' English standards. 留学生的英语水平
 
