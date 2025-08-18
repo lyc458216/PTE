@@ -22,9 +22,9 @@ The mountain received its official name in 1865 in honour of Sir George Everest,
 Before the Survey of India, a number of the other mountains ranked supreme in the eyes of the world. In the seventeenth and eighteenth centuries, the Andean peak Chimborazo was considered the highest. At a relatively unremarkable 20,561 feet. it is in fact nowhere near the highest, 【surpassed】 by about thirty other Andean peaks and several dozens in the Himalayas. In 1809, the Himalayan peak Dhaulagiri was declared the ultimate, only to be shunted aside in 1840 by Kanchenjunga, which today ranks third. Everest's status has been unrivalled for the last century and a half, but not without a few threats.
 
 在西藏，它被称为珠穆朗玛峰，意为世界之母；在尼泊尔，它被称为萨加玛塔峰，意为天空女神。在西方，珠穆朗玛峰曾被戏称为第十五峰。那是在测量员确定它是世界最高峰之前，这一事实多少让人感到意外，因为第十五峰似乎淹没在喜马拉雅山脉众多巍峨山峰之中，其中许多山峰给人一种更高的错觉。
-1852年，印度大三角测量局测得珠穆朗玛峰的海拔高度为29,002英尺。这一数字在随后的一百多年里一直是官方认可的高度。1955年，珠穆朗玛峰的高度仅调整了26英尺，达到29,028英尺。
-这座山峰于1865年正式命名，以纪念乔治·埃弗勒斯爵士，他于1830年至1843年担任英国测量局局长，绘制了印度次大陆的地图。他对以自己的名字命名这座山峰有一些【保留意见】，认为这座山峰应该保留其当地的称谓，这是地理学会的标准政策。
-在印度测量局成立之前，在世界眼中，许多其他山峰也位居最高地位。在十七和十八世纪，安第斯山脉的钦博拉索山被认为是最高峰。它的高度相对平凡，只有20,561英尺，实际上远不及最高点，大约有30座其他安第斯山脉的山峰和数十座喜马拉雅山脉的山峰【超过】了它。1809年，喜马拉雅山脉的道拉吉里峰被宣布为最高点，但在1840年，干城章嘉峰取代了它，如今排名第三。在过去的一个半世纪里，珠穆朗玛峰的地位一直无人能及，但也面临着一些威胁。
+1852 年，印度大三角测量局测得珠穆朗玛峰的海拔高度为 29,002 英尺。这一数字在随后的一百多年里一直是官方认可的高度。1955 年，珠穆朗玛峰的高度仅调整了 26 英尺，达到 29,028 英尺。
+这座山峰于 1865 年正式命名，以纪念乔治·埃弗勒斯爵士，他于 1830 年至 1843 年担任英国测量局局长，绘制了印度次大陆的地图。他对以自己的名字命名这座山峰有一些【保留意见】，认为这座山峰应该保留其当地的称谓，这是地理学会的标准政策。
+在印度测量局成立之前，在世界眼中，许多其他山峰也位居最高地位。在十七和十八世纪，安第斯山脉的钦博拉索山被认为是最高峰。它的高度相对平凡，只有 20,561 英尺，实际上远不及最高点，大约有 30 座其他安第斯山脉的山峰和数十座喜马拉雅山脉的山峰【超过】了它。1809 年，喜马拉雅山脉的道拉吉里峰被宣布为最高点，但在 1840 年，干城章嘉峰取代了它，如今排名第三。在过去的一个半世纪里，珠穆朗玛峰的地位一直无人能及，但也面临着一些威胁。
 
 3.Richard Morris. 理查德·莫里斯
 
@@ -34,7 +34,7 @@ Richard Morris, of the school of accounting at the University of NSW, which requ
 It is not all gloom, said Professor John Dearn, a Province-Chancellor at the University of Canberra, who said the Internet was 【transforming】 the way students access and use information.
 "It is strange that despite all the evidence as to their ineffectiveness, 【traditional】 lecture seems to persist in our universities."
 
-新南威尔士大学会计学院的理查德·莫里斯表示，自20世纪90年代末以来，出勤率一直是个问题。新南威尔士大学要求学生的入学成绩在前5%。
+新南威尔士大学会计学院的理查德·莫里斯表示，自 20 世纪 90 年代末以来，出勤率一直是个问题。新南威尔士大学要求学生的入学成绩在前 5%。
 “有时，我们只有大约三分之一的学生（注册）到场，”他说。
 “这绝对是个问题。如果你不来上课，你就错过了丰富的学习体验：你不会思考太多，也不会与其他学生或老师进行辩论。”
 堪培拉大学省级校长约翰·迪恩教授表示，情况并非全是悲观的，他表示，互联网正在改变学生获取和使用信息的方式。
@@ -47,19 +47,32 @@ University of Canberra vice-chancellor Roger Dean also says international studen
 Ms. Bishop says Australia's university system has high standards."I've seen no evidence to suggest that students are not able to complete their courses because they're failing in English yet they're being passed by the universities," she said."I've not seen any evidence to back that up."
 "International education is one of our largest exports, it's our fourth largest export, and it's in the interest of our universities to maintain very high standards because their 【reputation】 is 【at stake】."
 
+联邦教育部长朱莉·毕晓普表示，她没有看到任何证据表明从澳大利亚大学毕业的国际学生英语水平较差。莫纳什大学学者鲍勃·比雷尔的研究发现，三分之一的国际学生毕业时英语水平不达标。但毕晓普女士表示，澳大利亚大学只招收达到国际语言水平标准的国际学生。“比雷尔教授对我们大学的攻击是极其恶劣的，”她说，“国际学生必须达到英语水平的国际标准才能进入澳大利亚大学，而他们如果达不到国际标准就无法进入大学。”
+堪培拉大学校长罗杰·迪恩也表示，几乎所有澳大利亚大学都要求国际学生在入学前参加英语测试。“当然，跨文化交流和语言交流都存在困难，”他说道。“当然，也有很多澳大利亚学生的英语水平并不那么好。”“所以我们正努力将标准提高到比现在更高的水平，但这已经是一个非常有效的标准了。”
+毕晓普女士表示，澳大利亚的大学体系标准很高。“我没有看到任何证据表明学生因为英语不及格而无法完成学业，但他们却被大学录取了，”她说。“我没有看到任何证据支持这种说法。”
+“国际教育是我们最大的出口产品之一，也是我们的第四大出口产品，保持非常高的标准符合我们大学的利益，因为它们的【声誉】【岌岌可危】。”
+
 5.Plants & Animals band. 植物与动物乐队
 
 Plants and Animals are a Montreal-based indie rock 【trio】 that began playing together as kids. Touring 【arduously】 for about five years after their proper full-length debut in 2008, they pretty much made their records on the go until 2013. So the band's decision to be slow, deliberate, and thorough on their latest offering Waltzed In From The Rumbling, represents a major change of pace. Finally sleeping in there in own beds while recording, the band assembled the album over the course of nine seasons. It's a return to their origins, but it also pushes audaciously forward.
 The 【aesthetic】 varies wildly and wonderfully from track to track, each song having its own hermetic seal but somehow still melding 【cohesively】 as a body of work. Jangling guitars, drums leaning toward the off-kilter swing of J Dilla, found sounds, a hint of shoegaze, and unorthodox instrumentation come together to keep the ear constantly 【engaged】 with a feeling of constant evolution. They found an antique guiro next to broken VCR and recorded both. They made an empty fridge sound like a timpani drum. They recorded gossip on a city bus. They brought in classical string flourishes. They sometimes left mistakes if they felt they were perfectly imperfect. It's truly DIY, but with a feel of big production value that makes the album soar.
 Contemplative lyrics anchor the album through all the exploratory 【wandering】. The words are delivered melodically, belying their potency, but listening beyond the pretty aesthetic reveals piercing observations and an undeniable translation of feeling. The simplicity of the penetrating refrain on the three-part mini-opus"Je Voulais Te Dire" is a paragon of how the lyrics effortlessly cut through the instrumentation. Guitarist or vocalist Warren Spicer sings"It's only loving, but you want it bad." encompassing how we try to avoid and downplay our desire for love and affection, but ultimately search and long for it anyway.
 
+Plants and Animals 是一支来自蒙特利尔的独立摇滚三人乐队，他们从孩提时代就开始一起演奏。在 2008 年发行正式专辑后，他们进行了五年的【艰苦】巡演，直到 2013 年，他们的唱片几乎都是边走边做。因此，乐队决定在最新专辑《Waltzed In From The Rumbling》中缓慢、刻意、彻底地展现他们的创作风格，这代表着他们节奏上的重大转变。乐队最终在自己的床上睡着录制，用了九个季度的时间完成了这张专辑的制作。这是他们回归本源的一次尝试，同时也是一次大胆前行的尝试。
+专辑的《美学》风格千差万别，精彩纷呈，每首歌都拥有自己独特的密封性，但又以某种方式巧妙地融合在一起，形成了一个完整的作品。叮当作响的吉他，略带 J Dilla 摇摆不定风格的鼓点，这些自然的声音、一丝自赏乐的意味以及非传统的乐器组合在一起，让耳朵始终【沉浸其中】，感受着不断进化的韵味。他们在破损的录像机旁找到了一个古董刮画，并将它们都录了下来。他们把空冰箱的声音做得像定音鼓一样。他们录制了城市公交车上的八卦。他们加入了古典弦乐的华彩乐段。有时，如果他们觉得这些乐段不够完美，他们也会留下一些错误。这完全是 DIY 的风格，但却蕴含着巨大的制作价值，让这张专辑一路飙升。
+沉思的歌词贯穿了整张专辑探索性的【徘徊】。歌词旋律优美，掩饰了其力量，但透过这美丽的美学去聆听，却能发现敏锐的观察力和不可否认的情感诠释。三部迷你专辑《Je Voulais Te Dire》中，简洁而又透彻的副歌堪称典范，歌词与乐器的交织浑然一体。吉他手兼主唱沃伦·斯派塞唱道：“这只是爱，但你渴望它。” 这首歌展现了我们如何试图回避和淡化对爱的渴望，但最终还是会去追寻和渴望它。
+
 6.Wolf. 狼
 
 From the wolf's perspective, this is clearly good news. But it also had beneficial effects on the ecology of the park, according to a study published in 2004 by William Ripple and Robert Beschta from Oregon State University. In their paper in BioScience, the two researchers showed that 【reintroducing】 the wolves was 【correlated】 with the increased growth of willow and cottonwood in the park. Why? Because grazing animals such as elk were 【avoiding】 sites from which they couldn't easily escape, the scientists 【claimed】. And as the woody plants and trees grew taller and thicker, beaver 【colonies】 expanded.
 
+从狼的角度来看，这显然是个好消息。但根据俄勒冈州立大学威廉·里普尔和罗伯特·贝什塔 2004 年发表的一项研究，这也对公园的生态环境产生了有益的影响。两位研究人员在《生物科学》杂志上发表的论文中表明，狼的重新引入与公园内柳树和三角叶杨的生长增加存在相关性。为什么呢？科学家们声称，这是因为像麋鹿这样的食草动物会避开它们难以逃脱的栖息地。随着木本植物和树木长得越来越高越来越茂密，河狸的种群也随之扩张。
+
 7.Roman Arena. 罗马竞技场
 
-The Romans glorified the 【bravery】 shown in the arena, but 【trivialised】 the events and degraded the participants. Mosaic pictures of executions and combats, 【graphically】 violent to our eyes, were displayed in the public rooms and even dining rooms in the homes of wealthy Romans. How can the viewer today possibly understand such images? Until fairly recently, modern authors writing about the arena minimised its significance and 【represented】 the institutionalised violence as a sideline to Roman history. The 【tendency】 was also to view the events through our own eyes and to see them as pitiful or horrifying, although to most Romans empathy with victims of the arena was inconceivable. In the past few decades, however, scholars have started to analyse the complex motivations for deadly public entertainments and for contradictory views of gladiators as despised, yet beloved hero- slaves.
+The Romans glorified the 【bravery】 shown in the arena, but 【trivialized】 the events and degraded the participants. Mosaic pictures of executions and combats, 【graphically】 violent to our eyes, were displayed in the public rooms and even dining rooms in the homes of wealthy Romans. How can the viewer today possibly understand such images? Until fairly recently, modern authors writing about the arena minimized its significance and 【represented】 the institutionalized violence as a sideline to Roman history. The 【tendency】 was also to view the events through our own eyes and to see them as pitiful or horrifying, although to most Romans empathy with victims of the arena was inconceivable. In the past few decades, however, scholars have started to analyze the complex motivations for deadly public entertainments and for contradictory views of gladiators as despised, yet beloved hero- slaves.
+
+罗马人颂扬竞技场上展现的【英勇】，却【轻视】这些事件，贬低参与者。在罗马富人的公共场所，甚至餐厅里，都悬挂着处决和搏斗的马赛克画，这些画在我们看来【生动】暴力。今天的观众又如何能理解这些图像呢？直到不久以前，现代作家在描写竞技场时，都极力淡化其重要性，并将制度化的暴力【描绘】成罗马历史的副业。当时的【倾向】也倾向于通过我们自己的视角来看待这些事件，并将它们视为可怜或恐怖，尽管对大多数罗马人来说，同情竞技场的受害者是不可想象的。然而，在过去的几十年里，学者们开始分析致命公共娱乐活动的复杂动机，以及将角斗士视为受人鄙视却又受人爱戴的英雄——奴隶的矛盾观点。
 
 8.Estee Lauder. 雅诗兰黛
 
@@ -67,7 +80,13 @@ She transformed beauty into big business by cultivating classy sales methods and
 Leonard Lauder, chief executive of the company his mother founded, says she always thought she"was growing a mice little business." And that it is. A little business that 【controls】 45 percent of the cosmetics market in U.S. department stores. A little business that sells in 118 countries and last year grew to be 3.6 billion big in sales. The Lauder family's shares are worth more than 6 billion.
 But early on, there wasn't a burgeoning business; there weren't houses in New York. Palm Beach, Fla., or the south of France. It is said that at one point there was one person to answer the telephones who 【changed】 her voice to become the shipping or billing department as needed.
 You more or less know the Estee Lauder story because it's a chapter from the book of American business folklore. In short, Josephine Esther Mentzer, daughter of immigrants, lived above her father's hardware store in Corona, a section of Queens in New York City. She started her 【enterprise】 by selling skin creams concocted by her uncle, a chemist, in beauty shops, beach clubs and resorts.
-No doubt the potions were good, Estee Lauder was a quality fanatic, but the sales lady was better. Much better. And she simply outworked everyone else in the cosmetics industry. She 【stalked】 the bosses of New York City department stores until she got some counter space at Saks Fifth Avenue in 1948. And once in that space, she utilised a personal selling approach that proved as 【potent】 as the promise of her skin regimens and perfumes.
+No doubt the potions were good, Estee Lauder was a quality fanatic, but the sales lady was better. Much better. And she simply outworked everyone else in the cosmetics industry. She 【stalked】 the bosses of New York City department stores until she got some counter space at Saks Fifth Avenue in 1948. And once in that space, she utilized a personal selling approach that proved as 【potent】 as the promise of her skin regimens and perfumes.
+
+她通过培育高端销售方式和赠送样品，将美妆产业打造成了一桩大生意。
+伦纳德·兰黛是其母亲创立的公司的首席执行官，她说，她一直以为自己“在经营一家小公司”。事实也的确如此。这家小公司控制着美国百货公司 45%的化妆品市场。这家小公司的产品销往 118 个国家，去年销售额增长到 36 亿美元。兰黛家族的股份价值超过 60 亿美元。
+但早期，雅诗兰黛的业务并不蓬勃；在纽约、佛罗里达州棕榈滩或法国南部都没有房产。据说，曾经有一位接电话的人会根据需要变声，变成运输或结算部门的人员。
+你或多或少都了解雅诗兰黛的故事，因为它是美国商业传奇中的一章。简而言之，约瑟芬·埃丝特·门泽尔，移民之女，住在纽约市皇后区科罗纳区她父亲的五金店楼上。她通过在美容院、海滩俱乐部和度假村销售由身为化学家的叔叔调制的护肤霜，开创了自己的事业。
+毫无疑问，这些护肤霜效果很好，雅诗兰黛对品质的追求也十分严格，但这位销售小姐更胜一筹，好得多。而且她比化妆品行业的其他人都更努力。她一直跟踪着纽约市各大百货公司的老板，直到 1948 年在萨克斯第五大道精品百货店（Saks Fifth Avenue）找到一个柜台。进入这个柜台后，她运用了一种人肉销售的方式，事实证明，这种方法和她护肤品和香水的功效一样有效。
 
 9.Wine and ale. 葡萄酒与麦芽酒
 
