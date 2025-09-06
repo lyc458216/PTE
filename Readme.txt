@@ -53,28 +53,30 @@ No.3            L                           30-43mins           WFD/SST
 
 二、改革后
 
-Part                Durations           Name                                Quantity    Description                                                                     Suggestions                 HitRate
-                                        RA(Read Aloud)                      6-7         大声朗读题，准备时间及答题时间根据文本长度确定。文本长度不超过60字。                       做完马上手动点next             20%-50%
-                                        RS(Repeat Sentence)                 10-12       复述句子题，无准备时间，答题时间15秒。录音长度3-9秒。                                   做完马上手动点next             20%-50%
-                                        DI(Describe Image)                  5-6         描述图片题，准备时间25秒，答题时间40秒。                                              做完马上手动点next             30%-50%
-                                        RL(Retell Lecture)                  2-3         复述演讲题，准备时间10秒，答题时间40秒。录音长度小于90秒。                               做完马上手动点next             30%-50%
-Part1               Approx 76-84 mins   ASQ(Answer Short Question)          5-6         回答短句题，准备时间1秒，答题时间10秒。录音长度3-9秒。                                  做完马上手动点next             20%-50%
-Speaking & Writing  答完每题手动点next    SGD(Summarize Group Discussion)     2-3         总结小组讨论题，准备时间10秒，录音长度为2分半到3分钟左右，答题时间2分钟。                   做完马上手动点next               /
-                                        RTS(Respond to a Situation)         2-3         情景应对题，题目长度不超过60个单词（题干会给出具体情境），准备时间10秒，答题时间40秒。         做完马上手动点next              /
-                                        SWT(Summarize Written Text)         2           总结文本题，文本长度不超过300字。作答字数限制5-75字。每个题独立计时10mins。                建议1-2分钟检查语法及拼写       50%
-                                        WE(Write Essay)                     1           大作文题，作文文章长度200-300字。独立计时20mins。                                     建议留3分钟检查语法及拼写        99% 
-
-                                        FIB(Fill in Blanks)-Dropdown        5-6         完形填空题，文本长度100-200字。每题包含4-5个空格，每空选项为4个。                        建议2mins                    50%-75%
-                                        MC-M(Multiple Choice Reading)       2-3         多选题，每题选两5-7项，文本内容不超过300字。选错或多选倒扣分❌。                          建议1mins                     /
-Part2               整体计时23-30mins    RO(Re-order Paragraph)              2-3         段落排序题，文本内容50-110字，每题4-5段待排序。                                        建议2mins                    50%
-Reading                                 FIB(Fill in Blanks)-Drag and Drop   4-5         选择填空题，阅读文本40-80字。每题包含3-5个空格，备选项超过填空数量。                      建议1.5mins                  50%-75%
-                                        MC-S(Single Choice Reading)         2-3         单选题，文本内容70-110字。                                                         建议30S                       /
-
-                                        SST(Summarize Spoken Text)          1           总结段落题，每题录音60-90秒。作答字数限制50-70字。10分钟独立计时。                       至少留1-2分钟检查语法及拼写     99%
-                                        MC-M(Multiple Choice Listening)     2-3         多选题，每题录音50-90秒。每题选项5-7项，选错或多选倒扣分❌。                             /                           /
-                                        FIB(Fill in Blanks)-L               2-3         填空题，每题录音30-60秒，每题包含4-6个空格。                                          建议1min                     25%        
-Part3               Approx 31-39mins    HCS(Highlight Correct Summary)      2-3         选择正确的段落摘要题，每题录音30-90秒。每题包含4个选项。                                 /                           /
-Listening           答完每题手动点next    MC-S(Single Choice Listening)       2-3         单选题，每题录音30-60秒，每题包含4个选项。                                             /                           /
-                                        SMW(Select Missing Word)            1-2         选择缺少单词题目，每题录音20-70秒。每题包含3-5个选项。                                  /                           /
-                                        HIW(Highlight Incorrect Word)       2-3         选择不正确单词题，每题录音15-60秒。文本内容包含5-6个错误单词，选错或多选倒扣分❌。           /                           /
-                                        WFD(Write from Dictation)           3-4         听写题，每题录音长度3-5秒。                                                         建议预留4-5mins               99%
+Part                Durations           Speaking    Writing Reading Listening   Name                                Quantity    Description                                                                     Suggestions                 HitRate
+                                        13                                      RA(Read Aloud)                      6-7         大声朗读题，准备时间及答题时间根据文本长度确定。文本长度不超过60字。                       做完马上手动点next             20%-50%
+                                        15                          19          RS(Repeat Sentence)                 10-12       复述句子题，无准备时间，答题时间15秒。录音长度3-9秒。                                   做完马上手动点next             20%-50%
+                                        32                                      DI(Describe Image)                  5-6         描述图片题，准备时间25秒，答题时间40秒。                                              做完马上手动点next             30%-50%
+                                        18                          12          RL(Retell Lecture)                  2-3         复述演讲题，准备时间10秒，答题时间40秒。录音长度小于90秒。                               做完马上手动点next             30%-50%
+Part1               Approx 76-84 mins               25      19                  SWT(Summarize Written Text)         2           总结文本题，文本长度不超过300字。作答字数限制5-75字。每个题独立计时10mins。               建议1-2分钟检查语法及拼写        50%
+Speaking Writing    答完每题手动点next     13(91)                     19          SGD(Summarize Group Discussion)      2-3         总结小组讨论题，准备时间10秒，录音长度为2分半到3分钟左右，答题时间2分钟。                   做完马上手动点next             --
+                                                    25                          WE(Write Essay)                      1           大作文题，作文文章长度200-300字。独立计时20mins。                                     建议留3分钟检查语法及拼写        99%
+                                        9                                       ❌RTS(Respond to a Situation)        2-3         情景应对题，题目长度不超过60个单词（题干会给出具体情境），准备时间10秒，答题时间40秒。        做完马上手动点next              --
+                                                                    3           ❌ASQ(Answer Short Question)         5-6         回答短句题，准备时间1秒，答题时间10秒。录音长度3-9秒。                                  做完马上手动点next              20%-50%
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            31                  FIB(Fill in Blanks)-Dropdown         5-6         完形填空题，文本长度100-200字。每题包含4-5个空格，每空选项为4个。                        建议2mins                    50%-75%
+                                                            19                  FIB(Fill in Blanks)-Drag and Drop    4-5         选择填空题，阅读文本40-80字。每题包含3-5个空格，备选项超过填空数量。                      建议1.5mins                  50%-75%
+Part2               整体计时23-30mins                        8                   RO(Re-order Paragraph)               2-3         段落排序题，文本内容50-110字，每题4-5段待排序。                                        建议2mins                    50%
+Reading                                                     4                   ❌MC-M(Multiple Choice Reading)      2-3         多选题，每题选两5-7项，文本内容不超过300字。选错或多选倒扣分❌。                          建议1mins                     /
+                                                            1                   ❌MC-S(Single Choice Reading)        2-3         单选题，文本内容70-110字。                                                          建议30S                      /
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    24              8           SST(Summarize Spoken Text)           1           总结段落题，每题录音60-90秒。作答字数限制50-70字。10分钟独立计时。                       至少留1-2分钟检查语法及拼写     99%
+                                                    26(100)         15          WFD(Write from Dictation)            3-4         听写题，每题录音长度3-5秒。                                                         建议预留4-5mins               99%
+                                                            14(91)  8           HIW(Highlight Incorrect Word)        2-3         选择不正确单词题，每题录音15-60秒。文本内容包含5-6个错误单词，选错或多选倒扣分❌。           /                           /
+Part3               Approx 31-39mins                                10(91)      FIB(Fill in Blanks)-L                2-3         填空题，每题录音30-60秒，每题包含4-6个空格。                                          建议1min                     25%
+Listening           答完每题手动点next                        4       2           ❌HCS(Highlight Correct Summary)     2-3         选择正确的段落摘要题，每题录音30-90秒。每题包含4个选项。                                 /                           /
+                                                                    2           ❌MC-M(Multiple Choice Listening)    2-3         多选题，每题录音50-90秒。每题选项5-7项，选错或多选倒扣分❌。                             /                           /          
+                                                                    1           ❌MC-S(Single Choice Listening)      2-3         单选题，每题录音30-60秒，每题包含4个选项。                                             /                           /    
+                                                                    1           ❌SMW(Select Missing Word)           1-2         选择缺少单词题目，每题录音20-70秒。每题包含3-5个选项。                                  /                           /
+                                                                                
+                                        
