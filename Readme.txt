@@ -59,8 +59,8 @@ Part                Durations           Speaking    Writing Reading Listening   
                                         32                                      DI(Describe Image)                  5-6         描述图片题，准备时间25秒，答题时间40秒。                                              做完马上手动点next             30%-50%
                                         18                          12          RL(Retell Lecture)                  2-3         复述演讲题，准备时间10秒，答题时间40秒。录音长度小于90秒。                               做完马上手动点next             30%-50%
 Part1               Approx 76-84 mins               25      19                  SWT(Summarize Written Text)         2           总结文本题，文本长度不超过300字。作答字数限制5-75字。每个题独立计时10mins。               建议1-2分钟检查语法及拼写        50%
-Speaking Writing    答完每题手动点next     13(91)                     19          SGD(Summarize Group Discussion)      2-3         总结小组讨论题，准备时间10秒，录音长度为2分半到3分钟左右，答题时间2分钟。                   做完马上手动点next             --
-                                                    25                          WE(Write Essay)                      1           大作文题，作文文章长度200-300字。独立计时20mins。                                     建议留3分钟检查语法及拼写        99%
+Speaking Writing    答完每题手动点next     13(91)                     19          SGD(Summarize Group Discussion)      2-3         总结小组讨论题，准备时间10秒，录音长度为2分半到3分钟左右，答题时间2分钟。                  做完马上手动点next             --
+                                                    25                          WE(Write Essay)                      1          大作文题，作文文章长度200-300字。独立计时20mins。                                     建议留3分钟检查语法及拼写        99%
                                         9                                       ❌RTS(Respond to a Situation)        2-3         情景应对题，题目长度不超过60个单词（题干会给出具体情境），准备时间10秒，答题时间40秒。        做完马上手动点next              --
                                                                     3           ❌ASQ(Answer Short Question)         5-6         回答短句题，准备时间1秒，答题时间10秒。录音长度3-9秒。                                  做完马上手动点next              20%-50%
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -74,9 +74,9 @@ Reading                                                     4                   
                                                     26(100)         15          WFD(Write from Dictation)            3-4         听写题，每题录音长度3-5秒。                                                         建议预留4-5mins               99%
                                                             14(91)  8           HIW(Highlight Incorrect Word)        2-3         选择不正确单词题，每题录音15-60秒。文本内容包含5-6个错误单词，选错或多选倒扣分❌。           /                           /
 Part3               Approx 31-39mins                                10(91)      FIB(Fill in Blanks)-L                2-3         填空题，每题录音30-60秒，每题包含4-6个空格。                                          建议1min                     25%
-Listening           答完每题手动点next                        4       2           ❌HCS(Highlight Correct Summary)     2-3         选择正确的段落摘要题，每题录音30-90秒。每题包含4个选项。                                 /                           /
+Listening           答完每题手动点next                        4       2           ❌HCS(Highlight Correct Summary)     2-3          选择正确的段落摘要题，每题录音30-90秒。每题包含4个选项。                                /                           /
                                                                     2           ❌MC-M(Multiple Choice Listening)    2-3         多选题，每题录音50-90秒。每题选项5-7项，选错或多选倒扣分❌。                             /                           /          
-                                                                    1           ❌MC-S(Single Choice Listening)      2-3         单选题，每题录音30-60秒，每题包含4个选项。                                             /                           /    
+                                                                    1           ❌MC-S(Single Choice Listening)      2-3         单选题，每题录音30-60秒，每题包含4个选项。                                            /                           /    
                                                                     1           ❌SMW(Select Missing Word)           1-2         选择缺少单词题目，每题录音20-70秒。每题包含3-5个选项。                                  /                           /
                                                                                 
                                         
