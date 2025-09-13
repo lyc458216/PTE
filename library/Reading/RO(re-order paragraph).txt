@@ -7,6 +7,13 @@ Sort Type: Creation time(Ascending order)
 
 **Comments: There is only item paragraphs, but not include title.
 
+1、首句描述一般比较概括，或者背景介绍之类的表达，所以如果出现举例，细节描述，解释说明则不太可能是首句;
+2、代名词she, he, it, this, those, that 出现则不太可能是首句;
+3、冠词a, an(泛指), the + noun(特指), 一般是前句先泛指后句再特指;
+4、专有名字/ 普通名词/ the + noun, 一般是前句先出现专有名词/普通名词, 后句再出现the + 该代指名词;
+5、逻辑词 therefore, however, but, because;
+6、时间词 earlier, afterwards, consequently.
+
 1.Volkswagen. 大众汽车  
 
 2.Peru Timber. 秘鲁木材  

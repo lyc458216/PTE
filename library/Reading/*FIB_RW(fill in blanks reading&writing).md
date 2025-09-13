@@ -12,7 +12,23 @@ Sort Type: Creation time(Ascending order)
 
 Arab students will be able to sign up to study at a 【distance】 for the business courses in their own language. The Edinburgh Business School 【announced】 the project at a 【reception】 in Cairo on Saturday. It is hoped the course will improve links between the university and the Arab business world. A university spokeswoman said: The Arabic MBA will 【raise】 the profile of Heriot Watt University and the Edinburgh Business School among businesses in the Arabic-speaking world and will create a strong 【network】 of graduates in the 【region】. The first 【intake】 of students is expected later this year. Professor Keith Lumsden, director of Edinburgh Business School, said: Arabic is a major global language and the Arab world is a centre for business and industrial development. We are proud to work with Arab International Education to meet the demands of the region.
 
-阿拉伯学生将能够报名参加以本族语授课的【远程】商务课程。爱丁堡商学院周六在开罗的一次【招待会】上【宣布】了该项目。希望该课程能够加强该大学与阿拉伯商界的联系。一位大学发言人表示：“阿拉伯语 MBA 项目将【提升】赫瑞瓦特大学和爱丁堡商学院在阿拉伯语国家商界的形象，并将在【地区】建立一个强大的毕业生【网络】。预计首批学生将于今年晚些时候入学。爱丁堡商学院院长基思·拉姆斯登教授表示：“阿拉伯语是一种主要的全球语言，阿拉伯世界是商业和工业发展的中心。我们很荣幸能与阿拉伯国际教育合作，满足该地区的需求。
+阿拉伯学生将能够报名参加以本族语授课的【远程】商务课程。爱丁堡商学院周六在开罗的一次【招待会】上【宣布】了该项目。希望该课程能够加强该大学与阿拉伯商界的联系。一位大学发言人表示：“阿拉伯语 MBA 项目将【提升】赫瑞瓦特大学和爱丁堡商学院在阿拉伯语国家商界的形象，并将在【地区】建立一个强大的毕业生【网络】。预计首【批】学生将于今年晚些时候入学。爱丁堡商学院院长基思·拉姆斯登教授表示：“阿拉伯语是一种主要的全球语言，阿拉伯世界是商业和工业发展的中心。我们很荣幸能与阿拉伯国际教育合作，满足该地区的需求。
+
+【distance】 固定搭配
+`distance`距离；间隔；路程 `time'`时间；时刻；次 `structure` 结构；构造；体系 '`method`' 方法；条理 根据下文可知，阿拉伯学生 注册的商业课程是在英国的爱丁堡大学， 所以他们上课需要远程进行。 '`at a distance`' 远程； 在一定的距离 ，因此选`distance`’
+本句句意 ：阿拉伯学生将有机会以自己的语言远程报名学习商业课程。
+【announced】 词义辨析
+'`introduced`' 提出；介绍；引进 '`anniversary`' 周年纪念日 '`account`' 账目；描述；视为 '`announced`' 宣布；根据句意，这里指的是爱丁堡商学院宣布了这个项目。本题主要考查'`introduced`' 和 '`announced`'的词义辨析 , '`introduced`' 是关于介绍和引入某人或某事物的行为，而"announced" 是关于正式宣布消息或事件的行为。因此选择‘`announced`’。
+【reception】单句理解
+'`reception`' 接待；欢迎；招待会 '`perception`' 知觉；观念 '`receipt`' 收据；发票 'time' 时间；时刻 根据句意，爱丁堡商学院周六在开罗的招待会上宣布了这个项目。因此选`reception`
+【raise】词义辨析
+‘`rose`' 玫瑰；粉红色 ‘`enroll`’ 注册；登记 ‘`raise`’ 提升；增加；养育 ‘`rise`’ 上升；提高；起立； 根据句意可知 阿拉伯语 MBA 课程将提高赫瑞瓦特大学和爱丁堡商学院在阿拉伯语世界的知名度 本题主要考察'rise' 和 'raise'的词义辨析 rise 通常指数量或水平的提高和增加，且 rise 是不及物动词，后面不能直接跟名词。而 raise 是及物动词可接名词。本空后面是名词 'the profile' 因此选 raise
+【network】词义辨析
+‘`font`’ 字体；字形‘ `network`’ 网；网络 ‘`placement`’ 安置；放置 ‘requirement’ 要求；必要条件；必需品 ；根据上下文，这里指的是在该地区建立一个强大的毕业生网络。故选`network`
+【region】词义辨析
+‘`risk`’ 危险；冒险 ‘`country`’ 国家；乡下 ‘`radio`’ 无线电；收音机 ‘region’ 地区；地域 ；行政区；范围； 根据上下文，这里表示在阿拉伯语地区建立毕业生网络，对应了前句的 the Arab business world.因此选`region`.
+【intake】词义辨析
+‘`inhale`’ 吸入；吸气；纳入的人数 ;招收； ‘`outward`‘ 向外的；外面的 ；公开的 ‘`intake`’吸入； 摄取；纳入的人数 ‘`import`’ 进口； 输入 ；意义； 由于该空是 of 的名词结构，故应填入名词。因此排除动词‘`inhale`’ 和形容词 ‘`outward`’。根据句意，这里指招收第一批学生。因此选‘`intake`’ . 本空主要考查 of 名词结构和熟词僻义
 
 2.Mount Everest. 珠穆朗玛峰
 
@@ -26,6 +42,17 @@ Before the Survey of India, a number of the other mountains ranked supreme in th
 这座山峰于 1865 年正式命名，以纪念乔治·埃弗勒斯爵士，他于 1830 年至 1843 年担任英国测量局局长，绘制了印度次大陆的地图。他对以自己的名字命名这座山峰有一些【保留意见】，认为这座山峰应该保留其当地的称谓，这是地理学会的标准政策。
 在印度测量局成立之前，在世界眼中，许多其他山峰也位居最高地位。在十七和十八世纪，安第斯山脉的钦博拉索山被认为是最高峰。它的高度相对平凡，只有 20,561 英尺，实际上远不及最高点，大约有 30 座其他安第斯山脉的山峰和数十座喜马拉雅山脉的山峰【超过】了它。1809 年，喜马拉雅山脉的道拉吉里峰被宣布为最高点，但在 1840 年，干城章嘉峰取代了它，如今排名第三。在过去的一个半世纪里，珠穆朗玛峰的地位一直无人能及，但也面临着一些威胁。
 
+【surveyors】词义辨析
+....确定它是地球上最高的山峰之前....，测量山峰的人是`surveyors`测量员。`climbers` 攀登者`examiners`主考者  `experts`专家。
+【illusion】词义辨析
+`allusion`典故，`anticipation`期望，`prediction`预测，预报。根据句意许多其他壮观的喜马拉雅山峰使珠穆朗玛峰第十五峰在其中显得平凡，给人一种更高的错觉。选`illusion`错觉。
+【accepted】词义辨析
+`calculated`计算，`understood`理解，`known`了解。根据句意，选`accepted`公认的。一百多年来，这个数字一直是官方公认的高度。
+【reservations】词义辨析
+`views`观点，`thinking`认为，`rejections`拒接。`reservations`保留  根据空后他认为这座山峰应该保留其当地的称谓，但最终这座山用了他的名字命名，因此他本人的态度是持保留意见的，因此选`reservations`保留 。
+【surpassed】词义辨析
+`transformed`改变， `transmitted`发射，传播； `reduced`减少，换算。这句话首先讲安第斯山脉被认为是最高的，后文转折`in fact`事实上...,可知它并不是最高的，还有其他的山超过，因此选`surpassed`超过。这句话的意思是：在17世纪和18世纪，安第斯山脉的奇姆博拉索峰被认为是最高的。它的海拔仅为20,561英尺，在事实上远远不是最高的，被安第斯山脉的约30座其他山峰和喜马拉雅山脉的几十座山峰超过。
+
 3.Richard Morris. 理查德·莫里斯
 
 Richard Morris, of the school of accounting at the University of NSW, which requires an entrance score in the top 5 percent of students, says attendance has been a problem since the late 1990s.
@@ -38,35 +65,35 @@ It is not all gloom, said Professor John Dearn, a Province-Chancellor at the Uni
 “有时，我们只有大约三分之一的学生（注册）到场，”他说。
 “这绝对是个问题。如果你不来上课，你就错过了丰富的学习体验：你不会思考太多，也不会与其他学生或老师进行辩论。”
 堪培拉大学省级校长约翰·迪恩教授表示，情况并非全是悲观的，他表示，互联网正在改变学生获取和使用信息的方式。
-“奇怪的是，尽管所有证据表明传统讲座的有效性，但它似乎仍然在我们的大学里持续存在。”
+“奇怪的是，尽管所有证据表明传统讲座不太有效，但它似乎仍然在我们的大学里持续存在。”
 
-4.Foreign students' English standards. 留学生的英语水平
+【enrolled】词义辨析
+根据前后文的语境，这里是在说学生出勤率的问题，所以用`enrolled`表示“注册、报名”的意思，符合语境。而`interfered`表示“干涉、妨碍”，`entangled`表示“缠绕、纠缠”，`enlightened`表示“启迪、开导”，都不符合语境。
+【experience】词义辨析
+句子是在说如果不去上课，会错过很多东西，所以用`experience`表示“经验、体验”的意思，符合语境。而`knowledge`表示“知识”，`practices`表示“实践、做法”，`information`表示“信息”，都不符合语境。
+【engage】固定搭配
+这里需要填入一个搭配`in`的动词，而后面的宾语是`debates`,因此选项中最符合的是`engage `表示参加。
+【transforming】词义辨析
+根据上下文，教授说互联网正在改变学生获取和使用信息的方式，而`transforming`这个词强调了这种改变是深刻和彻底的，最符合句意。
+【traditional】词义辨析
+根据上下文，尽管有很多证据表明传统的讲座不太有效，但它似乎仍然在我们的大学中存在。在这种情况下，`traditional`是最合适的答案，因为它强调了长期存在的东西。 
 
-Federal Education Minister Julie Bishop says she has seen no 【evidence】 that international students are graduating from Australian universities with poor English skills. Research by Monash University academic Bob Birrell has found a third of international students are graduating 【without】 a competent level of English. But Ms. Bishop says Australian universities only enrol international students once they have achieved international standards of language 【proficiency】."This has been an extraordinary attack by Professor Birrell on our universities," she said."International students must meet international 【benchmarks】 in the English language in order to get a place at a university in Australia, and they can't get into university without reaching that international standard."
-University of Canberra vice-chancellor Roger Dean also says international students are required to sit an English test before being admitted to nearly all Australian universities."There are, of course, intercultural difficulties as well as language difficulties," he said."There are, of course, also many Australian students who don't speak such 【fantastically】 good English either.""So we're trying to push the standard even higher than a present, but it's a very useful one already."
-Ms. Bishop says Australia's university system has high standards."I've seen no evidence to suggest that students are not able to complete their courses because they're failing in English yet they're being passed by the universities," she said."I've not seen any evidence to back that up."
-"International education is one of our largest exports, it's our fourth largest export, and it's in the interest of our universities to maintain very high standards because their 【reputation】 is 【at stake】."
-
-联邦教育部长朱莉·毕晓普表示，她没有看到任何证据表明从澳大利亚大学毕业的国际学生英语水平较差。莫纳什大学学者鲍勃·比雷尔的研究发现，三分之一的国际学生毕业时英语水平不达标。但毕晓普女士表示，澳大利亚大学只招收达到国际语言水平标准的国际学生。“比雷尔教授对我们大学的攻击是极其恶劣的，”她说，“国际学生必须达到英语水平的国际标准才能进入澳大利亚大学，而他们如果达不到国际标准就无法进入大学。”
-堪培拉大学校长罗杰·迪恩也表示，几乎所有澳大利亚大学都要求国际学生在入学前参加英语测试。“当然，跨文化交流和语言交流都存在困难，”他说道。“当然，也有很多澳大利亚学生的英语水平并不那么好。”“所以我们正努力将标准提高到比现在更高的水平，但这已经是一个非常有效的标准了。”
-毕晓普女士表示，澳大利亚的大学体系标准很高。“我没有看到任何证据表明学生因为英语不及格而无法完成学业，但他们却被大学录取了，”她说。“我没有看到任何证据支持这种说法。”
-“国际教育是我们最大的出口产品之一，也是我们的第四大出口产品，保持非常高的标准符合我们大学的利益，因为它们的【声誉】【岌岌可危】。”
-
-5.Plants & Animals band. 植物与动物乐队
-
-Plants and Animals are a Montreal-based indie rock 【trio】 that began playing together as kids. Touring 【arduously】 for about five years after their proper full-length debut in 2008, they pretty much made their records on the go until 2013. So the band's decision to be slow, deliberate, and thorough on their latest offering Waltzed In From The Rumbling, represents a major change of pace. Finally sleeping in there in own beds while recording, the band assembled the album over the course of nine seasons. It's a return to their origins, but it also pushes audaciously forward.
-The 【aesthetic】 varies wildly and wonderfully from track to track, each song having its own hermetic seal but somehow still melding 【cohesively】 as a body of work. Jangling guitars, drums leaning toward the off-kilter swing of J Dilla, found sounds, a hint of shoegaze, and unorthodox instrumentation come together to keep the ear constantly 【engaged】 with a feeling of constant evolution. They found an antique guiro next to broken VCR and recorded both. They made an empty fridge sound like a timpani drum. They recorded gossip on a city bus. They brought in classical string flourishes. They sometimes left mistakes if they felt they were perfectly imperfect. It's truly DIY, but with a feel of big production value that makes the album soar.
-Contemplative lyrics anchor the album through all the exploratory 【wandering】. The words are delivered melodically, belying their potency, but listening beyond the pretty aesthetic reveals piercing observations and an undeniable translation of feeling. The simplicity of the penetrating refrain on the three-part mini-opus"Je Voulais Te Dire" is a paragon of how the lyrics effortlessly cut through the instrumentation. Guitarist or vocalist Warren Spicer sings"It's only loving, but you want it bad." encompassing how we try to avoid and downplay our desire for love and affection, but ultimately search and long for it anyway.
-
-Plants and Animals 是一支来自蒙特利尔的独立摇滚三人乐队，他们从孩提时代就开始一起演奏。在 2008 年发行正式专辑后，他们进行了五年的【艰苦】巡演，直到 2013 年，他们的唱片几乎都是边走边做。因此，乐队决定在最新专辑《Waltzed In From The Rumbling》中缓慢、刻意、彻底地展现他们的创作风格，这代表着他们节奏上的重大转变。乐队最终在自己的床上睡着录制，用了九个季度的时间完成了这张专辑的制作。这是他们回归本源的一次尝试，同时也是一次大胆前行的尝试。
-专辑的《美学》风格千差万别，精彩纷呈，每首歌都拥有自己独特的密封性，但又以某种方式巧妙地融合在一起，形成了一个完整的作品。叮当作响的吉他，略带 J Dilla 摇摆不定风格的鼓点，这些自然的声音、一丝自赏乐的意味以及非传统的乐器组合在一起，让耳朵始终【沉浸其中】，感受着不断进化的韵味。他们在破损的录像机旁找到了一个古董刮画，并将它们都录了下来。他们把空冰箱的声音做得像定音鼓一样。他们录制了城市公交车上的八卦。他们加入了古典弦乐的华彩乐段。有时，如果他们觉得这些乐段不够完美，他们也会留下一些错误。这完全是 DIY 的风格，但却蕴含着巨大的制作价值，让这张专辑一路飙升。
-沉思的歌词贯穿了整张专辑探索性的【徘徊】。歌词旋律优美，掩饰了其力量，但透过这美丽的美学去聆听，却能发现敏锐的观察力和不可否认的情感诠释。三部迷你专辑《Je Voulais Te Dire》中，简洁而又透彻的副歌堪称典范，歌词与乐器的交织浑然一体。吉他手兼主唱沃伦·斯派塞唱道：“这只是爱，但你渴望它。” 这首歌展现了我们如何试图回避和淡化对爱的渴望，但最终还是会去追寻和渴望它。
-
-6.Wolf. 狼
+4.Wolf. 狼
 
 From the wolf's perspective, this is clearly good news. But it also had beneficial effects on the ecology of the park, according to a study published in 2004 by William Ripple and Robert Beschta from Oregon State University. In their paper in BioScience, the two researchers showed that 【reintroducing】 the wolves was 【correlated】 with the increased growth of willow and cottonwood in the park. Why? Because grazing animals such as elk were 【avoiding】 sites from which they couldn't easily escape, the scientists 【claimed】. And as the woody plants and trees grew taller and thicker, beaver 【colonies】 expanded.
 
 从狼的角度来看，这显然是个好消息。但根据俄勒冈州立大学威廉·里普尔和罗伯特·贝什塔 2004 年发表的一项研究，这也对公园的生态环境产生了有益的影响。两位研究人员在《生物科学》杂志上发表的论文中表明，狼的重新引入与公园内柳树和三角叶杨的生长增加存在相关性。为什么呢？科学家们声称，这是因为像麋鹿这样的食草动物会避开它们难以逃脱的栖息地。随着木本植物和树木长得越来越高越来越茂密，河狸的种群也随之扩张。
+
+【reintroducing】词义辨析
+选项中`reintroducing`（重新引入）、`declining`（下降）、`rebuilding`（重建）、`remain`（保持）。根据上下文，这里是讨论把狼重新引入公园的影响，所以选择`reintroducing`。
+【correlated】词义辨析
+选项中`correlated`（相关的）、`introduced`（引入的）、`moved`（移动的）、`converted`（转换的）。从句子结构上看，“the wolves was ____ with the increased growth of willow and cottonwood”，这里需要表达的是狼的重新引入与柳树和杨树的生长之间的关系，所以选择`correlated`。
+【avoiding】词义辨析
+选项中`avoiding`（避免的）、`conceiving`（设想的）、`mention`（提到的）、`across`（横跨的）。此处描述的是鹿这类动物在狼出现后的行为变化，它们会避免那些无法轻易逃脱的地方，所以选择`avoiding`。
+【claimed】词义辨析
+选项中`clam`（蛤蜊）、`acclaimed`（赞誉的）、`received`（收到的）、`claimed`（声称的）。这里需要一个动词，表示科学家们的观点。根据句子结构，“the scientists ____”，这里需要表达科学家们关于动物行为变化的观点，所以选择`claimed`。
+【colonies】词义辨析
+选项中`place`（地方）、`colonies`（群落）、`areas`（区域）、`mountain`（山）。从句子结构上看，这里描述的是“beaver ____ expanded”，所以需要一个名词，表示海狸居住的地方。而`colonies`表示群落，是表示海狸居住地的合适词汇，所以选择`colonies`。
 
 7.Roman Arena. 罗马竞技场
 
@@ -165,17 +192,17 @@ United Nations Day has been 【observed】 on October 24th since 1948 and celebr
 The UN 【engages】 in peacekeeping and humanitarian missions conflict 【prevention】 across the globe. Though some say its 【influence】 has declined in recent decades, the United Nations still plays a tremendous role in world politics. In 2001 the United Nations and Kofi Annan, then Secretary-General of the UN, won the Nobel Peace Prize' for their work for a better organized and more peaceful world.'
 Since 1948 there have been 63 UN peacekeeping operations 16 are currently underway. Thus far, close to 130 nations have contributed personnel at various times; 119 are currently providing peacekeepers. As of August 31, 2008, there were 16 peacekeeping operations underway with a total of 88,230 personnel. The small island nation of Fiji has taken part in virtually every UN peacekeeping operation, as has Canada.
 
-联合国由51个“爱好和平的国家”于第二次世界大战后联合起来，为反对未来的侵略而成立，现拥有192个成员国，包括其最新成员国瑙鲁、基里巴斯和汤加（1999年加入）、图瓦卢和南斯拉夫（2000年加入）、瑞士和东帝汶（2002年加入）以及黑山（2006年加入）。
-自1948年以来，联合国日一直定于10月24日，以庆祝该组织（成立于1945年10月24日）的目标和成就。
-联合国在全球范围内参与维和、人道主义任务和冲突预防。尽管有人认为联合国的影响力在近几十年来有所下降，但它在世界政治中仍然发挥着巨大的作用。 2001年，联合国和时任联合国秘书长科菲·安南因其“为建设一个更有秩序、更和平的世界所做的贡献”而荣获诺贝尔和平奖。
-自1948年以来，联合国已开展了63项维和行动，其中16项正在进行中。迄今为止，已有近130个国家在不同时期派遣了维和人员；目前有119个国家正在派遣维和人员。截至2008年8月31日，共有16项维和行动正在进行中，共计派遣人员88,230人。小岛国斐济和加拿大几乎参加了所有联合国维和行动。
+联合国由 51 个“爱好和平的国家”于第二次世界大战后联合起来，为反对未来的侵略而成立，现拥有 192 个成员国，包括其最新成员国瑙鲁、基里巴斯和汤加（1999 年加入）、图瓦卢和南斯拉夫（2000 年加入）、瑞士和东帝汶（2002 年加入）以及黑山（2006 年加入）。
+自 1948 年以来，联合国日一直定于 10 月 24 日，以庆祝该组织（成立于 1945 年 10 月 24 日）的目标和成就。
+联合国在全球范围内参与维和、人道主义任务和冲突预防。尽管有人认为联合国的影响力在近几十年来有所下降，但它在世界政治中仍然发挥着巨大的作用。 2001 年，联合国和时任联合国秘书长科菲·安南因其“为建设一个更有秩序、更和平的世界所做的贡献”而荣获诺贝尔和平奖。
+自 1948 年以来，联合国已开展了 63 项维和行动，其中 16 项正在进行中。迄今为止，已有近 130 个国家在不同时期派遣了维和人员；目前有 119 个国家正在派遣维和人员。截至 2008 年 8 月 31 日，共有 16 项维和行动正在进行中，共计派遣人员 88,230 人。小岛国斐济和加拿大几乎参加了所有联合国维和行动。
 
 19.English class. 英语课
 
 There were twenty-six freshmen 【majoring】 in English at Beijing Language Institute in the class of 1983, and I was assigned to Group Two with another eleven boys and girls who had come from big cities in China. I was 【told】 that language study required smallness so that we would get more attention from the skillful teachers. The better the school, the smaller the class.
 I realized that my classmates were already all 【talking】 in English, simple sentences tossed out to each other in their red-faced introductions and carefree chatting. Their intonations were curving and dramatic and their pronunciation refined and accurate. But as I stretched to catch the drips and drops of their humming dialogue, I couldn't 【understand】 it all, only that it was English. Those words now flying before me sounded a little familiar. I had read them and tried to speak them, but I had never heard them 【spoken】 back to me in such a speedy, fluent manner. My big plan of 【beating】 the city folks was thawing before my eyes.
 
-1983年，北京语言学院英语专业一年级新生有26人，我和另外11名来自中国大城市的男生女生被分在二组。我被告知，学习语言需要小班授课，这样才能得到经验丰富的老师们的更多关注。学校越好，班级规模就越小。
+1983 年，北京语言学院英语专业一年级新生有 26 人，我和另外 11 名来自中国大城市的男生女生被分在二组。我被告知，学习语言需要小班授课，这样才能得到经验丰富的老师们的更多关注。学校越好，班级规模就越小。
 我意识到我的同学们都已经用英语交谈了，他们涨红脸介绍彼此，随意地聊着一些简单的句子。他们的语调流畅而富有戏剧性，发音优雅准确。但当我伸手去听他们嗡嗡作响的对话时，我却听不懂，只知道那是英语。这些飞快地掠过我眼前的单词听起来有点熟悉。我读过它们，也试着说出来，但我从未听到过他们以如此快速流畅的方式回应我。我【打败】城里人的大计划正在我眼前破灭。
 
 20.Kimbell. 金贝尔（美术馆）
