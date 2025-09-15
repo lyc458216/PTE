@@ -95,13 +95,7 @@ From the wolf's perspective, this is clearly good news. But it also had benefici
 【colonies】词义辨析
 选项中`place`（地方）、`colonies`（群落）、`areas`（区域）、`mountain`（山）。从句子结构上看，这里描述的是“beaver ____ expanded”，所以需要一个名词，表示海狸居住的地方。而`colonies`表示群落，是表示海狸居住地的合适词汇，所以选择`colonies`。
 
-7.Roman Arena. 罗马竞技场
-
-The Romans glorified the 【bravery】 shown in the arena, but 【trivialized】 the events and degraded the participants. Mosaic pictures of executions and combats, 【graphically】 violent to our eyes, were displayed in the public rooms and even dining rooms in the homes of wealthy Romans. How can the viewer today possibly understand such images? Until fairly recently, modern authors writing about the arena minimized its significance and 【represented】 the institutionalized violence as a sideline to Roman history. The 【tendency】 was also to view the events through our own eyes and to see them as pitiful or horrifying, although to most Romans empathy with victims of the arena was inconceivable. In the past few decades, however, scholars have started to analyze the complex motivations for deadly public entertainments and for contradictory views of gladiators as despised, yet beloved hero- slaves.
-
-罗马人颂扬竞技场上展现的【英勇】，却【轻视】这些事件，贬低参与者。在罗马富人的公共场所，甚至餐厅里，都悬挂着处决和搏斗的马赛克画，这些画在我们看来【生动】暴力。今天的观众又如何能理解这些图像呢？直到不久以前，现代作家在描写竞技场时，都极力淡化其重要性，并将制度化的暴力【描绘】成罗马历史的副业。当时的【倾向】也倾向于通过我们自己的视角来看待这些事件，并将它们视为可怜或恐怖，尽管对大多数罗马人来说，同情竞技场的受害者是不可想象的。然而，在过去的几十年里，学者们开始分析致命公共娱乐活动的复杂动机，以及将角斗士视为受人鄙视却又受人爱戴的英雄——奴隶的矛盾观点。
-
-8.Estee Lauder. 雅诗兰黛
+5.Estee Lauder. 雅诗兰黛
 
 She transformed beauty into big business by cultivating classy sales methods and giving away samples.
 Leonard Lauder, chief executive of the company his mother founded, says she always thought she"was growing a mice little business." And that it is. A little business that 【controls】 45 percent of the cosmetics market in U.S. department stores. A little business that sells in 118 countries and last year grew to be 3.6 billion big in sales. The Lauder family's shares are worth more than 6 billion.
@@ -115,20 +109,18 @@ No doubt the potions were good, Estee Lauder was a quality fanatic, but the sale
 你或多或少都了解雅诗兰黛的故事，因为它是美国商业传奇中的一章。简而言之，约瑟芬·埃丝特·门泽尔，移民之女，住在纽约市皇后区科罗纳区她父亲的五金店楼上。她通过在美容院、海滩俱乐部和度假村销售由身为化学家的叔叔调制的护肤霜，开创了自己的事业。
 毫无疑问，这些护肤霜效果很好，雅诗兰黛对品质的追求也十分严格，但这位销售小姐更胜一筹，好得多。而且她比化妆品行业的其他人都更努力。她一直跟踪着纽约市各大百货公司的老板，直到 1948 年在萨克斯第五大道精品百货店（Saks Fifth Avenue）找到一个柜台。进入这个柜台后，她运用了一种人肉销售的方式，事实证明，这种方法和她护肤品和香水的功效一样有效。
 
-9.Wine and ale. 葡萄酒与麦芽酒
+【controls】词义辨析
+选项中`makes`：制造；`has`：拥有；`controls`：控制；`maintains`：维护。根据上下文，我们需要表达的是这个小企业在美国百货商店化妆品市场的份额。这里最合适的词是`controls`，表示这个小企业控制了45%的市场份额。其他词不符合语境，故选`controls`。
+【changed】词义辨析
+选项中`switches`：切换；`used`：使用；`raised`：提高；`changed`：改变。在这个语境中，描述接电话的人如何改变自己的声音来扮演不同部门角色。`changed`更好地表达了这个人为了应付不同情况而改变自己的声音。`switches`在这里不太合适，因为它通常用于描述在两个或多个事物之间进行切换，而不是改变自己的属性；`used`通常用于描述使用某物，但在这个语境下不能很好地表达改变声音的意思；`raised`意为提高，主要用于描述数量、程度等的提高，而不是改变。
+【enterprise】词义辨析
+选项中`company`：公司；`enterprise`：企业；`encompass`：包含；`institute`：机构。在这个语境中，我们需要表达的是Estee Lauder开始了她的什么类型的组织。`enterprise`更广泛地表示了一种商业活动或组织，而`company`则侧重于具体的公司形式。在这个场景中，Estee Lauder的商业活动是从小规模的销售开始的，所以用`enterprise`表达她开始的商业活动更为贴切。`encompass` 和 `institute`在这里都不合适，分别表示“包含”和“机构”，与语境不符。
+【stalked】词义辨析
+选项中`move`：移动；`stated`：陈述；`stalked`：纠缠不休；`close`：靠近。根据上下文，我们需要表达的是Estee Lauder如何不断向纽约百货商店的老板们施压，直到她在1948年在Saks Fifth Avenue获得了柜台空间。这里最合适的词是`stalked`，表示她纠缠不休地向这些老板施压。
+【potent】词义辨析
+选项中`expensive`：昂贵的；`ruthless`：无情的；`potential`：潜在的；`potent`：有效的。根据上下文，我们需要表达的是Estee Lauder在柜台空间里使用的个人销售方法有多有效。这里最合适的词是`potent`，表示她的销售方法和她的护肤和香水产品一样有效。
 
-By the Bronze Age, drinking 【vessels】 were being made of sheet metal, primarily bronze or gold. However, the peak of feasting, and in particular, of the' political' type of feast, came in the late Hallstatt period, about 600 to 450 BC, soon after the foundation of the Greek 【colony】 of Massalia at the mouth of the Rhine. From that date on, the blood of the grape began to make its way north and east along major river systems together with imported metal and ceramic drinking vessels from the Greek world.
-The wine was thus added to the list of mood-altering beverages, such as mead and ale, available to establish social networks in Iron Age Europe. Attic pottery fragments found at hill forts such as Heuneburg in Germany and 【luxury】 goods such as the monumental 5th century Greek bronze krater, or wine-mixing vessel, found at Vix in Burgundy supply archaeological evidence of this interaction. Organic 【containers】 such as leather or wooden wine barrels may also have traveled north into Europe but have not survived. It is unknown what goods were 【traded】 in return, but they may have included salted meat, hides, timber, amber, and slaves.
-
-到了青铜时代，饮酒器皿开始由金属片制成，主要是青铜或黄金。然而，宴会，尤其是“政治”类型宴会的巅峰出现在哈尔施塔特时期的晚期，大约公元前 600 年至 450 年，即希腊在莱茵河口建立马萨利亚殖民地后不久。从那时起，葡萄酒开始沿着主要河流系统向北和向东流动，同时还有从希腊世界进口的金属和陶瓷饮酒器皿。因此，葡萄酒被添加到改变情绪的饮料名单中，例如蜂蜜酒和麦芽酒，它们被用来在铁器时代的欧洲建立社交网络。在德国霍内堡等山丘堡垒发现的阁楼陶器碎片，以及在勃艮第维克斯发现的诸如巨大的 5 世纪希腊青铜大酒杯（或称调酒器）之类的奢侈品，为这种互动提供了考古证据。有机【容器】如皮革或木制酒桶也可能已经向北传入欧洲，但没有保存下来。目前尚不清楚作为回报【交易】的商品是什么，但可能包括腌肉、兽皮、木材、琥珀和奴隶。
-
-10.Smallpox. 天花
-
-According to the literature, the history of vaccination can be traced back to as early as the 7th century when the monks in India tried to immunities themselves by drinking snake 【venom】. The first vaccination was inoculation with human smallpox, a practice widely carried out in ancient India, Arabia, and China. This method of vaccination consisted of collecting pus from a patient suffering from a 【mild】 form of smallpox virus infection and 【inoculating】 the sample to a healthy human, which later led to a minor infection. This method was first introduced in England by a Greek named E. Timoni. However, this method had a risk of spreading smallpox in the community and even worsening the health condition of the person who received the inoculation. While the use of human smallpox vaccine was 【controversial】, E. Jenner came up with bovine smallpox vaccine in 1796; this new method also faced controversy but continued to be 【universalized】. Smallpox became a preventable disease by injecting pus extracted from a human infected with cowpox virus. Jenner named the substance"vaccine" after the Latin word"Vacca" which means"cow," and thus the process of giving vaccine became"vaccination."
-
-根据文献记载，疫苗接种的历史可以追溯到早在 7 世纪，当时印度的僧侣试图通过饮用蛇毒来使自己免疫。最早的疫苗接种是人痘接种，这种做法在古印度、阿拉伯和中国广泛开展。这种接种方法包括从患有轻度天花病毒感染的患者身上收集脓液，然后将样本接种到健康人身上，随后导致轻微感染。这种方法是由一位名叫 E. Timoni 的希腊人首先在英国引入的。然而，这种方法存在在社区中传播天花的风险，甚至会使接种者的健康状况恶化。尽管人痘疫苗的使用存在争议，但 E. Jenner 于 1796 年发明了牛天花疫苗；这种新方法也面临争议，但最终得到了普及。通过注射从感染牛痘病毒的人身上提取的脓液，天花成为了可预防的疾病。詹纳将这种物质命名为“疫苗”，取自拉丁语“Vacca”（意为“牛”），因此接种疫苗的过程就变成了“接种疫苗”。
-
-11.Ocean floor. 海底
+6.Ocean floor. 海底
 
 The ocean floor is home to many unique communities of plants and animals. Most of these marine ecosystems are near the water surface, such as the Great Barrier Reef, 12,000-km-long coral 【formation】 off the northeastern coast of Australia. Coral reefs, like nearly all-complex living communities, depend on solar energy for growth. The sun's energy, however, penetrates at most only about 300m below the surface of the water. The relatively shallow penetration of solar energy and the sinking of cold, subpolar water combine to make most of the deep ocean floor a 【frigid】 environment with few life forms.
 In 1977, scientists discovered hot spring at a depth of 2.5 km, on the Galapagos Rift, spreading ridge, off the coast of Ecuador. This exciting discovery was not really a 【surprise】. Since the early 1970s, scientists had predicted that hot springs, geothermal vents, should be found at the active spreading centres along the mid-oceanic ridges, where magma, at temperatures over 1,000 C, presumably was being erupted to form a new oceanic crust. More exciting, because it was totally 【unexpected】, was the discovery of abundant and unusual sea life-giant tube worms, huge clams, and mussels, that 【thrived】 around the hot springs.
@@ -136,7 +128,20 @@ In 1977, scientists discovered hot spring at a depth of 2.5 km, on the Galapagos
 海底是许多独特动植物群落的家园。这些海洋生态系统大多位于水面附近，例如大堡礁，它是位于澳大利亚东北部海岸外长达 12000 公里的珊瑚礁群。珊瑚礁与几乎所有复杂的生物群落一样，依赖太阳能生长。然而，太阳能最多只能穿透水面以下约 300 米。太阳能的穿透深度相对较浅，加上寒冷的亚极地海水下沉，使得大部分深海海底环境寒冷，生命形式稀少。
 1977 年，科学家在厄瓜多尔海岸外加拉帕戈斯裂谷扩张脊 2.5 公里深处发现了温泉。这一激动人心的发现并不令人意外。自 20 世纪 70 年代初以来，科学家们就预测在洋中脊沿线的活跃扩张中心应该会发现温泉，也就是地热喷口。那里温度超过 1000 摄氏度的岩浆很可能正在喷发，形成新的洋壳。更令人兴奋的是，因为完全出乎意料的是，在温泉周围发现了丰富而奇特的海洋生物——巨型管虫、巨蛤和贻贝。
 
-12.Burger King. 汉堡王
+【formation】单句理解
+`system` 体系；系统；制度 `formation` 形成；构成； `view` 看法；风景 `structure` 结构；构造 ”coral formation“ （珊瑚群） 为常见搭配，根据句意理解：这些海洋生态系统大多位于水面附近，比如大堡礁，它是澳大利亚东北海岸外长达12000公里的珊瑚群。因此选`formation` 符合语义。
+【frigid】单句理解
+`frozen` 冷冻的；冰封的  `dark` 黑暗的；`frigid` 寒冷的；冷漠；` crowded` 拥挤的
+根据上文判断如果阳光不足，接近极点，所以环境应该是寒冷的，因此选frigid更合适。
+【surprise】上下文理解
+`supervision` 监督；管理 `surplus` 盈余；过剩的 `suspect` 怀疑；`surprise` 惊喜；惊奇
+根据后文内容表明这一预测过的事物已经被预测过了，因此这一令人兴奋的发现并不令人吃惊。因此选`surprise`。
+【unexpected】上下文理解
+根据上文温度超过1000度的岩浆正在喷发，形成新的海洋地壳。在温度这么高的地方也有生物存活，肯定是出乎意料的，因此选unexpected更符合语境。
+【thrived】逻辑理解
+根据前这里发现了丰富的和不寻常的海洋生物，表明这些生物在那种环境中生存得特别好，生长繁殖。故`thrived`更符合语境，因为它不仅意味着存在，而且意味着繁荣的增长或发展。
+
+7.Burger King. 汉堡王
 
 Drive down any highway, and you'll see a proliferation of chain restaurants, most likely, if you travel long and far enough, you'll see McDonald's golden arches as well as signs for Burger King, Hardee's and Wendy's the"big four" of burgers. Despite its name, though. Burger King has fallen short of 【claiming】 the burger crown, unable to surpass market leader MacDonald's No.1 sales status. Always the bridesmaid and never the bride, Burger King remains No.2.
 Worse yet, Burger King has experienced a six-year 22 percent decline in customer traffic, with its overall quality rating dropping while ratings for the other three 【contenders】 have increased. The decline has been 【attributed】 to inconsistent product quality and poor customer service. Although the chain tends to throw advertising dollars at the problem, an understanding of Integrated Marketing Communications theory would suggest that internal management problems, nineteen CEOs in fifty years, need to be 【rectified】 before a unified, long-term strategy can be put in place.
@@ -145,13 +150,36 @@ The 【importance】 of consistency in brand image and messages, not at all leve
 沿着任何一条高速公路行驶，你都会看到连锁餐厅的蓬勃发展。如果你行驶得足够远，很可能会看到麦当劳的金色拱门，以及汉堡王、哈帝斯和温迪汉堡这“四大汉堡”的招牌。尽管汉堡王名声显赫，但它却未能夺得汉堡王的桂冠，无法超越市场领头羊麦当劳的销量第一地位。汉堡王总是“伴娘”，从未“新娘”，仍然排名第二。更糟糕的是，汉堡王的客流量在过去六年里下降了 22%，其整体质量评级也随之下降，而其他三家“竞争者”的评级却有所上升。下滑的原因被归咎于产品质量不稳定和糟糕的客户服务。尽管连锁店往往会投入广告费来解决这个问题，但了解整合营销传播理论的人会发现，在制定统一的长期战略之前，需要先纠正内部管理问题（五十年来更换了十九位首席执行官）。
 品牌形象和信息（而非所有沟通层面）的一致性（重要性）已成为整合营销传播理论和实践的基本原则。接单员必须传达与汉堡王著名口号“随心所欲”相同的信息，否则顾客就会径直前往看起来更一致、因此更可靠的连锁餐厅。
 
-13.William Shakespeare. 威廉·莎士比亚
+【claiming】上下文理解 
+选项中`claiming`：声称，要求。在这个语境中，这个词表示“宣称或要求成为汉堡之王”。这里的“burger crown”是一个象征性的称号，表示汉堡领域的霸主。因此，`claiming`在这里表示汉堡王（Burger King）未能够成功地宣称或要求成为汉堡领域的霸主。`getting`：获得。`obtaining`：获得。与`getting`相似，这个词也不适用于这个场景，因为我们讨论的是一个象征性的称号。`finding`：寻找、发现。这句话表示，尽管名为“汉堡王”（Burger King），但该品牌未能成功地宣称或要求成为汉堡领域的霸主。
+【contenders】词义辨析
+本句讲述的是Burger King与其他三家相似类型的品牌的竞争对手。`individuals ` 个人，不符合竞争对手品牌的意义；`contestants`参赛者，通常用于比赛场景；`contenders`竞争者，符合与其他品牌竞争的语境；`members`成员，不符合语境。
+因此选择`contenders`。
+【attributed】词义辨析
+本句讲述的是客户流量下降的原因。`attributed `归因于，表示某事是由于某原因导致的；`contributed `贡献，通常表示为某事做出贡献，但不符合本句的意义；`caused`导致，虽然表示原因，但与后面的to不搭配；`due`由于，通常用于强调某事是某个原因的结果，一般情况下，due to很少与has been 搭配，通常只有作表语时前面才会和系动词搭配，。因此选择`attributed`。
+【rectified】词义辨析
+本句讲述的是内部管理问题需要解决。`modified`修改，表示对某物进行调整，但不一定能解决问题；`reviewed`审查，表示重新审视某事，但不一定会采取行动；`changed `改变，表示对某事进行改变，但不一定能解决问题；`rectified`纠正，表示修正错误或问题，符合语境。因此选择`rectified`。
+【importance】词义辨析
+本句讲述的是品牌形象和信息一致性的重要性。`principle`原则，表示一种基本的准则，不符合语境；`importance`重要性，表示某事的重要性，符合语境；`result ` 结果，表示某事的结果，不符合语境；`significant`重要的，虽然表示重要，但与后面的of不搭配。因此选择`importance`。
+【reliable】词义辨析
+首先，`delicious`（美味的）虽然可以描述餐厅的食物，但在这里不符合上下文，因为这里讨论的是顾客对餐厅的一致性感受，所以排除。根据上下文，顾客如果感觉到Burger King不能提供“have it your way”的服务，他们可能会选择另外一个看起来更一致性的连锁餐厅。这里需要的词应该是表示顾客对于餐厅的一致性和可靠性的感受。所以，`noticable`（显著的）在这里也不符合语境。剩下的两个选项是`reliable`（可靠的）和`trusty`（可信赖的）。这两个词的意思非常接近，但是在描述连锁餐厅的情况下，`reliable`（可靠的）更符合这个语境，因为它通常用于描述服务、产品的一致性和可预测性。
+
+8.William Shakespeare. 威廉·莎士比亚
 
 For all his fame and celebration, William Shakespeare remains a 【mysterious】 figure with regards to personal history. There are just two primary 【sources】 for information on the Bard: his works, and various legal and 【church】 documents that have survived from Elizabethan times. Naturally, there are many 【gaps】 in this body of information, which tells us little about Shakespeare, the man.
 
 尽管威廉·莎士比亚声名显赫、备受赞誉，但他的个人经历却依然是个【神秘】人物。关于这位诗人的信息主要来源只有两个：他的作品，以及伊丽莎白时代流传下来的各种法律和【教会】文献。当然，这些信息中存在许多【空白】，让我们对莎士比亚这个人知之甚少。
 
-14.Lure New Students. 吸引新生
+【for all；tells us little】 上下文理解
+选项前句意思为：虽然威廉莎士比亚名声大振，但他仍然在个人历史上是___的人物。此处用到了转折。且最后提到了which tells us little about Shakespeare，说明大家对莎士比亚的了解甚少。分析选项，`notorious`表示臭名昭著的；‘great’表示伟大的；‘famous’表示著名的；‘mysterious’表示神秘的，结合该句转折句意及上下文，故选’mysterious‘。
+【his works；documents】单句理解
+根据‘works和documents’，可以判断出它们都是用来提供诗人信息的，所以这两种资料是了解诗人的信息来源，故不选‘collections和factors’（收藏品和因素）。选项中‘resources’更强调资源，比如water resources水资源；mineral resources矿产资源等等。综上，故选择‘sources’，意为来源。
+【legal and…from Elizabethan times】单句理解
+分析选项，‘community’表示社区；‘foundation’表示基金；‘school’表示学校；‘church’表示教会。所填选项是由and连接的并列结构，并且大背景是伊丽莎白时期遗留下来有关诗人的文件，与学校无关。且在此大背景下，并无社区文件或基金文件，故选择‘church’，意为教会文件。
+【tells us little about Shakespeare】单句理解
+由后文及整体文章可知，我们对于莎士比亚的了解知之甚少。分析选项，‘errors’表示错误；‘truths’表示真相；‘gaps’表示缺口；‘works’表示作品，结合句意，故选择‘gaps’，译为：自然，在这一系列的信息中有很多空白，这对我们了解伊丽莎白这个人来说是微不足道的。
+
+9.Lure New Students. 吸引新生
 
 In an attempt to 【lure】 new students, leading business schools, including Harvard, Stanford, the University of Chicago and Wharton, have moved away from the unofficial missions and 【prerequisite】 of four years' work experience and 【instead】 have set their sights on recent college graduates and so-called"early career" 【professionals】 with only a couple years of work under their belt.
 
