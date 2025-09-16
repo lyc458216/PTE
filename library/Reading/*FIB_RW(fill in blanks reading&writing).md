@@ -185,7 +185,16 @@ In an attempt to 【lure】 new students, leading business schools, including Ha
 
 为了【吸引】新生，包括哈佛大学、斯坦福大学、芝加哥大学和沃顿商学院在内的顶尖商学院已经放弃了四年工作经验的非正式使命和【先决条件】，而是将目光投向了刚毕业的大学生和仅有几年工作经验的所谓“早期职业”【专业人士】。
 
-15.Market for Vegetarian foods. 素食食品市场
+【lure】词义辨析
+选项中`lure`：吸引，`introduce`：引入，`compulsory`：强制性的，`exclude`：排除。这里表示，为了吸引新学生，顶尖商学院转变了以往的做法。因此，选择`lure`而不是其他选项。
+【prerequisite】词义辨析
+选项中`preface`：序言，`coursework`：课程作业，`prelude`：前奏，`prerequisite`：先决条件。这里说到，这些商学院已经摆脱了四年工作经验的非官方要求。所以，选择`prerequisite而不是其他选项。
+【instead】词义辨析
+选项中`thus`：因此，`instead`：取而代之，`further`：进一步，`never`：从不。这里表示，这些商学院转而关注刚刚毕业的大学生和所谓的“早期职业生涯”的工作者。因此，选择`instead`而不是其他选项。
+【professionals】词义辨析
+选项中`workers`：工人，`officers`：官员，`employees`：雇员，`professionals`：专业人士。这里讨论的是商学院，所以需要一个表示“专业人士”的词汇。因此，选择`professionals`而不是其他选项。
+
+10.Market for Vegetarian foods. 素食食品市场
 
 Mintel Consumer Intelligence 【estimates】 the 2002 market for vegetarian foods, those that directly replace meat or other animal products, to be 1.5 billion. Note that this excludes traditional vegetarian foods such as produce, pasta, and rice. Mintel forecasts the market to nearly double by 2006 to 2.8 billion, with the highest growth coming from soymilk, especially refrigerated brands.
 The Food and Drug Administration's 1999 decision to allow manufacturers to include heart-healthy claims on foods that deliver at least 6.25 grammes of soy protein per serving and are also low in 【saturated】 fat and cholesterol has spurred 【tremendous】 interest in soymilk and other soy foods. A representative of manufacturer Food Tech International, Veggie Patch brand, reported that from 1998 to 1999, the percentage of consumers willing to try soy products jumped from 32 percent to 67 percent. Beliefs about soy's 【effectiveness】 in reducing the symptoms of menopause also attracted new consumers. A 2000 survey conducted by the United Soybean Board showed that the number of people eating soy products once a week or more was up to 27 percent. Forty-five percent of respondents had tried tofu, 41 percent had sampled veggie burgers, and 25 percent had experience with soymilk, Soyfoods USA e-mail newsletter. Mintel estimates 2001 sales of frozen and refrigerated meat 【alternatives】 in food stores at nearly 300 million, with soymilk sales nearing 250 million.
