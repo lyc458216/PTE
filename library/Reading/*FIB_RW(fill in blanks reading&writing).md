@@ -43,15 +43,15 @@ Before the Survey of India, a number of the other mountains ranked supreme in th
 在印度测量局成立之前，在世界眼中，许多其他山峰也位居最高地位。在十七和十八世纪，安第斯山脉的钦博拉索山被认为是最高峰。它的高度相对平凡，只有 20,561 英尺，实际上远不及最高点，大约有 30 座其他安第斯山脉的山峰和数十座喜马拉雅山脉的山峰【超过】了它。1809 年，喜马拉雅山脉的道拉吉里峰被宣布为最高点，但在 1840 年，干城章嘉峰取代了它，如今排名第三。在过去的一个半世纪里，珠穆朗玛峰的地位一直无人能及，但也面临着一些威胁。
 
 【surveyors】词义辨析
-....确定它是地球上最高的山峰之前....，测量山峰的人是`surveyors`测量员。`climbers` 攀登者`examiners`主考者  `experts`专家。
+....确定它是地球上最高的山峰之前....，测量山峰的人是`surveyors`测量员。`climbers` 攀登者`examiners`主考者 `experts`专家。
 【illusion】词义辨析
 `allusion`典故，`anticipation`期望，`prediction`预测，预报。根据句意许多其他壮观的喜马拉雅山峰使珠穆朗玛峰第十五峰在其中显得平凡，给人一种更高的错觉。选`illusion`错觉。
 【accepted】词义辨析
 `calculated`计算，`understood`理解，`known`了解。根据句意，选`accepted`公认的。一百多年来，这个数字一直是官方公认的高度。
 【reservations】词义辨析
-`views`观点，`thinking`认为，`rejections`拒接。`reservations`保留  根据空后他认为这座山峰应该保留其当地的称谓，但最终这座山用了他的名字命名，因此他本人的态度是持保留意见的，因此选`reservations`保留 。
+`views`观点，`thinking`认为，`rejections`拒接。`reservations`保留 根据空后他认为这座山峰应该保留其当地的称谓，但最终这座山用了他的名字命名，因此他本人的态度是持保留意见的，因此选`reservations`保留 。
 【surpassed】词义辨析
-`transformed`改变， `transmitted`发射，传播； `reduced`减少，换算。这句话首先讲安第斯山脉被认为是最高的，后文转折`in fact`事实上...,可知它并不是最高的，还有其他的山超过，因此选`surpassed`超过。这句话的意思是：在17世纪和18世纪，安第斯山脉的奇姆博拉索峰被认为是最高的。它的海拔仅为20,561英尺，在事实上远远不是最高的，被安第斯山脉的约30座其他山峰和喜马拉雅山脉的几十座山峰超过。
+`transformed`改变， `transmitted`发射，传播； `reduced`减少，换算。这句话首先讲安第斯山脉被认为是最高的，后文转折`in fact`事实上...,可知它并不是最高的，还有其他的山超过，因此选`surpassed`超过。这句话的意思是：在 17 世纪和 18 世纪，安第斯山脉的奇姆博拉索峰被认为是最高的。它的海拔仅为 20,561 英尺，在事实上远远不是最高的，被安第斯山脉的约 30 座其他山峰和喜马拉雅山脉的几十座山峰超过。
 
 3.Richard Morris. 理查德·莫里斯
 
@@ -76,7 +76,7 @@ It is not all gloom, said Professor John Dearn, a Province-Chancellor at the Uni
 【transforming】词义辨析
 根据上下文，教授说互联网正在改变学生获取和使用信息的方式，而`transforming`这个词强调了这种改变是深刻和彻底的，最符合句意。
 【traditional】词义辨析
-根据上下文，尽管有很多证据表明传统的讲座不太有效，但它似乎仍然在我们的大学中存在。在这种情况下，`traditional`是最合适的答案，因为它强调了长期存在的东西。 
+根据上下文，尽管有很多证据表明传统的讲座不太有效，但它似乎仍然在我们的大学中存在。在这种情况下，`traditional`是最合适的答案，因为它强调了长期存在的东西。
 
 4.Wolf. 狼
 
@@ -87,13 +87,13 @@ From the wolf's perspective, this is clearly good news. But it also had benefici
 【reintroducing】词义辨析
 选项中`reintroducing`（重新引入）、`declining`（下降）、`rebuilding`（重建）、`remain`（保持）。根据上下文，这里是讨论把狼重新引入公园的影响，所以选择`reintroducing`。
 【correlated】词义辨析
-选项中`correlated`（相关的）、`introduced`（引入的）、`moved`（移动的）、`converted`（转换的）。从句子结构上看，“the wolves was ____ with the increased growth of willow and cottonwood”，这里需要表达的是狼的重新引入与柳树和杨树的生长之间的关系，所以选择`correlated`。
+选项中`correlated`（相关的）、`introduced`（引入的）、`moved`（移动的）、`converted`（转换的）。从句子结构上看，“the wolves was \_**\_ with the increased growth of willow and cottonwood”，这里需要表达的是狼的重新引入与柳树和杨树的生长之间的关系，所以选择`correlated`。
 【avoiding】词义辨析
 选项中`avoiding`（避免的）、`conceiving`（设想的）、`mention`（提到的）、`across`（横跨的）。此处描述的是鹿这类动物在狼出现后的行为变化，它们会避免那些无法轻易逃脱的地方，所以选择`avoiding`。
 【claimed】词义辨析
-选项中`clam`（蛤蜊）、`acclaimed`（赞誉的）、`received`（收到的）、`claimed`（声称的）。这里需要一个动词，表示科学家们的观点。根据句子结构，“the scientists ____”，这里需要表达科学家们关于动物行为变化的观点，所以选择`claimed`。
+选项中`clam`（蛤蜊）、`acclaimed`（赞誉的）、`received`（收到的）、`claimed`（声称的）。这里需要一个动词，表示科学家们的观点。根据句子结构，“the scientists \_\_**”，这里需要表达科学家们关于动物行为变化的观点，所以选择`claimed`。
 【colonies】词义辨析
-选项中`place`（地方）、`colonies`（群落）、`areas`（区域）、`mountain`（山）。从句子结构上看，这里描述的是“beaver ____ expanded”，所以需要一个名词，表示海狸居住的地方。而`colonies`表示群落，是表示海狸居住地的合适词汇，所以选择`colonies`。
+选项中`place`（地方）、`colonies`（群落）、`areas`（区域）、`mountain`（山）。从句子结构上看，这里描述的是“beaver \_\_\_\_ expanded”，所以需要一个名词，表示海狸居住的地方。而`colonies`表示群落，是表示海狸居住地的合适词汇，所以选择`colonies`。
 
 5.Estee Lauder. 雅诗兰黛
 
@@ -110,15 +110,15 @@ No doubt the potions were good, Estee Lauder was a quality fanatic, but the sale
 毫无疑问，这些护肤霜效果很好，雅诗兰黛对品质的追求也十分严格，但这位销售小姐更胜一筹，好得多。而且她比化妆品行业的其他人都更努力。她一直跟踪着纽约市各大百货公司的老板，直到 1948 年在萨克斯第五大道精品百货店（Saks Fifth Avenue）找到一个柜台。进入这个柜台后，她运用了一种人肉销售的方式，事实证明，这种方法和她护肤品和香水的功效一样有效。
 
 【controls】词义辨析
-选项中`makes`：制造；`has`：拥有；`controls`：控制；`maintains`：维护。根据上下文，我们需要表达的是这个小企业在美国百货商店化妆品市场的份额。这里最合适的词是`controls`，表示这个小企业控制了45%的市场份额。其他词不符合语境，故选`controls`。
+选项中`makes`：制造；`has`：拥有；`controls`：控制；`maintains`：维护。根据上下文，我们需要表达的是这个小企业在美国百货商店化妆品市场的份额。这里最合适的词是`controls`，表示这个小企业控制了 45%的市场份额。其他词不符合语境，故选`controls`。
 【changed】词义辨析
 选项中`switches`：切换；`used`：使用；`raised`：提高；`changed`：改变。在这个语境中，描述接电话的人如何改变自己的声音来扮演不同部门角色。`changed`更好地表达了这个人为了应付不同情况而改变自己的声音。`switches`在这里不太合适，因为它通常用于描述在两个或多个事物之间进行切换，而不是改变自己的属性；`used`通常用于描述使用某物，但在这个语境下不能很好地表达改变声音的意思；`raised`意为提高，主要用于描述数量、程度等的提高，而不是改变。
 【enterprise】词义辨析
-选项中`company`：公司；`enterprise`：企业；`encompass`：包含；`institute`：机构。在这个语境中，我们需要表达的是Estee Lauder开始了她的什么类型的组织。`enterprise`更广泛地表示了一种商业活动或组织，而`company`则侧重于具体的公司形式。在这个场景中，Estee Lauder的商业活动是从小规模的销售开始的，所以用`enterprise`表达她开始的商业活动更为贴切。`encompass` 和 `institute`在这里都不合适，分别表示“包含”和“机构”，与语境不符。
+选项中`company`：公司；`enterprise`：企业；`encompass`：包含；`institute`：机构。在这个语境中，我们需要表达的是 Estee Lauder 开始了她的什么类型的组织。`enterprise`更广泛地表示了一种商业活动或组织，而`company`则侧重于具体的公司形式。在这个场景中，Estee Lauder 的商业活动是从小规模的销售开始的，所以用`enterprise`表达她开始的商业活动更为贴切。`encompass` 和 `institute`在这里都不合适，分别表示“包含”和“机构”，与语境不符。
 【stalked】词义辨析
-选项中`move`：移动；`stated`：陈述；`stalked`：纠缠不休；`close`：靠近。根据上下文，我们需要表达的是Estee Lauder如何不断向纽约百货商店的老板们施压，直到她在1948年在Saks Fifth Avenue获得了柜台空间。这里最合适的词是`stalked`，表示她纠缠不休地向这些老板施压。
+选项中`move`：移动；`stated`：陈述；`stalked`：纠缠不休；`close`：靠近。根据上下文，我们需要表达的是 Estee Lauder 如何不断向纽约百货商店的老板们施压，直到她在 1948 年在 Saks Fifth Avenue 获得了柜台空间。这里最合适的词是`stalked`，表示她纠缠不休地向这些老板施压。
 【potent】词义辨析
-选项中`expensive`：昂贵的；`ruthless`：无情的；`potential`：潜在的；`potent`：有效的。根据上下文，我们需要表达的是Estee Lauder在柜台空间里使用的个人销售方法有多有效。这里最合适的词是`potent`，表示她的销售方法和她的护肤和香水产品一样有效。
+选项中`expensive`：昂贵的；`ruthless`：无情的；`potential`：潜在的；`potent`：有效的。根据上下文，我们需要表达的是 Estee Lauder 在柜台空间里使用的个人销售方法有多有效。这里最合适的词是`potent`，表示她的销售方法和她的护肤和香水产品一样有效。
 
 6.Ocean floor. 海底
 
@@ -129,15 +129,15 @@ In 1977, scientists discovered hot spring at a depth of 2.5 km, on the Galapagos
 1977 年，科学家在厄瓜多尔海岸外加拉帕戈斯裂谷扩张脊 2.5 公里深处发现了温泉。这一激动人心的发现并不令人意外。自 20 世纪 70 年代初以来，科学家们就预测在洋中脊沿线的活跃扩张中心应该会发现温泉，也就是地热喷口。那里温度超过 1000 摄氏度的岩浆很可能正在喷发，形成新的洋壳。更令人兴奋的是，因为完全出乎意料的是，在温泉周围发现了丰富而奇特的海洋生物——巨型管虫、巨蛤和贻贝。
 
 【formation】单句理解
-`system` 体系；系统；制度 `formation` 形成；构成； `view` 看法；风景 `structure` 结构；构造 ”coral formation“ （珊瑚群） 为常见搭配，根据句意理解：这些海洋生态系统大多位于水面附近，比如大堡礁，它是澳大利亚东北海岸外长达12000公里的珊瑚群。因此选`formation` 符合语义。
+`system` 体系；系统；制度 `formation` 形成；构成； `view` 看法；风景 `structure` 结构；构造 ”coral formation“ （珊瑚群） 为常见搭配，根据句意理解：这些海洋生态系统大多位于水面附近，比如大堡礁，它是澳大利亚东北海岸外长达 12000 公里的珊瑚群。因此选`formation` 符合语义。
 【frigid】单句理解
-`frozen` 冷冻的；冰封的  `dark` 黑暗的；`frigid` 寒冷的；冷漠；` crowded` 拥挤的
-根据上文判断如果阳光不足，接近极点，所以环境应该是寒冷的，因此选frigid更合适。
+`frozen` 冷冻的；冰封的 `dark` 黑暗的；`frigid` 寒冷的；冷漠；` crowded` 拥挤的
+根据上文判断如果阳光不足，接近极点，所以环境应该是寒冷的，因此选 frigid 更合适。
 【surprise】上下文理解
 `supervision` 监督；管理 `surplus` 盈余；过剩的 `suspect` 怀疑；`surprise` 惊喜；惊奇
 根据后文内容表明这一预测过的事物已经被预测过了，因此这一令人兴奋的发现并不令人吃惊。因此选`surprise`。
 【unexpected】上下文理解
-根据上文温度超过1000度的岩浆正在喷发，形成新的海洋地壳。在温度这么高的地方也有生物存活，肯定是出乎意料的，因此选unexpected更符合语境。
+根据上文温度超过 1000 度的岩浆正在喷发，形成新的海洋地壳。在温度这么高的地方也有生物存活，肯定是出乎意料的，因此选 unexpected 更符合语境。
 【thrived】逻辑理解
 根据前这里发现了丰富的和不寻常的海洋生物，表明这些生物在那种环境中生存得特别好，生长繁殖。故`thrived`更符合语境，因为它不仅意味着存在，而且意味着繁荣的增长或发展。
 
@@ -150,19 +150,19 @@ The 【importance】 of consistency in brand image and messages, not at all leve
 沿着任何一条高速公路行驶，你都会看到连锁餐厅的蓬勃发展。如果你行驶得足够远，很可能会看到麦当劳的金色拱门，以及汉堡王、哈帝斯和温迪汉堡这“四大汉堡”的招牌。尽管汉堡王名声显赫，但它却未能夺得汉堡王的桂冠，无法超越市场领头羊麦当劳的销量第一地位。汉堡王总是“伴娘”，从未“新娘”，仍然排名第二。更糟糕的是，汉堡王的客流量在过去六年里下降了 22%，其整体质量评级也随之下降，而其他三家“竞争者”的评级却有所上升。下滑的原因被归咎于产品质量不稳定和糟糕的客户服务。尽管连锁店往往会投入广告费来解决这个问题，但了解整合营销传播理论的人会发现，在制定统一的长期战略之前，需要先纠正内部管理问题（五十年来更换了十九位首席执行官）。
 品牌形象和信息（而非所有沟通层面）的一致性（重要性）已成为整合营销传播理论和实践的基本原则。接单员必须传达与汉堡王著名口号“随心所欲”相同的信息，否则顾客就会径直前往看起来更一致、因此更可靠的连锁餐厅。
 
-【claiming】上下文理解 
+【claiming】上下文理解
 选项中`claiming`：声称，要求。在这个语境中，这个词表示“宣称或要求成为汉堡之王”。这里的“burger crown”是一个象征性的称号，表示汉堡领域的霸主。因此，`claiming`在这里表示汉堡王（Burger King）未能够成功地宣称或要求成为汉堡领域的霸主。`getting`：获得。`obtaining`：获得。与`getting`相似，这个词也不适用于这个场景，因为我们讨论的是一个象征性的称号。`finding`：寻找、发现。这句话表示，尽管名为“汉堡王”（Burger King），但该品牌未能成功地宣称或要求成为汉堡领域的霸主。
 【contenders】词义辨析
-本句讲述的是Burger King与其他三家相似类型的品牌的竞争对手。`individuals ` 个人，不符合竞争对手品牌的意义；`contestants`参赛者，通常用于比赛场景；`contenders`竞争者，符合与其他品牌竞争的语境；`members`成员，不符合语境。
+本句讲述的是 Burger King 与其他三家相似类型的品牌的竞争对手。`individuals ` 个人，不符合竞争对手品牌的意义；`contestants`参赛者，通常用于比赛场景；`contenders`竞争者，符合与其他品牌竞争的语境；`members`成员，不符合语境。
 因此选择`contenders`。
 【attributed】词义辨析
-本句讲述的是客户流量下降的原因。`attributed `归因于，表示某事是由于某原因导致的；`contributed `贡献，通常表示为某事做出贡献，但不符合本句的意义；`caused`导致，虽然表示原因，但与后面的to不搭配；`due`由于，通常用于强调某事是某个原因的结果，一般情况下，due to很少与has been 搭配，通常只有作表语时前面才会和系动词搭配，。因此选择`attributed`。
+本句讲述的是客户流量下降的原因。`attributed `归因于，表示某事是由于某原因导致的；`contributed `贡献，通常表示为某事做出贡献，但不符合本句的意义；`caused`导致，虽然表示原因，但与后面的 to 不搭配；`due`由于，通常用于强调某事是某个原因的结果，一般情况下，due to 很少与 has been 搭配，通常只有作表语时前面才会和系动词搭配，。因此选择`attributed`。
 【rectified】词义辨析
 本句讲述的是内部管理问题需要解决。`modified`修改，表示对某物进行调整，但不一定能解决问题；`reviewed`审查，表示重新审视某事，但不一定会采取行动；`changed `改变，表示对某事进行改变，但不一定能解决问题；`rectified`纠正，表示修正错误或问题，符合语境。因此选择`rectified`。
 【importance】词义辨析
-本句讲述的是品牌形象和信息一致性的重要性。`principle`原则，表示一种基本的准则，不符合语境；`importance`重要性，表示某事的重要性，符合语境；`result ` 结果，表示某事的结果，不符合语境；`significant`重要的，虽然表示重要，但与后面的of不搭配。因此选择`importance`。
+本句讲述的是品牌形象和信息一致性的重要性。`principle`原则，表示一种基本的准则，不符合语境；`importance`重要性，表示某事的重要性，符合语境；`result ` 结果，表示某事的结果，不符合语境；`significant`重要的，虽然表示重要，但与后面的 of 不搭配。因此选择`importance`。
 【reliable】词义辨析
-首先，`delicious`（美味的）虽然可以描述餐厅的食物，但在这里不符合上下文，因为这里讨论的是顾客对餐厅的一致性感受，所以排除。根据上下文，顾客如果感觉到Burger King不能提供“have it your way”的服务，他们可能会选择另外一个看起来更一致性的连锁餐厅。这里需要的词应该是表示顾客对于餐厅的一致性和可靠性的感受。所以，`noticable`（显著的）在这里也不符合语境。剩下的两个选项是`reliable`（可靠的）和`trusty`（可信赖的）。这两个词的意思非常接近，但是在描述连锁餐厅的情况下，`reliable`（可靠的）更符合这个语境，因为它通常用于描述服务、产品的一致性和可预测性。
+首先，`delicious`（美味的）虽然可以描述餐厅的食物，但在这里不符合上下文，因为这里讨论的是顾客对餐厅的一致性感受，所以排除。根据上下文，顾客如果感觉到 Burger King 不能提供“have it your way”的服务，他们可能会选择另外一个看起来更一致性的连锁餐厅。这里需要的词应该是表示顾客对于餐厅的一致性和可靠性的感受。所以，`noticable`（显著的）在这里也不符合语境。剩下的两个选项是`reliable`（可靠的）和`trusty`（可信赖的）。这两个词的意思非常接近，但是在描述连锁餐厅的情况下，`reliable`（可靠的）更符合这个语境，因为它通常用于描述服务、产品的一致性和可预测性。
 
 8.William Shakespeare. 威廉·莎士比亚
 
@@ -171,11 +171,11 @@ For all his fame and celebration, William Shakespeare remains a 【mysterious】
 尽管威廉·莎士比亚声名显赫、备受赞誉，但他的个人经历却依然是个【神秘】人物。关于这位诗人的信息主要来源只有两个：他的作品，以及伊丽莎白时代流传下来的各种法律和【教会】文献。当然，这些信息中存在许多【空白】，让我们对莎士比亚这个人知之甚少。
 
 【for all；tells us little】 上下文理解
-选项前句意思为：虽然威廉莎士比亚名声大振，但他仍然在个人历史上是___的人物。此处用到了转折。且最后提到了which tells us little about Shakespeare，说明大家对莎士比亚的了解甚少。分析选项，`notorious`表示臭名昭著的；‘great’表示伟大的；‘famous’表示著名的；‘mysterious’表示神秘的，结合该句转折句意及上下文，故选’mysterious‘。
+选项前句意思为：虽然威廉莎士比亚名声大振，但他仍然在个人历史上是\_\_\_的人物。此处用到了转折。且最后提到了 which tells us little about Shakespeare，说明大家对莎士比亚的了解甚少。分析选项，`notorious`表示臭名昭著的；‘great’表示伟大的；‘famous’表示著名的；‘mysterious’表示神秘的，结合该句转折句意及上下文，故选’mysterious‘。
 【his works；documents】单句理解
-根据‘works和documents’，可以判断出它们都是用来提供诗人信息的，所以这两种资料是了解诗人的信息来源，故不选‘collections和factors’（收藏品和因素）。选项中‘resources’更强调资源，比如water resources水资源；mineral resources矿产资源等等。综上，故选择‘sources’，意为来源。
+根据‘works 和 documents’，可以判断出它们都是用来提供诗人信息的，所以这两种资料是了解诗人的信息来源，故不选‘collections 和 factors’（收藏品和因素）。选项中‘resources’更强调资源，比如 water resources 水资源；mineral resources 矿产资源等等。综上，故选择‘sources’，意为来源。
 【legal and…from Elizabethan times】单句理解
-分析选项，‘community’表示社区；‘foundation’表示基金；‘school’表示学校；‘church’表示教会。所填选项是由and连接的并列结构，并且大背景是伊丽莎白时期遗留下来有关诗人的文件，与学校无关。且在此大背景下，并无社区文件或基金文件，故选择‘church’，意为教会文件。
+分析选项，‘community’表示社区；‘foundation’表示基金；‘school’表示学校；‘church’表示教会。所填选项是由 and 连接的并列结构，并且大背景是伊丽莎白时期遗留下来有关诗人的文件，与学校无关。且在此大背景下，并无社区文件或基金文件，故选择‘church’，意为教会文件。
 【tells us little about Shakespeare】单句理解
 由后文及整体文章可知，我们对于莎士比亚的了解知之甚少。分析选项，‘errors’表示错误；‘truths’表示真相；‘gaps’表示缺口；‘works’表示作品，结合句意，故选择‘gaps’，译为：自然，在这一系列的信息中有很多空白，这对我们了解伊丽莎白这个人来说是微不足道的。
 
@@ -202,7 +202,18 @@ The Food and Drug Administration's 1999 decision to allow manufacturers to inclu
 Mintel 消费者情报【估计】2002 年素食市场（即直接替代肉类或其他动物产品的食品）的规模为 15 亿。需要注意的是，这还不包括农产品、意大利面和米饭等传统素食。Mintel 预测，到 2006 年，素食市场规模将增长近一倍，达到 28 亿，其中增长最快的是豆奶，尤其是冷藏品牌。
 美国食品药品管理局 1999 年决定，允许制造商在每份至少含有 6.25 克大豆蛋白且低【饱和】脂肪和低胆固醇的食品上标注“有益心脏健康”，这一决定激发了人们对豆奶和其他大豆食品的【巨大】兴趣。Veggie Patch 品牌生产商 Food Tech International 的一位代表报告称，从 1998 年到 1999 年，愿意尝试大豆制品的消费者比例从 32%跃升至 67%。大豆在减轻更年期症状方面的功效也吸引了新的消费者。美国大豆协会 2000 年的一项调查显示，每周食用一次或以上大豆制品的人数高达 27%。45%的受访者尝试过豆腐，41%的受访者品尝过素食汉堡，25%的受访者喝过豆奶（Soyfoods USA 电子邮件通讯）。Mintel 估计，2001 年食品店冷冻和冷藏肉类替代品的销量接近 3 亿份，其中豆奶销量接近 2.5 亿份。
 
-16.Indian Onion. 印度洋葱
+【estimates】词义辨析
+根据文中`Mintel Consumer Intelligence_the 2002 market for vegetanan foodsthose that directly replace meat or other animal products,to be $1.5 billion.`省略插入语部分，该句主要表达的是:Mintel 消费者情报\_2020 年的素食市场将达到 15 亿美元。通过 `to be $15 billion`可知是这在推测将来的市场额度。因此选择`estimates`估计。此外本文最后一句`Mintel estimates 2001 sales`也首尾呼应了该选项。`deals`处理，需要与`with`连用，在此空不符合逻辑和语义，因此排除。`fulifils`实现;`creates`创造，两者都不能与将来的市场额度搭配， 因此排除这两项。
+【saturated】词义辨析
+因为饮食中的饱和脂肪对心脏健康有负面影响，而低饱和脂肪含量是一个健康的标志。因此，这里使用的是`saturated`（饱和）而不是其他选项。
+【tremendous】上下文理解
+FDA 的规定促进了大豆制品的销售，从而吸引了更多的消费者。根据语境，这里需要选择一个表示数量或程度的形容词， `tremendous`表示“巨大的”、“惊人的”，符合语境。
+【effectiveness】上下文理解
+根据上下文，这里需要填入一个名词，表示大豆的功效，`functions`更多地表示某个事物的作用或者功能，`usefulness`则更多地表示某个事物的实用性，`ineffectiveness`则表示某个事物的无效性。`effectiveness`则表示某个事物的有效性，符合语境。
+【alternatives】上下文理解
+根据语境，这里需要填入一个名词，表示冷冻和冷藏肉类的销售量，`changes`表示变化，`chooses`表示选择，`differs`表示不同。而`alternatives`则表示“替代品”，在这里表示大豆制品是肉类的替代品，符合语境。
+
+11.Indian Onion. 印度洋葱
 
 The most 【vital】 ingredient in Indian cooking, the 【basic】 element with which all dishes begin and, normally, the cheapest vegetable available, the pink onion is an essential item in the shopping basket of families of all classes.
 A popular saying holds that you will never starve because you can always afford a roti, a piece of simple, flatbread, and an onion.
@@ -216,7 +227,20 @@ With its capacity for bringing down governments and scarring political careers, 
 价格突然飙升是由于对邻国的大量出口和供应短缺造成的。
 洋葱能够推翻政府，毁掉政治生涯，因此在印度政坛中扮演着爆炸性的角色。本周，有关洋葱价格上涨的报道成为头条新闻，并引起了执政精英的关注。
 
-17.Edison. 爱迪生
+【vital】词义辨析
+选项中`hilarious`：非常滑稽的，`verbal`：言辞的，`verse`：诗歌，`vital`：至关重要的。根据上下文，这里讨论的是印度烹饪中最重要的成分，所以选择`vital`而不是其他选项。
+【basic】词义辨析
+选项中`mosaic`：马赛克，`giant`：巨大的，`basic`：基本的，`smart`：聪明的、这里说到，洋葱是所有菜肴开始的基本元素。因此，选择`basic`而不是其他选项。
+【luxury】词义辨析
+选项中`luxury`：奢侈品，`price`：价格，`merchant`：商人，`plain`：简单的。在这里，说到洋葱对印度穷人来说似乎变成了一种难以负担的东西。所以我们需要一个表示“奢侈品”的词汇，选择`luxury`而不是其他选项。
+【surge】词义辨析
+选项中`urge`：敦促，`surge`：激增，`shortage`：短缺，`siege`：围攻。这里提到，过去几天，价格的另一次激增开始影响到有影响力的城市中产阶级。因此，我们需要一个表示“激增”的词汇，选择`surge`而不是其他选项。
+【supply】词义辨析
+选项中`supply`：供应，`afford`：负担得起。这里说到，价格激增的原因是向邻国的大量出口以及供应短缺。因此，我们需要一个表示“供应”的词汇，选择`supply`而不是其他选项。
+【explosive】词义辨析
+选项中`expressive`：表达的，`explosive`：爆炸性的，`expensive`：昂贵的，`attractive`：有吸引力的。根据上下文，洋葱在印度政治中具有推翻政府和影响政治生涯的能力。在这里我们需要一个描述这种强烈影响力的词汇。因此，选择`explosive`（爆炸性的）而不是其他选项。
+
+12.Edison. 爱迪生
 
 Like Ben Franklin, Thomas Alva Edison was 【both】 a scientist and an inventor. Born in 1847, Edison would see 【tremendous】 change take place in his lifetime. He was also to be responsible for making many of those changes occur. When Edison was born, society still thought of electricity as a 【novelty】, a fad. By the time he died, entire cities were lit by electricity. Much of the credit for that progress goes to Edison. In his lifetime, Edison patented 1,093 inventions, earning him the nickname"The Wizard of Menlo Park" The most famous of his inventions was the incandescent light bulb. Besides the light bulb, Edison developed the phonograph and the"kinetoscope," a small box for viewing moving films. He also 【improved】 upon the original design of the stock ticker, the telegraph, and Alexander Graham Bell's telephone. He believed in hard work, sometimes working twenty hours a day. Edison was quoted as saying,"Genius is one percent inspiration and 99 percent perspiration." In 【tribute】 to this important American, electric lights in the United States were dimmed for one minute on October 21, 1931, a few days after his death.
 
