@@ -246,7 +246,19 @@ Like Ben Franklin, Thomas Alva Edison was 【both】 a scientist and an inventor
 
 和本·富兰克林一样，托马斯·阿尔瓦·爱迪生既是科学家，也是发明家。爱迪生出生于 1847 年，一生见证了社会发生的翻天覆地的变化。他也促成了许多这样的变革。爱迪生出生时，社会仍将电视为一种新奇事物，一种时尚。到他去世时，整个城市都已用电照明。这一进步的大部分功劳都归功于爱迪生。爱迪生一生共申请了 1093 项发明专利，赢得了“门洛帕克奇才”的绰号。他最著名的发明是白炽灯泡。除了灯泡，爱迪生还发明了留声机和“活动电影放映机”（一种用于观看电影的小盒子）。他还改进了股票行情自动收录器、电报和亚历山大·格雷厄姆·贝尔电话的原始设计。他相信勤奋工作，有时一天工作 20 个小时。爱迪生曾说过：“天才是百分之一的灵感加上百分之九十九的汗水。”为了纪念这位重要的美国人，在他去世几天后，即 1931 年 10 月 21 日，美国的电灯熄灭了一分钟。
 
-18.United Nations. 联合国
+【both】词义辨析
+这句话的意思是：与本·富兰克林一样，托马斯·阿尔瓦·爱迪生既是一位科学家，也是一位发明家。
+`never` 从不、一点也不，`neither`两者都不，`almost`几乎、差不多，`both`二者都、不仅...而且，根据单词的意思可以选出`both`是正确答案。
+【tremendous】词义辨析
+选项中`minimal`：最小的，`unnoticeable`：不显著的，`tremendous`：巨大的，`spectacular`：壮观的。根据上下文，在爱迪生的一生中，他见证了许多重大的变化。因此，我们需要一个表示“巨大”的词汇，所以选择`tremendous`而不是其他选项。
+【novelty】词义辨析
+选项中`invention`：发明，`imagination`：想象，`toy`：玩具，`novelty`：新奇的事物。这里提到，在爱迪生出生时，社会仍然认为电是一种新奇的事物。因此，选择`novelty`而不是其他选项。
+【improved】词义辨析
+选项中`raised`：提高，`improved`：改进，`changed`：改变，`increased`：增加。这里说到，爱迪生在原有的股票行情打印机、电报和亚历山大·格雷厄姆·贝尔的电话机的设计基础上进行了改进。所以，选择`improved`而不是其他选项。
+【tribute】词义辨析
+选项中`tribute`：致敬，`memory`：记忆，`honor`：荣誉，`gift`：礼物。为了向这位重要的美国人致敬，全美国的电灯在1931年10月21日熄灭了一分钟。因此，选择`tribute`而不是其他选项。
+
+13.United Nations. 联合国
 
 Founded after World War the second by 51' peace-loving states' combined to oppose future aggression, the United Nations now counts 192 member nations, 【including】 its newest member, Nauru, Kiribati, and Tonga in 1999, Tuvalu and Yugoslavia in 2000, Switzerland and East Timor in 2002, and Montenegro in 2006.
 United Nations Day has been 【observed】 on October 24th since 1948 and celebrates the objectives and accomplishments of the organization, which was established on October 24th, 1945.
