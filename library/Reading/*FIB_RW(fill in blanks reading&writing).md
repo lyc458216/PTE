@@ -270,7 +270,18 @@ Since 1948 there have been 63 UN peacekeeping operations 16 are currently underw
 联合国在全球范围内参与维和、人道主义任务和冲突预防。尽管有人认为联合国的影响力在近几十年来有所下降，但它在世界政治中仍然发挥着巨大的作用。 2001 年，联合国和时任联合国秘书长科菲·安南因其“为建设一个更有秩序、更和平的世界所做的贡献”而荣获诺贝尔和平奖。
 自 1948 年以来，联合国已开展了 63 项维和行动，其中 16 项正在进行中。迄今为止，已有近 130 个国家在不同时期派遣了维和人员；目前有 119 个国家正在派遣维和人员。截至 2008 年 8 月 31 日，共有 16 项维和行动正在进行中，共计派遣人员 88,230 人。小岛国斐济和加拿大几乎参加了所有联合国维和行动。
 
-19.English class. 英语课
+【including】词义辨析
+选项中`including`：包括，`includes`：包含，`engage`：从事、参与，`consisting`：由...组成。由于句子里面有谓语动词，故排除`includes`和`engage`。根据句意理解这里要表示联合国包括最新的成员国，选择`including`。
+【observed】词义辨析
+选项中`selecting`：选择，`planned`：计划，`observing`：观察，`observed`：庆祝（动词过去分词形式）。大家可以点开单词查看Oxford 词典，里面表明observe有庆祝的含义，此处表示自1948年以来，每年的10月24日庆祝联合国日，由于节日与庆祝是被动关系，，因此选择 `observed`。
+【engages】词义辨析
+选项中`complains`：抱怨，`maintains`：维持、保持，`engages`：参与、从事，`insights`：洞察力。这里表示联合国积极参与和平维持和人道主义任务以及冲突预防工作。根据这个语境，我们需要一个表示参与或从事某项活动的词汇，因此选择 `engages`而非其他三个选项。
+【prevention】词义辨析
+选项中`prevention`：预防，`revolution`：革命，`production`：生产，`dealing`处理。这里表示联合国在全球范围内从事和平维持和人道主义任务以及冲突预防，选择 `prevention`。
+【influence】词义辨析
+选项中`aim`：目标，`success`：成功，`influence`：影响力，`number`：数量。 这里表示虽然有人认为联合国的影响力在近几十年里有所下降，选择`influence`。
+
+14.English class. 英语课
 
 There were twenty-six freshmen 【majoring】 in English at Beijing Language Institute in the class of 1983, and I was assigned to Group Two with another eleven boys and girls who had come from big cities in China. I was 【told】 that language study required smallness so that we would get more attention from the skillful teachers. The better the school, the smaller the class.
 I realized that my classmates were already all 【talking】 in English, simple sentences tossed out to each other in their red-faced introductions and carefree chatting. Their intonations were curving and dramatic and their pronunciation refined and accurate. But as I stretched to catch the drips and drops of their humming dialogue, I couldn't 【understand】 it all, only that it was English. Those words now flying before me sounded a little familiar. I had read them and tried to speak them, but I had never heard them 【spoken】 back to me in such a speedy, fluent manner. My big plan of 【beating】 the city folks was thawing before my eyes.
@@ -278,13 +289,39 @@ I realized that my classmates were already all 【talking】 in English, simple 
 1983 年，北京语言学院英语专业一年级新生有 26 人，我和另外 11 名来自中国大城市的男生女生被分在二组。我被告知，学习语言需要小班授课，这样才能得到经验丰富的老师们的更多关注。学校越好，班级规模就越小。
 我意识到我的同学们都已经用英语交谈了，他们涨红脸介绍彼此，随意地聊着一些简单的句子。他们的语调流畅而富有戏剧性，发音优雅准确。但当我伸手去听他们嗡嗡作响的对话时，我却听不懂，只知道那是英语。这些飞快地掠过我眼前的单词听起来有点熟悉。我读过它们，也试着说出来，但我从未听到过他们以如此快速流畅的方式回应我。我【打败】城里人的大计划正在我眼前破灭。
 
-20.Kimbell. 金贝尔（美术馆）
+【majoring】词义辨析
+这里需要填的是一种专业，`learning`和`training`都不符合语境。而`specializing`表示专攻某个领域，`majoring`更符合语境，因为它可以表示在大学里主修某个专业。
+【told】上下文理解
+根据前文中的“I was assigned to Group Two”可以推断出这里需要填的是一种被告知的动词，而`amazing`和`astonished`都表示惊讶，不符合语境。而`told`表示被告知，符合语境。
+【talking】词义辨析
+这里需要填的是一种动词，表示同学们正在用英语交流。而`talks`表示一种状态，不符合语境。`talked`表示过去的动作，也不符合语境。`talking`和`talk`都可以表示正在交流，但是`talking`更符合语法，因为它可以与`were`连用，表示过去进行时。
+【understand】词义辨析
+在这个句子中，使用`understand`更为合适，因为它表达了对语言的理解或者理解对话的意思的能力，它更常用于日常交流和基本理解的表达`follow`：通常指跟随或者理解某个过程或者思路，`grasp`：通常指理解某个概念或者思想，它更多用于专业、深入的领域或对复杂事物的理解。`perceive`：通常指察觉或者感知某种事物，但在这个上下文中，它不太适合，因为它暗示着对话的内容可能是隐晦或者模糊的，需要更多的感知能力才能理解。
+【spoken】词义辨析
+这里需要填的是一种动词的过去分词，表示同学们正在用英语交流。`smiled`和`respond`都不符合语境。而`talked`表示过去的动作，不符合语境。因此只能选`spoken`，表示已经被说出来了。
+【beating】词义辨析
+这里需要填的是一种动词的名词形式，表示打败城里人的计划正在瓦解。而`fitting`表示适合， 而`living`表示生活， 而`fighting`表示战斗，不符合语境。因此只能选`beating`，表示打败。
+
+15.Kimbell. 金贝尔（美术馆）
 
 The first section of the book covers new modes of assessment. In Chapter 1, Kimbell, Goldsmith College, London responds to 【criticisms】 of design programmes as formalistic and conventional, stating that a focus on risk-taking than hard work in design innovation is equally problematic. His research contains three parts that include preliminary exploration of design innovation qualities, investigation of resulting classroom practices, and development of the evidence-based assessment. The assessment he describes is presented in the form of a structured worksheet, which includes a 【collaborative】 【element】 and digital photographs, in story format. Such a device encourages stimulating ideas but does not recognize students as design 【innovators】. The assessment sheet includes holistic impressions as well as details about"having, growing, and proving" ideas. 【Colloquial】 judgements are evident in terms such as"wow" and"yawn" and reward the quality and quantity of ideas with the term,"sparkiness," which fittingly is a pun as the model project was to design light bulb packaging. In addition, the assessment focuses on the process of optimising or complexity control as well as proving ideas with thoughtful criticism and not just generation of novel ideas. The definitions for qualities such as"technical" and"aesthetic" pertaining to users are too narrow and ill-defined. The author provides 【examples】 of the project, its features and structures, students' notes and judgements, and their sketches and photographs of finished light bulb packages, in the Appendix.
 
 本书第一部分探讨了新的评估模式。在第一章中，伦敦金史密斯学院的金贝尔回应了人们对设计课程形式主义和墨守成规的批评，指出在设计创新中，重视冒险而非努力同样存在问题。他的研究包含三个部分：对设计创新品质的初步探索、对课堂实践的调查以及基于证据的评估方法的开发。他所描述的评估方法以结构化工作表的形式呈现，其中包含一个协作元素和故事形式的数码照片。这种模式鼓励激发灵感，但并未将学生视为设计创新者。评估表不仅包含整体印象，还包含关于“拥有、发展和证明”想法的细节。口语化的评价中，诸如“哇”和“哈欠”之类的词语随处可见，并用“灵光一闪”来奖励创意的质量和数量，这与示范项目是设计灯泡包装的案例恰如其分地体现了双关语。此外，评估侧重于优化或复杂性控制的过程，以及用深思熟虑的批评来证明想法，而不仅仅是新颖想法的产生。“技术”和“美学”等与用户相关的特质定义过于狭隘和模糊。作者在附录中提供了该项目的【示例】、其特点和结构、学生的笔记和评价，以及他们绘制的成品灯泡包装的草图和照片。
 
-21.Jean Piaget. 让·皮亚杰
+【criticisms】词义辨析
+选项中`critical`：批判性的，`notions`：概念，`criticisms`：批评，`application`：应用。该空位于of的名词结构中，故需要填名词，排除`critical`。此处需要表示对设计课程的批评，因此选择 `criticisms`。
+【collaborative】词义辨析
+选项中`important`：重要的，`complete`：完整的，`cooperative`：合作的，`collaborative`：协作的。这里需要表达的是评估表中包含了一个结构化的协作部分，因此选择 `collaborative`。
+【element】词义辨析
+选项中`works`：作品，`element`：元素、部分，`factor`：因素，`collection`：收藏、集合。这里需要表示评估表中包含的协作部分，应选择` element`。
+【innovators】词义辨析
+选项中`officers`：官员，`leaders`：领导者，`workers`：工人，`innovators`：创新者。这里要表示的是评估表鼓励创新的想法，但并未将学生视为设计创新者。因此选择` innovators`。
+【colloquial】词义辨析
+选项中`Verbal`：口头的，`Traditional`：传统的，`International`：国际的，`Colloquial`：口语的、非正式的。在这里，我们需要表示这种评价方式使用了非正式、口语化的表达，如“wow”和“yawn”等词汇。因此，应该选择`colloquial`而非其他三个选项。
+【examples】词义辨析
+选项中`systems`：系统，`themes`：主题，`examples`：例子，`results`：结果。  这里作者提供了项目、其特点和结构、学生的笔记和评价以及他们的草图和完成的灯泡包装的照片等方面的例子，因此选择 `examples`。
+
+16.Jean Piaget. 让·皮亚杰
 
 Jean Piaget, the pioneering Swiss philosopher, and psychologist spent much of his professional life listening to children, watching children and 【poring】 over reports of researchers around the world who were doing the same. He found, to put most 【succinctly】, that children don't think like grownups. After thousands of interactions with young people often barely old enough to talk, Piaget began to 【suspect】 that behind their cute and seemingly illogical utterances were thought processes that had their own kind of order and their own special logic. Einstein called it a 【discovery】"so simple that only a genius could have thought of it."
 Piaget's insight opened a new window into the inner workings of the mind. By the end of a wide-ranging and remarkably 【prolific】 research career that spanned nearly 75 years, from his first scientific publication at age 10 to work still in progress when he died at 84, Piaget had developed several new fields of science: developmental psychology, cognitive theory and what came to be called genetic epistemology. Although not an educational reformer, he 【fashioned】 a way of thinking about children that provided the foundation for today's education-reform 【movements】. It was a shift comparable to the displacement of stories of"noble savages" and"cannibals" by modern anthropology. One might say that Piaget was the first to take children's thinking seriously.
