@@ -256,7 +256,7 @@ Like Ben Franklin, Thomas Alva Edison was 【both】 a scientist and an inventor
 【improved】词义辨析
 选项中`raised`：提高，`improved`：改进，`changed`：改变，`increased`：增加。这里说到，爱迪生在原有的股票行情打印机、电报和亚历山大·格雷厄姆·贝尔的电话机的设计基础上进行了改进。所以，选择`improved`而不是其他选项。
 【tribute】词义辨析
-选项中`tribute`：致敬，`memory`：记忆，`honor`：荣誉，`gift`：礼物。为了向这位重要的美国人致敬，全美国的电灯在1931年10月21日熄灭了一分钟。因此，选择`tribute`而不是其他选项。
+选项中`tribute`：致敬，`memory`：记忆，`honor`：荣誉，`gift`：礼物。为了向这位重要的美国人致敬，全美国的电灯在 1931 年 10 月 21 日熄灭了一分钟。因此，选择`tribute`而不是其他选项。
 
 13.United Nations. 联合国
 
@@ -273,7 +273,7 @@ Since 1948 there have been 63 UN peacekeeping operations 16 are currently underw
 【including】词义辨析
 选项中`including`：包括，`includes`：包含，`engage`：从事、参与，`consisting`：由...组成。由于句子里面有谓语动词，故排除`includes`和`engage`。根据句意理解这里要表示联合国包括最新的成员国，选择`including`。
 【observed】词义辨析
-选项中`selecting`：选择，`planned`：计划，`observing`：观察，`observed`：庆祝（动词过去分词形式）。大家可以点开单词查看Oxford 词典，里面表明observe有庆祝的含义，此处表示自1948年以来，每年的10月24日庆祝联合国日，由于节日与庆祝是被动关系，，因此选择 `observed`。
+选项中`selecting`：选择，`planned`：计划，`observing`：观察，`observed`：庆祝（动词过去分词形式）。大家可以点开单词查看 Oxford 词典，里面表明 observe 有庆祝的含义，此处表示自 1948 年以来，每年的 10 月 24 日庆祝联合国日，由于节日与庆祝是被动关系，，因此选择 `observed`。
 【engages】词义辨析
 选项中`complains`：抱怨，`maintains`：维持、保持，`engages`：参与、从事，`insights`：洞察力。这里表示联合国积极参与和平维持和人道主义任务以及冲突预防工作。根据这个语境，我们需要一个表示参与或从事某项活动的词汇，因此选择 `engages`而非其他三个选项。
 【prevention】词义辨析
@@ -309,7 +309,7 @@ The first section of the book covers new modes of assessment. In Chapter 1, Kimb
 本书第一部分探讨了新的评估模式。在第一章中，伦敦金史密斯学院的金贝尔回应了人们对设计课程形式主义和墨守成规的批评，指出在设计创新中，重视冒险而非努力同样存在问题。他的研究包含三个部分：对设计创新品质的初步探索、对课堂实践的调查以及基于证据的评估方法的开发。他所描述的评估方法以结构化工作表的形式呈现，其中包含一个协作元素和故事形式的数码照片。这种模式鼓励激发灵感，但并未将学生视为设计创新者。评估表不仅包含整体印象，还包含关于“拥有、发展和证明”想法的细节。口语化的评价中，诸如“哇”和“哈欠”之类的词语随处可见，并用“灵光一闪”来奖励创意的质量和数量，这与示范项目是设计灯泡包装的案例恰如其分地体现了双关语。此外，评估侧重于优化或复杂性控制的过程，以及用深思熟虑的批评来证明想法，而不仅仅是新颖想法的产生。“技术”和“美学”等与用户相关的特质定义过于狭隘和模糊。作者在附录中提供了该项目的【示例】、其特点和结构、学生的笔记和评价，以及他们绘制的成品灯泡包装的草图和照片。
 
 【criticisms】词义辨析
-选项中`critical`：批判性的，`notions`：概念，`criticisms`：批评，`application`：应用。该空位于of的名词结构中，故需要填名词，排除`critical`。此处需要表示对设计课程的批评，因此选择 `criticisms`。
+选项中`critical`：批判性的，`notions`：概念，`criticisms`：批评，`application`：应用。该空位于 of 的名词结构中，故需要填名词，排除`critical`。此处需要表示对设计课程的批评，因此选择 `criticisms`。
 【collaborative】词义辨析
 选项中`important`：重要的，`complete`：完整的，`cooperative`：合作的，`collaborative`：协作的。这里需要表达的是评估表中包含了一个结构化的协作部分，因此选择 `collaborative`。
 【element】词义辨析
@@ -319,12 +319,30 @@ The first section of the book covers new modes of assessment. In Chapter 1, Kimb
 【colloquial】词义辨析
 选项中`Verbal`：口头的，`Traditional`：传统的，`International`：国际的，`Colloquial`：口语的、非正式的。在这里，我们需要表示这种评价方式使用了非正式、口语化的表达，如“wow”和“yawn”等词汇。因此，应该选择`colloquial`而非其他三个选项。
 【examples】词义辨析
-选项中`systems`：系统，`themes`：主题，`examples`：例子，`results`：结果。  这里作者提供了项目、其特点和结构、学生的笔记和评价以及他们的草图和完成的灯泡包装的照片等方面的例子，因此选择 `examples`。
+选项中`systems`：系统，`themes`：主题，`examples`：例子，`results`：结果。 这里作者提供了项目、其特点和结构、学生的笔记和评价以及他们的草图和完成的灯泡包装的照片等方面的例子，因此选择 `examples`。
 
 16.Jean Piaget. 让·皮亚杰
 
 Jean Piaget, the pioneering Swiss philosopher, and psychologist spent much of his professional life listening to children, watching children and 【poring】 over reports of researchers around the world who were doing the same. He found, to put most 【succinctly】, that children don't think like grownups. After thousands of interactions with young people often barely old enough to talk, Piaget began to 【suspect】 that behind their cute and seemingly illogical utterances were thought processes that had their own kind of order and their own special logic. Einstein called it a 【discovery】"so simple that only a genius could have thought of it."
 Piaget's insight opened a new window into the inner workings of the mind. By the end of a wide-ranging and remarkably 【prolific】 research career that spanned nearly 75 years, from his first scientific publication at age 10 to work still in progress when he died at 84, Piaget had developed several new fields of science: developmental psychology, cognitive theory and what came to be called genetic epistemology. Although not an educational reformer, he 【fashioned】 a way of thinking about children that provided the foundation for today's education-reform 【movements】. It was a shift comparable to the displacement of stories of"noble savages" and"cannibals" by modern anthropology. One might say that Piaget was the first to take children's thinking seriously.
+
+瑞士哲学家、心理学家先驱让·皮亚杰（Jean Piaget）将其职业生涯的大部分时间都花在倾听儿童、观察儿童以及研究世界各地研究人员的研究报告上。他发现，简单地说，孩子们不像大人那样思考。皮亚杰在与那些几乎还不会说话的年轻人进行了数千次互动后，开始【怀疑】在他们可爱而看似不合逻辑的话语背后，是有自己独特秩序和特殊逻辑的思维过程。爱因斯坦称这是一个“如此简单，只有天才才能想到的发现”。
+皮亚杰的洞见打开了一扇通往心灵内部运作的新窗口。从 10 岁发表第一篇科学论文到 84 岁去世仍在进行中的研究，皮亚杰的研究生涯跨度近 75 年，内容广泛，成果显著。在此期间，皮亚杰发展了几个新的科学领域：发展心理学、认知理论和后来被称为遗传认识论的理论。虽然他不是教育改革家，但他塑造了一种思考儿童的方式，为今天的教育改革运动奠定了基础。这种转变堪比现代人类学对“高贵野蛮人”和“食人族”故事的取代。有人可能会说，皮亚杰是第一个认真对待儿童思维的人。
+
+【poring】词义辨析
+选项中`skimming`：略读 `studying`：研究，学习 `poring`：仔细阅读 `reading`：阅读 根据上下文，Jean Piaget 是一位心理学家，他花了很多时间聆听孩子们的声音、观察孩子们的行为，并且仔细阅读全球同行的研究报告。此处选择`poring`，因为它表示 Piaget 非常认真、仔细地阅读这些研究报告，而不仅仅是简单地阅读或略读。同时，`studying`虽然也表示研究，但它更适合用于描述学习或研究某个领域或课题，而不是针对文本进行深入阅读。因此，在这个例子中，应该选择`poring`。
+【succinctly】词义辨析
+选项中`successfully`：成功地 `skeptically`：怀疑地 `succinctly`：简洁地 `sincerely`：真诚地 这里需要一个副词来修饰动词`put`，表示简洁地将这个观点表述出来。因此，选择`succinctly`。
+【suspect】词义辨析
+选项中`study`：研究 `know`：知道 `suspect`：怀疑 `understand`：理解. 从上下文可以看出，Piaget 通过与年幼的孩子们的互动，开始怀疑他们背后的思维过程有其特殊的逻辑。因此，选择 `suspect`。
+【discovery】词义辨析
+选项中`mystery`：神秘, `success`：成功, `discovery`：发现,`misery`：痛苦。这里是讲述 Piaget 的观点被 Einstein 称为一个发现，所以选择 `discovery`。
+【prolific】词义辨析
+选项中`varied`：多样的、各种各样的，`collected`：收集的，`resulted`：导致的， `prolific`：多产的。这句话描述了皮亚杰在其长达 75 年的研究生涯中，取得了非凡的成就。在这里，我们需要一个词来表示皮亚杰的研究成果丰富且卓越。`prolific`这个词正好符合这个含义，表示皮亚杰的研究成果丰富多产。
+【fashioned】词义辨析
+选项中`guided`：引导的，`fashioned`：塑造的，`opened`：开创的，`designed`：设计的。 尽管皮亚杰不是一位教育改革者，但他塑造了一种关于儿童思考方式的方法，为当今的教育改革运动奠定了基础。`fashioned`在这里表示塑造或创建了一种新的思考方式，而不仅仅是引导。
+【movements】词义辨析
+选项中`movements`：运动，`applications`：应用，`reforms`：改革，`regulations`：规定。这里讨论的是皮亚杰的研究为今天的教育改革提供了基础，所以我们需要一个表示改革运动的词。结合语境，选择 `movements`。
 
 22.Eiffel. 埃菲尔（铁塔）
 
@@ -2494,3 +2512,57 @@ Little is known about the figure that inspired the story of King Arthur. While A
 541.Lionfish. 狮子鱼
 
 "Until now, few sightings of the alien lionfish Pterois miles have been reported in the Mediterranean and it was 【questionable】 whether the species could invade this region like it has in the western Atlantic." Demetris Kletou, co-author of the paper said in a statement." But we've found that lionfish have recently 【increased】 in abundance, and within a year have colonised almost the entire south eastern coast of Cyprus, assisted by sea surface warming. Lionfish were originally found in the waters of the Pacific and lndian Oceans. They likely ended up in the Caribbean and Western Atlantic after 【being released】 from home aquariums. The invasion of the Mediterranean has different roots. The expansion of the Suez Canal has given lionfish even 【more access】 to the Mediterranean Sea and warming water temperatures have provided the 【perfect】 environment for the invasive species.
+
+340.Brain Bus. 大脑巴士
+
+These fascinating questions and more will be revealed by University of Manchester scientists when they take to the road on their' Brain Bus'. The bus is taking hands on 【activities】 to test the senses to the suburbs, to show young and old alike how the brain works and how science can answer some of life's most captivating questions. Organiser Dr Stuart Allan, lecturer at the Faculty of Life Sciences, explains:"Three- year- olds and upwards can understand the senses and it's an area that is 【intriguing】 to all ages." It takes effort to get out of bed on a Saturday morning and go to the Museum. We are bringing science to your doorstep and going further afield this year in the hope of finding new and different 【audiences】."We want people to see that science is interesting as well as important in our lives, and to 【encourage】 people who may not consider it possible to go to University."
+
+当曼彻斯特大学的科学家们乘坐他们的“大脑巴士”上路时，这些有趣的问题以及更多的问题将会揭晓。这辆公共汽车正在向郊区的人们提供一些测试感官的活动，向年轻人和老年人都展示大脑是如何工作的，以及科学是如何回答一些生活中最迷人的问题的。组织者Stuart Allan博士是生命科学学院的讲师，他解释说：“三岁及以上的孩子都能理解感官，这是一个对所有年龄段的人都很有趣的领域。”星期六早上起床去博物馆要费一番功夫。今年，我们将把科学带到你的家门口，并走得更远，希望能找到新的、不同的【观众】。“我们希望人们看到，科学在我们的生活中既有趣又重要，并鼓励那些可能认为不可能上大学的人。”
+
+第一空：为什么选`Activities`（活动）
+先搞清楚句子的·意思：“大脑巴士” 要带些 “能让人动手参与、测试感官” 的东西去郊区。所以得选一个既符合 “动手玩”，又适合老少一起参与的词。
+再看其他选项为什么不行：
+`Demonstrations`（演示）：就是别人做、你看着，比如老师演示实验，跟 “自己动手”不符合，排除；
+`Exhibits`（展品）：指的是摆在那儿看的东西，比如博物馆里的文物，没法 “带出去让大家动手玩”，排除；
+`Experiments`（实验）：得用专业设备、按严格步骤来，比如实验室里的化学实验，老老少少在郊区玩不了这个，排除；
+`Activities`（活动）：比如 “摸东西猜是什么”“听声音辨方向” 这种小游戏，既能动手，又适合所有人，正好符合要求，所以选它。
+第二空：为什么选`Intriguing`（让人好奇的）
+句子想表达的是：“感官相关的知识，三岁以上的人都能懂，而且所有年龄的人都会对它感兴趣”。重点是 “因为不知道、想探索才感兴趣”，不是单纯 “觉得好玩”。
+其他选项的问题：
+`Engaging`（让人投入的）：比如玩游戏很投入，但这里说的是 “对知识感兴趣”，不是 “投入做某事”，不对；
+`Captivating`（让人着迷到挪不开眼的）：程度太夸张了，比如看精彩电影会着迷，但 “感官知识” 还没到让人 “完全着迷” 的地步，排除；
+`Fascinating`（让人觉得超有趣的）：比如听有趣的故事，但它强调 “东西本身好玩”，不是 “因为不知道才想了解”，不符合 “探索感官秘密” 的感觉；
+`Intriguing`（让人好奇的）：比如 “大脑怎么分辨甜和咸” 这种问题，因为不知道，所以所有人都想搞明白，正好对应 “所有年龄都感兴趣”，选它。
+第三空：为什么选`Audiences`（受众 / 参与者）
+句子的意思是：“我们把科学带到家门口，还去更远的地方，就是想找到新的、不一样的人来参与”。这里要选一个能体现 “专门来参加活动的人” 的词，不是随便指 “人”。
+其他选项为什么不对：
+`People`（人）：太笼统了，比如路上随便遇到的人也算 “people”，但我们要的是 “特意来参加科学活动的人”，排除；
+`Individuals`（个人）：指单个的人，比如 “某个个人”，但活动是面向一群人，不是单个个体，排除；
+`Groups`（团体）：比如学校社团、公司团队这种有组织的群体，但郊区来的大多是零散的居民，不是 “有组织的团体”，排除；
+`Audiences`（受众 / 参与者）：就是指 “活动想吸引的人”，比如演唱会的观众、讲座的听众，这里正好是 “大脑巴士想找的新参与者”，选它。
+第四空：为什么选`Encourage`（鼓励）
+句子想表达：“我们想让大家知道科学有意思、很重要，还想帮那些‘觉得自己没机会上大学’的人，让他们敢去想这件事”。重点是 “给他们信心，让他们不怕、敢尝试”。
+其他选项的问题：
+`Support`（支持）：比如给钱、给资源才叫支持，但这里只是通过活动传递想法，没有实际帮助，排除；
+`Inspire`（激励）：比如激励人当科学家，程度太重了，我们只是想让他们 “觉得上大学有可能”，不是 “激励他们干大事”，排除；
+`Invite`（邀请）：比如邀请人去吃饭，但 “上大学” 不是 “邀请就能去” 的，得自己申请，逻辑不对，排除；
+`Encourage`（鼓励）：比如 “你别害怕，你能行”，正好对应 “帮那些没信心的人，让他们敢想上大学的事”，选它。
+
+341.Illness. 疾病
+
+He spent a 【painful】 night, struggling with his health. It was 【difficult】 for him to continue with his duties as usual. Despite his determination and eagerness to teach, he was not permitted to 【attend】 class due to his health condition. He was 【happy】 to attend and fulfil his responsibilities, but his illness prevented him from doing so.
+
+他与健康作斗争，痛苦地度过了一夜。他很难像往常一样继续履行他的职责。尽管他有决心和渴望教书，但由于他的健康状况，他没有被允许去上课。他很乐意出席并履行他的职责，但他的病使他不能这样做。
+
+第一空：`painful`（痛苦的）
+句子想表达：“他度过了一个\_**\_的夜晚，一直受健康问题困扰”。核心是要填一个能体现 “健康不舒服时，夜晚过得很难受” 的词。
+`painful` 就是 “痛苦的、难受的” 意思，他因为健康问题很痛苦，用 “painful night”（痛苦的夜晚）正好能描述这种 “受健康折磨的难受状态”。
+第二空：`difficult`（困难的）
+句子想表达：“对他来说，像平常一样继续做自己的工作，变得\_\_**”。这里要填一个词，体现 “因为健康不好，做平常的事变得不容易”。
+`difficult` 就是 “困难的、不容易的” 意思，他前一晚受健康困扰，身体状态差，自然没办法轻松完成日常工作，“it was difficult for him to...”（对他来说做…… 很困难）正好符合 “身体不好导致做事吃力” 的逻辑。
+第三空：`attend`（参加、上（课））
+句子想表达：“尽管他有决心、也很想教书，但因为健康状况，没能被允许去\_**\_课”。这里要填一个 “和‘上课’搭配的词”，体现 “去教室讲课或上课” 的动作。
+`attend` 常和 “class” 搭配，“attend class” 就是 “上课” 的意思，比如 “学生上课”“老师去上课”。句子里说他想教书，对应的动作就是 “去上课”，用 “attend class” 正好是固定搭配，
+第四空：`happy`（乐意的、开心的）
+句子想表达：“他本来\_\_**去上课、完成自己的职责，但疾病拦住了他”。这里要填一个词，体现 “他主观上愿意去做，甚至期待去做”，和后面 “疾病阻止他” 形成对比。
+`happy` 在这里不是 “开心的”，而是 “乐意的、愿意的” 意思，比如 “我很乐意帮忙”。前面已经说他 “有决心、想教书”，说明他主观上特别愿意去上课、尽职责，和后面 “疾病不让他做” 的无奈形成反差。

@@ -4,315 +4,315 @@ You will hear a sentence.
 Please repeat the sentence exactly as you hear it.
 You will hear the sentence only once.
 
-Vocabulary: 
+Vocabulary:
 Speaking
 
-Filter: Test 
+Filter: Test
 Sort Type: Creation time(Ascending order)
 Total: 850
 
 1.The seminar on writing skills has been canceled.  
-写作技巧研讨会已取消  
+写作技巧研讨会已取消
 
 2.They were struggling to pay their fees last year.  
-去年他们艰难支付费用  
+去年他们艰难支付费用
 
 3.Students can download the materials on the website.  
-学生可在网站下载资料  
+学生可在网站下载资料
 
 4.The elephant is the largest land-living mammal.  
-大象是最大的陆生哺乳动物  
+大象是最大的陆生哺乳动物
 
 5.Most students can get access to computers on a daily basis.  
-多数学生每天都能使用电脑  
+多数学生每天都能使用电脑
 
 6.Doctor Green's office has been moved to the second floor of the building.  
-格林医生办公室已迁至大楼二层  
+格林医生办公室已迁至大楼二层
 
 7.There are no scheduled classes during the final exam weeks.  
-期末考试周不安排常规课程  
+期末考试周不安排常规课程
 
 8.Would you pass the book on the left hand side?  
-请递给我左手边的书好吗？  
+请递给我左手边的书好吗？
 
 9.The United Kingdom is a constitutional monarchy and parliamentary democracy.  
-英国是君主立宪制议会民主国家  
+英国是君主立宪制议会民主国家
 
 10.You will find the economics section on the second floor of the library.  
-经济学书籍在图书馆二层  
+经济学书籍在图书馆二层
 
 11.You must establish a day and a time with your tutor.  
-需与导师约定具体日期和时间  
+需与导师约定具体日期和时间
 
 12.We've decided to ask you to write four short pieces of written coursework this year.  
-今年要求完成四篇短篇课程作业  
+今年要求完成四篇短篇课程作业
 
 13.We will discuss these two pictures in the next lecture.  
-下节课将讨论这两幅图片  
+下节课将讨论这两幅图片
 
 14.The cafeteria closes soon, but the snack machines are accessible throughout the night.  
-食堂即将关闭，但零食贩卖机24小时可用  
+食堂即将关闭，但零食贩卖机 24 小时可用
 
 15.We'd like people to write a case study, describing an organization they know.  
-我们希望人们写一个案例研究，描述一个他们所知道的组织 
+我们希望人们写一个案例研究，描述一个他们所知道的组织
 
 16.We are warning the clients that the rates are increasing.  
-我们正告知客户费率上涨  
+我们正告知客户费率上涨
 
 17.We are not going to accept the assignment after the due date on Friday.  
-周五截止日期后不再接收作业  
+周五截止日期后不再接收作业
 
 18.The books reserved in the library can be borrowed for up to 3 hours.  
-图书馆里的书最多可以借三个小时 
+图书馆里的书最多可以借三个小时
 
 19.This course will examine some of the profound ethical dilemmas.  
-本课程将探讨深刻伦理困境  
+本课程将探讨深刻伦理困境
 
 20.This article covers the whom, where and when of the conflict.  
-本文阐述冲突的人物、地点和时间  
+本文阐述冲突的人物、地点和时间
 
 21.There will be no extensions given for this project.  
-本项目不设延期  
+本项目不设延期
 
 22.There will be a significant rise in tuition fees starting next year.  
-明年起学费将大幅上涨  
+明年起学费将大幅上涨
 
 23.There is plenty of cheap accommodation off-campus.  
-校外有大量廉价住宿  
+校外有大量廉价住宿
 
 24.There are hundreds of clubs and societies to choose from.  
-有数百个社团可供选择  
+有数百个社团可供选择
 
 25.The visiting professor is going to give a lecture on geology.  
-客座教授将举办地质学讲座  
+客座教授将举办地质学讲座
 
 26.The technology they didn't introduce meant that metal and leather goods were produced there for the first time.  
-他们没有引进的技术意味着金属和皮革制品第一次在那里生产 
+他们没有引进的技术意味着金属和皮革制品第一次在那里生产
 
 27.The student welfare officer can help with questions about exam techniques.  
-学生福利官可以帮助解答有关考试技巧的问题  
+学生福利官可以帮助解答有关考试技巧的问题
 
 28.The smoke from these contributed a great deal to the air pollution.  
-这些工厂产生的烟雾对空气污染造成了很大的影响  
+这些工厂产生的烟雾对空气污染造成了很大的影响
 
 29.The Romans left in 410 at the beginning of the fifth century.  
-罗马人于五世纪初的410年撤离  
+罗马人于五世纪初的 410 年撤离
 
 30.The professor will talk about the summary in the lecture.  
-教授将在讲座中讲解摘要  
+教授将在讲座中讲解摘要
 
 31.The mismatch between the intended and reported uses of the instrument has become clear.  
-仪器预期用途与实际报告的差异已明确  
+仪器预期用途与实际报告的差异已明确
 
 32.The United States is the largest chocolate manufacturing country.  
-美国是最大的巧克力生产国  
+美国是最大的巧克力生产国
 
 33.The final year will consist of four taught courses and one project.  
-最后一年包含四门授课课程和一个项目  
+最后一年包含四门授课课程和一个项目
 
 34.The development is mainly included in chapter 9.  
-发展内容主要在第九章  
+发展内容主要在第九章
 
 35.The date of the invention of the first clock is disputed among historians.  
-首座时钟发明时间存在历史争议  
+首座时钟发明时间存在历史争议
 
 36.The country suffered a series of invasions by tribes from present-day Germany and Denmark.  
-该国曾遭现今德丹地区部落的多次入侵  
+该国曾遭现今德丹地区部落的多次入侵
 
 37.The circulation desk is located on the ground floor.  
-借阅处位于一层  
+借阅处位于一层
 
 38.The campus tour will help you get familiar with the teaching facilities.  
-校园参观助你熟悉教学设施  
+校园参观助你熟悉教学设施
 
 39.Students need to finish their assignments during the next four weeks.  
-学生需在四周内完成作业  
+学生需在四周内完成作业
 
 40.Students are held accountable for adhering to established community standards.  
-学生需遵守既定社区规范  
+学生需遵守既定社区规范
 
 41.Professor Smith will be late for today's lecture.  
-史密斯教授今日讲座将迟到  
+史密斯教授今日讲座将迟到
 
 42.Please have copies of your seminar papers in the library a week in advance.  
-研讨会论文需提前一周交至图书馆  
+研讨会论文需提前一周交至图书馆
 
 43.Please hand in assignments at the main office.  
-作业请交至总办公室  
+作业请交至总办公室
 
 44.Our class is divided into two groups. You come with me, the others stay here.  
-班级分两组，你跟我来，其他人留下  
+班级分两组，你跟我来，其他人留下
 
 45.Next time, we will discuss the influence of the media on public policy.  
-下节课讨论媒体对公共政策的影响  
+下节课讨论媒体对公共政策的影响
 
 46.New York City is famous for its ethnic diversity.  
-纽约以种族多样性闻名  
+纽约以种族多样性闻名
 
 47.New timetables will be posted on the student notice board.  
-新课表将张贴在学生公告栏  
+新课表将张贴在学生公告栏
 
 48.Many of his research objectives are driven by his natural curiosity and instincts.  
-他的研究目标多源于天然好奇与直觉  
+他的研究目标多源于天然好奇与直觉
 
 49.Maybe it is time for me to make some changes.  
-或许我该做些改变了  
+或许我该做些改变了
 
 50.Make sure you correctly cite all your sources.  
-务必规范引用所有资料来源  
+务必规范引用所有资料来源
 
 51.Knives and forks should be placed next to the spoons on the edge of the table.  
-刀叉应摆放在餐桌边缘勺具旁  
+刀叉应摆放在餐桌边缘勺具旁
 
 52.It is quite clear that the rising prosperity does not make people feel more content.  
-显然，日益繁荣并未让人更满足  
+显然，日益繁荣并未让人更满足
 
 53.International students can get help with locating housing near the university.  
-国际学生可获得校内住宿帮助  
+国际学生可获得校内住宿帮助
 
 54.In the last few weeks, we've been looking at various aspects of the social history of London.  
-过去几周我们研究了伦敦社会史的多个方面  
+过去几周我们研究了伦敦社会史的多个方面
 
 55.I'll start with a brief history of the district, and then focus on the life in the first half of the 20th century.  
-首先简述该地区历史，再聚焦20世纪上半叶的生活  
+首先简述该地区历史，再聚焦 20 世纪上半叶的生活
 
 56.If you want to quit the student union, tell the registrar.  
-退出学生会需告知注册处  
+退出学生会需告知注册处
 
 57.I will now demonstrate how the reaction can be arrested by adding a dilute acid.  
-现在演示如何通过添加稀酸终止反应  
+现在演示如何通过添加稀酸终止反应
 
 58.However, this method is problematic in terms of accuracy.  
-但该方法在准确性上存在问题  
+但该方法在准确性上存在问题
 
 59.Higher number of patients were infected during the previous outbreak of illness.  
-上次疫情爆发时更多患者被感染  
+上次疫情爆发时更多患者被感染
 
 60.He was not the only one to call for a legal reform in the 16th century.  
-16世纪呼吁法律改革的不只他一人  
+16 世纪呼吁法律改革的不只他一人
 
 61.Fees are heavily discounted and bursaries are available for delegates.  
-代表可享费用折扣和助学金  
+代表可享费用折扣和助学金
 
 62.Essays should be typed with double space in white paper.  
-论文需用白纸双倍行距打印  
+论文需用白纸双倍行距打印
 
 63.During the next few centuries, London will become one of the most powerful and prosperous cities in Europe.  
-未来几世纪伦敦将成为欧洲最强大繁荣的城市之一  
+未来几世纪伦敦将成为欧洲最强大繁荣的城市之一
 
 64.Does the college refectory offer vegetarian dishes on a daily basis?  
-学院食堂每日提供素食吗？  
+学院食堂每日提供素食吗？
 
 65.All students are encouraged to vote in the forthcoming elections.  
-鼓励所有学生参与即将到来的选举投票  
+鼓励所有学生参与即将到来的选举投票
 
 66.All essays and seminar papers submitted must be emailed to your tutor.  
-所有提交的论文需电邮给导师  
+所有提交的论文需电邮给导师
 
 67.A periodical is a publication that is issued regularly.  
-期刊是定期出版的出版物  
+期刊是定期出版的出版物
 
 68.Students should book a library tour on the first few weeks of the semester.  
-学生应在学期初几周预约图书馆导览  
+学生应在学期初几周预约图书馆导览
 
 69.The African elephant is the largest land mammal in the world.  
-非洲象是最大的陆地哺乳动物  
+非洲象是最大的陆地哺乳动物
 
 70.Acupuncture is a technique involved in traditional Chinese medicine.  
-针灸是中医技术  
+针灸是中医技术
 
 71.The original Olympic game is one kind of religious festival.  
-古代奥运会是一种宗教节日  
+古代奥运会是一种宗教节日
 
 72.We provide a wide range of courses to undergraduate and postgraduate students.  
-我们为本科生和研究生提供多种课程  
+我们为本科生和研究生提供多种课程
 
 73.Company exists for money, not for society.  
-企业为盈利而非社会存在  
+企业为盈利而非社会存在
 
 74.My tutorial class will begin on next Monday morning.  
-我的辅导课下周一上午开始  
+我的辅导课下周一上午开始
 
 75.Rules about breaks and lunch time vary from one company to next.  
-公司间休息和午餐规定不同  
+公司间休息和午餐规定不同
 
 76.You will be less stressed if you are well prepared for the exam.  
-充分准备考试能减轻压力  
+充分准备考试能减轻压力
 
 77.You will be informed of the results by email.  
-结果将通过邮件通知  
+结果将通过邮件通知
 
 78.Would you pass me the book on the left hand side?  
-请把左手边的书递给我好吗？  
+请把左手边的书递给我好吗？
 
 79.We would like a first draft of the assignment by Monday.  
-周一前需提交作业初稿  
+周一前需提交作业初稿
 
 80.We offer a broad range of undergraduate and postgraduate courses.  
-我们开设广泛的本科和研究生课程  
+我们开设广泛的本科和研究生课程
 
 81.We must put great care when analyzing the data.  
-分析数据必须十分谨慎  
+分析数据必须十分谨慎
 
 82.We don't have enough evidence to draw conclusions.  
-证据不足无法得出结论  
+证据不足无法得出结论
 
 83.Try to explain how your ideas are linked so that there is a logical flow.  
-解释观点间的逻辑关联  
+解释观点间的逻辑关联
 
 84.To receive the reimbursement, you must keep the original receipts.  
-报销需保留原始收据  
+报销需保留原始收据
 
 85.This can be used as a starting point of my discussion today.  
-这可作为今日讨论的起点  
+这可作为今日讨论的起点
 
 86.The wheelchair lift has been upgraded this month.  
-轮椅升降机本月已完成升级  
+轮椅升降机本月已完成升级
 
 87.The trial experiment is to increase the interests of the issue and the jurisdiction clause.  
-试验旨在提升对该问题和管辖条款的关注  
+试验旨在提升对该问题和管辖条款的关注
 
 88.The topic next week on colonialism will be in the nuclear disarmament.  
-下周殖民主义主题将涉及核裁军  
+下周殖民主义主题将涉及核裁军
 
 89.The study showed that people's mood could be affected by news and weather reports.  
-研究表明新闻和天气预报影响情绪  
+研究表明新闻和天气预报影响情绪
 
 90.The recent study has thrown out the validity of the argument.  
-最新研究否定了该论点的有效性  
+最新研究否定了该论点的有效性
 
 91.The officer said Dr. Smith would arrive later today.  
-工作人员表示史密斯博士今日晚些时候到  
+工作人员表示史密斯博士今日晚些时候到
 
 92.The inherent tension between these two features remains to be addressed.  
-两者间的内在矛盾仍有待解决  
+两者间的内在矛盾仍有待解决
 
 93.The information on the Internet becomes more reliable.  
-网络信息越来越可靠  
+网络信息越来越可靠
 
 94.The first few sentences of an essay should capture the readers' attention.  
-论文开头几句应吸引读者  
+论文开头几句应吸引读者
 
 95.The author expressed an idea that modern readers cannot accept.  
-作者提出了现代读者无法接受的观点  
+作者提出了现代读者无法接受的观点
 
 96.The application form is available in the office.  
-申请表可在办公室领取  
+申请表可在办公室领取
 
 97.The agricultural sector in that country has been heavily subsidized.  
-该国农业部门获得大量补贴  
+该国农业部门获得大量补贴
 
 98.Students must observe lab safety regulations at all times.  
-学生必须时刻遵守实验室安全规定  
+学生必须时刻遵守实验室安全规定
 
 99.Sport is the main cause of traumatic brain injuries in the United States.  
-运动是美国创伤性脑损伤主因  
+运动是美国创伤性脑损伤主因
 
 100.She was always here, but today, she is missed.  
 她往常都在，唯独今天缺席
 
 101.She is an expert of the 18th century French literature.
-她是18世纪法国文学的专家
+她是 18 世纪法国文学的专家
 
 102.Residence hall is closed prior to the academic building closing time at the end of this semester.
 本学期结束时，学生宿舍将在教学楼关闭时间之前关闭
@@ -348,10 +348,10 @@ Total: 850
 一小时后有导师辅导课，但我还没时间准备
 
 113.I will be in my office every day from eleven to twelve.
-每天11点到12点我都在办公室
+每天 11 点到 12 点我都在办公室
 
 114.I thought the mid-term exam was only worth half of our course grade.
-我原以为期中考试只占课程成绩的50%
+我原以为期中考试只占课程成绩的 50%
 
 115.I think the university's main campus is closed.
 我认为大学主校区已经关闭了
@@ -396,7 +396,7 @@ Total: 850
 心理学系正在招募研究项目志愿者
 
 129.Would you prepare some PowerPoint slides with appropriate graphs?
-能准备些带合适图表的PPT幻灯片吗？
+能准备些带合适图表的 PPT 幻灯片吗？
 
 130.A preliminary bibliography is due the week before the spring break.
 初步参考书目需在春假前一周提交
@@ -438,7 +438,7 @@ Total: 850
 不同院系的剽窃现象严重程度不一
 
 143.The tutorial is held on the 8th of April.
-辅导课定于4月8日举行
+辅导课定于 4 月 8 日举行
 
 144.Good research presents many benefits to the real people.
 优质研究能为普通人带来诸多益处
@@ -501,7 +501,7 @@ Total: 850
 能把资料传给你那排的同学吗？
 
 164.The minimal mark for Distinction to be awarded is 75%.
-优秀等级的最低分数线是75分
+优秀等级的最低分数线是 75 分
 
 165.Eating too much can lead to too many health problems.
 暴饮暴食会导致诸多健康问题
@@ -570,7 +570,7 @@ Total: 850
 积极锻炼的人更不易早逝或患重大疾病
 
 187.Please prepare a PowerPoint presentation for tomorrow's meeting.
-请为明天会议准备PPT演示文稿
+请为明天会议准备 PPT 演示文稿
 
 188.Lecture theater is located on the ground floor of the building.
 阶梯教室位于大楼一层
@@ -585,7 +585,7 @@ Total: 850
 如需大学相关信息，可咨询走廊旁的信息办公室
 
 192.Our log books make up of five percent of total marks.
-实验日志占总成绩的5%
+实验日志占总成绩的 5%
 
 193.Interpreters are not readily available in this department.
 本部门不常配备口译员
@@ -639,7 +639,7 @@ Total: 850
 逾期提交的作业不计学分
 
 210.Basketball was created in 1891 by a physician and a physical instructor.
-篮球由一名医生和体育教练于1891年发明
+篮球由一名医生和体育教练于 1891 年发明
 
 211.The contemporary literature works have been broadened and extended through interpretation.
 当代文学作品通过阐释得到拓展与延伸
@@ -660,7 +660,7 @@ Total: 850
 直行后左转即可到达图书馆
 
 217.There will be open book exams on Monday the 28th.
-28日周一将进行开卷考试
+28 日周一将进行开卷考试
 
 218.The program depends entirely on private funding.
 该项目完全依赖私人资助
@@ -906,7 +906,7 @@ Total: 850
 引用网络资源需谨慎
 
 299.Students who selected two to three courses may need an extension.
-选2-3门课程的学生可能需要延期
+选 2-3 门课程的学生可能需要延期
 
 300.I am pleased to report that many topics have been involved in this lecture.
 很高兴报告本次讲座涵盖多个主题
@@ -915,13 +915,13 @@ Total: 850
 可为需要额外支持的学生安排导师会面
 
 302.The US ranks twenty-second in foreign aid, given it as a percentage of GDP.
-美国对外援助占GDP比例排名第22位
+美国对外援助占 GDP 比例排名第 22 位
 
 303.This small Indian state is a land of forests, valleys and snowy islands.
 这个印度小邦遍布森林、山谷与雪岛
 
 304.In 1830, periodicals appeared in large numbers in America.
-1830年美国涌现大量期刊
+1830 年美国涌现大量期刊
 
 305.Folk tales are passed orally from generation to generation.
 民间故事通过口耳相传代代延续
@@ -1095,7 +1095,7 @@ Total: 850
 采用食物消耗的定量与时间参数
 
 362.Proteins constitute at least thirty percent of the total mass of all living organisms.
-蛋白质占所有生物体总质量至少30%
+蛋白质占所有生物体总质量至少 30%
 
 363.The current and conventional method has many disadvantages including the side effects.
 当前传统方法存在诸多弊端包括副作用
@@ -1289,6 +1289,9 @@ Total: 850
 426.You can pay using cash or a credit card.
 可现金或信用卡支付
 
+427.What's going on that can help patients leave their fears at the door?
+是什么能帮助病人将恐惧拒之门外？
+
 427.Please explain what the author means by "sustainability".
 请解释作者所说的"可持续性"含义
 
@@ -1446,7 +1449,7 @@ Total: 850
 疫情期间需特别关照弱势群体
 
 479.In 1880, cycling became a major phenomenon in Europe.
-1880年自行车运动在欧洲蔚然成风
+1880 年自行车运动在欧洲蔚然成风
 
 480.Since the problems we face are global, we need to find the global solutions.
 我们面临的是全球性问题，因此需要全球性解决方案
@@ -1494,7 +1497,7 @@ Total: 850
 课表将在开课前公布于网站
 
 495.To get a further extension, you need to call the education executive on 401.
-申请延期需致电401分机的教育主管
+申请延期需致电 401 分机的教育主管
 
 496.Anonymous behaviors can be identified without intervention.
 匿名行为可不经干预被识别
@@ -1565,8 +1568,11 @@ Total: 850
 518.This is how we deliver health care to millions of people all over the world.
 这就是我们为全球数百万人提供医疗服务的方式
 
+520.The graph shows the percentage of people who smoke according to gender.
+该图显示了按性别吸烟的人的百分比
+
 519.Only those who are over eighteen years of age are eligible to open a bank account in our bank.
-年满18周岁方可在我行开设账户
+年满 18 周岁方可在我行开设账户
 
 520.The health center is situated at the corner of the university behind the library.
 健康中心位于校园角落图书馆后方
@@ -1575,7 +1581,7 @@ Total: 850
 木偶表演喜剧节目，还有精彩队列舞蹈
 
 522.Humans have the ability to mentally say over 700 words a minute.
-人类大脑每分钟可默念700多个单词
+人类大脑每分钟可默念 700 多个单词
 
 523.Companies are offering us all kinds of internet connected services.
 企业提供各类互联网连接服务
@@ -1671,7 +1677,7 @@ Total: 850
 今天我将简要探讨解释气候变化的其它理论
 
 554.I would like the assignment less than 2000 words.
-作业请控制在2000字以内
+作业请控制在 2000 字以内
 
 555.We can meet in my office after the lecture.
 课后可来我办公室讨论
@@ -1740,7 +1746,7 @@ Total: 850
 澳大利亚是全球首个消除艾滋病的国家
 
 577.Library timing is between four to ten and you can register yourself online.
-图书馆开放时间4-10点，可在线注册
+图书馆开放时间 4-10 点，可在线注册
 
 578.I was young and inexperienced and going too fast in the wet weather.
 我年少无知，雨天开得太快
@@ -1779,7 +1785,7 @@ Total: 850
 多数作业需同日提交
 
 590.The course comprises twenty hours of lectures, seminars and tutorials per week.
-该课程每周含20小时讲座、研讨和辅导
+该课程每周含 20 小时讲座、研讨和辅导
 
 591.If you forget your password, you need to contact the student center.
 忘记密码需联系学生中心
@@ -1794,7 +1800,7 @@ Total: 850
 请就作业问题与导师预约
 
 595.Remember, your essay should be less than 2000 words.
-记住，论文字数需控制在2000以内
+记住，论文字数需控制在 2000 以内
 
 596.The university policy on plagiarism can be viewed on the website.
 学术剽窃政策可在官网查询
@@ -1890,7 +1896,7 @@ Total: 850
 媒体对人们的信念态度影响深远
 
 627.We've been doing research in that area for probably 25 years.
-我们在该领域研究已持续约25年
+我们在该领域研究已持续约 25 年
 
 628.Many species have not yet been discovered by biologists.
 许多物种尚未被生物学家发现
@@ -1977,7 +1983,7 @@ Total: 850
 每组需向导师提交项目初步大纲
 
 656.The deadline for the submission is closed on Wednesday, the 4th of February.
-提交截止时间为2月4日周三
+提交截止时间为 2 月 4 日周三
 
 657.For further information, please contact a member of our administrative team.
 更多信息请联系行政团队成员
@@ -2007,7 +2013,7 @@ Total: 850
 若用车量持续增加，设计节能汽车就失去意义
 
 666.Living in the 21st century is increasingly stressful.
-21世纪的生活压力与日俱增
+21 世纪的生活压力与日俱增
 
 667.Please make sure you use the standard form of quotation.
 请确保使用标准引用格式
@@ -2046,7 +2052,7 @@ Total: 850
 须在本周末前提交项目
 
 679.His particular interest is in the 18th-century French society.
-他特别关注18世纪法国社会
+他特别关注 18 世纪法国社会
 
 680.Such behaviors are regarded as a deviation of norm.
 此类行为被视为偏离规范
@@ -2463,7 +2469,7 @@ Total: 850
 这场讨论会是结识新友的好机会
 
 818.The computer lab is open 24 hours a day.  
-计算机实验室全天24小时开放
+计算机实验室全天 24 小时开放
 
 819.The bus for the airport will arrive soon.  
 机场巴士即将到站
@@ -2560,3 +2566,33 @@ Total: 850
 
 850.If you have any questions in the exam, please raise your hands.  
 考试中有问题请举手示意
+
+853.Modern business has to adapt and be flexible in order to survive.
+现代企业为了生存必须适应和灵活
+
+854.The computer crashed and I hadn't saved my work.
+电脑死机了，我没有保存我的工作
+
+855.The first step was to establish a baseline of known distance.
+第一步是建立已知距离的基线
+
+856.Please take these up to Mr Mitchell in the chemistry lab.
+请把这些拿给化学实验室的米切尔先生
+
+857.The head of department isn't available till thursday.
+系主任要到星期四才有空
+
+858.Children are not allowed in tutorial rooms at any time.
+儿童在任何时候都不允许进入补习班
+
+859.There are many people in the USA who are critical of their voting system.
+在美国有很多人对他们的投票制度持批评态度
+
+860.Many environment experts are very concerned about the future of our planet.
+许多环境专家非常关心我们星球的未来
+
+861.There are office welcome events for both undergraduate and postgraduate students.
+有办公室欢迎本科生和研究生的活动
+
+862.Don't hesitate to email me if you have any questions.
+如果你有任何问题，不要犹豫，给我发电子邮件
