@@ -57,19 +57,19 @@ Total: 850
 我们希望人们写一个案例研究，描述一个他们所知道的组织
 
 16.We are warning the clients that the rates are increasing.  
-我们正告知客户费率上涨
+我们警告客户费率正在上涨
 
 17.We are not going to accept the assignment after the due date on Friday.  
-周五截止日期后不再接收作业
+周五截止日期之后我们不会接受作业
 
 18.The books reserved in the library can be borrowed for up to 3 hours.  
-图书馆里的书最多可以借三个小时
+图书馆预订的书籍最多可以借阅3个小时
 
 19.This course will examine some of the profound ethical dilemmas.  
-本课程将探讨深刻伦理困境
+本课程将探讨一些深刻的道德困境
 
 20.This article covers the whom, where and when of the conflict.  
-本文阐述冲突的人物、地点和时间
+本文涵盖了冲突的当事人、地点和时间
 
 21.There will be no extensions given for this project.  
 本项目不设延期
