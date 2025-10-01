@@ -463,7 +463,23 @@ First and foremost, I believe the individual aspect is a compelling reason for s
 In addition, societal factors should also be taken into account when evaluating the significance of studying effectively. From the perspective of governments, their ultimate goal is to maintain and promote the well-being of society. Therefore, studying effectively should play an important role in the overall prosperity of our communities. For instance, recent research published in The Economist revealed that more than half of the respondents think the government should recognize the importance of studying effectively and provide more financial support.
 In conclusion, I firmly believe that the advantages of combining learning and employment at the same time outweigh the disadvantages. To tackle this issue, both individuals and society as a whole should join forces and make a concerted effort.
 
-30.Medical technology. 医疗技术  
+30.Inventions. 发明物
+
+In our technological world, the number of new inventions has been evolving daily. Please describe a new invention and determine whether it has a beneficial or detrimental impact on society.
+
+---
+In the contemporary era, technological advancement is progressing at an unprecedented rate. One pivotal invention that stands out is the development of sophisticated Al-powered diagnostic tools in healthcare.This innovation leverages artificial intelligence to analyze medical images, such as X-rays and MRIs, with remarkable speed and accuracy to detect diseases like cancer at very early stages.
+The beneficial impact of this invention is profound. Primarily, it significantly enhances early detection rates, which is crucial for successful treatment and increased patient survival. Furthermore, it alleviates the workload of radiologists, reduces human error, and increases efficiency in hospitals, making quality healthcare more accessible and affordable. This technology can be deployed in remote areas lacking specialist doctors, democratizing medical expertise and bridging a critical healthcare gap.
+Conversely, potential detrimental effects exist. Over-reliance on Al could lead to the deskilling of medical professionals, and data privacy concerns regarding sensitive patient information are paramount. Moreover, if the training data for the Al is biased, it could lead to misdiagnosis in underrepresented demographic groups. In conclusion, while the ethical challenges of Al in medicine require stringent regulation and oversight, its capacity to save lives and improve global health outcomes is undeniable. Therefore, its positive impact is overwhelmingly beneficial for society.
+In conclusion, while the ethical challenges of AI in medicine require stringent regulation and oversight, its capacity to save lives and improve global health outcomes is undeniable. Therefore, its positive impact is overwhelmingly beneficial for society.
+
+---
+In contemporary society, smartphones have emerged as one of the most influential inventions of the modern era. While some people argue that they can be distracting, foster dependency, and reduce face-to-face interactions, others maintain that they enhance communication, access to information, and overall productivity. I resolutely think that smartphones have a beneficial impact on society. This essay will examine key advantages and support my notion with convincing and practical examples.
+One compelling benefit of smartphones is that they provide instant access to information. Smartphones have a major impact on education, professional work, and everyday problem-solving, promoting efficiency and informed decision-making, ultimately resulting in better learning outcomes and productivity. For example, students can use educational apps and online resources to study anywhere, while professionals can quickly research topics or access work documents on the go. This instance suggests that smartphones can create long-term value for individuals and communities alike.
+Moreover, another notable advantage is that smartphones enhance communication and social connectivity. This is particularly important as it strengthens personal and professional relationships, thereby facilitating collaboration, support networks, and timely responses in emergencies. For instance, a study by Pew Research Center found that smartphones help people maintain relationships with friends and family, even across long distances, further highlighting their societal benefits. Collectively, these advantages show how smartphones can generate positive outcomes across multiple dimensions.
+In conclusion, smartphones play a vital role in modern society. Their positive impacts, including instant access to information and improved communication, clearly demonstrate that their merits far outweigh any potential drawbacks. Therefore, embracing smartphones as a technological innovation is a valuable decision that contributes to a more connected, informed, and efficient world.
+
+31.Medical technology. 医疗技术  
 
 Medical technology is responsible for increasing average life expectancy. Is it a blessing or a curse?
 
@@ -478,7 +494,7 @@ Nowadays, many headlines hit the newspaper on the topic of medical technology. T
 For example, extended life can be pulled into relationships with family members. Although potentially negative impacts of medical technology should be taken into account, which means prolonged life expectancy can impose higher financial burden on the government, I still reckon that medical technology has, in many words, enormously enriched our lives. For instance, a well-known American socialist once said that prolonged life expectancy can boost the development of the aged care industry. Moreover, prolonged life expectancy ensures better cultural heritage. On the other hand, those who argue against medical technology is a curse hold a different opinion.
 In the first place, it can be claimed that extended life may reduce the employment rate. In the second place, as far as society is concerned, the ultimate aim of governments is to maintain and promote the well-being of society. As a result, local governments and international organizations should make a joint effort to make sure that this situation will develop in the right direction. In conclusion, while there are many strong arguments on both sides, I still firmly believe that medical technology is a blessing for the whole society.
 
-31.Build more roads. 修建更多道路  
+32.Build more roads. 修建更多道路  
 
 Due to cities expansion, governments should create better public transport available to everyone rather than build more roads for the vehicle-owning population. To what extent do you agree with this statement? Give the reasons for your opinion.
 
@@ -494,7 +510,7 @@ Firstly, I do believe the individual aspect is the widely recognised reason for 
 In addition, societal factors should also be considered when evaluating public transport growth. From the perspective of governments, their primary objective is to ensure public welfare. Since clean transport reduces air pollution, which leads to healthier cities. Ultimately, the government can thereby contribute to long-term development. For instance, a recent survey showed that 60% of citizens support spending more on trains than roads.
 In conclusion, while some people prefer cars, I firmly maintain that the advantages of public transport outweigh the drawbacks. To address this issue, governments must work with transport companies to make better services.
 
-32.More Pay. 更高薪酬  
+33.More Pay. 更高薪酬  
 
 Many workers like nurses and teachers should get more pay, especially in recent years when people in finance, film actors, and company leaders are paid a larger amount of money. To what extent do you agree or disagree with the above statement and what's your opinion?
 
@@ -507,7 +523,7 @@ Firstly, the economic reason is why I think a higher salary boosts workers to im
 Besides, another factor that should be considered is the social reason. As far as society is concerned, the ultimate aim of higher salaries is to reduce the gap between the rich and the poor. For instance, a recent article published by the Economist revealed that social justice can be achieved by a more equal distribution of wealth. Undoubtedly, it is a clear indication that increasing salaries for nurses and teachers can have ethical impacts on our society.
 In conclusion, I hold the view that nurses and teachers should get more pay because of the economic and social reasons outlined above. To address this issue, the government and society should make a concerted effort to find solutions.
 
-33.Birth rate. 出生率  
+34.Birth rate. 出生率  
 
 In some countries, the birth rate is slowing, the a problem of an aging population, what are the causes and effects of this issue? How to solve this problem?
 
@@ -523,7 +539,7 @@ To begin with, there are strong reasons why this demographic problem must be sol
 Additionally, opponents highlight that population control was once necessary, which may result in resistance to encouraging childbirth now. Moreover, as far as society is concerned, the ultimate aim of government is to promote balance and sustainability. For instance, a friend of mine mentioned how high housing prices discouraged her from starting a family. Thus, governments should offer family-friendly policies, such as childcare subsidies and flexible work hours, to reverse the trend.
 Overall, while there are complex factors, I am convinced that effective policies and economic support are the keys to solving population aging.
 
-34.Useless library. 无用的图书馆  
+35.Useless library. 无用的图书馆  
 
 With the increase of digital media available online, the role of the library has become obsolete. Universities should only procure digital materials rather than constantly updating textbooks. Discuss both the advantages and disadvantages of this position and give your point of view.
 
@@ -539,7 +555,7 @@ FIrst and foremost, the individual aspect is widely recognized as the cornerston
 In addition, social factors should also be taken into account when evaluating the significance of digital materials. From the perspective of governments, their ultimate aim is to promote and maintain the good learning atmosphere. To further support my statement, an article published in China Daily revealed that not all digital information is reliable or accurate, leading to potential misinformation.
 In conclusion, I do believe that the advantages of digital media outweigh the disadvantages. To tackle this issue, both individuals and universities should make a joint effort to ensure the situation will develop in the right direction.
 
-35.Life experience or education. 生活经验或教育  
+36.Life experience or education. 生活经验或教育  
 
 Some people argue that experience is the best teacher. Life experiences can teach more effectively than books or formal school education. How far do you agree with this idea? Support your opinion with reasons or your personal experience.
 
@@ -555,7 +571,7 @@ There are many reasons supporting my point of view. The primary reason why I thi
 In addition, the knowledge we learn from life experience and schools are different types. Life experiences are practical experiences. On the other hand, school training is more theoretical. According to my experience, a large number of successful business people don't have a high level of education. However, they can obtain knowledge from the practice of their businesses.
 In conclusion, life experience plays a vital role in our daily lives. Allowing for what I have mentioned, we need joint efforts from schools, policy makers and social groups.
 
-36.Nature and Nurture. 先天与后天  
+37.Nature and Nurture. 先天与后天  
 
 Scientists have been debating the impact of nature and nurture on people's personalities and behavior. Which one do you think has a greater influence on people's personalities and behavior?
 
@@ -571,7 +587,7 @@ On the one hand, there are numerous solid reasons why nature is more important f
 On the other hand, those who argue against nurture has a greater influence than nature hold a different opinion. In the first stage, it can be claimed that environment plays a vital role in determining our personality and behaviour and it is very easy for our personality and behaviour to be changed by surrounding people or environment. In the second place, as far as scientists are concerned, the ultimate aim of education is to make our personality and behaviour better than before. As a result, local governments and international organisations should make a joint effort to make sure that this situation will develop in the right direction.
 In a nutshell, while there are many arguments on both sides, I still firmly believe that the impact of nature on people's personality and behaviour is greater than nurture.
 
-37.Foreign language. 外语  
+38.Foreign language. 外语  
 
 In globalization, it is impossible to succeed if you cannot speak at least one foreign language. Do you think everyone must learn at least one foreign language?
 
@@ -587,7 +603,7 @@ First and foremost, I believe the individual aspect is a compelling reason for i
 In addition, societal factors should also be taken into account when evaluating the significance of learning at least one foreign language. From the perspective of governments, their ultimate goal is to maintain and enhance the well-being of society. Therefore, learning at least one foreign language should play an important role in the overall prosperity of our communities. For instance, recent research published in The Economist revealed that more than half of respondents think the government should recognise the value of foreign languages and offer more financial support to encourage their development.
 In conclusion, I firmly believe that the advantages of learning at least one foreign language far outweigh the disadvantages. To effectively address this issue, both individuals and society as a whole should join forces and make a concerted effort to support people for a better future.
 
-38.Overcrowding. 过度拥挤  
+39.Overcrowding. 过度拥挤  
 
 As the urban population grows, city roads are busy and public areas such as parking are packed. People feel that city space is overcrowding. What solutions can you think of for this problem?
 
@@ -600,7 +616,7 @@ In conclusion, I firmly believe that the advantages of separating city space far
 ---
 In contemporary society, the controversial topic of overcrowding never fails to attract public attention. As the urban population growth, city roads and public areas are busy, such as parking are packed. Some people believe that city space is overcrowded, while others are convinced of the opposite view. From my perspective, I tend to advocate the former opinion and this essay will address overcrowding and discuss how to resolve it. To commence with, a key reason for addressing overcrowded in urban cities lies in its necessity. Although potentially negative impacts of solving overcrowded in urban cities must be taken into account, I still maintain that addressing overcrowding in urban cities can bring many benefits to people’s daily lives. To be specific, it can bring great convenience on a daily basis. For example, a well-known American scientist once said that addressing overcrowded in urban cities could reduce the pressure of transportation. Moving on to consider the opposite view, opponents claim that solving overcrowded in urban cities may increase the financial burden. As far as governments are concerted, their ultimate goal is to maintain and promote the well-being of society. For instance, recent research published in The Economist revealed that more than half of people think governments should value the importance of solving overcrowded and provide more financial support. In conclusion, I firmly believe that studying a new language at an early age has more advantages than disadvantages. To address this issue, society and governments should make a concerted effort to promote and support its development.
 
-39.Immigration. 移民  
+40.Immigration. 移民  
 
 Many people choose to emigrate to other countries. What are the advantages and disadvantages of living in a foreign country? Discuss with your own experience.
 
@@ -616,7 +632,7 @@ First and foremost, I believe the individual aspect is a compelling reason for i
 In addition, societal factors should also be taken into account when evaluating the significance of living in a foreign country. From the perspective of governments, their ultimate goal is to maintain and enhance the well-being of society. Therefore, living in a foreign country should play an important role in the overall prosperity of our communities. For instance, recent research published in The Economist revealed that more than half of respondents think the government should recognise the value of living in a foreign country and offer more financial support to encourage its development.
 In conclusion, I firmly believe that the advantages of emigrating to other countries far outweigh the disadvantages. To effectively address this issue, both individuals and society as a whole should join forces and make a concerted effort to support living in a foreign country for a better future.
 
-40.Life choices. 人生选择  
+41.Life choices. 人生选择  
 
 Some people argue that young people should concentrate on studying or work, and some people think it is better to put energy into activities designed to broaden their experience, such as international travel and volunteering. Support with examples or cases.
 
@@ -632,7 +648,7 @@ First and foremost, there are plenty of reasons why I think studying is the most
 Furthermore, another reason should be considered is that it can learn knowledge. As far as the school is concerned, the ultimate goal of young people is to increase their living standards and improve their academic performance. As a matter of fact, based on my own experience, more than 80% of people will choose to study hard.
 Considering all the substantial insights which are described above, one can safely reach a conclusion that there are many fair opportunities for students to learn and study, which reveals itself in many aspects as discussed.
 
-41.Women raise a family. 女性养家  
+42.Women raise a family. 女性养家  
 
 More and more women are raising a family with a career. Please give your suggestions on a personal level and national level.
 
@@ -648,7 +664,7 @@ To begin with, one significant driving cause of work-life balance is the rapid i
 On the other hand, proponents of a career contend that it is essential to consider economic growth. Raising a family with a career by women may seem a convenient option at first sight. However, it may lead to undesirable outcomes, if we think about economic growth thoroughly. Moreover, recent studies indicate that there is a close relationship between gender equity in the workplace and economic growth. Therefore, the urgency of emphasising a career cannot be underestimated.
 In summary, all these facts provide us with enough support for the idea that I agree more women should raise a family with a career
 
-42.Short working weeks. 缩短工作周  
+43.Short working weeks. 缩短工作周  
 
 Unemployment among young people is a serious problem. Some people suggest shorter working weeks instead of laying off employees. What do you think are the advantages and disadvantages? Is it also applicable to adults?
 
@@ -664,7 +680,7 @@ First and foremost, one key advantage of shorter working weeks is that it encour
 However, another pivotal factor that should be considered is Unemployment problems. In other words, a major issue is that shorter working weeks can cause mental pressure and reduce collaboration, which may result in burnout and social isolation. Unemployment among young people is a serious problem. Moreover, young people under constant pressure to outperform others may experience anxiety and neglect teamwork. As a result, it is quite reasonable to believe that there are also some disadvantages to shorter working weeks for young people.
 In conclusion, while shorter working weeks have both advantages and disadvantages, a balanced approach is necessary. Individuals should focus on self-improvements rather than comparison, and institutions can encourage teamwork and mental health awareness. It is important to promote its benefits while actively addressing its drawbacks for a healthier and sustainable society.
 
-43.Celebrities' privacy. 名人隐私  
+44.Celebrities' privacy. 名人隐私  
 
 Should celebrities give up the right to privacy?
 
@@ -680,7 +696,7 @@ First and foremost, the individual factor is widely recognized as the cornerston
 In addition, social factors should also be taken into account when evaluating the significance of human rights. From the perspective of governments, their ultimate goal is to promote and maintain the well-being of society. Therefore, celebrities' privacy plays an important role in the overall prosperity of our communities. To further support my statement, an article published in China Daily revealed that 86% of celebrities suffer from stress due to lack of privacy. So, the government should support laws protecting celebrities' private lives.
 In conclusion, I do believe that the advantages of celebrities not giving up the right of privacy outweigh the disadvantages. To tackle this issue, both individuals and society should make a joint effort to ensure the situation will develop in the right direction.
 
-44.Working less time. 减少工作时间  
+45.Working less time. 减少工作时间  
 
 In the future, people will work less time at their jobs. To what extent do you agree with it? Please support your opinion with your own experience.
 
@@ -696,7 +712,7 @@ Primarily, I believe we will decrease our work hours because of technology devel
 Additionally, another reason for my belief is that the decrease in work hours is beneficial for our lives. As we all know, people are raising awareness of a healthy lifestyle. People want to have more time to spend with their family and take care of their family. People can pursue their interests and fulfill personal goals and dreams. According to a research study by the University of Oxford, more than 70% of participants think that we can increase our family bonds and enjoy our life if we reduce our work time. This serves as a compelling example supporting the fact that reducing work hours is very necessary.
 In conclusion, I hold the view that people will work fewer hours at their jobs in the future because of technology development and a healthy lifestyle. It is crucial for us to reduce our work hours.
 
-45.Over-competitive. 过度竞争  
+46.Over-competitive. 过度竞争  
 
 What are the advantages and disadvantages of being over-competitive to individuals and society?
 
@@ -712,7 +728,7 @@ First and foremost, I believe that the individual aspect is a compelling reason 
 In addition, the disadvantages of being over-competive with workers and society should be taken into account. In the first place, as far as I am concerned, the final aim of the government is to maintain and promote the well-being of society. In the second place, it can be claimed that being over-competitive in the same industry may form a rat race work environment, which would contribute to lower salaries and a toxic work environment for employees and companies, also harm society. As a result, local governments and companies should make an effort to reach a consensus to make sure the situation will develop in the right direction.
 In conclusion, although there are some different opinions on the above topic. I still believe that the disadvantages of being over-competitive outweigh the advantages.
 
-46.AI translation. 人工智能翻译  
+47.AI translation. 人工智能翻译  
 
 Advanced technology such as artificial intelligence can translate a foreign language easily. Do you think learning a foreign language is still necessary? Support with your own experience.
 
@@ -728,7 +744,7 @@ First and foremost, there are plenty of solid reasons why I think that translati
 On the contrary, it is believed by some other people that people need to study a language, because it can enhance personal abilities. However, their argument fails to address the obvious problem that ai translation can be translated into multiple languages that play a role in society all the time. For instance, more than 60 % of people are more willing to use ai to complete different tasks.
 Considering all the substantial insights which are described above, one can safely reach the conclusion that it is unnecessary for people to learn a foreign language, which reveals itself in many aspects as discussed.
 
-47.Maximum wage. 最高工资  
+48.Maximum wage. 最高工资  
 
 Should there be a maximum wage for high pay people? Is it good or bad?
 
@@ -744,7 +760,7 @@ First and foremost, I believe that the individual aspect is a compelling reason 
 In addition, a peak wage for high-pay employees can also offer other benefits. In the first place, as far as I am concerned, the final goal of government is to maintain and promote the well-being of society. In the second place, it can be claimed that a maximum wage can decrease the gap between poor and rich. As a result, the local governments and corporations should make an effort to reach a consensus to make sure that the situation will develop in the right direction.
 In conclusion, although there are some different viewpoints on the above topic. I still believe that a top wage can bring more benefits than drawbacks.
 
-48.Restorations of buildings. 建筑修复  
+49.Restorations of buildings. 建筑修复  
 
 More and more countries spend large amounts of money on the restoration of buildings instead of on modern housing. To what extent do you agree or disagree with this analysis? Support your writing with your experience and or examples.
 
@@ -760,7 +776,7 @@ There are many reasons contributing to my point of view. The main reason why I t
 In addition, many people prefer to live in old buildings, rather than modern housing. It is apparent that they have many memories of old buildings, such as their childhood, their families, their friends, which are the most precious things for them.
 In conclusion, restoration of buildings plays a vital role in the development of cities. Allowing for what I have mentioned, we need joint efforts of schools, policy makers and social groups.
 
-49.Studying plays. 戏剧研究  
+50.Studying plays. 戏剧研究  
 
 There are both problems and benefits for high school students studying plays and works of theatres written centuries ago. Discuss and use your own experience.
 
@@ -776,7 +792,7 @@ First and foremost, I believe the individual aspect is a compelling reason for s
 In addition, societal factors should also be taken into account when evaluating the significance of studying works of theatres written centuries ago. From the perspective of governments, their ultimate goal is to maintain and promote the well-being of our society. Therefore, studying works of theatres written centuries ago should play an important role in the overall prospect of our communities. For instance, recent years published in The Economist revealed that more than half of respondents think the government should recognise the importance of studying works of theatres written centuries ago, and provide more financial support.
 In conclusion, I firmly believe that the advantages of studying plays of theatres written centuries ago outweigh the disadvantages. To tackle this issue, both individuals and society as a whole should join forces and make a concerted effort.
 
-50.Assessing own products. 评估自己的产品  
+51.Assessing own products. 评估自己的产品  
 
 There are both advantages and disadvantages to company workers assessing their products and services. Discuss.
 
@@ -792,7 +808,7 @@ On the one hand, there is numerous solid evidence why assessing their own goods 
 On the other hand, those who argue against the design of assessing their own products hold a different view. In the first place, company workers usually do not have enough knowledge about the products to draw comprehensive conclusions. In the second place, as far as the society is concerned, the ultimate goal of companies is to provide durable and effective goods to the consumer. In this case, the local government and big companies should make a joint effort to ensure this situation will develop in the right direction.
 To sum up, although assessing their own products has several drawbacks, I still firmly believe that it provides more advantages.
 
-51.Compulsory learning. 强制性学习  
+52.Compulsory learning. 强制性学习  
 
 Some people think learning a foreign language at school should be compulsory. Do you agree with it? Use your experience or examples to support your viewpoint.
 
@@ -808,7 +824,7 @@ One of the main reasons why we should learn a second language at school is that 
 Another compelling argument is that learning a foreign language makes you more competitive. The concept of knowing a different language demonstrates a better employment rate in my country. To provide a clearer understanding of the matter, it should be noted that learning foreign languages increases the chance of getting an offer. All in all, this argument complements the previous one and enriches the belief that we should learn a foreign language at school.
 In conclusion, while there are some arguments in favour of not learning a second language at school, the potential risks of losing the capacity in competitions cannot be overlooked. Considering all relevant aspects, it is evident that learning a foreign language at school should be compulsory.
 
-52.Dangerous activities. 危险活动  
+53.Dangerous activities. 危险活动  
 
 Nowadays, more and more people engage in dangerous activities, such as skydiving and motorcycling. Are you in favor of them? Why? Use examples to support your opinion.
 
@@ -824,7 +840,7 @@ First and foremost, I believe the individual aspect is a compelling reason for t
 In addition, those who disagree with dangerous activities have different opinions. In the first place, as far as concerned, the final goal of the government is to maintain and promote the well-being of society. In the second place, it can be claimed that dangerous activities may cause lack of medical resources. As a result, local governments should make an effort to make sure that the situation will develop in the right direction.
 In conclusion, although there are still some arguments on the above topic. I still believe that the advantages of dangerous activities outweigh the disadvantages.
 
-53.Extreme sports. 极限运动  
+54.Extreme sports. 极限运动  
 
 In your opinion, what are the advantages and disadvantages of extreme or adventure sports?
 
@@ -840,7 +856,7 @@ The first reason lies in physical and psychological factors. Although the potent
 Moreover, another reason is related to personal growth and social development. From a social perspective, the ultimate goal of sports is to bring benefits to physical health and team spirit. In recent years, there has been a growing trend that more people choose challenging outdoor activities during holidays. This further supports the idea that adventure sports play a key role in improving mental strength and building character.
 In conclusion, I hold the view that extreme sports bring both opportunities and risks because of health benefits and personal development discussed above. To address this issue, both individuals and sports organizations should make joint efforts to ensure safety and proper guidance.
 
-54.The Digital Age. 数字时代  
+55.The Digital Age. 数字时代  
 
 Some people claim that the digital age has made us lazier, others claim it has made us more knowledgeable. Discuss both opinions and use your own experience to support them.
 
@@ -856,7 +872,7 @@ One of the main reasons is that the digital age makes every knowledge public. My
 Another compelling argument is that advanced technology actually makes us study harder. The concept of shared public sources demonstrates that everyone has the same starting line. For example, you have to study harder to be competitive since everyone has the ability to organise their work using artificial intelligence. All in all, this aspect complements the previous one and enriches that the digital age is positive for the world.
 In conclusion, while there are some arguments in favour of the digital age making us lazier, the advancement of technology could actually bring positive outcomes to human society. Having considered all relevant aspects, it is evident that the digital age is positive for the world.
 
-55.Paying teachers for student achievements. 根据学生成绩支付教师薪酬  
+56.Paying teachers for student achievements. 根据学生成绩支付教师薪酬  
 
 There is a current trend of paying teachers for student achievements. Some people agree that it is an incentive for teachers to link student achievements to teacher salaries, while others disagree. What is your opinion?
 
@@ -872,7 +888,7 @@ On the one hand, there are numerous reasons why linking teachers' salaries to st
 However, despite these advantages, some people argue that giving different salaries to teachers based on student performance is not a wise idea. To be more specific, teaching quality is not the only factor that affects students' results. Other factors such as family environment, personal cognitive abilities, and intelligence also play important roles. In addition, according to a recent report by a prestigious university, students are more likely to succeed in academics if their parents are well educated. This means teachers do not always play the most vital role in students' academic performance.
 In conclusion, although this topic may have both positive and negative effects, I believe it is crucial that governments and individuals work together to improve this situation in the near future.
 
-56.Cheaper public transportation. 更便宜的公共交通  
+57.Cheaper public transportation. 更便宜的公共交通  
 
 What are the advantages and problems of cheaper public transportation? Give your opinion from your own experience.
 
@@ -890,7 +906,7 @@ However, cheaper fares can strain public transport systems. Reduced revenue may 
 Furthermore, heavy subsidies for public transport could divert funds from other vital sectors like healthcare or education, which raises questions about resource allocation.
 In conclusion, while cheaper public transportation provides greater accessibility and environmental benefits, it also presents challenges such as funding shortages and declining service quality. A balanced approach is necessary to ensure its sustainability.
 
-57.Age restrictions. 年龄限制  
+58.Age restrictions. 年龄限制  
 
 Age restrictions can be seen everywhere. It is believed that people should not do things until they reach the right age, such as marriage, and driving. Select one activity and state the minimum age that you think. Support with your own experiences.
 
@@ -906,7 +922,7 @@ Driving requires quick decision-making, emotional control, and a strong sense of
 From personal experience, I have seen the difference age makes. A friend of mine started driving at 16, and although he passed the test, he lacked confidence and judgment. He once crashed into a parked car because he panicked when reversing. On the other hand, my older cousin started driving at 18, and he has never had an accident. His ability to stay calm in busy traffic shows the maturity needed to drive safely.
 In conclusion, driving should be permitted only from the age of 18. This age ensures that individuals have the mental and emotional readiness required to handle the responsibility of driving, making roads safer for everyone.
 
-58.Financial Learning. 金融知识学习  
+59.Financial Learning. 金融知识学习  
 
 As dealing with money is such an important skill, all children should be taught financial management at school. Do you agree with it or not?
 
@@ -921,9 +937,24 @@ In conclusion, teaching financial management in schools is not only practical bu
 In today’s world, where financial literacy is essential, the question of whether all children should be taught financial management at school has attracted growing attention. Since dealing with money is such an important life skill, I strongly believe that financial education should be part of the standard curriculum for all students, regardless of age or interest.
 Firstly, managing money is something every adult must do daily—paying bills, saving for goals, or avoiding debt. However, many adults today face financial stress because they were never taught how to manage their income, spending, or savings. If schools provide children with financial management training, they will learn vital skills such as budgeting, making informed decisions, and resisting impulse spending. These skills will benefit them both in their personal lives and future careers.
 Some may argue that financial management is too complex or not interesting to children. However, such concerns can be addressed by introducing these topics in an age-appropriate and engaging way. Not all parents are equipped to teach financial literacy at home, so including it in the national curriculum ensures all children receive equal access to this crucial knowledge. Moreover, financial education promotes long-term planning, personal responsibility, and better decision-making from an early age.
-In conclusion, because managing money is a core life skill, I firmly believe that all children should be taught financial management at school. This will not only reduce financial hardship in adulthood but also foster a generation of individuals who are more financially responsible and resilient.
 
-59.Preserving buildings from the past. 保护历史建筑
+60.City or Countryside. 城市还是农村
+
+Living in the countryside or having a city life, which one do you prefer? Please use examples or your personal experience to support your opinion.
+
+---
+The contemporary discourse is frequently dominated by the debate surrounding the merits of a rural lifestyle versus urban existence. This dichotomy has ignited a considerable discussion on the ideal environment for human flourishing. From my perspective, I contend that a rural setting offers substantive and salubrious advantages.
+On the one hand, a plethora of compelling factors underscore the profound benefits of living in the countryside, particularly with regard to environmental and physiological well-being. While acknowledging the potential detriments of rural life, I maintain that it fundamentally enhances one's psychological constitution. For instance, residents are afforded effortless proximity to nature, enabling them to partake in the invigorating qualities of fresh air. This is evident in the superior air quality and diminished atmospheric pollution when compared to densely populated metropolitan areas. Conversely, those who advocate for an urban lifestyle articulate a distinct and compelling counterargument.
+Firstly, it can be posited that rural areas suffer from inadequate public transportation infrastructure, leading to a concomitant lack of convenience. Travel can be protracted and inefficient due to an underdeveloped road network. Secondly, the level of security in rural communities is ostensibly inferior to that of urban centers, primarily due to the absence of comprehensive surveillance systems.
+In conclusion, while there are robust arguments on both sides of this issue, I remain resolute in my conviction that a pastoral existence is not only personally conducive to my own holistic well-being but also represents a more sustainable way of life.
+
+---
+Living in the countryside or having a city life, which one do you prefer? This controversial topic never fails to attract public attention. There has been a heated debate. Personally speaking, I prefer living a city life compared to living in the countryside. In this essay, I will discuss my opinion on this idea, considering its advantages and disadvantages.
+It is evidently reasonable for me to believe that this issue has the potential to profoundly impact and transform both our lives and society. This is because big cities have an efficient public transportation networks, which can save people commuting time. People can move to big cities to speed up the process of urbanization and increase the labor force. Big cities have more entertainment facilities, which can promote social life. To illustrate this, my personal experience is a convincing example. Recently, numerous studies have also shown similar results, further supporting the notion.
+When it comes to the outlook on this matter, there are numerous people who harbor completely divergent beliefs and opinions. In contrast, it is commonly believed that the countryside has a better living environment in terms of pollution. Employment pressure in the countryside is much less than that in the cities. Living costs in the countryside are much less than in the cities. However, this argument is weak and lacks solid evidence to support its validity.
+In a nutshell, due to the mentioned reasons, we may safely reach the conclusion. The above discourse, viewpoints and the examples presented serve as a conclusive validation of the argument at hand.
+
+61.Preserving buildings from the past. 保护历史建筑
 
 It is important to preserve the beautiful buildings of the past, even if it will be expensive to do so. To what extent do you agree or disagree with it? Please support your opinion with advantages or disadvantages.
 
