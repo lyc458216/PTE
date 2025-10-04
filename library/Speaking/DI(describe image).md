@@ -13,25 +13,26 @@ Sort Type: Creation time(Ascending order)
 Total: 32
 
 Total template:
-1.The following graph shows the information about (title);
-2.It is shown that the items include (different items);
-3.According to this graph, it can be seen that ( );
-4.What is more, we can see that ( );
-5.In conclusion, we can known the trend of (different items);
+1. The following graph shows the information about (title);
+2. It is shown that the items include (different items);
+3. According to this graph, it can be seen that ( );
+4. What is more, we can see that ( );
+5. In conclusion, we can known the trend of (different items);
 
 Branch template:
+
 (Table, Bar, Pie): the largest/smallest number is ( ), which is ( ).
 (Line): the number of ( ) increased/decreased slowly (dramatically/with a lot of fluctuation) from ( ) to ( ), reaching the (maximum/minimum) in ( ).
 (Follow chart): the first/second/next step is ( ), (which is ).
 (Map, Image): to the (left/right/top/bottom/central/outside) part of the picture, there is ( ), which is ( ).
 
-Step graph - 5
-Pie chart - 3
-Line graph - 4
-Bar chart - 4
-Table - 1
-Map graph - 6
-Image - 9
+    Step graph - 5
+    Pie chart - 3
+    Line graph - 4
+    Bar chart - 4
+    Table - 1
+    Map graph - 6
+    Image - 9
 
 1.Ship lock operation. 船闸运作 (Step graph)
 
