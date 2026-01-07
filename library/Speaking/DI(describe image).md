@@ -12,6 +12,110 @@ Filter: Test
 Sort Type: Creation time(Ascending order)
 Total: 32
 
+为了帮你拿到 PTE 口语的高分，特别是流利度（Fluency）分数，我为你定制了针对 7 种具体题型的专属模板。
+这些模板的设计原则是：结构固定（不动脑），连接词地道（像母语者），容错率高（填空即可）。
+
+1. Bar Chart (柱状图) / Line Graph (折线图)
+特点： 最常见的题型，重点在于对比（最高 vs 最低）和趋势（变化）。
+Introduction:
+"This chart gives a clear breakdown of [标题]. It compares several different items/years."
+(描述最高值/主要趋势):
+"What stands out immediately is that [最高那一项] has the highest figure, which is roughly [读数字,记得加 about/around]."
+(最低值/相反趋势):
+"On the flip side, if we look at [最低那一项], it shows the lowest number at just under [读数字]."
+(中间值/补充):
+"It is also interesting to note that the figures for [中间某一项] remained relatively stable/fluctuated over the period."
+总结:
+"So overall, we can see a significant difference between the highest and lowest categories."
+   
+2. Pie Chart (饼图)
+特点： 重点在于占比（Proportion），一定要用到 "Slice" (切片) 或 "Portion" (部分) 这种词。
+Introduction:
+"The pie chart presented here effectively illustrates the percentage distribution of [标题]."
+(最大块):
+"It is crystal clear that the largest portion is occupied by [最大那一块的名字], which accounts for nearly [读百分比]%."
+(最小块/对比):
+"In contrast, the smallest slice represents [最小那一块的名字], with a figure of only [读百分比]%."
+(颜色/其他):
+"Moreover, the [颜色, e.g., blue] slice is also quite significant in this chart."
+Conclusion:
+"So, overall, [最大那一块] is clearly the dominant category in this group."
+
+3. Table (表格)
+特点： 数据最密集，最容易卡顿。秘诀是：只挑两行读，忽略其他的。
+Introduction:
+"This statistical table provides detailed information regarding [标题] over a specific period."
+(挑一个最大的读):
+"Scanning through the numbers, the maximum value is definitely found in [行/列的名字], which is around [数字]."
+(挑一个最小的读):
+"However, the minimum figure belongs to [行/列的名字], which is considerably lower at [数字]."
+(凑时间):
+"Also, the data varies significantly across the different columns and rows."
+Conclusion:
+"In conclusion, the table reveals some interesting trends regarding [标题关键词]."
+
+4. Step Graph / Process / Flowchart (流程图)
+特点： 有箭头，有顺序。一定要用顺序连接词。
+Introduction:
+"This diagram clearly outlines the step-by-step process of [标题/如何做某事]."
+(起步):
+"To kick things off, the first stage involves [第一步的内容]. Following this, it leads to [第二步的内容]."
+(中间):
+"Moving on to the next phase, we can see [中间某一步的内容], which is a crucial part of the system."
+(最后):
+"Eventually, after a series of steps, the process reaches the final stage where [最后一步的内容]."
+Conclusion:
+"Overall, this looks like a complex but systematic cycle/process."
+
+5. Map Graph (地图)
+特点： 没有数字，只有地点。重点用方位词 (North, South, Left, Right, Center)。
+Introduction:
+"This map provides a visual representation of the geographical layout of [标题/地名]."
+(一边):
+"If we look at the northern/western part, we can clearly see [读地名 1] and [读地名 2]."
+(另一边/中心):
+"Shifting our focus to the southern area / center, there is also [读地名 3] located next to [读地名 4]."
+(凑内容):
+"Moreover, different areas are marked with different colors/structures."
+Conclusion:
+"Overall, this map gives crucial information about the location and its surroundings."
+
+6. Pictures (照片/实景)
+特点： 可能是一张风景照、房间照或人物照。描述你看到的画面。
+Introduction:
+"This is an interesting picture that depicts a scene of [标题/大概内容，如: a busy city / a classroom]."
+(前景/主要物体):
+"In the foreground, the most prominent feature is [你看到的最大的物体/人], which takes up most of the space."
+(背景/环境):
+"In the background, we can observe [背景里的东西，如: sky, buildings, trees]. The weather/atmosphere looks quite [形容词，如: sunny, busy, modern]."
+(细节):
+"On the left/right side, there are also some [其他小物体] visible."
+Conclusion:
+"Overall, this image captures a very specific moment in [标题关键词]."
+
+7. Diagrams (结构图/示意图/生命周期)
+特点： 比如“火山结构”、“牙齿构造”、“青蛙生命周期”。重点在于读标签 (Labels)。
+Introduction:
+"This diagram illustrates the structure/lifecycle of [标题]."
+(主要部分):
+"According to the labels, the main part consists of [标签 1] and [标签 2]."
+(其他部分):
+"Connected to that, we can also see [标签 3] which is located at the top/bottom."
+(颜色/功能):
+"Also, the different parts are highlighted in various colors such as [说出图里的颜色]."
+Conclusion:
+"In conclusion, this diagram gives a comprehensive view of how [标题] works."
+
+💡 给你的特别提示 (Native Tips)：
+关于数字： 永远不要读精确数字！
+看到 34,567 -> 读 "over thirty-four thousand"
+看到 19.8% -> 读 "roughly twenty percent"
+理由：这样更自然，而且不容易嘴瓢。
+关于卡壳：
+如果你说到一半忘了词，马上接一句废话："...and the data is quite significant." 或者 "which is very interesting." 然后赶紧跳到下一句模板。
+关于语速：
+PTE 机器不喜欢忽快忽慢。保持匀速，哪怕慢一点也没关系，关键是一直有声音。
+
 Total template:
 1. The following graph shows the information about (title);
 2. It is shown that the items include (different items);
