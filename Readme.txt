@@ -36,6 +36,12 @@ Listening           答完每题手动点next                        4       2  
                                                                     1           ❌MC-S(Single Choice Listening)      2-3         单选题，每题录音30-60秒，每题包含4个选项。                                            /                           /    
                                                                     1           ❌SMW(Select Missing Word)           1-2         选择缺少单词题目，每题录音20-70秒。每题包含3-5个选项。                                  /                           /
 
+重点题型(*表示有人工审核)：
+口语：RA、RS、DI(*)、RL(*)、RTS(*)、SGD(*)
+写作：SWT(*)、WE(*)
+阅读：FIB_RW、FIB_R、RO
+听力：WFD、FIB_L、HIW、SST(*)
+
 口语
 RS: 50%以上有效内容，语速平稳，发音清晰，句子流畅，几乎每句话都是3-4个意群词组构成的，要听结构和词组
 DI、RL不需要关注逻辑
