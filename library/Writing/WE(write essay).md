@@ -971,90 +971,57 @@ Last but not least, the social reason is another factor that should be considere
 All in all, as a psychologist says that what we have experienced influences our behaviors. I firmly believe that even if conservation of historic buildings will require a considerable amount of money and manpower resources, it is indispensable to preserve ancient architecture.
 
 ---------------------------------------------WE 模板------------------------------------------------------------
-针对PTE写作（Write Essay），目前PTE考试实际上是100% 机器评分（由培生的人工智能算法打分），虽然名为“机器”，但它是基于成千上万篇由人工评分的作文训练出来的。
-
-所谓的“有人工审核痕迹”或“生搬硬套”被扣分，通常是因为逻辑断层（即模板句太华丽，但填进去的内容太简单或不相关，导致上下文割裂）。
-
 为了应对更严格的算法（以及你担心的潜在人工复核），最好的策略是使用**“逻辑框架型”模板**。这种模板不仅提供句型，更强迫你按照逻辑填空，从而保证内容的连贯性。
-
 以下是三个针对不同题型、通用性强且逻辑自然的模板：
 
 模板一：双边讨论/优缺点分析 (通用性最强)
-
-适用题目： "Discuss both sides," "Advantages and Disadvantages," "Do you think the benefits outweigh the problems?"
+适用题目： "Discuss both sides," "Advantages and Disadvantages," "Do you think the benefits outweigh the problems"
 特点： 结构平衡，句式灵活，不容易被判定为死记硬背，因为你需要填入具体的论点。
-
 Title: [The impact of TOPIC] (或者不写标题直接开始)
-
 Introduction:
 There is a prevailing discussion regarding the issue of whether [题目中的核心话题/现象]. While some people advocate that [一方观点/优点], others remain skeptical about this perspective. From my standpoint, although there are valid arguments on both sides, I incline to the view that [你的立场，例如: the benefits outweigh the drawbacks].
-
 Body Paragraph 1 (让步/反方观点):
 Admittedly, it is important to acknowledge that [反方观点/缺点]. The primary reason for this is that [解释原因: complete sentence]. For instance, [举一个具体的例子]. Consequently, this may lead to negative implications for [受影响的对象/社会].
-
 Body Paragraph 2 (正方观点/你支持的一方):
 However, the positive impacts of [题目话题] should not be overlooked. One compelling argument is that [主要论点: complete sentence]. To be specific, [进一步解释: complete sentence]. As a result, this practice can effectively [带来的好结果/解决的问题].
-
 Conclusion:
 In conclusion, while the potential downsides of [题目话题] cannot be ignored, I am convinced that its value is more significant. It is advisable that steps should be taken to [给一个小建议: maximize its benefits].
 
 模板二：一边倒/强烈观点 (Agree/Disagree)
-
 适用题目： "To what extent do you agree or disagree?"
 特点： 逻辑连贯性极强，用两个主要论点强力支撑你的立场，非常适合PTE机器对于“论证深度”的要求。
-
 Introduction:
 The topic of [题目关键词/名词短语] has attracted considerable attention in recent years. It is often argued that [题目中的观点]. Personally, I completely agree/disagree with this assertion, and this essay will elaborate on the reasons from logical perspectives.
-
 Body Paragraph 1 (论点一):
 First and foremost, one significant reason to support my position is that [中心句1: complete sentence]. In other words, [换句话解释/深化]. If [假设情况/条件状语从句], it creates a situation where [结果]. Therefore, the significance of this cannot be underestimated.
-
 Body Paragraph 2 (论点二):
 Furthermore, another key factor to consider is that [中心句2: complete sentence]. It is widely recognized that [常识/普遍现象]. For example, a recent study has shown that [编一个简单的例子或数据，如: a conducive environment plays a vital role in...]. Thus, it is evident that [重申论点二].
-
 Conclusion:
 To sum up, considering the arguments outlined above, I firmly believe that [重申你的立场]. The importance of [题目关键词] will likely continue to grow in the future.
 
 模板三：问题解决类 (Problem & Solution)
-
 适用题目： "What are the problems and what measures can be taken?"
 特点： 专门针对“问对策”的题目，避免了用观点类模板生搬硬套的尴尬。
-
 Introduction:
 It is becoming increasingly prevalent that [描述问题现象: complete sentence]. This phenomenon has sparked concerns among the public. This essay will critically analyze the underlying causes of this issue and suggest viable solutions to mitigate it.
-
 Body Paragraph 1 (原因/后果):
 There are several factors contributing to this problem, the most prominent of which is [核心原因]. This is largely due to the fact that [解释原因]. Moreover, if this issue is left unaddressed, it may give rise to severe consequences such as [后果名词短语].
-
 Body Paragraph 2 (解决方法):
 To address this challenge, effective measures must be implemented. On the one hand, the government (or authorities) should play a crucial role by [政府能做的事，如: enacting stricter regulations]. On the other hand, individuals are also encouraged to [个人能做的事，如: raise their awareness of...]. By doing so, the situation can be significantly improved.
-
 Conclusion:
 In summary, although [题目中的问题] poses a serious threat to society, it can be tackled through joint efforts. It is expected that with proper actions, this issue will be alleviated in the coming years.
 
 💡 如何使用这些模板避免“生搬硬套” (高分技巧)
-
 关键词替换 (Paraphrasing):
-
 不要直接照抄题目原话。例如题目是 "TV is bad for children"，在填空时试着改成 "excessive screen time poses threats to the younger generation".
-
 机器非常看重词汇的多样性。
-
 填空内容的语法一致性:
-
 注意模板中括号里的提示。如果提示填 [Noun Phrase]，不要填完整的句子；如果提示 [Complete Sentence]，一定要有主谓宾。
-
 错误示例: The impact of [TV is bad]... (语法错误)
-
 正确示例: The impact of [excessive television consumption]...
-
 连接词的逻辑:
-
 模板中使用了 However, Therefore, Consequently, For instance。确保你填进去的内容确实符合这个逻辑关系。如果是“因为”，后面一定要接原因，不要接无关的废话。
-
 拼写与字数:
-
 PTE作文字数要求200-300字。这三个模板的骨架大约在90-110字左右，这意味着你需要自己写100-150字左右的实质内容。这是最安全的比例——既有模板撑结构，又有足够的内容词（Content Words）供机器抓取。
-
 总结建议：
 如果你的目标是79+ (八炸)，建议熟背模板一和模板三，因为模板一可以魔改后应付Agree/Disagree的题目（只需把Body 1改为“有些人反对，但我不同意”，Body 2改为“我支持的原因”）。如果你追求稳妥的65+，这三个模板直接套用即可。
