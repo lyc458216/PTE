@@ -362,3 +362,120 @@ The picture shows information about a food market. According to the picture, the
 ![](../../img/DI/Water_cycle.jpg)
 
 This graph shows information about the water cycle. According to the graph, the process starts from evaporation, and we can see the water is evaporated from the ocean due to solar radiation. The second stage is cloud transportation. The next step is precipitation. It can be seen that rain falls to the ground in this process. The last step is a surface run-off, and then the water will rise again into the atmosphere. In conclusion, this process will start all over again.
+
+
+-------------------------------------------常用词汇----------------------------------------------------
+在PTE考试的 Describe Image (DI) 题型中，词汇的准确性和流利度非常重要。为了帮你更好地准备，我将这些词汇分门别类整理如下，涵盖了图表结构、计量单位、趋势变化、比较极值以及连接词等核心模块。
+
+一、 图表基础结构 (Chart Structure)
+这些词用来描述图表的“骨架”，通常用在第一句或描述具体位置时。
+
+英文单词/词组	                        中文解释	        备注
+X-axis / Horizontal axis	        X轴 / 横轴	        底部横向的线
+Y-axis / Vertical axis	            Y轴 / 纵轴	        左侧纵向的线
+Legend	                            图例	            告诉你看不同颜色代表什么的说明
+Layout	                            布局	            地图或平面图常用
+Categories	                        类别	            比如：食品、交通、住宿等分类
+Variables	                        变量	            变化的数值
+Source	                            来源	            图片下方的小字 (The source is...)
+Shaded area	                        阴影区域	        常见于地图或部分柱状图
+Dotted line / Solid line	        虚线 / 实线	        线图常用
+Bar / Column	                    柱 / 栏	            柱状图
+Slice / Segment	                    切片 / 部分	        饼图专用
+
+二、 常见计量单位 (Units & Measurements)
+这是你提到的重点，必须读得准，不要卡顿。
+
+英文单词/词组	                        中文解释	            读音/用法提示
+Degrees Celsius	                    摄氏度 (°C)	            读作 "degrees Celsius"
+Fahrenheit	                        华氏度 (°F)	            读作 "Fahrenheit"
+Percentage / Percent	            百分比 (%)	            符号读 "percent"，名词用 "percentage"
+Billion / Million	                十亿 / 百万	            注意：前面有数字时不要加s (e.g., 5 million)
+Tonnes / Kilograms	                公吨 / 千克	            重量单位
+Square kilometers	                平方公里 (km²)	        读作 "square kilometers"
+Cubic meters	                    立方米 (m³)	            读作 "cubic meters"
+Per capita	                        人均	                e.g., income per capita (人均收入)
+Currency	                        货币	                总称
+Dollars / Pounds / Euros	        美元 / 英镑 / 欧元	    $ / £ / €
+Barrels	                            桶	                    石油常用单位
+
+三、 趋势与变化 (Trends & Changes)
+这是线图（Line Chart）和混合图的灵魂，用来描述数据怎么变。
+
+1. 上升 (Up)
+Increase: 增加
+Rise / Rose: 上升
+Climb / Ascend: 攀升
+Grow: 增长
+Peak at: 在...达到顶峰 (最高点)
+
+2. 下降 (Down)
+Decrease: 减少
+Decline: 下降
+Fall / Fell: 落下
+Drop: 跌落
+Plunge / Plummet: 暴跌 (急剧下降)
+Hit a low of: 触及最低点...
+
+3. 平稳与波动 (Stable & Variable)
+Remain stable / Constant: 保持稳定
+Level off: 趋于平稳
+Fluctuate: 波动 (上上下下)
+Vary: 变化 (不同类别之间不同)
+
+4. 程度副词 (Adverbs - 增加分数关键)
+Significantly / Drastically: 剧烈地、大幅度地
+Gradually / Steadily: 逐渐地、稳步地
+Slightly: 轻微地
+
+四、 极值与比较 (Extremes & Comparisons)
+用于柱状图（Bar Chart）和饼图（Pie Chart）抓重点。
+英文单词/词组	中文解释	例句用法
+The highest figure	最高的数据	"The highest figure can be found in..."
+The lowest value	最低的数值	
+Maximum / Minimum	最大值 / 最小值	
+The majority of	绝大多数	饼图常用
+The minority of	极少数	
+Account for / Comprise	占据 / 构成	"Water accounts for 50%..."
+In contrast	相反 / 相比之下	连接两个相反的数据
+Is followed by	紧随其后的是...	描述第二名时用
+Gap / Difference	差距	"The gap between A and B..."
+Overlap	重叠	韦恩图或特定图表
+
+五、 地图与流程图专用 (Maps & Flowcharts)
+这两类图比较特殊，需要方位词和顺序词。
+1. 地图 (Maps)
+Northern / Southern Hemisphere: 北半球 / 南半球
+Equator: 赤道
+Latitude / Longitude: 纬度 / 经度
+Located / Situated in: 位于...
+Coastal area / Inland area: 沿海地区 / 内陆地区
+Top left / Bottom right: 左上角 / 右下角
+2. 流程图 (Flowcharts)
+First step / Initial stage: 第一步 / 初始阶段
+Subsequent step: 接下来的步骤
+Process / Cycle: 过程 / 循环
+Convert into / Transform into: 转化为...
+Finally / Eventually: 最后
+
+六、 必备套话模版词 (Templates & Connectors)
+为了保证流利度，这些词可以帮你填补思考的空白。
+开场:
+"The graph gives information about..." (这张图提供了关于...的信息)
+"As we can see from the image..." (正如我们从图中看到的)
+连接:
+"Furthermore / Moreover" (此外)
+"On the other hand" (另一方面)
+"Moving to the next point" (转到下一点)
+结尾:
+"In conclusion" (总而言之)
+"Overall, the trend is clear." (总体来看，趋势很明显)
+💡 给你的备考小贴士：
+不要纠结语法：DI主要看流利度（Fluency），时态错了或者单复数错了不要停下来改，继续说！
+看到什么说什么：如果你突然忘了“X轴”怎么说，直接读X轴上的标题（比如 Time, Year）即可。
+数字读法：
+1990: Nineteen ninety
+2005: Two thousand and five
+25%: Twenty-five percent
+$100: One hundred dollars (记得加s)
+希望这份清单对你有帮助！如果需要具体的模版，也可以告诉我。
