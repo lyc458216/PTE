@@ -479,3 +479,65 @@ Finally / Eventually: 最后
 25%: Twenty-five percent
 $100: One hundred dollars (记得加s)
 希望这份清单对你有帮助！如果需要具体的模版，也可以告诉我。
+
+-----------------------------------------模板-----------------------------------------------------
+PTE考试中，DI（Describe Image）评分的核心逻辑是：流利度 (Fluency) > 发音 (Pronunciation) > 内容 (Content)。
+也就是说，说的顺畅、不停顿、不卡壳，比你分析得深奥重要得多。
+为您总结了3个最实用、最易背的“万能模板”，分别针对数据图（柱状、饼状、线图）和非数据图（地图、照片、流程图）。
+
+模板一：数据万能版 (最推荐，适用于90%的图表)
+【适用】：柱状图 (Bar)、饼图 (Pie)、线图 (Line)、表格 (Table)。
+【核心逻辑】：找最大值、最小值、读标题。
+第一句 (Introduction):
+The following graph gives information about [读标题].
+(这张图提供了关于...的信息)
+第二句 (Highest):
+According to the graph, the highest figure is [最大值的名称], which is [具体数字].
+(根据图表，最高的数据是...，数值是...)
+第三句 (Lowest):
+On the other hand, the lowest figure is [最小值的名称], which is [具体数字].
+(另一方面，最低的数据是...，数值是...)
+结尾 (Conclusion Trend):
+In conclusion, it is clear that [名称A] is higher than [名称B].
+*(很明显，A比B要高) —— 如果找不到具体数据，这句话可以用来凑时间
+💡 使用技巧：
+只要把括号里的词替换掉，其他部分像念经一样背熟，保持语速匀速即可。
+
+模板二：无脑列举版 ( "I can see" 大法)
+【适用】：地图 (Map)、照片 (Picture)、复杂的混合图、或者你实在看不懂图的时候。
+【核心逻辑】：看到什么读什么，不要纠结语法。
+第一句:
+The image describes [读标题/或者图片主题].
+主体部分 (排比句轰炸):
+I can see [图中单词/物体 A].
+I can see [图中单词/物体 B].
+I can see [图中单词/物体 C].
+I can see [颜色/形状/年份]. (例如: I can see blue and red; I can see 2024)
+结尾:
+In conclusion, the image is about [再读一遍标题].
+
+💡 使用技巧：
+PTE机器很吃这一套，因为它检测到了简单的语法结构和关键词。比如地图题，你就一直说 "I can see North America. I can see water. I can see mountains." 只要流利，分数会很高。
+模板三：极简流利版 (针对基础较弱或容易卡顿的同学)
+【适用】：所有图。
+【核心逻辑】：减少思考，用最简单的句型串联关键词。
+开头:
+This graph shows [标题].
+中间 (把图里的单词读出来):
+There is [单词 A] and [单词 B].
+There is also [单词 C] and [单词 D].
+Also, the figures are increasing / decreasing. (如果是线图就加这句，不是就算了)
+结尾:
+Overall, the graph provides accurate data.
+
+⚠️ 考试实战 3大原则 (救命稻草)
+如果你卡住了：
+千万不要说 "Uh..." 或者停下来。马上说一句万能废话："Also, I can see different numbers and colors." (我也能看到不同的数字和颜色)，然后赶紧找下一个词读。
+如果你看不清数字：
+不要纠结是 10.5 还是 10.6，直接读 10。大概准确即可，PTE不考你的视力。
+时间控制：
+DI 只有 40秒 录音时间。
+最佳策略：说 25秒 - 35秒 左右说完点Next。没必要撑满40秒，说多错多。
+一旦说完 "In conclusion..." 马上点 Next，不要等待。
+建议练习方法：
+挑一张图，先用中文大概过一遍（标题、最大、最小），然后套进【模板一】里试着说，练到不用过脑子就能蹦出 "The following graph gives information about..." 为止。
