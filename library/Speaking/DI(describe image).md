@@ -541,3 +541,10 @@ DI 只有 40秒 录音时间。
 一旦说完 "In conclusion..." 马上点 Next，不要等待。
 建议练习方法：
 挑一张图，先用中文大概过一遍（标题、最大、最小），然后套进【模板一】里试着说，练到不用过脑子就能蹦出 "The following graph gives information about..." 为止。
+
+
+----------------------小红猪模板----------------------------
+In recent years, the issue of 【topic主题】has sparked considerable debate
+and drawn widespread public attention. While options vary greatly, I firmly believe that 【main viewpoint 观点】, due to both individual and social factors. This essay will examine reasons supporting my stance and consider opposing arguments to present a balanced view.
+
+In conclusion, I strongly support the view that 【thesis 我的立场】, To address this issue, both individual and society should make a concerted effort.  
