@@ -16,33 +16,123 @@ Filter: Test
 Sort Type: Creation time(Ascending order)
 Total: 287
 
+1.Multiculturalism & Cultural Diversity. 多元文化与文化多样性
+
+The speaker talked about the importance of multiculturalism and diversity, which means we have different cultures and believe in the world. He also mentioned we should not only respect the different cultures but also celebrate them. Furthermore, we can learn from different cultures, and it is a good way to understand the world, and make the word inclusive. In conclusion, celebrating our differences can make the world better.
+
+演讲者谈到了多元文化主义和多样性的重要性，这意味着我们有不同的文化和信仰世界。他还提到，我们不仅要尊重不同的文化，还要赞美它们。此外，我们可以从不同的文化中学习，这是一个很好的方式来了解世界，使世界包容。总之，赞美我们的差异可以让世界变得更美好。
+
+2.Need in English. 英语需求
+
+The topic is described as the meaning of need in English language. The term “need” is an expression of a strong desire but not a basic need. Moreover, it also means an objective statement because it can represent some essential things. This term is a multifunctional word when used in the social environment. There is further information regarding development and nature to people. In conclusion, need is a psychological term involving natural things.
+
+本课题描述了英语中need的含义。“需要”这个词表达的是强烈的欲望，而不是基本的需要。此外，它也意味着一个客观的陈述，因为它可以代表一些基本的东西。这个词在社会环境中是一个多功能词。这里有更多关于发展和自然的信息。总之，需要是一个涉及自然事物的心理学术语。
+
+3.Poetry. 诗歌
+
+The lecture mainly talks about poetry and literature. People often talk about knowledge in poems. The English in poems is hard to understand. It gives readers a sense of frustration and makes it hard to enjoy poetry. This is because poems use literary expressions. However, the speaker says we should learn to enjoy it. People need to know more about literature.
+
+讲座主要讲诗歌和文学。人们经常在诗歌中谈论知识。诗中的英语很难理解。它给读者一种挫败感，让人很难欣赏诗歌。这是因为诗歌使用文学表达。然而，演讲者说我们应该学会享受它。人们需要更多地了解文学。
+
+4.Bees' genes and Darwin. 蜜蜂基因与达尔文
+
+The speaker talked about the honeybees ' perfect organism, and the queen is the most important role of honeybees. They can produce many eggs, and nearly 2 million in their whole life, and the male bee can not work. Furthermore, the speaker also mentioned the worker bees feed others till they die, and the younger generation will show up.
+
+演讲者谈到了蜜蜂的完美有机体，蜂王是蜜蜂最重要的角色。它们能产很多卵，一生能产近200万个，而雄蜂却不能工作。此外，演讲者还提到了工蜂喂养其他蜜蜂直到它们死去，然后年轻一代会出现。
+
+5.Australian culture diversity. 澳大利亚文化多样性
+
+The lecture focuses on the cultural diversity in Australia. Being a multicultural country, Australia has migrations worldwide. Australia has the oldest continuous culture of residents due to Asian migrants. According to the statistics, nearly a half/quarter of the Australian were born overseas or at least one parent was born overseas. In addition, migrants make a great contribution to Australia's productivity and fiscal benefits. Overall, this cultural diversity is one of the Australian greatest strengths.
+
+讲座的重点是澳大利亚的文化多样性。澳大利亚是一个多元文化的国家，世界各地都有移民。由于亚洲移民，澳大利亚拥有最古老的连续居民文化。据统计，近四分之一的澳大利亚人出生在海外，或者父母中至少有一方出生在海外。此外，移民对澳大利亚的生产力和财政效益做出了巨大贡献。总的来说，这种文化多样性是澳大利亚最大的优势之一。
+
+6.British colonies. 英国殖民地
+
+In 1901, the new Australian nation codified these racist sentiments into law. Collectively called the White Australia policy, these immigration laws barred immigrants pending their successful completion of Byzantine “language tests,” administered in any European language immigration officers pleased. Like the “literacy tests” of the U.S. Jim Crow South, these tests were about race, not language; the arcane requirements magically loosened for European applicants. The policy halted almost all non-white immigration until the Australian government relaxed enforcement in the 1970s.
+
+1901 年，新成立的澳大利亚将这些种族主义情绪写入法律。这些移民法律统称为“白澳大利亚政策”，禁止移民在成功完成拜占庭式的“语言测试”之前进入澳大利亚。就像美国南方的“读写测试”一样，这些测试是关于种族的，而不是语言;对欧洲申请人的神秘要求神奇地放宽了。直到上世纪 70 年代澳大利亚政府放松执法，这项政策才停止了几乎所有的非白人移民。
+
+7.Australian Immigration. 澳大利亚移民
+
+This lecture mainly talks about Australian immigration. Firstly, migration may have a negative effect on indigenous people, because migration can harm the progress of humans in Australia. Secondly, sea levels lower than today can be significant influenced by coastline and tourists, which may pose a challenge to content separate. Lastly, multiculturalism can support the improvement of the majority of the population from Asia and South Asia.
+
+这个讲座主要讲的是澳大利亚的移民问题。首先，移民可能会对土著人产生负面影响，因为移民会损害澳大利亚人类的进步。其次，低于今天的海平面可能受到海岸线和游客的显著影响，这可能对内容分离构成挑战。最后，多元文化主义可以支持来自亚洲和南亚的大多数人口的改善。
+
+8.Population growth. 人口增长
+
+This lecture mainly talks about the population. Firstly, the population should be related to the environment. And the increase in population will become a challenge. Secondly, opportunities can exist in the population. They will increase to six billion people. After all, food sources must have positive impacts on our lives. In conclusion, the population can be vital to the world.
+
+9.Animal Survive. 动物生存
+
+This topic is about animal survival and reproduction.There are many factors for species and animals to survive, including environmental conditions, temperature, tolerance range and body size.Some animals migrate to new habitats due to changes.Only animals with the tolerance of the new environment can survive. In conclusion, only humans use technology extent their limit of tolerance range.
+
+这个话题是关于动物的生存和繁殖。物种和动物生存有许多因素，包括环境条件、温度、耐受范围和体型。一些动物由于变化而迁移到新的栖息地。只有能够耐受新环境的动物才能生存。总之，只有人类使用技术来扩展他们的耐受范围极限。
+
+10.Dendrochronology. 树木年代学
+
+This topic depicts dendrochronology, tree rings and the year of the tree.Dendrochronology can be used to date the year of the tree by cutting down and counting the rings inward, but the year of the tree cut could be ambiguous.Furthermore, the sequence message of narrow and wide is like Morse Code, and the information provided is more abundant and more diagnosable.In conclusion, tree rings allow people to reconstruct the climate.
+
+这个话题描述了树木年代学、树木年轮和树木的年份。树木年代学可以通过砍伐树木并向内计数年轮来确定树木的年份，但砍伐树木的年份可能含糊不清。此外，窄环和宽环的序列信息就像摩尔斯电码，提供的信息更丰富、更具诊断性。总之，树木年轮允许人们重建气候。
+
+11.Glass ceiling. 女性职场天花板
+
+Women begin their careers with fewer academic resources and tend to progress through the ranks slower than men, and female surgeons receive less than male's, even if women are eager to assume leadership positions and are also qualified. There are three constraints to glass-ceiling phenomenon: traditional gender roles, manifestations of sexism in the medical environment, and lack of effective mentors.
+
+女性职业生涯开始时的学术资源较少，晋升速度往往比男性慢，女性外科医生获得的报酬也比男性少，即使女性渴望担任领导职位，而且也有资格。玻璃天花板现象存在三个制约因素：传统的性别角色、医疗环境中的性别歧视表现以及缺乏有效的导师。
+
+12.Stock Market and Business. 股票市场与商业
+
+The lecture discussed stock markets. The speaker explained that a stock market is a place where people buy and sell stocks. The lecturer said that people can buy stocks online through stock markets by using an account. He mentioned that manufacturing companies used to use stock markets to collect money from investors. Modern companies, such as Apple and Google, are big enough to earn money and use stocks differently.
+
+讲座讨论了股票市场。演讲者解释说，股票市场是人们买卖股票的地方。讲师说，人们可以使用账户通过股票市场在网上购买股票。他提到，制造业公司过去常常利用股票市场向投资者筹集资金。像苹果和bbo这样的现代公司已经足够大，可以赚钱并以不同的方式使用股票。
+
+13.Building design. 建筑设计
+
+The design of buildings is important. Architecture is the built environment and a part of our culture. The design of flaws would affect appearance and health conditions. Materials are also important. Many old buildings with design flaws were demolished or modified through a natural selection process. Buildings should adapt to the new world to survive or be pulled down. And there is an importance in honoring the cultural nuances.
+
+建筑的设计很重要。建筑是建筑环境，是我们文化的一部分。有缺陷的设计会影响外观和健康状况。材料也很重要。许多有设计缺陷的老建筑通过自然选择过程被拆除或改造。建筑物必须适应新世界，否则就会被推倒。尊重文化差异是很重要的。
+
 1.Cocoa. 可可
 
-This topic is significantly focusing on cocoa. The speaker points out that cocoa used to be beverage and drinks with corn and water. This lecture gives information that cocoa used to be currency and be protected. The speaker also mentioned that someone believes cocoa give mortals wisdom, they drink it at their 18 years old ceremony.
+This topic is significantly focusing on cocoa. The speaker points out that cocoa used to be beverage and drinks with corn and water. This lecture gives information that cocoa used to be currency and be protected. The speaker also mentioned that someone believes cocoa give us wisdom, they drink it at their 18 years old ceremony.
+
+这个话题主要关注可可。演讲者指出，可可曾经是一种饮料，与玉米和水一起饮用。这个讲座提供的信息是，可可曾经被用作货币并受到保护。演讲者还提到，有人相信可可能赋予凡人智慧，他们在18岁成年礼时饮用它。
 
 2.Sea creature. 海洋生物
 
 This lecture significantly focuses on the last devices inspired by sea creatures that can harness wave power. The first device is an oyster that sits above the sea floor and has been powering 9000 families. The second device looks like a snake that is made of rubber tube and flows below the surface. The third device also looks like a snake that is made of steel and drive hydraulic systems.
 
+这个讲座主要关注受海洋生物启发的、能够利用波浪能的最新装置。第一个装置是位于海底上方的牡蛎装置，已经为9000个家庭供电。第二个装置看起来像一条蛇，由橡胶管制成，在水面下流动。第三个装置也像一条蛇，由钢制成，驱动液压系统。
+
 3.Computers and AI. 计算机与人工智能
 
 The lecture gives us information about scientists, data and its structure. What's more, he mentions brains, researchers and engineers. Moreover, he mentions the relationship between new technologies and artificial intelligence. Also, he talks about the functions of computers, and computers can operate programs, develop systems and analysis data. Finally, he mentions AI is similar to human brains.
+
+这个讲座为我们提供了关于科学家、数据及其结构的信息。此外，他提到了大脑、研究人员和工程师。而且，他提到了新技术与人工智能之间的关系。同时，他谈到了计算机的功能，计算机可以操作程序、开发系统和分析数据。最后，他提到人工智能与人类大脑相似。
 
 4.Talent war. 人才争夺战
 
 The topic is mainly focusing the war of talent in order to show the importance of talent for organizations. In addition, decreasing demand and increasing supply in US and Europe, shrinking labor force, knowledge, not defining in books, managerial talent are involved. It can help companies to find the talent.
 
+这个话题主要关注人才争夺战，以展示人才对组织的重要性。此外，还涉及美国和欧洲需求减少和供应增加、劳动力萎缩、知识（不在书本中定义）、管理人才等方面。这可以帮助公司找到人才。
+
 5.Benefits of Laugh. 笑的益处
 
 The speaker talked about the benefits of laughter. According to the speech, laughter is one of the greatest therapies in combating adversity. This is particularly true for people living in Berlin during the Berlin Wall period. During that period, all jokes proliferated and laughing was all that's left for people living in East Berlin. This could also be seen in other countries such as Iran.
+
+演讲者谈到了笑的益处。根据演讲，笑是对抗逆境的最伟大疗法之一。对于柏林墙时期生活在柏林的人来说尤其如此。在那个时期，各种笑话激增，笑是东柏林人民所剩下的全部。这在其他国家如伊朗也可以看到。
 
 6.Indian peasants debt. 印度农民债务
 
 The lecture was mainly about debt. First, the speaker mentioned the debt comes from the cost of seeds. Seeds used to be free for peasants in India. The more pesticide you use, the more you need. Peasants have no money to buy seeds and the pesticide, so they buy them by borrowing. The people who lend the money are their major creditors.
 
+这个讲座主要关于债务。首先，演讲者提到债务来自种子的成本。在印度，种子曾经对农民是免费的。你使用的农药越多，你需要的就越多。农民没有钱购买种子和农药，所以他们通过借贷来购买。借钱给他们的人是他们的主要债权人。
+
 7.Mary Mallon. 玛丽·马伦（伤寒玛丽）
 
 The topic significantly focuses on Mary who was identified by the asymptomatic carrier of pathogen associated with typhoid fever. Firstly, she was presumed to infect 51 people. Secondly, Mary was forcibly isolated by the public health authorities and died after nearly three decades in isolation. Finally, from 1900 to 1907, she worked as a cook in New York City area, and then shed moved to Manhattan.
+
+这个话题主要关注玛丽，她被确认为伤寒相关病原体的无症状携带者。首先，她被推测感染了51人。其次，玛丽被公共卫生当局强制隔离，在隔离近三十年后去世。最后，从1900年到1907年，她在纽约市地区担任厨师，然后搬到了曼哈顿。
 
 8.Governments use tricks. 政府使用的策略
 
@@ -64,72 +154,93 @@ The speaker wrote non-fiction for years. She wanted to be a novelist. She starte
 
 The lecture mainly talks about government power devolution. Firstly, devolution means reducing or moving power from the federal to the state level. Secondly, this issue divides Democrats from Republicans. After that, Democrats believe in big government and entitlement, and Republicans believe in putting power down. In conclusion, there is a hidden part of the power system, and that is private power.
 
+这个讲座主要谈论政府权力下放。首先，权力下放意味着将权力从联邦层面减少或转移到州层面。其次，这个问题使民主党和共和党产生分歧。之后，民主党相信大政府和权利，而共和党相信下放权力。总之，权力系统有一个隐藏的部分，那就是私人权力。
+
 13.Vitamin D. 维生素 D
 
 This lecture talks about Vitamin D. The sunshine vitamin is only needed if adequate sunlight exposure. Foods do not contain enough vitamin D, hence fortification is necessary. Sunlight is the primary source of vitamin D for humans, but migration to less sunny regions especially in winter, created a need for dietary supplementation.
+
+这个讲座谈论维生素D。阳光维生素只有在充足的阳光照射下才需要。食物中没有足够的维生素D，因此需要强化。阳光是人类维生素D的主要来源，但迁移到阳光较少的地区，尤其是在冬季，产生了对膳食补充的需求。
 
 14.Drug Ads. 药品广告
 
 The speaker talks about drug ads. Drug companies spend a large amount of money on drug ads, which has been doubled in recent years. People see ads in prime time. Consumers come to their doctor with a suggestion of a drug. Researchers say that even if the data is technically accurate, its tone is misleading. Drug ads never mention lifestyle.
 
+演讲者谈论药品广告。制药公司在药品广告上花费大量资金，近年来翻了一番。人们在黄金时段看到广告。消费者带着药品建议来找他们的医生。研究人员表示，即使数据在技术上是准确的，其语气也具有误导性。药品广告从不提及生活方式。
+
 15.Development of Genes. 基因发展
 
 The lecture mainly talked about the evolution of genes. Firstly, the pace of human minds has evolved rapidly. Secondly, the evolution of cognitive function can only occur in a small number of genes. Moreover, the genetic differences between ancestors and us are not as large. Finally, a small number of genes may be responsible for the powerful human minds.
+
+这个讲座主要谈论基因的进化。首先，人类思维的步伐进化迅速。其次，认知功能的进化只能发生在少数基因中。此外，祖先和我们之间的遗传差异并不大。最后，少数基因可能对强大的人类思维负责。
 
 16.International environmental law. 国际环境法
 
 The topic of this lecture is International Environmental Law. Before we consider International Environmental Law, we need to consider it globally and ineffective. The main concern used to be the production of smoke governed by self regulation. It was a legal duty with good intention but with little practical effect. After the Industrial Revolution, people started to protect the environment by discharges of pollutants
 
+这个讲座的主题是国际环境法。在我们考虑国际环境法之前，我们需要从全球和无效的角度来考虑它。主要关注曾经是由自我监管管理的烟雾产生。这是一项善意的法律义务，但实际效果甚微。工业革命后，人们开始通过控制污染物排放来保护环境。
+
 17.Einstein. 爱因斯坦
 
 For thousands of years, people believed that the world was like a flat floor and the universe was absolutely fixed and unchangeable. This view was transformed by Einstein in the 20th century who suggested that the universe is under continuously dynamic change all the time. However, this was just a prediction made by Einstein. The honor of making the discovery of this theory fell to astronomer Edwin Hubble.
+
+几千年来，人们相信世界就像一个平坦的地板，宇宙是绝对固定和不变的。这一观点在20世纪被爱因斯坦改变了，他提出宇宙一直处于持续的动态变化中。然而，这只是爱因斯坦做出的预测。发现这一理论的荣誉落在了天文学家埃德温·哈勃身上。
 
 18.Amory Lovins. 艾默里·洛文斯
 
 This lecture mainly discussed Amory Lovins. Firstly, the speaker stated he is an unusual character, but he is not academic. After that, the speaker stated he had a consulting company. He tries many ways to save energy and solve problems by using technology. Finally, Amory Lovins has a written piece called Mr.Green.
 
+这个讲座主要讨论了艾默里·洛文斯。首先，演讲者指出他是一个不寻常的人物，但他不是学术界人士。之后，演讲者指出他有一家咨询公司。他尝试许多方法来节约能源和使用技术解决问题。最后，艾默里·洛文斯写了一篇名为《绿色先生》的文章。
+
 19.Citizenship curriculum. 公民教育课程
 
 The lecture mainly discussed a report on the citizenship curriculum for schools. Firstly, the speaker mentioned some schools have successfully implemented the citizenship curriculum. After that, the speaker mentioned some schools have not taken citizenship education seriously. Therefore, the citizenship education can help young people to address core skills, attitudes and values.
+
+这个讲座主要讨论了关于学校公民课程的报告。首先，演讲者提到一些学校成功实施了公民课程。之后，演讲者提到一些学校没有认真对待公民教育。因此，公民教育可以帮助年轻人掌握核心技能、态度和价值观。
 
 20.Agriculture and Urbanization. 农业与城市化
 
 This lecture is about agriculture and urbanization. Firstly, there is a dynamics between urban development and agriculture. And then, the dynamics is to develop agricultural goods and industrial goods. After that, we know that people are needed in cities. We should increase agricultural productivity to reduce labor needs in rural areas and compel people to cities. In the end, the labor force can be provided.
 
+这个讲座是关于农业和城市化。首先，城市发展和农业之间存在动态关系。然后，这种动态关系是为了发展农产品和工业产品。之后，我们知道城市需要人。我们应该提高农业生产力以减少农村地区的劳动力需求，并迫使人们进入城市。最后，可以提供劳动力。
+
 21.Universities' Competition. 大学竞争
 
 This lecture mainly talks about the competition between universities. Firstly, the competition between universities is both the best students and best staff competition. Second, universities are in competition for government founding which is based on research quality, research contracts, and donations. In conclusion, this lecture gives us information about the competition between universities.
 
-22.Animal Survive. 动物生存
+这个讲座主要谈论大学之间的竞争。首先，大学之间的竞争既是最优秀学生的竞争，也是最优秀教职员工的竞争。其次，大学在争夺政府资助，这基于研究质量、研究合同和捐赠。总之，这个讲座为我们提供了关于大学之间竞争的信息。
 
-This topic is about animal survival and reproduction.There are many factors for species and animals to survive, including environmental conditions, temperature, tolerance range and body size.Some animals migrate to new habitats due to changes.Only animals with the tolerance of the new environment can survive. In conclusion, only humans use technology extent their limit of tolerance range.
+
 
 23.Biology. 生物学
 
 The study of biology is responsible for the profound insight that humans have. The creatures have different forms and structures, but they are related to each other. All life forms rely on DNA and RNA for storing and transmitting their genetic information. They are all based on cells. In conclusion, the chemistry and molecules are all similar to each other.
 
+生物学研究为人类提供了深刻的洞察力。生物有不同的形式和结构，但它们彼此相关。所有生命形式都依赖DNA和RNA来存储和传递遗传信息。它们都基于细胞。总之，化学和分子彼此都很相似。
+
 24.Management and Leadership. 管理与领导力
 
 The speaker introduced the Education Leadership Initiative in the Stanford University. The program combines forces from the School of Education and the School of Business. The School of Education will focus on learning and the School of Business will focus on management. The university wants to make sure that they not only deliver services but also with good quality. Participants will collaborate and build relationship through group work.
 
-25.Dendrochronology. 树木年代学
-
-This topic depicts dendrochronology, tree rings and the year of the tree.
-Dendrochronology can be used to date the year of the tree by cutting down and counting the rings inward, but the year of the tree cut could be ambiguous.
-Furthermore, the sequence message of narrow and wide is like Morse Code, and the information provided is more abundant and more diagnosable.
-In conclusion, tree rings allow people to reconstruct the climate.
+演讲者介绍了斯坦福大学的教育领导力倡议。该项目结合了教育学院和商学院的力量。教育学院将专注于学习，商学院将专注于管理。大学希望确保他们不仅提供服务，而且提供优质服务。参与者将通过小组工作进行合作并建立关系。
 
 26.Welsh Language. 威尔士语
 
 This lecture is mainly about the Welsh language. Firstly, there are 740 thousand people who can speak Welsh. Secondly, there are also Welsh-speaking people in Canada and Argentina. After that, there were half of Welsh people who spoke Welsh at the beginning of the 20th Century, and fell to 20% at the end of the 20th Century. Lastly, there are 1.5 million people who understand Welsh.
 
+这个讲座主要关于威尔士语。首先，有74万人会说威尔士语。其次，在加拿大和阿根廷也有说威尔士语的人。之后，在20世纪初，有一半的威尔士人说威尔士语，到20世纪末降至20%。最后，有150万人懂威尔士语。
+
 27.Sound receptors. 声音接收器
 
 This lecture is about sound receptors. The sound receptors are in people's ears. The speaker says they are beautiful. They can transfer vibrational energy into physical motion. They are remarkable. The lecturer also invites some of the listeners, particularly MIT students to learn more details about this beautiful and remarkable device.
 
+这个讲座是关于声音接收器。声音接收器在人们的耳朵里。演讲者说它们很美丽。它们可以将振动能量转换为物理运动。它们非常了不起。讲师还邀请一些听众，特别是麻省理工学院的学生，了解更多关于这个美丽而了不起的装置的细节。
+
 28.Marshmallow Test. 棉花糖实验
 
 The lecture was about the tests for children. For the marshmallow test, kids are told that there is one marshmallow on the plate. If you wait fifteen minutes, they can get another marshmallow. The research shows that the longer they wait, the more achievement they have in the future. For the crayon and sticker test, the kids were not willing to wait if they did not get the promised stuff.
+
+这个讲座是关于儿童测试的。对于棉花糖测试，孩子们被告知盘子里有一块棉花糖。如果你等待十五分钟，他们可以再得到一块棉花糖。研究表明，他们等待的时间越长，他们在未来取得的成就就越多。对于蜡笔和贴纸测试，如果孩子们没有得到承诺的东西，他们就不愿意等待。
 
 29.Importance of Tea. 茶的重要性
 
@@ -138,6 +249,8 @@ Drinking tea in England was a symbol of social freedom.
 Men talked about business and trades when they drank tea in the coffee house.
 Women drank tea in private places. Men took a pack of tea back home for their wives.
 There were four favourite drinks in England including coffee, tea and chocolate.
+
+这个话题被描述为茶在英国的重要性。在英国喝茶是社会自由的象征。男人在咖啡馆喝茶时谈论生意和贸易。女人在私人场所喝茶。男人带一包茶回家给他们的妻子。英国有四种最受欢迎的饮料，包括咖啡、茶和巧克力。
 
 30.An Interview of a Science Professor. 采访一位科学教授
 
@@ -148,9 +261,13 @@ If there is no technician, there is no support.
 The importance of the need for teachers with expert skills.
 Students with a right teacher can do magical things.
 
+这个话题被描述为对一位科学教授的采访。最重要的是确认为什么年轻人参与这门课程。课堂上的技术人员很重要。如果没有技术人员，就没有支持。需要具有专业技能的教师的重要性。有合适老师的学生可以做出神奇的事情。
+
 31.The colors of flowers. 花的颜色
 
 The lecture was mainly about how bumble bees choose flowers. First, the speaker mentioned that researchers used to suggest that bees choose flowers based on their colours. However, new findings found that bees tend to make their decisions by detecting flowers' temperature. As bees sometimes can't even fly when their bodies are too cold, they tend to stay warm. As a result, they pick warmer flowers over the cooler ones.
+
+这个讲座主要关于大黄蜂如何选择花朵。首先，演讲者提到研究人员曾经认为蜜蜂根据颜色选择花朵。然而，新发现发现蜜蜂倾向于通过检测花朵的温度来做出决定。由于蜜蜂有时在身体太冷时甚至无法飞行，它们倾向于保持温暖。因此，它们选择温暖的花朵而不是较冷的花朵。
 
 32.Development of VR. 虚拟现实的发展
 
@@ -158,9 +275,13 @@ This topic is described as the development of VR.
 A company started the research and the development, experiencing a lot of difficulties.
 Nowadays a few companies and universities use the technology to train their employees and help their students to understand the courses better.
 
+这个话题被描述为虚拟现实的发展。一家公司开始了研究和开发，经历了很多困难。如今，一些公司和大学使用这项技术来培训员工，并帮助学生更好地理解课程。
+
 33.ATM. 自动取款机
 
 The lecture was about ATMs. The speaker mentioned many people forget their cards after taking money from the ATM machines. People in the UK don't do this because they have to take back the card first to collect the money, and they also restructured the system. Forgetting to take back your card is dangerous, because other people can access your bank account.
+
+这个讲座是关于自动取款机的。演讲者提到许多人在从自动取款机取钱后忘记拿回卡片。英国人不会这样做，因为他们必须先取回卡片才能取钱，而且他们还重组了系统。忘记拿回卡片很危险，因为其他人可以访问你的银行账户。
 
 34.Social Contract Concept. 社会契约概念
 
@@ -168,6 +289,8 @@ This topic is described as the social contract concept.
 This concept started from 17-18 century.
 In the past, the concept was that humans came from the nature and acted like animals, which were neither peaceful nor fierce and depending on personal beliefs.
 Nowadays, the concept is used to describe a situation where people join together to work on a project, agreeing not to fight and trusting each other to resolve their disputes.
+
+这个话题被描述为社会契约概念。这个概念始于17-18世纪。过去，这个概念是人类来自自然并像动物一样行事，既不和平也不凶猛，取决于个人信仰。如今，这个概念被用来描述人们聚在一起进行项目工作的情况，同意不打架并相互信任以解决争端。
 
 35.Language and Convention. 语言与惯例
 
@@ -177,13 +300,19 @@ Each language is unique, valuable and not translatable, since the meaning of a w
 Even some simple languages let us understand the world and are important.
 All the languages are important for document review purpose and human heritage.
 
+这个话题被描述为语言与惯例。语言的规则由惯例反映，代表人们思考和理解的方式。每种语言都是独特的、有价值的且不可翻译的，因为不同语言中的单词含义并不完全相同。即使是一些简单的语言也让我们理解世界，并且很重要。所有语言对于文档审查目的和人类遗产都很重要。
+
 36.Music and language. 音乐与语言
 
 This lecture mainly talks about the similarities between music and language. Firstly, the speaker mentions that language and music involve complex sequences that unfold in time and are both forms of communication. Secondly, both before and now, scientists are interested in the similarities between language and music. Finally, some basic obvious similarities, including rhythmic systematic patterns, melody-structured patterns of pitch, having syntax, and affecting emotion using sound.
 
+这个讲座主要谈论音乐和语言之间的相似性。首先，演讲者提到语言和音乐涉及随时间展开的复杂序列，都是交流形式。其次，无论过去还是现在，科学家都对语言和音乐之间的相似性感兴趣。最后，一些基本的明显相似性，包括有节奏的系统模式、旋律结构的音高模式、具有语法以及使用声音影响情绪。
+
 37.Kids museum. 儿童博物馆
 
 This lecture talks about the kids in the museum. Firstly, she and her three children were in a museum, and one of her children shouted, and a galley assistant said they were being too noisy and threw them out. Secondly, the speaker wrote a piece and received a lot of emails from other families, and then they set up a campaign for a kids friendly museum and was supported.
+
+这个讲座谈论博物馆里的孩子。首先，她和她的三个孩子在博物馆里，其中一个孩子大声叫喊，一位画廊助理说他们太吵了，把他们赶了出去。其次，演讲者写了一篇文章并收到了来自其他家庭的大量电子邮件，然后他们发起了一场儿童友好博物馆的活动并获得了支持。
 
 38.Magic Natural Color. 神奇的自然色彩
 
@@ -193,6 +322,8 @@ Yellow comes from many plants.
 Red comes from the ground and some insects can provide as well.
 The only source of blue is indigo.
 
+这个话题被描述为神奇的自然色彩。三种原色可以用来解释自然颜色的来源。黄色来自许多植物。红色来自地面，一些昆虫也可以提供。蓝色的唯一来源是靛蓝。
+
 39.Three Major Developments of Physics. 物理学的三大发展
 
 There are three major developments of physics in 19th-century.
@@ -200,9 +331,13 @@ Firstly, the energy conservation law indicates that total energy of isolated sys
 Secondly, the four laws of thermodynamics define fundamental physical quantity (temperature, energy and entropy) that characterize thermodynamic systems at thermal equilibrium.
 The third one is Kinetic theory. The work is needed to accelerate a body of given mass from the rest to its stated velocity.
 
+19世纪物理学有三个主要发展。首先，能量守恒定律表明孤立系统的总能量保持不变。其次，热力学四定律定义了表征热平衡热力学系统的基本物理量（温度、能量和熵）。第三个是动力学理论。需要做功才能使给定质量的物体从静止加速到规定的速度。
+
 40.Fossil Fuels. 化石燃料
 
 The topic of this lecture is fossil fuels. We have an addiction to fossil fuels and it is not sustainable. There are three obvious reasons. Firstly, fossil fuels are a finite resource. Secondly, setting fire to fossil fuels puts carbon dioxide upstairs. Thirdly, fossil fuels can be running out in particular countries. All three of these motivations are equally compelling.
+
+这个讲座的主题是化石燃料。我们对化石燃料上瘾，这是不可持续的。有三个明显的原因。首先，化石燃料是有限的资源。其次，燃烧化石燃料会向大气排放二氧化碳。第三，化石燃料在特定国家可能会耗尽。这三个动机同样令人信服。
 
 41.Krebs. 克雷布斯（三羧酸循环）
 
@@ -212,33 +347,49 @@ This lecture talked about the experience of Krebs, who contributes to some disco
 
 In this lecture, the speaker talks about the children's depression in order to show the importance of the first century. According to the speaker, she first mentions that the research discovered the increase of behavior. And then she talks about the study and examples. Last, she concludes that the medical treatment shows that children suffer from the perfect medicine. In conclusion, the number try to become a common sickness.
 
+在这个讲座中，演讲者谈论儿童抑郁症，以显示第一个世纪的重要性。根据演讲者的说法，她首先提到研究发现了行为的增加。然后她谈论研究和例子。最后，她得出结论，医学治疗表明儿童遭受了完美的药物。总之，这个数字试图成为一种常见疾病。
+
 43.Decline of bees. 蜜蜂数量下降
 
 This lecture gives information about the decline of bees. This conclusion is well documented with strong scientific evidence. The drivers of decline are different between species. The effects of pollinator loss are not severe now. However, the positive side is that people are aware of the problem. We are taking action to fix the problems.
+
+这个讲座提供了关于蜜蜂数量下降的信息。这个结论有充分的科学证据记录。不同物种的下降驱动因素不同。传粉昆虫损失的影响现在并不严重。然而，积极的一面是人们意识到了这个问题。我们正在采取行动解决问题。
 
 44.Faults and Earthquake. 断层与地震
 
 This lecture gives information about the relationship between earthquakes and faults. Faults are breaks in the earth's crust. An earthquake starts at a particular point on the fault plane, and this point is called the focus of the earthquake. The epicenter is another point vertically above the focus on the earth's surface. The rocks propagate out from the focus in that particular earthquake.
 
+这个讲座提供了关于地震和断层之间关系的信息。断层是地壳中的裂缝。地震从断层面上的特定点开始，这个点被称为震源。震中是地球表面上震源正上方的另一个点。岩石从该特定地震的震源向外传播。
+
 45.Experiment on Body Fat Change. 体脂变化实验
 
 This article is talking about there were 31 obese women in a Canadian experiment. They wanted to observe their body fat changes. Secondly, they followed a strictly daily diet and did exercise. After six months, many people lost body weight, some women 's weight without any changes, some people even gained weight. There were two factors. They ate more food. Lastly, they did less exercise for psychological reasons.
+
+这篇文章谈论的是加拿大一项实验中有31名肥胖女性。他们想观察她们的体脂变化。其次，她们严格遵循每日饮食并进行锻炼。六个月后，许多人减轻了体重，一些女性体重没有任何变化，一些人甚至增重了。有两个因素。她们吃了更多的食物。最后，她们因心理原因减少了锻炼。
 
 46.The Definition of Risk. 风险的定义
 
 The lecture was mainly about the definition of risk. From the dictionary, the definition of risk is about the possibility of injury and the degree of loss. One of them is the possibility of consequences. Safe and safety is like a loop, while firm harm is the risk and harm is the loss. In conclusion, safety is talking about something that is absolutely safe or sounds safe.
 
+这个讲座主要关于风险的定义。从字典上看，风险的定义是关于受伤的可能性和损失的程度。其中之一是后果的可能性。安全和安全性就像一个循环，而确定的伤害就是风险，伤害就是损失。总之，安全是在谈论绝对安全或听起来安全的东西。
+
 47.A Survey on Happiness. 关于幸福的调查
 
 This lecture mainly talks about what makes people happy. Firstly, happiness should be related to people's confidence due to the survey across the countries. Secondly, happiness can exist in many examples across the world. After that, happiness must play a positive role in patterns and people's income. In conclusion, happiness can affect people's well-being.
+
+这个讲座主要谈论什么使人们快乐。首先，根据跨国调查，幸福应该与人们的信心有关。其次，幸福可以存在于世界各地的许多例子中。之后，幸福必须在模式和人们的收入中发挥积极作用。总之，幸福可以影响人们的幸福感。
 
 48.History and journalism. 历史与新闻业
 
 This topic is described as good quality of history. The quality of good journalism is like the quality of a good academic history. Firstly, they both need the determination to look for all available sources and the collection of evidence. Secondly, they both need universal sympathy for all sides of the story. Thirdly, they both need detailed attention to logic and literary style, which means the articles should be vivid, interesting and have a clear writing style.
 
+这个话题被描述为历史的好品质。好新闻的品质就像好学术历史的品质。首先，他们都需要寻找所有可用来源和证据收集的决心。其次，他们都需要对故事各方的普遍同情。第三，他们都需要对逻辑和文学风格的详细关注，这意味着文章应该生动、有趣并具有清晰的写作风格。
+
 49.Food and Income. 食物与收入
 
 The speaker mainly talks about wildlife in Africa. Firstly, wildlife should be related to our livelihood. Secondly, people rely on wildlife as a source of food and income. Thirdly, he mentions that fish is the most important single source of animal protein. After that, wildlife will have many positive impacts on tourists. In conclusion, wildlife can be vital to human livelihood.
+
+演讲者主要谈论非洲的野生动物。首先，野生动物应该与我们的生计有关。其次，人们依赖野生动物作为食物和收入来源。第三，他提到鱼是动物蛋白最重要的单一来源。之后，野生动物将对游客产生许多积极影响。总之，野生动物对人类生计至关重要。
 
 50.The Big Bang Theory. 宇宙大爆炸理论
 
@@ -500,10 +651,6 @@ This lecture mainly talked about newspapers. As the economic model changed, some
 
 This lecture mainly talks about Fight and Flight-response. Firstly, many of us would prefer to focus on our logical, thinking nature and ignore our emotions which have a purpose. Secondly, emotions as signals to help us meet our basic needs for self-preservation and safety. Finally, the brain runs information from our senses through the most primitive, reactive parts of our brain.
 
-111.Australian culture diversity. 澳大利亚文化多样性
-
-The lecture focuses on the cultural diversity in Australia. Being a multicultural country, Australia has migrations worldwide. Australia has the oldest continuous culture of residents due to Asian migrants. According to the statistics, nearly a half/quarter of the Australian were born overseas or at least one parent was born overseas. In addition, migrants make a great contribution to Australia's productivity and fiscal benefits. Overall, this cultural diversity is one of the Australian greatest strengths.
-
 112.Water resource. 水资源
 
 The lecture topic is described as environment issues and water resource problems in our society. The main reason why our environment is getting worse is that people consume almost half of freshwater on the earth. Also, people don’t have the power to reproduce water. Therefore, people should concern about how to use water rationally although people think it is reasonable to feed the cattle with freshwater.
@@ -671,10 +818,6 @@ The lecturer was discussing management and leadership at Stanford University. Le
 153.Science. 科学
 
 The two speakers are talking about organization study and how they appreciate it. Organization study is about a whole family of disciplines, such as social science, psychology, history, cultural studies. The speaker enjoys studying organization study because of its broad range and its breadth. What organization study has taught him is liberating 释放 ideas without disciplinary 规律的 boundaries.
-
-154.British colonies. 英国殖民地
-
-In 1901, the new Australian nation codified these racist sentiments into law. Collectively called the White Australia policy, these immigration laws barred immigrants pending their successful completion of Byzantine “language tests,” administered in any European language immigration officers pleased. Like the “literacy tests” of the U.S. Jim Crow South, these tests were about race, not language; the arcane requirements magically loosened for European applicants. The policy halted almost all non-white immigration until the Australian government relaxed enforcement in the 1970s.1901 年，新成立的澳大利亚将这些种族主义情绪写入法律。这些移民法律统称为“白澳大利亚政策”，禁止移民在成功完成拜占庭式的“语言测试”之前进入澳大利亚。就像美国南方的“读写测试”一样，这些测试是关于种族的，而不是语言;对欧洲申请人的神秘要求神奇地放宽了。直到上世纪 70 年代澳大利亚政府放松执法，这项政策才停止了几乎所有的非白人移民。
 
 155.Network. 网络
 
@@ -969,9 +1112,7 @@ civil right 公民权利:
 
 Children should eat more vegetables at school. If they eat more vegetables or salads at lunch, they will have some collectible coins as a reward. These coins can be used to exchange for some toys in the shop. By doing so. paying people for eating vegetables is possible.
 
-219.Poetry. 诗歌
 
-The lecture mainly talks about poetry and literature. People often talk about knowledge in poems. The English in poems is hard to understand. It gives readers a sense of frustration and makes it hard to enjoy poetry. This is because poems use literary expressions. However, the speaker says we should learn to enjoy it. People need to know more about literature.
 
 220.Complex problems. 复杂问题
 
@@ -1054,10 +1195,6 @@ Making the right decisions on certain occasions is just like starting up a compa
 
 Theater study is a difficult subject in the academy because it cannot be experimental and it is a mixture of literature and personal life experience. Theatre should show pure lives, although there will be new actors or directors. It is also a collection of different skills, such as writing and singing. To succeed in this subject, you need knowledge of linguistics, sociology, archeology, physics, psychology, and philosophy. Theater study is interdisciplinary, and you need to be a linguist and archaeologist to fully understand theater study. If we move everything away, there are some intellectual and distinctive things left. Hence, it is an ongoing project in the academy. What makes theater study distinctive is that it is an ongoing project that requires a study lifespan of 60 to 70 years. Theater study is a difficult subject in academy, and theater study is a combination of literature and life experience.
 
-240.Population growth. 人口增长
-
-This lecture mainly talks about the population. Firstly, the population should be related to the environment. And the increase in population will become a challenge. Secondly, opportunities can exist in the population. They will increase to six billion people. After all, food sources must have positive impacts on our lives. In conclusion, the population can be vital to the world.
-
 241.Leadership. 领导力
 
 This lecture mainly talks about leadership. Firstly, leaders can mobilize people’s energies in ways. Sometimes they can define goals and mobilize energies through rhetoric and the power of example. Secondly, we can think of leadership as a spectrum, including authoritative leaders like the president and casual, low-key leadership. Finally, the first one has been exhibited by men and the second one was women, but the pattern has been changing.
@@ -1132,10 +1269,6 @@ This lecture mainly talks about tutorials and lectures. Firstly, tutorials can b
 257.John Milton. 约翰·弥尔顿
 
 The lecture mainly talks about the topic of John Milton. Firstly, his poetry can be seriously affected by new sonnets, which can be related to the prose. Secondly, different writings can have an adverse impact on the content, because a lot of events can lead to personal freedom. Lastly, a work can be conducive to the publication, which can be crucial to a pamphlet.
-
-258.Australian Immigration. 澳大利亚移民
-
-This lecture mainly talks about Australian immigration. Firstly, migration may have a negative effect on indigenous people, because migration can harm the progress of humans in Australia. Secondly, sea levels lower than today can be significant influenced by coastline and tourists, which may pose a challenge to content separate. Lastly, multiculturalism can support the improvement of the majority of the population from Asia and South Asia.
 
 259.Telescope. 望远镜
 
@@ -1217,9 +1350,7 @@ The speaker discusses several historical perspectives of international law, emph
 
 The lecture gives information about the distinction between dialects and accents; the speaker underscores the shaping of dialects by diverse influences, such as geography, society, family and education; the speaker emphasizes the adaptability and interconnectedness of dialects within our linguistic landscape; overall, the lecture presents a comprehensive analysis of the nuanced difference between dialects and accents.
 
-279.Multiculturalism & Cultural Diversity. 多元文化与文化多样性
 
-The speaker talked about the importance of multiculturalism and diversity, which means we have different cultures and believe in the world. He also mentioned we should not only respect the different cultures but also celebrate them. Furthermore, we can learn from different cultures, and it is a good way to understand the world, and make the word inclusive. In conclusion, celebrating our differences can make the world better.
 
 280.Sound of words. 词语的声音
 
