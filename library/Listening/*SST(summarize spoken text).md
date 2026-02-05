@@ -92,6 +92,24 @@ The design of buildings is important. Architecture is the built environment and 
 
 建筑的设计很重要。建筑是建筑环境，是我们文化的一部分。有缺陷的设计会影响外观和健康状况。材料也很重要。许多有设计缺陷的老建筑通过自然选择过程被拆除或改造。建筑物必须适应新世界，否则就会被推倒。尊重文化差异是很重要的。
 
+14.Neolithic Stones. 新石器时代石器
+
+The lecture was mainly about mathematicians. At the beginning, the speaker mentioned that it had a mathematical significance, such as the concept of symmetry. After that, it looks like dice, which was a part of a game or a symbol of power. What's more, people don't really know what they are and mathematics is a great subject with joy and beauty and can let people know what is possible.
+
+讲座主要是关于数学家的。一开始，演讲者提到它有数学意义，比如对称的概念。在那之后，它看起来像骰子，是游戏的一部分或权力的象征。更重要的是，人们并不真正知道他们是什么，数学是一门充满快乐和美的伟大学科，可以让人们知道什么是可能的。
+
+15.Leadership. 领导力
+
+This lecture mainly talks about leadership. Firstly, leaders can mobilize people’s energies in ways. Sometimes they can define goals and mobilize energies through rhetoric and the power of example. Secondly, we can think of leadership as a spectrum, including authoritative leaders like the president and casual, low-key leadership. Finally, the first one has been exhibited by men and the second one was women, but the pattern has been changing.
+
+这个讲座主要讲的是领导力。首先，领导者可以通过各种方式调动人们的精力。有时，他们可以通过修辞和榜样的力量来定义目标和调动能量。其次，我们可以把领导力想象成一个光谱，包括像总统这样的权威领导者和随意、低调的领导者。最后，第一个是男性，第二个是女性，但模式一直在变化。
+
+16.Management and Leadership. 管理与领导力
+
+The speaker introduced the Education Leadership Initiative in the Stanford University. The program combines forces from the School of Education and the School of Business. The School of Education will focus on learning and the School of Business will focus on management. The university wants to make sure that they not only deliver services but also with good quality. Participants will collaborate and build relationship through group work.
+
+演讲者介绍了斯坦福大学的教育领导力倡议。该项目结合了教育学院和商学院的力量。教育学院将专注于学习，商学院将专注于管理。大学希望确保他们不仅提供服务，而且提供优质服务。参与者将通过小组工作进行合作并建立关系。
+
 1.Cocoa. 可可
 
 This topic is significantly focusing on cocoa. The speaker points out that cocoa used to be beverage and drinks with corn and water. This lecture gives information that cocoa used to be currency and be protected. The speaker also mentioned that someone believes cocoa give us wisdom, they drink it at their 18 years old ceremony.
@@ -210,19 +228,11 @@ This lecture mainly talks about the competition between universities. Firstly, t
 
 这个讲座主要谈论大学之间的竞争。首先，大学之间的竞争既是最优秀学生的竞争，也是最优秀教职员工的竞争。其次，大学在争夺政府资助，这基于研究质量、研究合同和捐赠。总之，这个讲座为我们提供了关于大学之间竞争的信息。
 
-
-
 23.Biology. 生物学
 
 The study of biology is responsible for the profound insight that humans have. The creatures have different forms and structures, but they are related to each other. All life forms rely on DNA and RNA for storing and transmitting their genetic information. They are all based on cells. In conclusion, the chemistry and molecules are all similar to each other.
 
 生物学研究为人类提供了深刻的洞察力。生物有不同的形式和结构，但它们彼此相关。所有生命形式都依赖DNA和RNA来存储和传递遗传信息。它们都基于细胞。总之，化学和分子彼此都很相似。
-
-24.Management and Leadership. 管理与领导力
-
-The speaker introduced the Education Leadership Initiative in the Stanford University. The program combines forces from the School of Education and the School of Business. The School of Education will focus on learning and the School of Business will focus on management. The university wants to make sure that they not only deliver services but also with good quality. Participants will collaborate and build relationship through group work.
-
-演讲者介绍了斯坦福大学的教育领导力倡议。该项目结合了教育学院和商学院的力量。教育学院将专注于学习，商学院将专注于管理。大学希望确保他们不仅提供服务，而且提供优质服务。参与者将通过小组工作进行合作并建立关系。
 
 26.Welsh Language. 威尔士语
 
@@ -1112,15 +1122,9 @@ civil right 公民权利:
 
 Children should eat more vegetables at school. If they eat more vegetables or salads at lunch, they will have some collectible coins as a reward. These coins can be used to exchange for some toys in the shop. By doing so. paying people for eating vegetables is possible.
 
-
-
 220.Complex problems. 复杂问题
 
 When you are facing a complex problem, you might need to break it into several manageable problems and solve one at a time. 把她拆解成小问题去解决，最后再 put together，举了一些例子。当你在看世界的时候，你需要看世界之间的关系。when you understand the world, a few things are in relation to each other. 你在学不同学科的时候，他们之间有关系。应该把一个学科 fits into a larger picture
-
-221.Neolithic Stones. 新石器时代石器
-
-The lecture was mainly about mathematicians. At the beginning, the speaker mentioned that it had a mathematical significance, such as the concept of symmetry. After that, it looks like dice, which was a part of a game or a symbol of power. What's more, people don't really know what they are and mathematics is a great subject with joy and beauty and can let people know what is possible.
 
 222.Experiment on climate change. 气候变化实验
 
@@ -1194,10 +1198,6 @@ Making the right decisions on certain occasions is just like starting up a compa
 239.Theater study. 戏剧研究
 
 Theater study is a difficult subject in the academy because it cannot be experimental and it is a mixture of literature and personal life experience. Theatre should show pure lives, although there will be new actors or directors. It is also a collection of different skills, such as writing and singing. To succeed in this subject, you need knowledge of linguistics, sociology, archeology, physics, psychology, and philosophy. Theater study is interdisciplinary, and you need to be a linguist and archaeologist to fully understand theater study. If we move everything away, there are some intellectual and distinctive things left. Hence, it is an ongoing project in the academy. What makes theater study distinctive is that it is an ongoing project that requires a study lifespan of 60 to 70 years. Theater study is a difficult subject in academy, and theater study is a combination of literature and life experience.
-
-241.Leadership. 领导力
-
-This lecture mainly talks about leadership. Firstly, leaders can mobilize people’s energies in ways. Sometimes they can define goals and mobilize energies through rhetoric and the power of example. Secondly, we can think of leadership as a spectrum, including authoritative leaders like the president and casual, low-key leadership. Finally, the first one has been exhibited by men and the second one was women, but the pattern has been changing.
 
 242.Organizational study. 组织研究
 
