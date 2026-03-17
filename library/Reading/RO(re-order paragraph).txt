@@ -14,6 +14,16 @@ Sort Type: Creation time(Ascending order)
 5、逻辑词 therefore, however, but, because;
 6、时间词 earlier, afterwards, consequently.
 
+RO技巧：
+结构：
+1.时间顺序，一般先过去到现在：the last time -> recently -> now -> eventually 
+2.总 -> 递进 -> 转折：everybody -> animals and plants -> a few plants and animals -> 具体介绍
+3.范围从大到小： most common language(范围最大) -> commonly referred to as chian(缩小到中国) -> one of many chinese(缩小到中国语言) -> depending on the region(缩小到部分区域) -> even in one province(具体到某个省) 
+找句子配对：
+1.句子中出现代词，一般在后，指代上句的踩点词（一般为本文的关键词or人物）
+2.出现the/these + n的句子，一般在后面，指代前面句子中的一个主语
+3.两个句子出现一样的单词，一般说明这连个句子相互连接
+
 1.Volkswagen. 大众汽车  
 
 2.Peru Timber. 秘鲁木材  
