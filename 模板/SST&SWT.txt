@@ -1,0 +1,39 @@
+PTE SST & SWT 总结题型高分模板
+
+题型概览
+SST (Summarize Spoken Text): 听一段录音 (60-90s)，写 50-70 字的总结。
+SWT (Summarize Written Text): 读一篇长文，写一句 5-75 字的总结（只能有一个句号）。
+虽然都是总结，但策略完全不同。
+
+1. Summarize Spoken Text (SST) 模板
+SST考察的是听力抓重点和写作造句的能力。
+
+SST 万能模板
+The lecture is mainly about [Topic/Keyword 1]. Firstly, the speaker mentions that [Point A]. Secondly, he discusses [Point B] and [Point C]. Finally, he suggests that [Point D]. In conclusion, the lecture is very informative.
+
+使用说明
+字数限制: 严格控制在 50-70 字。如果字数不够，就在 Point 处多加细节；如果字数超了，就删掉一些修饰语。
+语法: 确保 mentions that, discusses, suggests that 后面的从句语法正确。
+拼写: SST 只要出现拼写错误，Grammar 和 Spelling 分数都会受影响。
+2. Summarize Written Text (SWT) 技巧
+SWT 不需要复杂的模板，因为它要求全篇只能有一个句号。所以核心在于熟练使用连词。
+
+SWT "连词成句" 法
+结构公式:
+
+[关键句 1] + , and/but/however + [关键句 2] + , and/moreover + [关键句 3] + .
+
+操作步骤
+找主旨: 快速浏览文章，找出首段的中心句、结尾段的总结句，以及中间段落的核心观点句。
+去修饰: 删掉例子 (For example...)、数据、引用和冗长的形容词，只保留主谓宾。
+串联: 用 , and 或者 ; therefore, 把筛选出来的 3-4 个分句串起来。
+检查: 确保最后只有一个句号 .，并且字数在 5-75 字之间（建议 30-50 字为佳）。
+常用连接词
+并列/递进: and, moreover, furthermore, in addition
+转折: but, however, although, while
+因果: therefore, thus, as a result, because
+总结
+SST: 听关键词 -> 套入四句话模板 -> 检查拼写。
+SWT: 找关键句 -> 用连词串联 -> 确保只有一个句号。
+这两个题型只要练习 10-20 篇，就能形成极其稳定的肌肉记忆，是 PTE 考试中必须拿下的"基本盘"。
+

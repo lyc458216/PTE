@@ -1,0 +1,50 @@
+PTE Write Essay (WE) 大作文万能模板
+
+PTE 大作文评分揭秘
+PTE 的写作评分与雅思完全不同。雅思在意你的论证深度和逻辑闭环，而 PTE 的机器评分主要看重：
+
+词汇丰富度 (Vocabulary): 是否使用了高级词汇和学术搭配。
+语法多样性 (Grammar): 是否使用了从句、被动语态等复杂句型。
+拼写 (Spelling): 绝对不能有拼写错误！
+内容 (Content): 关键词是否命中话题。
+因此，我们的策略是：用一套结构复杂的模板，把简单的关键词填进去。
+
+WE 万能高分模板 (200-300字)
+这套模板适用于 "Do you agree or disagree", "Advantages/Disadvantages", "Problem/Solution" 等绝大多数题型。
+
+模板内容
+第一段：开头 (Introduction)
+
+One of the most conspicuous trends in the 21st century is the issue of [Topic/Keyword]. There is a widespread debate regarding whether [Viewpoint A] or [Viewpoint B]. In my opinion, I firmly believe that the former/latter view is more plausible, and the following essay will discuss the reasons in detail.
+
+第二段：论点一 (Argument 1)
+
+First and foremost, there are numerous arguments in support of the idea that [Main Argument 1]. The most significant reason is that [Supporting Sentence/Example]. For instance, recent research has demonstrated that [Sentence with Topic Keyword]. Therefore, it is obvious that [Restate Argument 1] plays a vital role.
+
+第三段：论点二 (Argument 2)
+
+Moreover, another key factor to consider is that [Main Argument 2]. It is widely acknowledged that [Supporting Sentence]. Specifically, looking at the example of [Example], we can see the benefits clearly. Consequently, this proves that [Main Argument 2] facilitates the development of society effectively.
+
+第四段：结尾 (Conclusion)
+
+In conclusion, taking all the above points into consideration, it is evident that [Summary of your opinion]. Although some people may argue otherwise, I still maintain that the advantages/importance of [Topic] cannot be overlooked.
+
+如何使用这套模板？
+假设题目是："Should watching TV be banned for children?"
+
+填空:
+
+[Topic]: watching TV for children
+[Viewpoint A]: it should be banned
+[Viewpoint B]: it is beneficial
+[Main Argument 1]: it can provide educational content
+[Main Argument 2]: it helps children relax
+凑字数:
+
+模板本身已经提供了很好的框架和大约 100 多个字的高级词汇（conspicuous, widespread, plausible, numerous, significant, demonstrate, facilitate）。
+你需要做的是保证你填进去的句子语法绝对正确。哪怕写简单句 "TV helps children learn." 也可以，因为模板已经帮你拉高了句式复杂度。
+避坑指南
+拼写检查: 写完一定要留 2 分钟检查拼写！Spelling 是 PTE 写作中最容易丢分也最不该丢分的地方。
+字数控制: 必须在 200 - 300 字之间。少于 200 或多于 300 会直接扣分。
+不要跑题: 哪怕你没有很好的论点，也要反复出现题干中的 Keywords。机器是靠检索关键词来判断你是否跑题的。
+掌握这套模板，PTE 写作拿 65+ 甚至 79+ 绝对不是难事！

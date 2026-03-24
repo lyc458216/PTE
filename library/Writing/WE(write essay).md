@@ -970,52 +970,85 @@ First and foremost, studies show there is a positive correlation between the two
 Last but not least, the social reason is another factor that should be considered. Some economists argue that the conservation of historic buildings is fatally flawed. However, preserving ancient architecture is now an acceptable phenomenon among a group of reputable scientists. Public perception about preserving ancient architecture is crucial for developing scientific consensus. For instance, a recent scientific study in this specific field by Harvard University proved that some convincing evidence to support this theory, which is about preserving ancient architecture.The study is among the initial projects funded by the university,and formal conclusions could be established through rigorous experiments.
 All in all, as a psychologist says that what we have experienced influences our behaviors. I firmly believe that even if conservation of historic buildings will require a considerable amount of money and manpower resources, it is indispensable to preserve ancient architecture.
 
-------------------------------------------------------------
-PTE 大作文评分揭秘
-PTE 的写作评分与雅思完全不同。PTE写作（Write Essay）的评分标准主要由机器完成，机器看重的是逻辑连接词（Coherence）、语法准确性（Grammar）以及词汇的相关性（Content）。雅思在意你的论证深度和逻辑闭环，而 PTE 的机器评分主要看重：
+---------------------------------------------WE 模板------------------------------------------------------------
+PTE写作（Write Essay）的评分标准主要由机器完成，机器看重的是逻辑连接词（Coherence）、语法准确性（Grammar）以及词汇的相关性（Content）。
+为了满足“简单易背”且“不生硬”的要求，我为你准备了两个通用模板。这两个模板避开了那些生僻难词（如 preponderance, aforementioned 等），使用的是标准的学术英语（Academic English），读起来更自然。
 
-词汇丰富度 (Vocabulary): 是否使用了高级词汇和学术搭配。
-语法多样性 (Grammar): 是否使用了从句、被动语态等复杂句型。
-拼写 (Spelling): 绝对不能有拼写错误！
-内容 (Content): 关键词是否命中话题。
-因此，我们的策略是：用一套结构复杂的模板，把简单的关键词填进去。
+模板一：观点类（Agree/Disagree）
+适用题目： Do you agree or disagree? / To what extent do you agree?
+逻辑结构： 介绍背景+表明立场 -> 论点1 -> 论点2 -> 总结。
 
-WE 万能高分模板 (200-300字)
-这套模板适用于 "Do you agree or disagree", "Advantages/Disadvantages", "Problem/Solution" 等绝大多数题型。
-
-模板内容
 第一段：开头 (Introduction)
+The issue of [题目关键词] has become a controversial topic in recent years. While some people argue that [改写观点A], others believe that [改写观点B]. Personally, I strongly agree with the latter/former view for the following reasons.
 
-One of the most conspicuous trends in the 21st century is the issue of [Topic/Keyword]. There is a widespread debate regarding whether [Viewpoint A] or [Viewpoint B]. In my opinion, I firmly believe that the former/latter view is more plausible, and the following essay will discuss the reasons in detail.
+(中文：[关键词]近年来成了一个有争议的话题。虽然有人认为[A]，但其他人相信[B]。我个人因为以下原因强烈同意后者/前者的观点。)
 
-第二段：论点一 (Argument 1)
+第二段：主体1 (Body Paragraph 1)
+Firstly, the main reason for my position is that [分论点1]. To be more specific, [解释句：为什么这么说]. For example, [举例：简单的例子], which clearly shows the importance/benefit of this idea.
 
-First and foremost, there are numerous arguments in support of the idea that [Main Argument 1]. The most significant reason is that [Supporting Sentence/Example]. For instance, recent research has demonstrated that [Sentence with Topic Keyword]. Therefore, it is obvious that [Restate Argument 1] plays a vital role.
+(中文：首先，我持有这个立场的主要原因是[分论点1]。具体来说，[解释]。例如[举例]，这清楚地展示了这个想法的重要性/好处。)
 
-第三段：论点二 (Argument 2)
+第三段：主体2 (Body Paragraph 2)
+Secondly, another important factor is that [分论点2]. It is widely acknowledged that [解释句：进一步阐述]. Therefore, if [假设情况], it will lead to positive results.
 
-Moreover, another key factor to consider is that [Main Argument 2]. It is widely acknowledged that [Supporting Sentence]. Specifically, looking at the example of [Example], we can see the benefits clearly. Consequently, this proves that [Main Argument 2] facilitates the development of society effectively.
+(中文：其次，另一个重要的因素是[分论点2]。众所周知，[解释]。因此，如果[假设]，将会导致积极的结果。)
 
 第四段：结尾 (Conclusion)
+In conclusion, based on the arguments mentioned above, I firmly believe that [重申你的观点]. It is predicted that this trend will continue in the future.
 
-In conclusion, taking all the above points into consideration, it is evident that [Summary of your opinion]. Although some people may argue otherwise, I still maintain that the advantages/importance of [Topic] cannot be overlooked.
+(中文：总而言之，基于上述论点，我坚信[观点]。可以预见这一趋势在未来将持续下去。)
 
-如何使用这套模板？
-假设题目是："Should watching TV be banned for children?"
+模板二：利弊讨论类（Advantages/Disadvantages）
 
-填空:
+适用题目： Discuss the advantages and disadvantages. / What are the pros and cons?
+逻辑结构： 介绍背景 -> 优点 -> 缺点 -> 总结。
 
-[Topic]: watching TV for children
-[Viewpoint A]: it should be banned
-[Viewpoint B]: it is beneficial
-[Main Argument 1]: it can provide educational content
-[Main Argument 2]: it helps children relax
-凑字数:
+第一段：开头 (Introduction)
+Nowadays, [题目关键词] plays an important role in our daily lives. However, whether it is a blessing or a curse has sparked a heated debate. This essay will discuss both the benefits and drawbacks of this phenomenon.
 
-模板本身已经提供了很好的框架和大约 100 多个字的高级词汇（conspicuous, widespread, plausible, numerous, significant, demonstrate, facilitate）。
-你需要做的是保证你填进去的句子语法绝对正确。哪怕写简单句 "TV helps children learn." 也可以，因为模板已经帮你拉高了句式复杂度。
-避坑指南
-拼写检查: 写完一定要留 2 分钟检查拼写！Spelling 是 PTE 写作中最容易丢分也最不该丢分的地方。
-字数控制: 必须在 200 - 300 字之间。少于 200 或多于 300 会直接扣分。
-不要跑题: 哪怕你没有很好的论点，也要反复出现题干中的 Keywords。机器是靠检索关键词来判断你是否跑题的。
-掌握这套模板，PTE 写作拿 65+ 甚至 79+ 绝对不是难事！
+(中文：如今，[关键词]在我们要生活中扮演重要角色。然而，它是福是祸引发了激烈的讨论。这篇论文将讨论此现象的利弊。)
+
+第二段：优点 (Body Paragraph 1 - Pros)
+On the one hand, there are several benefits associated with [题目关键词]. The most obvious one is that [优点1]. Moreover, it helps people to [优点2/解释]. For instance, recent studies indicate that [简单证据/例子].
+
+(中文：一方面，[关键词]有几个好处。最明显的是[优点1]。此外，它帮助人们[优点2]。例如，最近的研究表明[例子]。)
+
+第三段：缺点 (Body Paragraph 2 - Cons)
+On the other hand, the negative impacts cannot be ignored. The primary concern is that [缺点1]. In addition, [缺点2/解释]. Consequently, this may cause some serious problems for society or individuals.
+
+(中文：另一方面，负面影响不可忽视。主要的担忧是[缺点1]。此外，[缺点2]。结果是，这可能会给社会或个人带来严重问题。)
+
+第四段：结尾 (Conclusion)
+To sum up, while [题目关键词] brings certain advantages, its downsides should also be considered. In my opinion, the benefits outweigh the drawbacks.
+
+(中文：总的来说，虽然[关键词]带来了一定的好处，但其坏处也应被考虑。在我看来，利大于弊。)
+
+💡 使用贴士（必看）：
+
+填空要简单且准确：
+不要在 [ ] 里的内容上硬凑难词。PTE机器更喜欢语法正确、拼写无误的简单句，而不是满是错误的复杂句。
+
+好例子： ...is that it can save time. (简单、准确)
+
+坏例子： ...is that the temporal duration can be abbreviated. (生硬、易错)
+
+字数控制：
+PTE大作文要求 200-300字。
+这两个模板本身的字数大约在90-110字左右。你需要自己填写约100-120字的内容。
+
+每段的“解释句”和“举例”多写一点细节，字数很容易就够了。
+
+灵活替换：
+
+如果题目问的是 "Problem and Solution"（问题和解决），就把模板二改一下：
+
+第二段写：The main problem is...
+
+第三段写：The best solution is...
+
+举例可以是编的：
+不需要真实的社会新闻。
+
+通用例子： "For example, a recent survey conducted by a university showed that 70% of students prefer online learning." (只要语法对，数据可以编)。
+
+这一套模板的核心在于**连接词（Firstly, However, Consequently）**非常清晰，这是机器抓取逻辑分数的关键，同时句型结构也是标准的书面语，不会显得像是在背顺口溜。加油！

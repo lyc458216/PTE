@@ -1,0 +1,40 @@
+PTE Retell Lecture (RL) 高分复述模板
+
+为什么 RL 需要模板？
+Retell Lecture (RL) 要求考生听一段 60-90 秒的讲座，然后用 40 秒复述出来。很多同学的问题在于：
+
+听不懂：抓不到核心观点。
+记不下来：笔记乱七八糟，复述时看不懂自己写了什么。
+卡顿：边想边说，导致流利度爆炸。
+我们要利用 PTE 机器评分的特性：流利度第一。哪怕你说的内容只有几个关键词是对的，只要你用模板把它们流利地串起来，分数依然会很高。
+
+RL 万能高分模板
+这套模板的设计初衷是尽量减少思考时间，让你把精力全放在读出你记下的关键词上。
+
+模板结构
+Intro: The lecture is mainly about [Topic].
+Body 1: The speaker mentioned [Keyword 1] and [Keyword 2].
+Body 2: The speaker also mentioned [Keyword 3] and [Keyword 4].
+Body 3: The speaker also discussed [Keyword 5] and [Keyword 6].
+Conclusion: In conclusion, the lecture is very informative.
+实战技巧 (The "He said" method)
+如果你觉得上面的模板还要记 "mentioned", "discussed" 太麻烦，这里有一个更极其“无赖”但有效的 "He said" 模板：
+
+"The speaker said [Keyword 1]. He said [Keyword 2]. He also said [Keyword 3]. He said [Keyword 4]. In conclusion, he said [Keyword 5]."
+
+注意：这个模板看似简单，但要求你语调极其自信，通过重读关键词和自然的语气，让机器认为你在进行有逻辑的陈述。
+
+笔记怎么记？
+不要试图记整句！你的大脑 CPU 处理不过来。 只记名词 (Nouns) 和动词 (Verbs)。
+
+听到: "The global economy is facing a significant downturn due to inflation."
+笔记: Global economy, downturn, inflation.
+遇到听不懂的情况怎么办？
+看图说话：如果有配图，直接把它当成 Describe Image (DI) 做！用 DI 模板描述图片内容，也能拿分。
+盲猜：如果连图都没有，就仔细听讲座中最常出现的词（一般是主题词），然后套进模板："The lecture is about [重复听到的词]..."。
+练习建议
+泛听：每天听一段 TED 或科学 60 秒，尝试只记 5-6 个关键词。
+套词训练：看着自己的笔记，强制自己在 2 秒内反应过来并套入模板说出句子。
+录音：一定要录音！听自己有没有因为看笔记而产生 "En...", "Ah..." 的迟疑音。
+记住，RL 的本质是演技。即使你心里慌得不行，声音也要稳如泰山。
+
