@@ -11,28 +11,32 @@ DI 万能高分模板
 模板结构
 Introduction (开头)
 The image gives information about [Title].
-It is a beautiful image.
 Body (主体 - 找最大、最小、趋势)
 From the image, I can see [Item A] is the highest figure, which is about [Number].
-From the image, I can see [Item B] is the lowest figure, which is about [Number].
+From the image, I can also see [Item B] is the lowest figure, which is about [Number].
 Also, I can see the trend is changing quickly.
 Conclusion (结尾)
 In conclusion, the image is very informative.
+
 进阶版模板 (针对高分段)
 如果你追求 79+ 甚至满分，可以在主体部分增加更多细节，但切记不要牺牲流利度。
-
-开头: The graph provided reveals data regarding [Title].
+开头: 
+The graph provided reveals data regarding [Title].
 主体:
 According to the graph, it is clear that [Maximum Value] requires the most attention.
 On the contrary, [Minimum Value] is the least significant one.
 Moreover, figures for [Category] are increasing/decreasing significantly.
 结尾: Overall, this chart effectively illustrates the variations in [Topic].
+
 实战演示
 假设通过一道柱状图，标题是 "Population of Major Cities"。
-
 你的回答应该是：
-
-"The image gives information about Population of Major Cities. It is a beautiful image. From the image, I can see Tokyo is the highest figure, which is about 37 million. From the image, I can see New York is the lowest figure, which is about 18 million. Also, I can see the trend is changing quickly. In conclusion, the image is very informative."
+"The image gives information about Population of Major Cities. 
+It is a beautiful image. 
+From the image, I can see Tokyo is the highest figure, which is about 37 million. 
+From the image, I can also see New York is the lowest figure, which is about 18 million. 
+Also, I can see the trend is changing quickly. 
+In conclusion, the image is very informative."
 
 备考小贴士
 不要纠结数据准确性：机器不核对你读的数字是否精确，只听你读得顺不顺。看到 "19,873" 读不出来？直接读 "about 20 thousand" 或者单纯读 "number 20"。

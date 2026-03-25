@@ -20,7 +20,11 @@ Conclusion: In conclusion, the lecture is very informative.
 实战技巧 (The "He said" method)
 如果你觉得上面的模板还要记 "mentioned", "discussed" 太麻烦，这里有一个更极其“无赖”但有效的 "He said" 模板：
 
-"The speaker said [Keyword 1]. He said [Keyword 2]. He also said [Keyword 3]. He said [Keyword 4]. In conclusion, he said [Keyword 5]."
+"The speaker said [Keyword 1]. 
+He said [Keyword 2]. 
+He also said [Keyword 3]. 
+He said [Keyword 4]. 
+In conclusion, he said [Keyword 5]."
 
 注意：这个模板看似简单，但要求你语调极其自信，通过重读关键词和自然的语气，让机器认为你在进行有逻辑的陈述。
 

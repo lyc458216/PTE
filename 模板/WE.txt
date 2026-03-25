@@ -15,19 +15,27 @@ WE 万能高分模板 (200-300字)
 模板内容
 第一段：开头 (Introduction)
 
-One of the most conspicuous trends in the 21st century is the issue of [Topic/Keyword]. There is a widespread debate regarding whether [Viewpoint A] or [Viewpoint B]. In my opinion, I firmly believe that the former/latter view is more plausible, and the following essay will discuss the reasons in detail.
+One of the most conspicuous trends in the 21st century is the issue of [Topic/Keyword]. 
+There is a widespread debate regarding whether [Viewpoint A] or [Viewpoint B]. 
+In my opinion, I firmly believe that the former/latter view is more plausible, and the following essay will discuss the reasons in detail.
 
 第二段：论点一 (Argument 1)
 
-First and foremost, there are numerous arguments in support of the idea that [Main Argument 1]. The most significant reason is that [Supporting Sentence/Example]. For instance, recent research has demonstrated that [Sentence with Topic Keyword]. Therefore, it is obvious that [Restate Argument 1] plays a vital role.
+First and foremost, there are numerous arguments in support of the idea that [Main Argument 1]. The most significant reason is that [Supporting Sentence/Example]. 
+For instance, recent research has demonstrated that [Sentence with Topic Keyword]. 
+Therefore, it is obvious that [Restate Argument 1] plays a vital role.
 
 第三段：论点二 (Argument 2)
 
-Moreover, another key factor to consider is that [Main Argument 2]. It is widely acknowledged that [Supporting Sentence]. Specifically, looking at the example of [Example], we can see the benefits clearly. Consequently, this proves that [Main Argument 2] facilitates the development of society effectively.
+Moreover, another key factor to consider is that [Main Argument 2]. 
+It is widely acknowledged that [Supporting Sentence]. 
+Specifically, looking at the example of [Example], we can see the benefits clearly. 
+Consequently, this proves that [Main Argument 2] facilitates the development of society effectively.
 
 第四段：结尾 (Conclusion)
 
-In conclusion, taking all the above points into consideration, it is evident that [Summary of your opinion]. Although some people may argue otherwise, I still maintain that the advantages/importance of [Topic] cannot be overlooked.
+In conclusion, taking all the above points into consideration, it is evident that [Summary of your opinion]. 
+Although some people may argue otherwise, I still maintain that the advantages/importance of [Topic] cannot be overlooked.
 
 如何使用这套模板？
 假设题目是："Should watching TV be banned for children?"
