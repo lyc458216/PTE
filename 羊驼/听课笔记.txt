@@ -1,0 +1,226 @@
+自己笔记：
+--口语：
+重点流利度
+RA：8-12词，最好10个以上，注意虚词弱读，失爆；
+RS：听到不会的单词就背，加入单词本，要学会记意群和词组，练习时可以打开嘈杂模式，RS也要揪读音像RA一样，
+    命中率低，先刷高频，不管听到什么，只记自己认识的词，硬头皮拼也要拼，不会就用something，
+    主要抓流利度，内容50%就可；
+DI：描述有逻辑-主次，关键信息尽量覆盖；
+    content: 1.文字>数字>其他引申意；
+        2.串联元素关系（对比、比较、趋势）；
+        3.放大、加粗、标黑信息优先；
+        4.避免无关信息，口水堆砌，有效信息的输出非常重要；
+    Fluency&Pronunciation: 
+        1.流利度上要连贯流畅、不卡顿/回读/拖沓，自然不机械；
+        2.发音：清晰可识别（同RA），不讲究语法‼️
+    每道题讲到30-40秒最佳，一般【地图】/【纯图】题只会有一个
+
+DI模板：
+[线line graph/饼pie chart/柱bar chart/表table]
+要快速抓取数据，数据对应，数据趋势描述与总结；线图和柱图方便描述趋势（动态），饼图和表图方便做数据对比（静态）.
+1.Well, this [图片类型] we've got is mostly talking about [主题/标题].
+    In this [图片类型] we can get the information about [主题/标题].
+如果图片中有时间表达：
+    直接表达年/月份 in xxx (and xxx)
+    over [数字] year/month/day period.
+2.From this chart, we can see X axis shows ..., and Y axis shows...
+    Look at this chart, there are a bunch of things we can spot. Such as..., and...
+    We can see many items in this picture such as..., and...
+3.Well, it's obvious that the [maximum/highest/biggest/largest] number is ..., what is related to [对应横坐标]。
+    可补充：After that, [横坐标] comes in second, at 数值.
+    可补充：And the same number can also be seen on [对应横坐标].
+    可补充：Obviously, the second biggest number is ..., which is connected with...[对应横坐标]
+4.On the contrary, we can see the [smallest/lowest] value is...(which is [connected with/related to/relevant to]...[对应横坐标])
+    可补充：Also, we can find the second [smallest/lowest] number is..., which locates in the [横坐标].
+5.探讨关系：动态：趋势分析，随时间变化的趋势；静态：元素间的大小、高低对比
+    [动态]It is quite clear that the number of [横坐标] [increases/decrease/go up/go down] [slowly/mildly/slightly/suddenly/sharply/with a lot of fluctuation] from 数值 to 数值.
+    Another significant thing is that the number of [横坐标] falls to the bottom, at [数值].
+    Also, the number of... shows the greatest increase, from 数值 to 数值.
+    [静态]What's more, the number of [横坐标] is bigger/smaller than that of [横坐标], at [数值].
+    It is noticeable that the number of [横坐标] is much higher/lower than that of [横坐标], by [数值].
+    Additionally, I can spot that the number of [横坐标] is almost [double/triple/数字times] larger than that of [横坐标] in amount.
+6.In conclusion, this [图片类型] tells us about [主题/标题].
+    All in all, the picture gives information about [主题/标题].
+
+[流程图]
+1.The given picture is a flow chart, which is about [主题/标题].
+2.According to the picture, we can find that there are some [stages/steps] in the whole process. 
+3.First of all, we can see that the first step begins with... [描述一下颜色/形状/大小/几个/什么东西/其他特殊属性].
+4.After that, we can see... is also displayed here, in the second step.
+5.And apart from that, in the third step(and fourth step)[步骤多可以合并同类项], it can be seen that...
+6.And the last [stages/steps] is...
+    So in the end, according to the given chart, we can get the information about [主题/标题].
+
+[地图/纯图]
+1.Well, the picture shows the information about [主题/标题]
+2.Look at this picture, we can find ... on the [left/right] side.
+3.And if you look on the central part of the picture, there is..., which is/indicates [事物属性/大小/几个/颜色].
+4.And apart from that, we can see... and ... on the right side as well.
+5.So in conclusion, this picture shows [主题/标题].
+描述顺序：上->下，左->右(不会遗漏、重复)
+
+RL：
+人工审核，要有逻辑，答题要30s以上，分行记笔记，听5组左右意群就可以，流利度很重要，保证笔记的可读性，一行1点或2点关键词；
+笔记要记逻辑词：lead to/result in导致；come from/return/receive from(来自)；up/upward/rise/increase(提升)；
+compare/competitor/against（对比/对手/反对）about/around/or so/approximately; because/because of/due to; right/good/famous/well-known;
+wrong/incorrect/something bad/negative;
+注意重复出现的实词，注意信号词-But, although, however, so, because, we need to focus on..., the issue here is..., what we have discovered is..., for instance, to illustrate, on the contrary
+注意语气变化-放慢，重度.
+注意数据-具体数值，年份，百分比...
+注意开头和结尾出现的词.
+记重点-能听懂的实词词组（主题词，观点，信号词后的名词，动词短语），尽量记短语，连续词组，相对完整意群/句子.
+规范笔记格式，提高速记能力，只抓重点句，以理解为主梳理逻辑；
+练技巧手感，不要背题，熟练话题和叙述结构；
+不能将非关键词或者逻辑关联不大的词组进行套词框架堆砌，如果听到的关键句/词比较多可以进行DIY造句
+流利度是第一，日常练习简单造句，积累缓冲句式
+1.the lecture talks about relevant information about...(主题短语)
+    the speaker mainly talks about the topic of(主题短语)
+2.The speaker argues the statement with supporting details, including(短语并列), [and one key point is that ...]
+    The speaker starts with the discussion/lecture by saying that (句子)
+3.In addition, the lecture highlights...(短语或句子)
+    Another important detail is about... (短语)
+4.After that, the speaker also pays attention to the fact that (句子)
+    He/she also mentions about the importance of... (短语)
+5.Apart from that, the speaker tells us that...(句子)
+    Furthermore, the speaker. points out... (短语)
+6.Overall, the lecture provides valuable insights into...(句子)
+
+SGD：
+RTS：
+
+练习：
+RA：每天5道，每道达到70分，一句话即可
+RS：每10题1组，每天3组，每组总结问题，每道到70分，
+DI：每天3道，练到65分
+
+--听力：  
+背单词--听到，读出来
+刷机经、背关键词（主要SST），keywords拼写（WFD+SST+FIB）
+重点题型：SST、FIB、HIW、WFD
+
+WFD：
+1.只关注单词拼写，连顺序都无所谓；
+    高频题 > 全题库；
+    多用收藏功能；
+    发音和拼写都要练，
+2.和RA交叉练习
+3.RS交叉，听力强化
+4.建立生词本，首字母/意群练习，模拟练习
+5.巩固错题，提高准确率到80%-90%
+
+临场技巧-试词
+1.冠词（a, an, the）
+例：听到"university library ..."
+试词:A a An an the The university library ...
+
+2. 复数结尾（-s/-es）
+例：听到“student..
+试词：students student
+
+3.时态助动词（is/was/are/were, has/have/had, wil/would)
+例：听到"the experiment .. completed”
+试词: The experiment was is has had completed
+
+4.功能词 (of, in, on, to, for, with)
+例：听到"the effect ... environment"
+
+5.连词(and, but, or, that, which)
+例:听到"The key point is the policy will be changed.
+试词: The key point is that the policy will be changed.
+
+6.派生/变形词
+听不清是 economy/economic/economical 时都写
+
+FIB：
+填空题，2-3題
+每題30-60s，4-6个空
+10s准备时间：扫一遍文章，注意距离近的空格，眼睛跟着录音定位
+一空一词，一词一分；正加分，不会倒扣分，所以不确定的也写上
+检查拼写、语法
+鼠标切換空格
+背高频单词
+建议做题时间1min
+
+--阅读：
+SWT, HIW也给阅读供分；
+FIB下拉、FIB拖拽、RO建议每题2mins，阅读单选、多选建议每题30s-1min；
+阅读多选：多选可以随便选一个，极端的不要选，比如mostly/can not等
+FIB下拉：下拉一般只考4种题型，要做到看到选项知道考点：逻辑(少)/语法(少)/固定搭配(多)/词语辨析(多)，10mins内要完成全部下拉阅读；
+    完成之后核对答案，分析好错误原因，理解挖空考点和篇章意思，善用APP/网页的单词收藏和错题收藏功能，需要记住单词的读音/词性/词义，需要至少熟悉4-5遍，积累生难词，和固定搭配，进行常考近义词区分
+    选逻辑词：选逻辑词-看上下文，相同还是相反，空格位于句首，需要定位上下文判断两者的关系，下拉阅读要找线索，一定只根据逻辑关系选词不要过度理解；
+        前后词性/时态/感情色彩/句子结构的一致性都要根据逻辑词来做判断；
+        相同/正向: and, as well as, also, moreover, further more, similarly, or
+        相反/反向：however, but, instead, while, on the contrary, by contrast, whereas
+    语法一般只考时态和非谓语：
+        时态：
+        1.看时间词
+        2.没有时间词-看本句和上下文
+                            过去完成时-had done               过去时                 现在完成时-have/has done              现在时-do/does                                           
+        <-----------------------------------------------------|---------------------------------------------------------|
+        before/by 1830(直到1830)                            in 1830                since 1830                          A has played a role in reducing risk.                            
+        have been done                                     last year              until now                           now
+        is/was discovered                                  yesterday              over/in the past/last years         every four years
+                    have been done 被动语态                                        before/yet 然而/already
+                    have been doing 进行时 eg for two hours                        this is the first time 第一次
+
+        谓语/非谓语：动词修饰部分一般有：三长（介词短语/非谓语动词短语/从句）两短（adj/adv）；
+            介词前要填不及物动词，因为介词后面的都是修饰这个动词的，副词前面也要选不及物动词
+        有谓语：填非谓语，V-ing（主动），V-ed（被动），to do（目的/将要）
+        没有谓语：填谓语（时态/语态/单复数）
+        判断动词是否及物，就看有没有被动语态，没有被动语态的是不及物动词
+
+
+-------------------------------------------
+第一天口语：
+上课内容：备考侧重简介，RA、RS、DI技巧讲解+带练
+学员情况：学生基础较好，RA，RS把基本问题解决掉，注意常错的几个小点。DI基本能掌握框架，用模板辅助流利度，需要注意叙述状态的自然。
+学习建议：
+1. RA依然读一句话，注意实虚词重弱读的区分，以及失爆的处理。
+2. 充分利用40s准备时间，不着急读，选完句子先看一眼需要注意的/易错部分，尽量不要卡顿。着重关注第一遍的发挥，读完后要复听。RA每天5道打底 (全题库)。
+3. RS抓词至少≥4个，内容分保1保2即可，在词数足够的情况下优先把握流利度。抓词少的话记得重复几遍，且每一遍衔接要紧密。
+4. 中间缺失的词可以用something缓冲，敢于舍弃，不要停下来想。
+5. 听完后先在脑子里过一遍要说的东西，再开口，不要边说边想。
+6. 做完后积累生词+词组，把单词放在词组和固定搭配中记能提高抓词效率。
+7. 考前全题库机经尽量刷完(能刷多少刷多少)，10题rs为一组，每天3组(灵活调整)RS 全题库。着重关注首练的状态。
+8. 数据图的模板根据PDF的框架每句整理出2-3套，熟读至考前要脱稿。并在题目中调整模板的细节。
+9. 数据图高频每天2题，可分类练习
+课后作业：
+1. 交练习的其中3条RA(一句话)、3条RS给我(首读)，和其中DI(一篇数据图#41976 social media sites)，剩余练习有疑问的部分@助教老师批改
+2. 预习DI流程图+地图、和RL模板。
+https://yangtuoyy.wjx.cn/vm/Q0XVVkC.aspx
+另外同学有空的话可以帮我做个问卷调查，填写你的真实感受即可，感谢～ 
+
+------------------------------------------------------
+第二天听力：
+上课内容： PTE考试综合概览讲解＋WFD部分重点讲解＋FIB-L讲解 
+学员情况： 需要继续加强词汇和基础基础，并强化一下进阶的单词的听辨及拼写比如exceptional circumstances等一些较为学术的进阶词汇；以及在过程中继续加强老师讲过的试词法进行训练，再接再厉！
+学习建议： 建议在WFD操练过程中 着重注意试词的部分 比如可以提前打上实虚词in on of等，因为考试过程中可以直接复制粘贴。 在操练每个句子的时候先搞清楚句意，意群，重点单词的积累等相关问题。另外，在完成句子后要对于句子的语法和逻辑细节进行进一步的打磨和检查哦；还有就是要去注意考试中对于该题每题的时长的进一步把控，简单来讲呢，就是一道题有个一分多钟的复原时间哈，继续加油叭！~
+课后作业： 每日按照上课讲评的方式操练WFD 30-60句（注意积极纠错和建立单词本以及标签等功能的运用方便及时巩固和后续的轮动复习哦）
+FIB-L每日5-10篇
+
+------------------------------------------
+第三天口语：
+上课内容：DI地图/流程图+ RL技巧讲解
+学员情况：学生能很快地掌握框架，后续可以在练习中尝试丰富填词的内容，并在细节上灵活处理。RL能抓到4-5组词左右，后续需进一步提高边听边记边理解的能力，和捕捉词组的能力。
+学习建议：
+1. 背熟一套地图+一套流程图模板，灵活调整部分模板词(比如方位right left top bottom...)，同时描述时 记得带上元素属性(颜色/形状/大小/地理位置/方位关系/步骤关系)
+2. 注意根据不同的图调整模板细节，比如地图题的方位叙述关系、流程图的步骤增添/合并。
+3. 保持每天2-3道DI打底的节奏，主要练习做题思路+对图片的快速理解+25s内码信息。
+4. 分题型隔天交叉练习
+    - 数据图高频每天2题，保证后期无论什么数据图都能顺利表达
+    - 非数据高频题每天3题，中原题概率＞数据图，尽量刷完留个思路
+5. RL根据信号词识别重点，培养对信号词的敏感度，多尝试记短语、相对完整的、能够形成意思的词组，减轻造句负担。
+6. 以4-5个词组为目标(大约10个单词左右)，造句时在理解原文主旨的基础上，不需要考虑语法，但意思尽可能贴合原文主题。
+7. 做完后对照原文和翻译。对照原文划关键词/信号词。原文中没记到的生词，结合其前后的固定短语/词组，要去积累一下，词组和短语熟悉了才能提高抓词效率。
+8. RL每天2题，保持做题手感，先刷高频，掌握高频题叙述框架。
+课后作业：交练习的其中一篇地图/流程图DI给我(流程图#11610 life cycle of an apple；地图#32392 The Graduate Laboratory)，一道高频题RL音频及笔记(#37263 Bilingual kids)，剩余练习有疑问的部分@助教老师批改
+https://yangtuoyy.wjx.cn/vm/Q0XVVkC.aspx
+另外同学有空的话可以帮我做个问卷调查，填写你的真实感受即可，感谢～ 
+
+-----------------------------------------
+第四天阅读：
+上课内容：重点介绍了阅读的题型以及FIB-Dropdown的解题技巧，讲解了做题方法，带着做了几道题目。
+学员情况：学生课堂理解能力很好，学生态度认真，耐心，专心听讲，反馈积极。
+学习建议：充分消化课上提到的理论技巧，能把技巧运用到实践做题当中。要根据文章上下文做题，平常进行多练习，多积累单词。
+课后作业：根据课堂上说的要求自己开始刷下拉FIB-Dropdown的高频机经，今天作业刷题号#42556 Technology and education,#42442 How world works, #42126 Crime prevention：的题目，后续每天尽量保持FIB-Dropdown 5-6 道题目，然后积累题目中的固定搭配和单词。建议每天学习阅读1h。同时群内有问题可以艾特我哈~
+https://yangtuoyy.wjx.cn/vm/Q0XVVkC.aspx 另外麻烦同学帮我做个问卷调查，填写你的真实感受即可。谢谢啦～
