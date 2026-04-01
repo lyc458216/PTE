@@ -27,6 +27,7 @@ DI模板：
     Look at this chart, there are a bunch of things we can spot. Such as..., and...
     We can see many items in this picture such as..., and...
 3.Well, it's obvious that the [maximum/highest/biggest/largest] number is ..., what is related to [对应横坐标]。
+    可补充：it is from [数值] to [数值]. 横坐标从多少到多少
     可补充：After that, [横坐标] comes in second, at 数值.
     可补充：And the same number can also be seen on [对应横坐标].
     可补充：Obviously, the second biggest number is ..., which is connected with...[对应横坐标]
@@ -36,6 +37,7 @@ DI模板：
     [动态]It is quite clear that the number of [横坐标] [increases/decrease/go up/go down] [slowly/mildly/slightly/suddenly/sharply/with a lot of fluctuation] from 数值 to 数值.
     Another significant thing is that the number of [横坐标] falls to the bottom, at [数值].
     Also, the number of... shows the greatest increase, from 数值 to 数值.
+    The overall trend of [主题] is downward/upward.
     [静态]What's more, the number of [横坐标] is bigger/smaller than that of [横坐标], at [数值].
     It is noticeable that the number of [横坐标] is much higher/lower than that of [横坐标], by [数值].
     Additionally, I can spot that the number of [横坐标] is almost [double/triple/数字times] larger than that of [横坐标] in amount.
@@ -86,7 +88,11 @@ wrong/incorrect/something bad/negative;
 6.Overall, the lecture provides valuable insights into...(句子)
 
 SGD：
+最好说1分30秒以上，信息间要有逻辑关系
+一个主观点有1-2个support details 并用逻辑关系词
+
 RTS：
+建议超过30s
 
 练习：
 RA：每天5道，每道达到70分，一句话即可
