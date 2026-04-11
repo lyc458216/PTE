@@ -56,3 +56,1027 @@ Although some people may argue otherwise, I still maintain that the advantages/i
 字数控制: 必须在 200 - 300 字之间。少于 200 或多于 300 会直接扣分。
 不要跑题: 哪怕你没有很好的论点，也要反复出现题干中的 Keywords。机器是靠检索关键词来判断你是否跑题的。
 掌握这套模板，PTE 写作拿 65+ 甚至 79+ 绝对不是难事！
+
+WE：
+内容(人工审核)：逻辑、论点、论据，与主题相关的实词-名词动词形容词
+格式(人工审核)：每段空行，不锁进，大小写，标点，空格要注意，行文发展，结构和连贯性（DSC- Development, Structure and Coherence）
+语言的广度(人工审核)：GLR- General Linguistic Range 丰富
+语法：正确，多样，正常语法主谓宾
+词汇的广度：Vocabulary Range 清晰搭配正确
+拼写：错一个扣一分，尽量使用 The+动词原型 can/will/may/should，
+羊驼APP练习要保证14分以上
+
+论点论据举例：
+论点：I think exercise is good for our health;
+论据：For example, running can reduce our stress.
+
+根据WE的作文的回答，大致可以分为两个类别：
+单边论证+解决问题（一边倒类型+给观点直接论证）：
+    观点类-同意与否：What is your opinion? Do you agree or disagree? 
+    方案讨论类-如何解决：What is the solution? What action will you recommend to take?
+双边论证（正反观点+中立观点）:
+    论证类-正反方：Discuss both the advantages and disadvantages of...; Do you think it is a curse or blessing?
+
+关于首句：
+如果题目中有背景介绍，直接抄背景介绍，举例：
+--有背景描述的问题：
+Nowadays, people believe that the environments influences their accomplishments. 
+Some people think their success and accomplishments were influenced by the places where they grew up.
+Do you think the environment does or does not affect people's accomplishments and how it affects?
+--回答：
+Nowadays, people believe that environment influences their accomplishments. 
+Some people think their success and accomplishments were influenced by the places where they grew up.
+This issue clearly matters to both individuals and society.
+From my perspective, the environment affects people's accomplishments in two ways.
+
+--没有背景描述的问题：
+Whether travel is a necessary component in quality education?
+
+--回答：
+In recent years, the topic of quality education has drawn a lot of public attention. 
+This issue clearly matters to both individuals and society.
+From my perspective, travel is a necessary component in quality education.
+
+所有框架句可进行同意替换或变换句型
+单边论证+问题解决类型：
+第一段：
+题干陈述句。（如果题干没有陈述句则用：In recent years, the topic of 【题干关键词（名词）】） has drawn a lot of public attention. 
+This issue clearly matters to both individuals and society. 
+From my perspective,【我的观点-回答题干问题(句子)】.
+举例：
+题干关键词：quality education
+我的观点-回答题干问题的句子：travel is a necessary component in quality education.
+第二段：
+First and foremost, 【论点1】. It is quite important for 【利益相关人1（名词）】 because 【论点1的论据1（句子）】.
+For example, 【编一个论据1的相关例子（句子）】. 
+It is worth noting that several recent studies, especially those of an academic nature, have proven my point. The findings directly support what I discussed above.
+What is more, another reason must be taken into consideration.【论点1的论据2（可选）】. 
+Therefore, these examples/reasons(二选一) collectively underscore the importance of recognizing that【论点1的相关词（名词单数）】is indeed the case.
+举例：
+论点1-travel对deu1: students can open their views. 利益相关人1=students
+论据1: students can know the local cultures. 编一个论据1相关例子：I can know British culture through travel. 
+论据2: students can learn the history.
+论点1的相关词: travel
+第三段：
+In addition, another key reason supporting the argument is that 【论点2】.
+This factor is particularly significant because 【论点2论据】.
+A relevant example is 【编一个论点2相关的例子】.
+Through this example, one can better appreciate the value of 【论点2相关词】.So, 【论点2换一种表述（句子）】
+举例：
+论点2-travel对deu2: students can improve their language.
+论据: students can talk with foreign friends.
+编一个论点2相关的例子: I improve my English through travel.
+论点2的相关词: travel
+论点2换一种表述: students can enhance their language skills.
+第四段：
+In conclusion, more and more 【利益相关人2（名词）】 are focusing on 【主题相关词（名词）】. 
+It is obvious that we should acknowledge the importance of 【主题相关词（名词）】.
+In light of these points, it is clear that 【主题相关句】,and we must take action to ensure a better future.
+举例：
+利益相关人2: students/learner/young people
+主题相关词：travel
+主题相关句：travel is an important part in quality education.
+
+双边论证类：
+第一段：题干陈述句。如果题干没有陈述句则用：
+In recent years, the topic of 【题干关键词（名词）】） has drawn a lot of public attention. 
+This issue clearly matters to both individuals and society.
+In fact, I highly believe that the issue of 【主题词】has both advantages and disadvantages.
+
+第二段：
+First and foremost, 【论点1（句子）】.It is quite important for 【利益相关人1（名词）】 because 【论点1的论据1（句子）】.
+For example, 【编一个论据1的相关例子（句子）】.
+It is worth noting that several recent studies, especially those of an academic nature, have proven my point. The findings directly support what I discussed above.
+What is more/For example, another reason must be taken into consideration.【论点1的论据2（可选）】. 
+Therefore, these examples/reasons(二选一) collectively underscore the importance of recognizing that【论点1的相关词（名词单数）】,as is indeed the case.
+
+第三段：
+On the other hand, critics point out that【对立观点-论点2（句子）】.
+This factor is particularly significant because 【论点2论据】.
+A relevant example is that 【编一个论点2相关的例子】.
+Through this example, one can better appreciate the value of 【论点2相关词】.So, 【论点2换一种表述（句子）】
+
+第四段：
+In conclusion, more and more 【利益相关人2（名词）】 are focusing on 【主题相关词（名词）】. 
+While 【主题相关词（名词）】 has its merits, it is important to consider its potential downsides.
+In light of these points, it is clear that 【主题相关句（句子）】, and we must take actions to maximize benefits while minimizing adverse impacts.
+
+1. work and personal life / work-life imbalance
+Nowadays, it is important to maintain the right balance between one's your job and private, personal life,
+such as leisure time(with family members). How widespread do you think this problem is? What problem it may bring?
+How important it is and why people find it hard to achieve it?
+单边
+-第1段
+题干关键词:keeping the right balance between work and personal life.
+我的观点:this balance is very important and it is hard to achieve.
+-第2段
+论点1:having free time is good for your health. 利益相关人名词1:workers 
+论据:working all day makes people feel sick. 
+举例:many office workers are very tired every day, and they need time to sleep well.
+论点相关词:good health
+-第3段
+论点2:jobs are very busy today.
+论据:companies give people too much work to do.
+举例:my friend often works until late at night.
+论点相关词:family time.
+论点换一种表述:finishing work on time is difficult.
+-第4段
+利益相关人名词2:employees
+主题相关词:work-life balance
+主题相关词:relaxation
+主题相关句:keeping the right balance between work and personal life is necessary.
+
+2.Restoration of buildings
+More and more countries spend large amounts of money on the restoration of buildings instead of on modern housing.
+To what extent do you agree or disagree with this analysis? Support your writing with your experience or examples.
+双边:
+-第1段
+题干关键词:spending money on hold buildings
+主题词:saving old buildings
+-第2段
+论点1:repairing old buildings is good for history.  利益相关人名词1:tourists
+论据:they can see old culture and art.
+举例:many people visit the Great Wall in China to learn about Chinese history and culture.
+论点相关词:fixing old buildings
+-第3段
+对立观点:we need to build more new houses.
+论据:cities have too many people now.
+例子:young people cannot afford houses, because houses are expensive.
+相关词:building modern flats.
+论点2换一种表述:spending money on housing is also right.
+-第4段
+利益相关人2:governments
+主题相关词1:this problem
+主题相关词2:fixing old buildings
+主题相关句:we need a balance,
+
+3.Countryside or city
+Living in the countryside or having a city life, which one do you prefer?
+Please use examples or your personal experience to support your opinion.
+双边:
+-第1段
+题干关键词:living places
+主题词:choosing between the city and the countryside
+-第2段
+论点1:living in a city offers great convenience.  利益相关人名词1:young people
+论据:everything we need is accessible, such as shops, hospitals and transportation.
+举例:a person can find a 24-hour store if they need something late at night.
+论点相关词:convenience
+-第3段
+对立观点:the countryside provides people with a peaceful lifestyle.
+论据:there is less pollution and noise in the countryside, which helps reduce stress.
+例子:people in the countryside can enjoy fresh air and grow their own vegetables.
+相关词:a peaceful environment.
+论点2换一种表述:the quite life in the country is a great benefit.
+-第4段
+利益相关人2:families
+主题相关词1:the living environment
+主题相关词2:city life
+主题相关句:both lifestyles have their own unique points
+
+4.Age restrictions
+Age restrictions can be seen everywhere. 
+It is believed that people should not do things until they research the right age, such as marriage, and driving.
+Select one activity and state the minimum age that you think. Support with your own experiences.
+双边:
+-第1段
+题干关键词:minium age for driving
+主题词:setting a driving age
+-第2段
+论点1:allow teenagers to drive at a younger age, such as 16, can provide them with independence.  
+利益相关人名词1:teenagers
+论据:it allows young people to get to school or part-time jobs on their own.
+举例:a 16-year-old student can participate in more after-school activities by car.
+论点相关词:early independence
+-第3段
+对立观点:a higher driving age, like 18, is much safer for everyone on the road.
+论据:18-year-olds have better judgment than younger teens. 
+例子:an older driver is less likely to be distracted by friends in the car.
+相关词:safety
+论点2换一种表述:--
+-第4段
+利益相关人2:parents
+主题相关词1:road safety
+主题相关词2:setting a younger driving age
+主题相关句:we must balance convenience with safety
+
+5.Foreign language learning
+Advanced technology such as artificial intelligence can translate a foreign language easily.
+Do you think learning a foreign language is still necessary? 
+Support your point of view with your own experience?
+双边:
+-第1段
+题干关键词:learning a language
+主题词:learning foreign languages
+-第2段
+论点1:learning a language allows for a deep connection with other cultures.  利益相关人名词1:students
+论据:language holds the key to understanding a culture's way of thinking.
+举例:we could only truly appreciate the jokes in a comedy show after I understood the cultural background.
+论点相关词:cultural understanding
+-第3段
+对立观点:AI translators provide incredible convenience and speed.
+论据:it turns communication problems into simple tasks.
+例子:a tourist can use a phone app to instantly ask for directions.
+相关词:easy communication
+论点2换一种表述:--
+-第4段
+利益相关人2:global citizens
+主题相关词1:how to communicate effectively
+主题相关词2:AI translation
+主题相关句:technology is a helpful tool
+
+6.High pay
+Should there be a maximum wage for the high-paying group? Is it good or bad?
+To what extend do you agree with this statement? Please give your reasons or arguments.
+双边:
+-第1段
+题干关键词:setting a maximum wage
+主题词:setting a maximum wage for the high-paying group
+-第2段
+论点1:setting a maximum wage can show fairness  利益相关人名词1:lower-income workers
+论据:it could reduce the huge gap between the rich and the poor
+举例:many saved from a CEO's high salary could be sent to factory workers
+论点相关词:social fairness
+-第3段
+对立观点:a maximum wage could harm the economy
+论据:it may discourage talented people from working hard if they know their income has a limit
+例子:a top scientist might decide to move to another country that does not have a wage limit.
+相关词:rewarding
+论点2换一种表述:--
+-第4段
+利益相关人2:governments
+主题相关词1:income inequality
+主题相关词2:a maximum wage
+主题相关句:limit has both pros and cons
+
+7.The rights of privacy
+People who are famous entertainers or sportspeople should give up the right to privacy because this is the price of fame.
+To what extend do you agree or disagree with this point of view?
+Give your opinion with your experiences.
+双边:
+-第1段
+题干关键词:privacy
+主题词:expecting famous people to give up their privacy
+-第2段
+论点1:the privacy of famous shows us who they really are  利益相关人名词1:fans
+论据:following a celebrity's life provides entertainment and connection
+举例:magazines and TV can show us the lives of famous people.
+论点相关词:public attention
+-第3段
+对立观点:famous people are still human beings who need a private life
+论据:public attention can cause inconvenience
+例子:a famous singer cannot take their child to a park freely
+相关词:basic human rights
+论点2换一种表述:--
+-第4段
+利益相关人2:people 
+主题相关词1:well-being of famous people.
+主题相关词2:public interest in celebrities
+主题相关句:famous people should not lose their right to privacy.
+
+8.Working fewer hours
+In the future, people will work fewer hours at their jobs.
+To what extent do you agree with it?Please support your opinion with your own experience.
+双边:
+-第1段
+题干关键词:working hours
+主题词:working fewer hours 
+-第2段
+论点1:technology like AI will make our work much more efficient.  利益相关人名词1:employees
+论据:AI can handle many difficult tasks
+举例:there are many software that can organize data in only a few minutes.
+论点相关词:working efficiency
+-第3段
+对立观点:competition can keep people working longer hours
+论据:some people always want to work more to earn more money for a better life.
+例子:many people toady would work overtime to save for a house.
+相关词:working overtime 
+论点2换一种表述:--
+-第4段
+利益相关人2:companies and workers
+主题相关词1:the idea of work-life balance.
+主题相关词2:the desire to earn more money
+主题相关句:the development of technology will lead to shorter working hours.
+
+9.Shorten working week
+Unemployment among young people is a serious problem.
+Some people propose shortening working weeks in order to heir more people to work.
+What do you think are the advantages and disadvantages of this approach?
+Is it applicable just to young workers or the whole workforce?
+双边:
+-第1段
+题干关键词:unemployment
+主题词:shorting working weeks
+-第2段
+论点1:a shorter workweek can directly create more job opportunities.  利益相关人名词1:young people
+论据:if employees work fewer hours, companies must hire new staff to cover the time
+举例:instead of one person working 40 hours, a company could hire two people wo work 20 hours each.
+论点相关词:job creation
+-第3段
+对立观点:this solution could lead to lower pay.
+论据:working fewer hours often means a lower salary
+例子:companies might face higher costs for training a larger number of employees.
+相关词:a good financial situation
+论点2换一种表述:--
+-第4段
+利益相关人2:governments 
+主题相关词1:solving youth unemployment
+主题相关词2:shorter workweek
+主题相关句:the shorter workweek has advantages and disadvantages
+
+10.Compulsory learning
+Learning a foreign language should be compulsory at school. 
+Please use examples or your personal experience to support your opinion.
+双边:
+-第1段
+题干关键词:language learning
+主题词:this school rule
+-第2段
+论点1:learning a new language helps us understand other people and their cultures.  利益相关人名词1:students
+论据:it can broaden their outlook to a bigger world.
+举例:when I started learning English, I was able to watch simple cartoons and understand the stories.
+论点相关词:understanding the world
+-第3段
+对立观点:asking all students to learn a language can be a problem
+论据:some students may find it too hard and it could make them feel stressed.
+例子:a student who is good at science might get a bad grade in a language class.
+相关词:letting students choose.
+论点2换一种表述:--
+-第4段
+利益相关人2:teachers and parents
+主题相关词1:what is best for students
+主题相关词2:a required language class
+主题相关句:learning a foreign language has both advantages and disadvantages
+
+11.Children's grow up in the 21st century
+It's harder for children to grew up in the 21st century than it was in the past.
+Agree or disagree.
+双边:
+-第1段
+题干关键词:children
+主题词:children growing up today
+-第2段
+论点1:children today face more pressure than in the past  利益相关人名词1:children
+论据:too much pressure can affect their mental and physical health
+举例:many children now need to deal with a lot of school exams.
+论点相关词:the difficulty of growing
+-第3段
+对立观点:children today enjoy better living conditions
+论据:modern technology makes learning easier and faster
+例子:children can learn new knowledge online
+相关词:modern educational
+论点2换一种表述:growing up today is not always negative.
+-第4段
+利益相关人2:people 
+主题相关词1:the challenges children face.
+主题相关词2:modern life 
+主题相关句:children today grow up in a complex environment
+
+12.The information revolution
+The information revolution
+The information revolution brought about by modern mass media has both positive
+and negative consequences for individuals and society.
+To what extent do you agree or disagree? Discuss with your own experience.
+双边:
+-第1段
+题干关键词:modern media
+主题词:the information revolution
+-第2段
+论点1:getting information is easy  利益相关人名词1:students
+论据:they can learn new things online
+举例:people can use Google to find answers quickly, and they can talk to friends far away online.
+论点相关词:using media 
+-第3段
+对立观点:it has some bad problems
+论据:some news on the Internet is false and fake.
+例子:children may play too many games on phones
+相关词:being carful.
+论点2换一种表述:mass media can have some bad influence on people
+-第4段
+利益相关人2:people 
+主题相关词1:this issue
+主题相关词2:the information revolution
+主题相关句:we should use the media wisely
+
+13.Deduction of late submission
+Some universities deduct marks from students' work if it is given in late,
+what are your views and what action would you recommend taking?
+单边
+-第1段
+题干关键词:students handing in their homework late
+我的观点:deducting marks for late work is a good idea.
+-第2段
+论点1:it helps students learn to be on time 利益相关人名词1:students
+论据:they must finish their school work quickly.
+举例:my classmates always finish their homework on Friday night, which means that they study more effectively then before.
+论点相关词:time management
+-第3段
+论点2:it is fair to every student
+论据:universities need clear rules for homework
+举例:good students can get good marks
+论点相关词:fairness
+论点换一种表述:having rules is very important
+-第4段
+利益相关人名词2:universities
+主题相关词:this problem 
+主题相关词:being on time
+主题相关句:universities should deduct marks from students' work if it is given in late.
+
+14.Large shopping malls or small shops
+Large shopping malls are replacing small shops.
+What do you think are the positive effects? Discuss with appropriate examples.
+单边
+-第1段
+题干关键词:shopping malls
+我的观点:the development of large shopping malls brings many positive effects
+-第2段
+论点1:large shopping malls are useful for consumers   利益相关人名词1: people
+论据:they can buy different products in one place 
+举例:shopping malls usually include supermarkets and clothing stores, which helps them save shopping time.
+论点相关词:large shopping malls are
+-第3段
+论点2:large shopping malls create more jobs
+论据:employment is important for a country
+举例:shopping malls need lots of staff.
+论点相关词:shopping malls
+论点换一种表述:large shopping malls play a positive role in society
+-第4段
+利益相关人名词2:governments 
+主题相关词:the growth of large shopping malls
+主题相关词:their positive influence
+主题相关句:large shopping malls bring many advantages
+
+15.Climate change 
+Global climate change is a concerning issue, who should take responsibilities?
+Governments, large companies, or individuals?
+单边
+-第1段
+题干关键词:global climate change
+我的观点:governments, big companies, and people must work together to fix this problem.
+-第2段
+论点1:governments are very important.  利益相关人名词1:citizens 
+论据:governments can make rules to stop pollution 
+举例:they can stop factories from making dirty air. And governments have money to help the environment.
+论点相关词:government action
+-第3段
+论点2:companies and people should help too
+论据:we all live on this planet.
+举例:people can drive less and walk more to save energy, and companies can produce more eco-friendly products.
+论点相关词:protecting nature
+论点换一种表述:everyone must do something good.
+-第4段
+利益相关人名词2:people
+主题相关词:the environment
+主题相关词:working together
+主题相关句:we need to stop climate change
+
+16.Study effectively
+In order to study effectively, a student needs time, comfort and peace. 
+So it is impossible for a student to combine learning and employment at the same time, 
+because one distracts the other. 
+To what extent do you think the statements are realistic?
+Support your opinion with examples.
+双边:
+-第1段
+题干关键词:studying and working at the same time
+主题词:combining study and employment
+-第2段
+论点1:working and studying at the same time can distract students from their studies.   利益相关人名词1:students
+论据:effective learning needs time and energy
+举例:some students are too tired to do homework after working
+论点相关词:the challenge
+-第3段
+对立观点:some students can successfully combine work and study.
+论据:part-time jobs can help students manage their time better
+例子:many students work on weekends
+相关词:practical experience
+论点2换一种表述:students can do both things.
+-第4段
+利益相关人2:students
+主题相关词1:how to balance study and employment
+主题相关词2:doing both things
+主题相关句:the statements are realistic
+
+17.Mass media
+问法1:
+The mass media, including TV and newspapers, have a great influence on humans,
+particularly on the younger generation. It has a pivotal role in shaping people's opinions.
+Discuss the extent to which you agree or disagree.
+Use your own experience or examples.
+问法2:
+The mass media including TV, 
+radio and newspaper influence our society and shape our opinions and characters.
+What is your opinion?
+双边:
+-第1段
+题干关键词:the influence of mass media on society
+主题词:mass media
+-第2段
+论点1:mass media helps information spread widely and quickly.  利益相关人名词1:people
+论据:they can learn international news
+举例:television allows people to know what is happening around the world and can guide public opinion through news reports.
+论点相关词:the positive role of the media
+-第3段
+对立观点:mass media may also have negative effects
+论据:false information may be provided
+例子:false news can mislead the public
+相关词:critical thinking
+论点2换一种表述:media influence is not always positive.
+-第4段
+利益相关人2:people
+主题相关词1:the influence of mass media in modern society
+主题相关词2:mass media
+主题相关句:mass media influences people
+
+18.Experiential learning
+Some people point out that experiential learning (i.e. learning by doing it) can work well in formal education. 
+Nonetheless, others think a traditional form of teaching is the best.
+Do you think experiential learning can work well in high schools or colleges?
+双边:
+-第1段
+题干关键词:learning styles in schools
+主题词:experiential learning
+-第2段
+论点1:learning by doing is good for students.  利益相关人名词1:young people
+论据:they can practice real skills
+举例:science students do experiments in labs, which can help students develop their practical abilities
+论点相关词:active learning
+-第3段
+对立观点:traditional teaching is also important
+论据:teachers can explain difficult ideas
+例子:students need to learn all the materials carefully to pass the final exams
+相关词:traditional teaching
+论点2换一种表述:traditional teaching is also necessary for students.
+-第4段
+利益相关人2:schools 
+主题相关词1:learning methods
+主题相关词2:learning by doing
+主题相关句:we need a mix of both
+
+19.Experience is the best teacher
+Experience is the best teacher.
+Some people think life experiences teach people more effectively than book or formal education.
+How far do you agree with this statement?
+Give your reason or provide your personal experience.
+双边:
+-第1段
+题干关键词:experience
+主题词:experience or formal education
+-第2段
+论点1:life experience can teach people practical skills.    利益相关人名词1:people
+论据:real situations help people learn faster and remember better.
+举例:travel can teach students communication and problem-solving skills and can help people understand real life.
+论点相关词:practical experience
+-第3段
+对立观点:books and formal education are still very important
+论据:schools provide basic knowledge and clear guidance
+例子:students can learn mathematics through classes
+相关词:formal education
+论点2换一种表述:experience alone is not enough
+-第4段
+利益相关人2:people
+主题相关词1:different ways of learning
+主题相关词2:life experience
+主题相关句:both experience and education are important
+
+20.Build more roads
+Due to cities expanding, 
+governments should create better public transportation networks rather than build more roads for vehicle owning population.
+To what extent do you agree with this statement? Give the reasons for your opinion.
+双边:
+-第1段
+题干关键词:urban transportation
+主题词:road construction
+-第2段
+论点1:developing better public transportation network is beneficial for cities. 利益相关人名词1:governments
+论据:public transportation can reduce traffic jams.
+举例:buses and trains can carry many people at the same time, and good public transportation can reduce air pollution
+论点相关词:improving public transportation
+-第3段
+对立观点:building more roads is still necessary
+论据:some people rely heavily on cars.
+例子:people living in rural areas may have limited access to public transportation.
+相关词:road construction
+论点2换一种表述:building roads is important
+-第4段
+利益相关人2:governments
+主题相关词1:transportation problems
+主题相关词2:better public transportation
+主题相关句:both ways should be considered
+
+21.Medical technology
+Medical technology is responsible for the increasing average life expectancy.
+Do you think it is a curse or a blessing?
+双边:
+-第1段
+题干关键词:medical technology
+主题词:longer life caused by medical technology
+-第2段
+论点1:medical technology helps people live longer and healthier.    利益相关人名词1:people
+论据:many diseases can now be controlled
+举例:patients can recover from serious diseases, which means many older people can live with families longer.
+论点相关词:the advantage of medical technology
+-第3段
+对立观点:a longer life can also bring problems
+论据:an aging population may increase pressure on society.
+例子:elderly people may need medical care
+相关词:normal life expectancy
+论点2换一种表述:longer life is not always great.
+-第4段
+利益相关人2:people
+主题相关词1:the impact of medical technology on life expectancy
+主题相关词2:medical technology
+主题相关句:medical technology is a blessing rather than a curse
+
+22.The design of buildings
+How do you think that the design of buildings has affected,
+either positively or negatively, whether people live and work?
+单边
+-第1段
+题干关键词:building design
+我的观点:good building design helps people live and work better
+-第2段
+论点1:good houses make people feel happy.   利益相关人名词1:families
+论据:they need a comfortable place to live 
+举例:my house has big windows and lots of sunlight, which is good for my physical and mental health.
+论点相关词:a good home
+-第3段
+论点2:good offices help people work better
+论据:workers spend a lot of time in the office
+举例:some companies have big and clean office rooms, which can improve the work efficiency of the workers
+论点相关词:working in a nice place
+论点换一种表述:good design helps workers work well
+-第4段
+利益相关人名词2:people
+主题相关词:building design
+主题相关词:comfortable buildings
+主题相关句:we need good indoor design,
+
+23.Digital media
+With the increase of digital media available online, the role of the library has become obsolete.
+Universities should only procure digital materials rather than constantly updated textbooks.
+Discuss both the advantages and disadvantages of this position and give your own point of view.
+双边:
+-第1段
+题干关键词:digital materials
+主题词:digital learning materials
+-第2段
+论点1:digital materials are convenient for students.    利益相关人名词1:students
+论据:they can get information anytime and anywhere
+举例:students can read e-books on their phones, which means there is no need for them to buy many textbooks
+论点相关词:the usefulness of digital materials
+-第3段
+对立观点:printed books are important
+论据:some students learn better from physical books
+例子:students may feel more focused when reading paper books in a quiet library.
+相关词:traditional learning methods
+论点2换一种表述:physical books are necessary.
+-第4段
+利益相关人2:universities
+主题相关词1:the use of digital learning resources.
+主题相关词2:digital materials
+主题相关句:universities should use both digital materials and traditional textbooks.
+
+24.Studying old plays
+There are both problems and benefits for high school students who study plays and works of theatres written centuries ago.
+Discuss and use your own experience.
+双边:
+-第1段
+题干关键词:plays and works of theatres 
+主题词:learning plays and works of theatres
+-第2段
+论点1:learning old plays can improve students' creative ability.    利益相关人名词1:students
+论据:it can build their imagination
+举例:students can rewrite some new plays, which also helps them develop critical-thinking ability
+论点相关词:the literature
+-第3段
+对立观点:it is difficult for heigh school students to learn old plays
+论据:the dramatic works often include unfamiliar words
+例子:if they find some difficult words, they will easily give up learning those plays.
+相关词:the use of language
+论点2换一种表述:language barrier is a big problem
+-第4段
+利益相关人2:schools
+主题相关词1:teaching old plays
+主题相关词2:work of theatres
+主题相关句:there are both problems and benefits for heigh school students who study plays and theatre works
+
+25.Global problems
+Global problems related to governments and international organizations,
+what are the problems and what is your solution?
+单边
+-第1段
+题干关键词:global problems related to governments
+我的观点:many countries do not work together well, so we need better solutions.
+-第2段
+论点1:the big problem is that rich countries do not help poor ones. 利益相关人名词1:poor people
+论据:they really need food, clean water and money to live.
+举例:some rich countries ignore the problems in poor countries, and bad leaders often take the money for themselves.
+论点相关词:bad cooperation
+-第3段
+论点2:international organizations must make strict rules.
+论据:big organizations like the UN can help different countries.
+举例:the UN helps countries to stop wars and save lives
+论点相关词:working together peacefully
+论点换一种表述:following the international rules is necessary
+-第4段
+利益相关人名词2:world leaders
+主题相关词:these global problems
+主题相关词:peace and help
+主题相关句:different nations must help and support each other
+
+26.Employees in decision-making process
+问法1:
+Company's top-level authorities should get their employees involved in the decision-making process. Discuss it.
+
+问法2:
+Employers involve their workers with decision-making about products and services.
+What are the advantages and disadvantages of the policy?
+单边
+-第1段
+题干关键词:decision-making process
+我的观点:company leaders should include employees in the decision-making process.
+-第2段
+论点1:employees' participation improves the quality of decisions.  利益相关人名词1:companies
+论据: workers provide practical insights based on daily operations
+举例:at a local factory, involving staff in workflow planning reduced errors and increased efficiency, which also boots employee motivation.
+论点相关词:employee involvement
+-第3段
+论点2:collaborative decisions create a positive workplace culture.
+论据:employees feel respected and valued
+举例:teams that contributed to strategic planning reported higher job satisfaction.
+论点相关词:workplace collaboration
+论点换一种表述:engaging employees in decisions strengthens the company culture.
+-第4段
+利益相关人名词2:managers and employees
+主题相关词:employee's participation in decision-making
+主题相关词:shared decision-making
+主题相关句:involving staff improves both performance and satisfaction
+
+27.The pressing problem
+The world's governments and organizations confront a multigrade of issues.
+What is the most pressing problem facing the inhabitants of our planet, and what is the solution?
+单边
+-第1段
+题干关键词:serious global problems
+我的观点:the most pressing problem is climate change, and we need a quick solution
+-第2段
+论点1:the weather is changing and getting very hot. 利益相关人名词1:people
+论据:hot weather destroys our beautiful homes and farms. 
+举例:many places do not have enough rain and clean water for people to drink, and some animals are dying because they have no food.
+论点相关词:global warming
+-第3段
+论点2:governments and people must work together to save the earth.
+论据:we can do simple things to stop this big problem, such as recycling.
+举例:we can drive cars less and plant more green trees in the city.
+论点相关词:protecting nature
+论点换一种表述:taking action now is very necessary.
+-第4段
+利益相关人名词2:world leaders
+主题相关词:saving our planet
+主题相关词:a clean environment
+主题相关句:we must solve this problem quickly
+
+28.Tourism
+问法1: For a less developed country, the disadvantage of tourism is as great as the advantage, 
+show your opinion and give the reasons.
+问法2:
+In developing countries, tourism has disadvantages, while the opposite can be said as well.
+What is your opinion on this?
+双边:
+-第1段
+题干关键词:tourism in less developed countries
+主题词:tourism
+-第2段
+论点1:tourism brings money and creates jobs for local people.  利益相关人名词1:a developing country
+论据:the government can use this money to build better roads and schools
+举例:tourism helps local people sell food to visitors, which also helps to show a country's culture to the world
+论点相关词:economic development
+-第3段
+对立观点:tourism can damage the environment
+论据:too many tourists may bring pollution
+例子:constructions can destroy some of the natural environment
+相关词:protecting nature
+论点2换一种表述:tourism can be harmful for a poor country.
+-第4段
+利益相关人2:communities
+主题相关词1:tourism
+主题相关词2:traveling
+主题相关句:we need to manage tourism carefully
+
+29.Reputation or short-term strategies
+Should marketing for consumer goods companies like clothing and food focus on
+reputation or on short-term strategies like discounts and special offers?
+And in what ways can this impact on their reputation? Why?
+双边:
+-第1段
+题干关键词:marketing
+主题词:discounts and special offers
+-第2段
+论点1:a strong reputation builds customer trust.  利益相关人名词1:companies
+论据:trust lasts longer than a one-time sale
+举例:people are willing to pay more for good quality and safety. Also, relying on sales can make people think that the product is cheap.
+论点相关词:reputation
+-第3段
+对立观点:short-term strategies can increase sales quickly.
+论据:it can attract new customers
+例子:some clothing brands offer "buy one get one free" to attract young shoppers.
+相关词:short-term promotions
+论点2换一种表述:discounts are a useful strategy
+-第4段
+利益相关人2:brands 
+主题相关词1:their marketing approach
+主题相关词2:short-term strategies
+主题相关句:a good reputation is more valuable in the long run.
+
+30.Children's actions
+Parents are held to be legally responsible for the actions of their children.
+What is your opinion? Support it with personal examples.
+单边
+-第1段
+题干关键词:children's actions
+我的观点:parents should be held responsible, but children also have responsibilities
+-第2段
+论点1:it makes parents pay more attention to their children's behavior  利益相关人名词1:young kids
+论据: children often learn from their parents' guidance
+举例:parents should teach their children to obey laws, because the law can teach their children what is right and what is wrong.
+论点相关词:parental responsibilities
+-第3段
+论点2:children sometimes act independently
+论据:teenagers often make choices against their parents' teaching
+举例:a child might steal even if the parents are good people
+论点相关词:self-discipline
+论点换一种表述:parents cannot control everything their children do.
+-第4段
+利益相关人名词2:people
+主题相关词:parental roles
+主题相关词:parents' involvement
+主题相关句:we should also teach children about consequences.
+
+31.Preserving the beautiful buildings of the past
+It is important to preserve the beautiful buildings of the past, even if it will
+be expensive to do so. To what extent do you agree or disagree with it.
+单边
+-第1段
+题干关键词:
+我的观点:
+-第2段
+论点1:  利益相关人名词1: 
+论据: 
+举例:
+论点相关词:
+-第3段
+论点2:
+论据:
+举例:
+论点相关词:
+论点换一种表述:
+-第4段
+利益相关人名词2:
+主题相关词:
+主题相关词:
+主题相关句:
+
+32.TV
+Nowadays TV has become an essential part of life.
+It serves as a medium for spreading news and awareness, and for some, it acts as a companion.
+What is your opinion about this?
+单边
+-第1段
+题干关键词:
+我的观点:
+-第2段
+论点1:  利益相关人名词1: 
+论据: 
+举例:
+论点相关词:
+-第3段
+论点2:
+论据:
+举例:
+论点相关词:
+论点换一种表述:
+-第4段
+利益相关人名词2:
+主题相关词:
+主题相关词:
+主题相关句:
+
+33.Invention
+What are the advantages and disadvantages of living in an era in which new things are constantly being invented?
+双边:
+-第1段
+题干关键词:
+主题词:
+-第2段
+论点1:  利益相关人名词1:
+论据:
+举例:
+论点相关词:
+-第3段
+对立观点:
+论据:
+例子:
+相关词:
+论点2换一种表述:
+-第4段
+利益相关人2:
+主题相关词1:
+主题相关词2:
+主题相关句:
+
+34.Law changes human behaviors
+Some people believe law changes human behaviors. To what extend do you agree or disagree?
+单边
+-第1段
+题干关键词:
+我的观点:
+-第2段
+论点1:  利益相关人名词1: 
+论据: 
+举例:
+论点相关词:
+-第3段
+论点2:
+论据:
+举例:
+论点相关词:
+论点换一种表述:
+-第4段
+利益相关人名词2:
+主题相关词:
+主题相关词:
+主题相关句:
+
+35.The value of traveling is overrated
+It is often argued that the value of traveling is overrated, and that there are many
+brilliant scholars who study locally. Is travel really necessary to attain a higher education?
+单边
+-第1段
+题干关键词:
+我的观点:
+-第2段
+论点1:  利益相关人名词1: 
+论据: 
+举例:
+论点相关词:
+-第3段
+论点2:
+论据:
+举例:
+论点相关词:
+论点换一种表述:
+-第4段
+利益相关人名词2:
+主题相关词:
+主题相关词:
+主题相关句:
+
+36.Formal written examinations
+Many education systems assess students using formal written examinations.
+Those kinds of exams are a valid method. To what extent do you agree or disagree?
+双边:
+-第1段
+题干关键词:
+主题词:
+-第2段
+论点1:  利益相关人名词1:
+论据:
+举例:
+论点相关词:
+-第3段
+对立观点:
+论据:
+例子:
+相关词:
+论点2换一种表述:
+-第4段
+利益相关人2:
+主题相关词1:
+主题相关词2:
+主题相关句:
+
+37.Studying climate change 
+Imagine you have been assigned to work on research about climate change.
+Which area of study would you choose to work on and why?
+Give examples using cases from your chosen area of study.
+单边
+-第1段
+题干关键词:
+我的观点:
+-第2段
+论点1:  利益相关人名词1: 
+论据: 
+举例:
+论点相关词:
+-第3段
+论点2:
+论据:
+举例:
+论点相关词:
+论点换一种表述:
+-第4段
+利益相关人名词2:
+主题相关词:
+主题相关词:
+主题相关句:
