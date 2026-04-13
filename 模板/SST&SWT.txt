@@ -41,3 +41,16 @@ SST: 听关键词 -> 套入四句话模板 -> 检查拼写。
 SWT: 找关键句 -> 用连词串联 -> 确保只有一个句号。
 这两个题型只要练习 10-20 篇，就能形成极其稳定的肌肉记忆，是 PTE 考试中必须拿下的"基本盘"。
 
+swt:
+since then后面的句子
+Backed by句子后的从句
+表积极含义的句子（比如To succeed/insufficient evidence）
+--
+wrote 后的东西比较重要
+which was the most/most important(最高级的句子)
+receiving both（比较重要的实词）
+--
+非首段，段首句简短句表段落主旨的句子，陈述句
+表重要陈述的句子
+句子里包含专家、学者、知名人士说的话,做的事,预测的东西等
+still(不过)表转折的句子 
