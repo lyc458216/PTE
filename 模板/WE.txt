@@ -21,7 +21,8 @@ In my opinion, I firmly believe that the former/latter view is more plausible, a
 
 第二段：论点一 (Argument 1)
 
-First and foremost, there are numerous arguments in support of the idea that [Main Argument 1]. The most significant reason is that [Supporting Sentence/Example]. 
+First and foremost, there are numerous arguments in support of the idea that [Main Argument 1]. 
+The most significant reason is that [Supporting Sentence/Example]. 
 For instance, recent research has demonstrated that [Sentence with Topic Keyword]. 
 Therefore, it is obvious that [Restate Argument 1] plays a vital role.
 
@@ -91,14 +92,13 @@ From my perspective, the environment affects people's accomplishments in two way
 
 --没有背景描述的问题：
 Whether travel is a necessary component in quality education?
-
 --回答：
 In recent years, the topic of quality education has drawn a lot of public attention. 
 This issue clearly matters to both individuals and society.
 From my perspective, travel is a necessary component in quality education.
 
 所有框架句可进行同意替换或变换句型
-单边论证+问题解决类型：
+【单边论证+问题解决类型】：
 第一段：
 题干陈述句。（如果题干没有陈述句则用：In recent years, the topic of 【题干关键词（名词）】） has drawn a lot of public attention. 
 This issue clearly matters to both individuals and society. 
@@ -137,25 +137,22 @@ In light of these points, it is clear that 【主题相关句】,and we must tak
 主题相关词：travel
 主题相关句：travel is an important part in quality education.
 
-双边论证类：
+【双边论证】：
 第一段：题干陈述句。如果题干没有陈述句则用：
 In recent years, the topic of 【题干关键词（名词）】） has drawn a lot of public attention. 
 This issue clearly matters to both individuals and society.
 In fact, I highly believe that the issue of 【主题词】has both advantages and disadvantages.
-
 第二段：
 First and foremost, 【论点1（句子）】.It is quite important for 【利益相关人1（名词）】 because 【论点1的论据1（句子）】.
 For example, 【编一个论据1的相关例子（句子）】.
 It is worth noting that several recent studies, especially those of an academic nature, have proven my point. The findings directly support what I discussed above.
 What is more/For example, another reason must be taken into consideration.【论点1的论据2（可选）】. 
 Therefore, these examples/reasons(二选一) collectively underscore the importance of recognizing that【论点1的相关词（名词单数）】,as is indeed the case.
-
 第三段：
 On the other hand, critics point out that【对立观点-论点2（句子）】.
 This factor is particularly significant because 【论点2论据】.
 A relevant example is that 【编一个论点2相关的例子】.
 Through this example, one can better appreciate the value of 【论点2相关词】.So, 【论点2换一种表述（句子）】
-
 第四段：
 In conclusion, more and more 【利益相关人2（名词）】 are focusing on 【主题相关词（名词）】. 
 While 【主题相关词（名词）】 has its merits, it is important to consider its potential downsides.
