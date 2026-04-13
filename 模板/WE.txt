@@ -161,7 +161,7 @@ In conclusion, more and more 【利益相关人2（名词）】 are focusing on 
 While 【主题相关词（名词）】 has its merits, it is important to consider its potential downsides.
 In light of these points, it is clear that 【主题相关句（句子）】, and we must take actions to maximize benefits while minimizing adverse impacts.
 
-1. work and personal life (6639) / work-life imbalance (43066)
+1-1. work and personal life (6639) / work-life imbalance (43066)
 Nowadays, it is important to maintain the right balance between one's your job and private, personal life,
 such as leisure time(with family members). How widespread do you think this problem is? What problem it may bring?
 How important it is and why people find it hard to achieve it?
@@ -186,7 +186,7 @@ How important it is and why people find it hard to achieve it?
 主题相关词:relaxation
 主题相关句:keeping the right balance between work and personal life is necessary.
 
-13.Deduction of late submission (18759)
+2-13.Deduction of late submission (18759)
 Some universities deduct marks from students' work if it is given in late,
 what are your views and what action would you recommend taking?
 单边
@@ -210,7 +210,7 @@ what are your views and what action would you recommend taking?
 主题相关词:being on time
 主题相关句:universities should deduct marks from students' work if it is given in late.
 
-14.Large shopping malls or small shops (6679)
+3-14.Large shopping malls or small shops (6679)
 Large shopping malls are replacing small shops.
 What do you think are the positive effects? Discuss with appropriate examples.
 单边
@@ -234,7 +234,7 @@ What do you think are the positive effects? Discuss with appropriate examples.
 主题相关词:their positive influence
 主题相关句:large shopping malls bring many advantages
 
-15.Climate change (31205)
+4-15.Climate change (31205)
 Global climate change is a concerning issue, who should take responsibilities?
 Governments, large companies, or individuals?
 单边
@@ -258,7 +258,7 @@ Governments, large companies, or individuals?
 主题相关词:working together
 主题相关句:we need to stop climate change
 
-22.The design of buildings (15666)
+5-22.The design of buildings (15666)
 How do you think that the design of buildings has affected,
 either positively or negatively, whether people live and work?
 单边
@@ -282,9 +282,230 @@ either positively or negatively, whether people live and work?
 主题相关词:comfortable buildings
 主题相关句:we need good indoor design,
 
+6-25.Global problems (6709)
+Global problems related to governments and international organizations,
+what are the problems and what is your solution?
+单边
+-第1段
+题干关键词:global problems related to governments
+我的观点:many countries do not work together well, so we need better solutions.
+-第2段
+论点1:the big problem is that rich countries do not help poor ones. 利益相关人名词1:poor people
+论据:they really need food, clean water and money to live.
+举例:some rich countries ignore the problems in poor countries, and bad leaders often take the money for themselves.
+论点相关词:bad cooperation
+-第3段
+论点2:international organizations must make strict rules.
+论据:big organizations like the UN can help different countries.
+举例:the UN helps countries to stop wars and save lives
+论点相关词:working together peacefully
+论点换一种表述:following the international rules is necessary
+-第4段
+利益相关人名词2:world leaders
+主题相关词:these global problems
+主题相关词:peace and help
+主题相关句:different nations must help and support each other
+
+7-26.Employees in decision-making process (6677)
+问法1:
+Company's top-level authorities should get their employees involved in the decision-making process. Discuss it.
+问法2:
+Employers involve their workers with decision-making about products and services.
+What are the advantages and disadvantages of the policy?
+单边
+-第1段
+题干关键词:decision-making process
+我的观点:company leaders should include employees in the decision-making process.
+-第2段
+论点1:employees' participation improves the quality of decisions.  利益相关人名词1:companies
+论据: workers provide practical insights based on daily operations
+举例:at a local factory, involving staff in workflow planning reduced errors and increased efficiency, which also boots employee motivation.
+论点相关词:employee involvement
+-第3段
+论点2:collaborative decisions create a positive workplace culture.
+论据:employees feel respected and valued
+举例:teams that contributed to strategic planning reported higher job satisfaction.
+论点相关词:workplace collaboration
+论点换一种表述:engaging employees in decisions strengthens the company culture.
+-第4段
+利益相关人名词2:managers and employees
+主题相关词:employee's participation in decision-making
+主题相关词:shared decision-making
+主题相关句:involving staff improves both performance and satisfaction
+
+8-27.The pressing problem (6669)
+The world's governments and organizations confront a multigrade of issues.
+What is the most pressing problem facing the inhabitants of our planet, and what is the solution?
+单边
+-第1段
+题干关键词:serious global problems
+我的观点:the most pressing problem is climate change, and we need a quick solution
+-第2段
+论点1:the weather is changing and getting very hot. 利益相关人名词1:people
+论据:hot weather destroys our beautiful homes and farms. 
+举例:many places do not have enough rain and clean water for people to drink, and some animals are dying because they have no food.
+论点相关词:global warming
+-第3段
+论点2:governments and people must work together to save the earth.
+论据:we can do simple things to stop this big problem, such as recycling.
+举例:we can drive cars less and plant more green trees in the city.
+论点相关词:protecting nature
+论点换一种表述:taking action now is very necessary.
+-第4段
+利益相关人名词2:world leaders
+主题相关词:saving our planet
+主题相关词:a clean environment
+主题相关句:we must solve this problem quickly
+
+9-30.Children's actions (6641)
+Parents are held to be legally responsible for the actions of their children.
+What is your opinion? Support it with personal examples.
+单边
+-第1段
+题干关键词:children's actions
+我的观点:parents should be held responsible, but children also have responsibilities
+-第2段
+论点1:it makes parents pay more attention to their children's behavior  利益相关人名词1:young kids
+论据: children often learn from their parents' guidance
+举例:parents should teach their children to obey laws, because the law can teach their children what is right and what is wrong.
+论点相关词:parental responsibilities
+-第3段
+论点2:children sometimes act independently
+论据:teenagers often make choices against their parents' teaching
+举例:a child might steal even if the parents are good people
+论点相关词:self-discipline
+论点换一种表述:parents cannot control everything their children do.
+-第4段
+利益相关人名词2:people
+主题相关词:parental roles
+主题相关词:parents' involvement
+主题相关句:we should also teach children about consequences.
+
+10-31.Preserving the beautiful buildings of the past (6617)
+It is important to preserve the beautiful buildings of the past, even if it will
+be expensive to do so. To what extent do you agree or disagree with it.
+单边
+-第1段
+题干关键词:preserving the beautiful buildings of the past
+我的观点:saving these old houses is very necessary even if it is expensive
+-第2段
+论点1:old buildings tell us about our history  利益相关人名词1:young students
+论据: they can see the real culture by looking at them
+举例:my school often takes us to visit an old castle near my home, because it helps us remember the past and history.
+论点相关词:teaching history
+-第3段
+论点2:beautiful buildings can help the city make money
+论据:many tourists from other countries come to see them
+举例:tourists like to visit the Great Walla and buy food and gifts there
+论点相关词:developing tourism and pressing the beautiful buildings
+论点换一种表述:the high cost is not a big problem.
+-第4段
+利益相关人名词2:people
+主题相关词:this important topic
+主题相关词:our history and culture
+主题相关句:we must spend money to save the old historical buildings
+
+11-32.TV (6589)
+Nowadays TV has become an essential part of life.
+It serves as a medium for spreading news and awareness, and for some, it acts as a companion.
+What is your opinion about this?
+单边
+-第1段
+题干关键词:television
+我的观点:TV helps spread news and awareness, and it acts as a companion in our daily lives.
+-第2段
+论点1:TV helps people get information quickly.  利益相关人名词1:families
+论据:they need to know what is happening in the world
+举例:my parents watch news programs and reports every day, because it helps them learn about society.
+Students can also learn science and history through TV. 
+论点相关词:spreading news
+-第3段
+论点2:TV acts as a companion for people who live alone
+论据:many old people live alone at home
+举例:my grandmother watches funny shows on TV to feel happy when she is at home alone.
+论点相关词:reducing loneliness
+论点换一种表述:TV is a good friend for lonely people.
+-第4段
+利益相关人名词2:people
+主题相关词:watching television
+主题相关词:TV
+主题相关句:TV brings many benefits to our daily lives
+
+12-34.Law changes human behaviors (6543)
+Some people believe law changes human behaviors. To what extend do you agree or disagree?
+单边
+-第1段
+题干关键词:laws' impact on human behaviors
+我的观点:law can change human behaviors
+-第2段
+论点1:law creates clear rules and punishments.  利益相关人名词1:citizens
+论据:it stops people from doing harmful things 
+举例:laws can stop people from stealing, so the fear of punishment can guide many people's choices.
+论点相关词:rules, as indeed is the case.
+-第3段
+论点2:creates a safe environment for our community
+论据:people need to feel secure in their daily lives
+举例:laws against violence protect citizens from harm
+论点相关词:public safety
+论点换一种表述:law is a necessary tool for social order
+-第4段
+利益相关人名词2:governments
+主题相关词:role of law
+主题相关词:regulations
+主题相关句:law can bring many benefits to us
+
+13-35.The value of traveling is overrated (6517)
+It is often argued that the value of traveling is overrated, and that there are many
+brilliant scholars who study locally. Is travel really necessary to attain a higher education?
+单边
+-第1段
+题干关键词:traveling
+我的观点:travel is not really necessary to attain a higher education
+-第2段
+论点1:traveling helps students see the world  利益相关人名词1:young people
+论据:they can learn about new cultures outside the classroom
+举例:students can visit old museums in other countries to learn local history, which can develop their interest in learning and exploring the world
+论点相关词:learning through travel
+-第3段
+论点2:studying from books is also very good
+论据:we can learn everything from books and the Internet today
+举例:many brilliant scholars never leave their homes but still achieve a lot
+论点相关词:reading books
+论点换一种表述:travel is not necessary for everyone
+-第4段
+利益相关人名词2:students
+主题相关词:higher education
+主题相关词:traveling
+主题相关句:we can study well anywhere
+
+14-37.Studying climate change (6491)
+Imagine you have been assigned to work on research about climate change.
+Which area of study would you choose to work on and why?
+Give examples using cases from your chosen area of study.
+单边
+-第1段
+题干关键词:climate change
+我的观点:I would choose to work on renewable energy as a research area.
+-第2段
+论点1:renewable energy development reduces carbon emissions.  利益相关人名词1:society
+论据:lower emissions help prevent extreme weather and global warming.
+举例:Germany has invested in solar and wind power, and this action can create many jobs and can support the national economy. 
+论点相关词:emission reduction
+-第3段
+论点2:renewable energy improves energy security
+论据:countries become less dependent on imported fuels.
+举例:China has expanded its wind energy capacity
+论点相关词:energy independence
+论点换一种表述:developing renewable energy benefits both the environment and society.
+-第4段
+利益相关人名词2:governments
+主题相关词:renewable energy
+主题相关词:sustainable energy
+主题相关句:researching renewable energy contributes to climate change.
+
 ----------------双边-------------------
 
-2.Restoration of buildings (41936)
+15-2.Restoration of buildings (41936)
 More and more countries spend large amounts of money on the restoration of buildings instead of on modern housing.
 To what extent do you agree or disagree with this analysis? Support your writing with your experience or examples.
 双边:
@@ -308,7 +529,7 @@ To what extent do you agree or disagree with this analysis? Support your writing
 主题相关词2:fixing old buildings
 主题相关句:we need a balance,
 
-3.Countryside or city (41974)
+16-3.Countryside or city (41974)
 Living in the countryside or having a city life, which one do you prefer?
 Please use examples or your personal experience to support your opinion.
 双边:
@@ -332,7 +553,7 @@ Please use examples or your personal experience to support your opinion.
 主题相关词2:city life
 主题相关句:both lifestyles have their own unique points
 
-4.Age restrictions (39930)
+17-4.Age restrictions (39930)
 Age restrictions can be seen everywhere. 
 It is believed that people should not do things until they research the right age, such as marriage, and driving.
 Select one activity and state the minimum age that you think. Support with your own experiences.
@@ -358,7 +579,7 @@ Select one activity and state the minimum age that you think. Support with your 
 主题相关词2:setting a younger driving age
 主题相关句:we must balance convenience with safety
 
-5.Foreign language learning(AI) (39808)
+18-5.Foreign language learning(AI) (39808)
 Advanced technology such as artificial intelligence can translate a foreign language easily.
 Do you think learning a foreign language is still necessary? 
 Support your point of view with your own experience?
@@ -383,7 +604,7 @@ Support your point of view with your own experience?
 主题相关词2:AI translation
 主题相关句:technology is a helpful tool
 
-6.High pay (39792)
+19-6.High pay (39792)
 Should there be a maximum wage for the high-paying group? Is it good or bad?
 To what extend do you agree with this statement? Please give your reasons or arguments.
 双边:
@@ -407,7 +628,7 @@ To what extend do you agree with this statement? Please give your reasons or arg
 主题相关词2:a maximum wage
 主题相关句:limit has both pros and cons
 
-7.The rights of privacy (39756)
+20-7.The rights of privacy (39756)
 People who are famous entertainers or sportspeople should give up the right to privacy because this is the price of fame.
 To what extend do you agree or disagree with this point of view?
 Give your opinion with your experiences.
@@ -432,7 +653,7 @@ Give your opinion with your experiences.
 主题相关词2:public interest in celebrities
 主题相关句:famous people should not lose their right to privacy.
 
-8.Working fewer hours (39740)
+21-8.Working fewer hours (39740)
 In the future, people will work fewer hours at their jobs.
 To what extent do you agree with it?Please support your opinion with your own experience.
 双边:
@@ -456,7 +677,7 @@ To what extent do you agree with it?Please support your opinion with your own ex
 主题相关词2:the desire to earn more money
 主题相关句:the development of technology will lead to shorter working hours.
 
-9.Shorten working week (39736)
+22-9.Shorten working week (39736)
 Unemployment among young people is a serious problem.
 Some people propose shortening working weeks in order to heir more people to work.
 What do you think are the advantages and disadvantages of this approach?
@@ -482,7 +703,7 @@ Is it applicable just to young workers or the whole workforce?
 主题相关词2:shorter workweek
 主题相关句:the shorter workweek has advantages and disadvantages
 
-10.Compulsory learning (39608)
+23-10.Compulsory learning (39608)
 Learning a foreign language should be compulsory at school. 
 Please use examples or your personal experience to support your opinion.
 双边:
@@ -506,7 +727,7 @@ Please use examples or your personal experience to support your opinion.
 主题相关词2:a required language class
 主题相关句:learning a foreign language has both advantages and disadvantages
 
-11.Children's grow up in the 21st century (39604)
+24-11.Children's grow up in the 21st century (39604)
 It's harder for children to grew up in the 21st century than it was in the past.
 Agree or disagree.
 双边:
@@ -530,7 +751,7 @@ Agree or disagree.
 主题相关词2:modern life 
 主题相关句:children today grow up in a complex environment
 
-12.The information revolution (39423)
+25-12.The information revolution (39423)
 The information revolution
 The information revolution brought about by modern mass media has both positive
 and negative consequences for individuals and society.
@@ -556,7 +777,7 @@ To what extent do you agree or disagree? Discuss with your own experience.
 主题相关词2:the information revolution
 主题相关句:we should use the media wisely
 
-16.Study effectively (21279)
+26-16.Study effectively (21279)
 In order to study effectively, a student needs time, comfort and peace. 
 So it is impossible for a student to combine learning and employment at the same time, 
 because one distracts the other. 
@@ -583,7 +804,7 @@ Support your opinion with examples.
 主题相关词2:doing both things
 主题相关句:the statements are realistic
 
-17.Mass media (20362)
+27-17.Mass media (20362)
 问法1:
 The mass media, including TV and newspapers, have a great influence on humans,
 particularly on the younger generation. It has a pivotal role in shaping people's opinions.
@@ -614,7 +835,7 @@ What is your opinion?
 主题相关词2:mass media
 主题相关句:mass media influences people
 
-18.Experiential learning (19926)
+28-18.Experiential learning (19926)
 Some people point out that experiential learning (i.e. learning by doing it) can work well in formal education. 
 Nonetheless, others think a traditional form of teaching is the best.
 Do you think experiential learning can work well in high schools or colleges?
@@ -639,7 +860,7 @@ Do you think experiential learning can work well in high schools or colleges?
 主题相关词2:learning by doing
 主题相关句:we need a mix of both
 
-19.Experience is the best teacher (18808)
+29-19.Experience is the best teacher (18808)
 Experience is the best teacher.
 Some people think life experiences teach people more effectively than book or formal education.
 How far do you agree with this statement?
@@ -665,7 +886,7 @@ Give your reason or provide your personal experience.
 主题相关词2:life experience
 主题相关句:both experience and education are important
 
-20.Build more roads (12237)
+30-20.Build more roads (12237)
 Due to cities expanding, 
 governments should create better public transportation networks rather than build more roads for vehicle owning population.
 To what extent do you agree with this statement? Give the reasons for your opinion.
@@ -690,7 +911,7 @@ To what extent do you agree with this statement? Give the reasons for your opini
 主题相关词2:better public transportation
 主题相关句:both ways should be considered
 
-21.Medical technology (10080)
+31-21.Medical technology (10080)
 Medical technology is responsible for the increasing average life expectancy.
 Do you think it is a curse or a blessing?
 双边:
@@ -714,7 +935,7 @@ Do you think it is a curse or a blessing?
 主题相关词2:medical technology
 主题相关句:medical technology is a blessing rather than a curse
 
-23.Digital media
+32-23.Digital media (15660)
 With the increase of digital media available online, the role of the library has become obsolete.
 Universities should only procure digital materials rather than constantly updated textbooks.
 Discuss both the advantages and disadvantages of this position and give your own point of view.
@@ -739,7 +960,7 @@ Discuss both the advantages and disadvantages of this position and give your own
 主题相关词2:digital materials
 主题相关句:universities should use both digital materials and traditional textbooks.
 
-24.Studying old plays
+33-24.Studying old plays (10074)
 There are both problems and benefits for high school students who study plays and works of theatres written centuries ago.
 Discuss and use your own experience.
 双边:
@@ -763,83 +984,7 @@ Discuss and use your own experience.
 主题相关词2:work of theatres
 主题相关句:there are both problems and benefits for heigh school students who study plays and theatre works
 
-25.Global problems
-Global problems related to governments and international organizations,
-what are the problems and what is your solution?
-单边
--第1段
-题干关键词:global problems related to governments
-我的观点:many countries do not work together well, so we need better solutions.
--第2段
-论点1:the big problem is that rich countries do not help poor ones. 利益相关人名词1:poor people
-论据:they really need food, clean water and money to live.
-举例:some rich countries ignore the problems in poor countries, and bad leaders often take the money for themselves.
-论点相关词:bad cooperation
--第3段
-论点2:international organizations must make strict rules.
-论据:big organizations like the UN can help different countries.
-举例:the UN helps countries to stop wars and save lives
-论点相关词:working together peacefully
-论点换一种表述:following the international rules is necessary
--第4段
-利益相关人名词2:world leaders
-主题相关词:these global problems
-主题相关词:peace and help
-主题相关句:different nations must help and support each other
-
-26.Employees in decision-making process
-问法1:
-Company's top-level authorities should get their employees involved in the decision-making process. Discuss it.
-
-问法2:
-Employers involve their workers with decision-making about products and services.
-What are the advantages and disadvantages of the policy?
-单边
--第1段
-题干关键词:decision-making process
-我的观点:company leaders should include employees in the decision-making process.
--第2段
-论点1:employees' participation improves the quality of decisions.  利益相关人名词1:companies
-论据: workers provide practical insights based on daily operations
-举例:at a local factory, involving staff in workflow planning reduced errors and increased efficiency, which also boots employee motivation.
-论点相关词:employee involvement
--第3段
-论点2:collaborative decisions create a positive workplace culture.
-论据:employees feel respected and valued
-举例:teams that contributed to strategic planning reported higher job satisfaction.
-论点相关词:workplace collaboration
-论点换一种表述:engaging employees in decisions strengthens the company culture.
--第4段
-利益相关人名词2:managers and employees
-主题相关词:employee's participation in decision-making
-主题相关词:shared decision-making
-主题相关句:involving staff improves both performance and satisfaction
-
-27.The pressing problem
-The world's governments and organizations confront a multigrade of issues.
-What is the most pressing problem facing the inhabitants of our planet, and what is the solution?
-单边
--第1段
-题干关键词:serious global problems
-我的观点:the most pressing problem is climate change, and we need a quick solution
--第2段
-论点1:the weather is changing and getting very hot. 利益相关人名词1:people
-论据:hot weather destroys our beautiful homes and farms. 
-举例:many places do not have enough rain and clean water for people to drink, and some animals are dying because they have no food.
-论点相关词:global warming
--第3段
-论点2:governments and people must work together to save the earth.
-论据:we can do simple things to stop this big problem, such as recycling.
-举例:we can drive cars less and plant more green trees in the city.
-论点相关词:protecting nature
-论点换一种表述:taking action now is very necessary.
--第4段
-利益相关人名词2:world leaders
-主题相关词:saving our planet
-主题相关词:a clean environment
-主题相关句:we must solve this problem quickly
-
-28.Tourism
+34-28.Tourism (6653)
 问法1: For a less developed country, the disadvantage of tourism is as great as the advantage, 
 show your opinion and give the reasons.
 问法2:
@@ -866,7 +1011,7 @@ What is your opinion on this?
 主题相关词2:traveling
 主题相关句:we need to manage tourism carefully
 
-29.Reputation or short-term strategies
+35-29.Reputation or short-term strategies (6649)
 Should marketing for consumer goods companies like clothing and food focus on
 reputation or on short-term strategies like discounts and special offers?
 And in what ways can this impact on their reputation? Why?
@@ -891,81 +1036,7 @@ And in what ways can this impact on their reputation? Why?
 主题相关词2:short-term strategies
 主题相关句:a good reputation is more valuable in the long run.
 
-30.Children's actions
-Parents are held to be legally responsible for the actions of their children.
-What is your opinion? Support it with personal examples.
-单边
--第1段
-题干关键词:children's actions
-我的观点:parents should be held responsible, but children also have responsibilities
--第2段
-论点1:it makes parents pay more attention to their children's behavior  利益相关人名词1:young kids
-论据: children often learn from their parents' guidance
-举例:parents should teach their children to obey laws, because the law can teach their children what is right and what is wrong.
-论点相关词:parental responsibilities
--第3段
-论点2:children sometimes act independently
-论据:teenagers often make choices against their parents' teaching
-举例:a child might steal even if the parents are good people
-论点相关词:self-discipline
-论点换一种表述:parents cannot control everything their children do.
--第4段
-利益相关人名词2:people
-主题相关词:parental roles
-主题相关词:parents' involvement
-主题相关句:we should also teach children about consequences.
-
-31.Preserving the beautiful buildings of the past
-It is important to preserve the beautiful buildings of the past, even if it will
-be expensive to do so. To what extent do you agree or disagree with it.
-单边
--第1段
-题干关键词:preserving the beautiful buildings of the past
-我的观点:saving these old houses is very necessary even if it is expensive
--第2段
-论点1:old buildings tell us about our history  利益相关人名词1:young students
-论据: they can see the real culture by looking at them
-举例:my school often takes us to visit an old castle near my home, because it helps us remember the past and history.
-论点相关词:teaching history
--第3段
-论点2:beautiful buildings can help the city make money
-论据:many tourists from other countries come to see them
-举例:tourists like to visit the Great Walla and buy food and gifts there
-论点相关词:developing tourism and pressing the beautiful buildings
-论点换一种表述:the high cost is not a big problem.
--第4段
-利益相关人名词2:people
-主题相关词:this important topic
-主题相关词:our history and culture
-主题相关句:we must spend money to save the old historical buildings
-
-32.TV
-Nowadays TV has become an essential part of life.
-It serves as a medium for spreading news and awareness, and for some, it acts as a companion.
-What is your opinion about this?
-单边
--第1段
-题干关键词:television
-我的观点:TV helps spread news and awareness, and it acts as a companion in our daily lives.
--第2段
-论点1:TV helps people get information quickly.  利益相关人名词1:families
-论据:they need to know what is happening in the world
-举例:my parents watch news programs and reports every day, because it helps them learn about society.
-Students can also learn science and history through TV. 
-论点相关词:spreading news
--第3段
-论点2:TV acts as a companion for people who live alone
-论据:many old people live alone at home
-举例:my grandmother watches funny shows on TV to feel happy when she is at home alone.
-论点相关词:reducing loneliness
-论点换一种表述:TV is a good friend for lonely people.
--第4段
-利益相关人名词2:people
-主题相关词:watching television
-主题相关词:TV
-主题相关句:TV brings many benefits to our daily lives
-
-33.Invention
+26-33.Invention (6585)
 What are the advantages and disadvantages of living in an era in which new things are constantly being invented?
 双边:
 -第1段
@@ -988,54 +1059,7 @@ What are the advantages and disadvantages of living in an era in which new thing
 主题相关词2:the technological world
 主题相关句:we should use technology wisely
 
-34.Law changes human behaviors
-Some people believe law changes human behaviors. To what extend do you agree or disagree?
-单边
--第1段
-题干关键词:laws' impact on human behaviors
-我的观点:law can change human behaviors
--第2段
-论点1:law creates clear rules and punishments.  利益相关人名词1:citizens
-论据:it stops people from doing harmful things 
-举例:laws can stop people from stealing, so the fear of punishment can guide many people's choices.
-论点相关词:rules, as indeed is the case.
--第3段
-论点2:creates a safe environment for our community
-论据:people need to feel secure in their daily lives
-举例:laws against violence protect citizens from harm
-论点相关词:public safety
-论点换一种表述:law is a necessary tool for social order
--第4段
-利益相关人名词2:governments
-主题相关词:role of law
-主题相关词:regulations
-主题相关句:law can bring many benefits to us
-
-35.The value of traveling is overrated
-It is often argued that the value of traveling is overrated, and that there are many
-brilliant scholars who study locally. Is travel really necessary to attain a higher education?
-单边
--第1段
-题干关键词:traveling
-我的观点:travel is not really necessary to attain a higher education
--第2段
-论点1:traveling helps students see the world  利益相关人名词1:young people
-论据:they can learn about new cultures outside the classroom
-举例:students can visit old museums in other countries to learn local history, which can develop their interest in learning and exploring the world
-论点相关词:learning through travel
--第3段
-论点2:studying from books is also very good
-论据:we can learn everything from books and the Internet today
-举例:many brilliant scholars never leave their homes but still achieve a lot
-论点相关词:reading books
-论点换一种表述:travel is not necessary for everyone
--第4段
-利益相关人名词2:students
-主题相关词:higher education
-主题相关词:traveling
-主题相关句:we can study well anywhere
-
-36.Formal written examinations
+37-36.Formal written examinations (6511)
 Many education systems assess students using formal written examinations.
 Those kinds of exams are a valid method. To what extent do you agree or disagree?
 双边:
@@ -1058,28 +1082,3 @@ Those kinds of exams are a valid method. To what extent do you agree or disagree
 主题相关词1:formal written examinations
 主题相关词2:this method
 主题相关句:we should use different ways to check students' learning results
-
-37.Studying climate change 
-Imagine you have been assigned to work on research about climate change.
-Which area of study would you choose to work on and why?
-Give examples using cases from your chosen area of study.
-单边
--第1段
-题干关键词:climate change
-我的观点:I would choose to work on renewable energy as a research area.
--第2段
-论点1:renewable energy development reduces carbon emissions.  利益相关人名词1:society
-论据:lower emissions help prevent extreme weather and global warming.
-举例:Germany has invested in solar and wind power, and this action can create many jobs and can support the national economy. 
-论点相关词:emission reduction
--第3段
-论点2:renewable energy improves energy security
-论据:countries become less dependent on imported fuels.
-举例:China has expanded its wind energy capacity
-论点相关词:energy independence
-论点换一种表述:developing renewable energy benefits both the environment and society.
--第4段
-利益相关人名词2:governments
-主题相关词:renewable energy
-主题相关词:sustainable energy
-主题相关句:researching renewable energy contributes to climate change.
