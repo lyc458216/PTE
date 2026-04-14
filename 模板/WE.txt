@@ -88,7 +88,7 @@ Do you think the environment does or does not affect people's accomplishments an
 【Nowadays, people believe that environment influences their accomplishments. 
 Some people think their success and accomplishments were influenced by the places where they grew up.】
 This issue clearly matters to both individuals and society.
-From my perspective, 【the environment affects people's accomplishments in two ways.】
+From my perspective, 【the environment affects people's accomplishments in two ways.】(单边)
 
 --没有背景描述的问题：
 Whether travel is a necessary component in quality education?
@@ -108,7 +108,7 @@ First and foremost, 【论点1】. It is quite important for 【利益相关人1
 For example, 【举例】. 
 It is worth noting that several recent studies, especially those of an academic nature, have proven my point. 
 The findings directly support what I discussed above.
-What is more, another reason must be taken into consideration.【论据2（可选）】. 
+（可选）What is more, another reason must be taken into consideration.【论据2】. 
 Therefore, these examples/reasons collectively underscore the importance of recognizing that【论点1相关词】is indeed the case.
 第三段：
 In addition, another key reason supporting the argument is that 【论点2】.
