@@ -108,8 +108,7 @@ First and foremost, 【论点1】. It is quite important for 【利益相关人1
 For example, 【举例】. 
 It is worth noting that several recent studies, especially those of an academic nature, have proven my point. 
 The findings directly support what I discussed above.
-（可选）What is more, another reason must be taken into consideration.【论据2】. 
-Therefore, these examples/reasons collectively underscore the importance of recognizing that【论点1相关词】is indeed the case.
+Therefore, these examples/reasons collectively underscore the importance of recognizing that【论点相关词】is indeed the case.
 第三段：
 In addition, another key reason supporting the argument is that 【论点2】.
 This factor is particularly significant because 【论据】.
@@ -171,7 +170,8 @@ How important it is and why people find it hard to achieve it?
 题干关键词:keeping the right balance between work and personal life.
 我的观点:this balance is very important and it is hard to achieve.
 -第2段
-论点1:having free time is good for your health. 利益相关人名词1:workers 
+论点1:having free time is good for your health. 
+利益相关人名词1:workers 
 论据:working all day makes people feel sick. 
 举例:many office workers are very tired every day, and they need time to sleep well.
 论点相关词:good health
@@ -195,7 +195,8 @@ what are your views and what action would you recommend taking?
 题干关键词:students handing in their homework late
 我的观点:deducting marks for late work is a good idea.
 -第2段
-论点1:it helps students learn to be on time 利益相关人名词1:students
+论点1:it helps students learn to be on time 
+利益相关人名词1:students
 论据:they must finish their school work quickly.
 举例:my classmates always finish their homework on Friday night, which means that they study more effectively then before.
 论点相关词:time management
@@ -219,7 +220,8 @@ What do you think are the positive effects? Discuss with appropriate examples.
 题干关键词:shopping malls
 我的观点:the development of large shopping malls brings many positive effects
 -第2段
-论点1:large shopping malls are useful for consumers   利益相关人名词1: people
+论点1:large shopping malls are useful for consumers   
+利益相关人名词1: people
 论据:they can buy different products in one place 
 举例:shopping malls usually include supermarkets and clothing stores, which helps them save shopping time.
 论点相关词:large shopping malls are
@@ -243,7 +245,8 @@ Governments, large companies, or individuals?
 题干关键词:global climate change
 我的观点:governments, big companies, and people must work together to fix this problem.
 -第2段
-论点1:governments are very important.  利益相关人名词1:citizens 
+论点1:governments are very important.  
+利益相关人名词1:citizens 
 论据:governments can make rules to stop pollution 
 举例:they can stop factories from making dirty air. And governments have money to help the environment.
 论点相关词:government action
@@ -267,7 +270,8 @@ either positively or negatively, whether people live and work?
 题干关键词:building design
 我的观点:good building design helps people live and work better
 -第2段
-论点1:good houses make people feel happy.   利益相关人名词1:families
+论点1:good houses make people feel happy.   
+利益相关人名词1:families
 论据:they need a comfortable place to live 
 举例:my house has big windows and lots of sunlight, which is good for my physical and mental health.
 论点相关词:a good home
@@ -291,7 +295,8 @@ what are the problems and what is your solution?
 题干关键词:global problems related to governments
 我的观点:many countries do not work together well, so we need better solutions.
 -第2段
-论点1:the big problem is that rich countries do not help poor ones. 利益相关人名词1:poor people
+论点1:the big problem is that rich countries do not help poor ones. 
+利益相关人名词1:poor people
 论据:they really need food, clean water and money to live.
 举例:some rich countries ignore the problems in poor countries, and bad leaders often take the money for themselves.
 论点相关词:bad cooperation
@@ -318,7 +323,8 @@ What are the advantages and disadvantages of the policy?
 题干关键词:decision-making process
 我的观点:company leaders should include employees in the decision-making process.
 -第2段
-论点1:employees' participation improves the quality of decisions.  利益相关人名词1:companies
+论点1:employees' participation improves the quality of decisions.  
+利益相关人名词1:companies
 论据: workers provide practical insights based on daily operations
 举例:at a local factory, involving staff in workflow planning reduced errors and increased efficiency, which also boots employee motivation.
 论点相关词:employee involvement
@@ -342,7 +348,8 @@ What is the most pressing problem facing the inhabitants of our planet, and what
 题干关键词:serious global problems
 我的观点:the most pressing problem is climate change, and we need a quick solution
 -第2段
-论点1:the weather is changing and getting very hot. 利益相关人名词1:people
+论点1:the weather is changing and getting very hot. 
+利益相关人名词1:people
 论据:hot weather destroys our beautiful homes and farms. 
 举例:many places do not have enough rain and clean water for people to drink, and some animals are dying because they have no food.
 论点相关词:global warming
@@ -366,7 +373,8 @@ What is your opinion? Support it with personal examples.
 题干关键词:children's actions
 我的观点:parents should be held responsible, but children also have responsibilities
 -第2段
-论点1:it makes parents pay more attention to their children's behavior  利益相关人名词1:young kids
+论点1:it makes parents pay more attention to their children's behavior  
+利益相关人名词1:young kids
 论据: children often learn from their parents' guidance
 举例:parents should teach their children to obey laws, because the law can teach their children what is right and what is wrong.
 论点相关词:parental responsibilities
@@ -390,7 +398,8 @@ be expensive to do so. To what extent do you agree or disagree with it.
 题干关键词:preserving the beautiful buildings of the past
 我的观点:saving these old houses is very necessary even if it is expensive
 -第2段
-论点1:old buildings tell us about our history  利益相关人名词1:young students
+论点1:old buildings tell us about our history  
+利益相关人名词1:young students
 论据: they can see the real culture by looking at them
 举例:my school often takes us to visit an old castle near my home, because it helps us remember the past and history.
 论点相关词:teaching history
@@ -415,7 +424,8 @@ What is your opinion about this?
 题干关键词:television
 我的观点:TV helps spread news and awareness, and it acts as a companion in our daily lives.
 -第2段
-论点1:TV helps people get information quickly.  利益相关人名词1:families
+论点1:TV helps people get information quickly.  
+利益相关人名词1:families
 论据:they need to know what is happening in the world
 举例:my parents watch news programs and reports every day, because it helps them learn about society.
 Students can also learn science and history through TV. 
@@ -439,7 +449,8 @@ Some people believe law changes human behaviors. To what extend do you agree or 
 题干关键词:laws' impact on human behaviors
 我的观点:law can change human behaviors
 -第2段
-论点1:law creates clear rules and punishments.  利益相关人名词1:citizens
+论点1:law creates clear rules and punishments.  
+利益相关人名词1:citizens
 论据:it stops people from doing harmful things 
 举例:laws can stop people from stealing, so the fear of punishment can guide many people's choices.
 论点相关词:rules, as indeed is the case.
@@ -463,7 +474,8 @@ brilliant scholars who study locally. Is travel really necessary to attain a hig
 题干关键词:traveling
 我的观点:travel is not really necessary to attain a higher education
 -第2段
-论点1:traveling helps students see the world  利益相关人名词1:young people
+论点1:traveling helps students see the world  
+利益相关人名词1:young people
 论据:they can learn about new cultures outside the classroom
 举例:students can visit old museums in other countries to learn local history, which can develop their interest in learning and exploring the world
 论点相关词:learning through travel
@@ -488,7 +500,8 @@ Give examples using cases from your chosen area of study.
 题干关键词:climate change
 我的观点:I would choose to work on renewable energy as a research area.
 -第2段
-论点1:renewable energy development reduces carbon emissions.  利益相关人名词1:society
+论点1:renewable energy development reduces carbon emissions.  
+利益相关人名词1:society
 论据:lower emissions help prevent extreme weather and global warming.
 举例:Germany has invested in solar and wind power, and this action can create many jobs and can support the national economy. 
 论点相关词:emission reduction
