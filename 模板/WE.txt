@@ -100,20 +100,22 @@ From my perspective, 【travel is a necessary component in quality education.】
 所有框架句可进行同意替换或变换句型
 【单边论证+问题解决类型】：
 第一段：
-题干陈述句。（如果题干没有陈述句则用：In recent years, the topic of 【题干关键词】 has drawn a lot of public attention. 
+题干陈述句，如果题干没有陈述句则用:
+In recent years, the topic of 【题干关键词】 has drawn a lot of public attention. 
 This issue clearly matters to both individuals and society. 
 From my perspective,【我的观点】.
 第二段：
 First and foremost, 【论点1】. It is quite important for 【利益相关人1】 because 【论据1】.
 For example, 【举例】. 
-It is worth noting that several recent studies, especially those of an academic nature, have proven my point. 
+It is worth noting that several recent studies, especially those of an academic nature, have proven my point.
 The findings directly support what I discussed above.
-Therefore, these examples/reasons collectively underscore the importance of recognizing that【论点相关词】is indeed the case.
+Therefore, these reasons collectively underscore the importance of recognizing that【论点相关词】is indeed the case.
 第三段：
 In addition, another key reason supporting the argument is that 【论点2】.
 This factor is particularly significant because 【论据】.
 A relevant example is 【举例】.
-Through this example, one can better appreciate the value of 【论点2相关词】.So, 【论点2换一种表述（可选）】
+Through this example, one can better appreciate the value of 【论点2相关词】.
+（可选）So, 【论点2换一种表述】
 第四段：
 In conclusion, more and more 【利益相关人2】 are focusing on 【主题相关词1】. 
 It is obvious that we should acknowledge the importance of 【主题相关词2】.
@@ -148,14 +150,16 @@ In fact, I highly believe that the issue of 【主题词】has both advantages a
 第二段：
 First and foremost, 【论点1】.It is quite important for 【利益相关人1】 because 【论据】.
 For example, 【举例】.
-It is worth noting that several recent studies, especially those of an academic nature, have proven my point. The findings directly support what I discussed above.
-What is more, another reason must be taken into consideration.【论据2（可选）】. 
-Therefore, these examples/reasons collectively underscore the importance of recognizing that【论点1相关词】,as is indeed the case.
+It is worth noting that several recent studies, especially those of an academic nature, have proven my point.
+The findings directly support what I discussed above.
+（可选）What is more, another reason must be taken into consideration.【论据2】. 
+Therefore, these reasons collectively underscore the importance of recognizing that【论点1相关词】,as is indeed the case.
 第三段：
 On the other hand, critics point out that【对立观点-论点2】.
 This factor is particularly significant because 【论据】.
 A relevant example is that 【举例】.
-Through this example, one can better appreciate the value of 【论点2相关词】.So, 【论点2换一种表述（可选）】
+Through this example, one can better appreciate the value of 【论点2相关词】.
+（可选）So, 【论点2换一种表述】
 第四段：
 In conclusion, more and more 【利益相关人2】 are focusing on 【主题相关词1】. 
 While 【主题相关词2】 has its merits, it is important to consider its potential downsides.
