@@ -64,7 +64,7 @@ First and foremost, 【论点1】. It is quite important for 【利益相关人1
 For example, 【举例】. 
 It is worth noting that several recent studies, especially those of an academic nature, have proven my point.
 The findings directly support what I discussed above.
-Therefore, these reasons collectively underscore the importance of recognizing that【论点相关词】is indeed the case.
+Therefore, these reasons collectively underscore the importance of recognizing that【论点相关词】is/ are indeed the case.
 第三段：
 In addition, another key reason supporting the argument is that 【论点2】.
 This factor is particularly significant because 【论据】.
@@ -136,25 +136,25 @@ such as leisure time(with family members). How widespread do you think this prob
 How important it is and why people find it hard to achieve it?
 单边
 -第1段
-题干关键词:keeping the right balance between work and personal life.
-我的观点:this balance is very important and it is hard to achieve.
+题干关键词:keeping the right balance between work and personal life
+我的观点:this balance is very important and it is hard to achieve
 -第2段
-论点1:having free time is good for your health. 
+论点1:having free time is good for your health
 利益相关人名词1:workers 
-论据:working all day makes people feel sick. 
-举例:many office workers are very tired every day, and they need time to sleep well.
+论据:working all day makes people feel sick
+举例:many office workers are very tired every day, and they need time to sleep well
 论点相关词:good health
 -第3段
-论点2:jobs are very busy today.
-论据:companies give people too much work to do.
-举例:my friend often works until late at night.
-论点相关词:family time.
-论点换一种表述:finishing work on time is difficult.
+论点2:jobs are very busy today
+论据:companies give people too much work to do
+举例:my friend often works until late at night
+论点相关词:family time
+论点换一种表述:finishing work on time is difficult
 -第4段
 利益相关人名词2:employees
 主题相关词:work-life balance
 主题相关词:relaxation
-主题相关句:keeping the right balance between work and personal life is necessary.
+主题相关句:keeping the right balance between work and personal life is necessary
 
 2-13.Deduction of late submission (18759)
 Some universities deduct marks from students' work if it is given in late,
@@ -162,12 +162,12 @@ what are your views and what action would you recommend taking?
 单边
 -第1段
 题干关键词:students handing in their homework late
-我的观点:deducting marks for late work is a good idea.
+我的观点:deducting marks for late work is a good idea
 -第2段
-论点1:it helps students learn to be on time 
+论点1:it can help students learn to be on time
 利益相关人名词1:students
-论据:they must finish their school work quickly.
-举例:my classmates always finish their homework on Friday night, which means that they study more effectively then before.
+论据:they must finish their school work quickly
+举例:my classmates always finish their school work quickly to avoid losing marks for being late
 论点相关词:time management
 -第3段
 论点2:it is fair to every student
@@ -179,7 +179,7 @@ what are your views and what action would you recommend taking?
 利益相关人名词2:universities
 主题相关词:this problem 
 主题相关词:being on time
-主题相关句:universities should deduct marks from students' work if it is given in late.
+主题相关句:universities should deduct marks from students' work if it is given in late
 
 3-14.Large shopping malls or small shops (6679)
 Large shopping malls are replacing small shops.
@@ -193,11 +193,11 @@ What do you think are the positive effects? Discuss with appropriate examples.
 利益相关人名词1: people
 论据:they can buy different products in one place 
 举例:shopping malls usually include supermarkets and clothing stores, which helps them save shopping time.
-论点相关词:large shopping malls are
+论点相关词:large shopping malls
 -第3段
 论点2:large shopping malls create more jobs
 论据:employment is important for a country
-举例:shopping malls need lots of staff.
+举例:shopping malls need lots of staff
 论点相关词:shopping malls
 论点换一种表述:large shopping malls play a positive role in society
 -第4段
