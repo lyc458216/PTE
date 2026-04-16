@@ -56,7 +56,7 @@ From my perspective, 【travel is a necessary component in quality education.】
 【单边论证+问题解决类型】：
 第一段：
 题干陈述句，如果题干没有陈述句则用:
-In recent years, the topic of 【题干关键词】 has drawn a lot of public attention. 
+In recent years, the topic of 【题干关键词】 has (drawn a lot of public attention/ sparked widespread debate). 
 This issue clearly matters to both individuals and society. 
 From my perspective,【我的观点】.
 第二段：
