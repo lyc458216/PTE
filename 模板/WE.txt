@@ -72,9 +72,9 @@ A relevant example is that 【举例】.
 Through this example, one can better appreciate the value of 【论点2相关词】.
 （可选）So, 【论点2换一种表述】
 第四段：
-In conclusion, more and more 【利益相关人2】 are focusing on 【主题相关词1】. 
-It is obvious that we should acknowledge the importance of 【主题相关词2】.
-In light of these points, it is evident that 【主题相关句】, and we must take action to ensure a better future.
+In conclusion, more and more 【利益相关人2】 are focusing on 【主题相关词1(this problem)】. 
+It is obvious that we should acknowledge the importance of 【主题相关词2(their positive influence)】.
+In light of these points, it is evident that 【主题相关句(... bring many advantages)】, and we must take action to ensure a better future.
 
 关键词助记：cm/ cu/ kr-sa ps ocba/ sa ilo pe
 clearly matters/
@@ -91,7 +91,7 @@ In light of these points, evident
 论点1-travel对deu1: students can open their views. 
 利益相关人1=students
 论据1: students can know the local cultures. 
-举例: I can know British culture through travel. 
+举例: I can know Australian culture through travel. 
 论据2: students can learn the history.
 论点1相关词: travel
 
@@ -104,7 +104,7 @@ In light of these points, evident
 利益相关人2: people
 主题相关词1:higher education
 主题相关词2:traveling
-主题相关句:travel is an important part in quality education.
+主题相关句:travel is an important part of quality education.
 
 【双边论证】：
 第一段：题干陈述句。如果题干没有陈述句则用：
