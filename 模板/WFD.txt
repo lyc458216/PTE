@@ -1,88 +1,249 @@
-PTE WFD (Write From Dictation) 常见话题词汇思维导图
+PTE WFD (Write From Dictation) 
 
-为什么 WFD 需要词汇分类？
-Write From Dictation (WFD) 是 PTE 考试中分值最重的题型。很多时候考生听不出来单词，不是因为词汇量不够，而是因为对话题场景不敏感。
+三明治复习法：
+播放时将使用【一遍英文-一遍中文-一遍英文】的方式
+第一遍（英文）：听句子大致结构，抓关键词；
+第二遍（中文）：根据中文意思反推，理解原句；
+第三遍（英文）：加深句意和意群理解，尽可能复原原句
 
-这一份思维导图将 WFD 的高频词汇按场景分类。当你听到 "The library will be closed..." 时，大脑能迅速激活整个 "Library" 相关的词汇库，从而极大提高听写的准确率。
+预测题：
+1.The exam will not be posted until further time.
 
-一、College / University（大学 / 校园）
-校园生活是 PTE 最常考的话题之一，涉及设施、生活和服务。
+2.We have been unsuccessful in finding a new manager.
 
-1. Campus Facilities（校园设施）
-laboratory（实验室）: experiment, microscope, beaker, protective clothing, safety goggles
-Buildings: lecture hall, chemistry building, academic building
-Others: library, accommodation, sports hall / football stadium
-2. Academic Resources（学术资源）
-Documents: academic literature, journal article, research paper, scientific report
-General: resource
-3. Student Life（学生生活）
-Activities: clubs and societies, theatre group, choir, sports team
-Events: audition, poetry writing
-4. Student Services（学生服务）
-Centers: student service centre, student resolution centre
-Shops: student shop, stationery shop, vending machine
-5. Language & Entry（语言与入学）
-Language: language test (pronunciation, vocabulary)
-Admission: prerequisite, requirement, enrolment, orientation week, career option
-二、Course（课程相关）
-课程安排和教学方式是听力中的高频词。
+3.Please confirm your essay topic before the deadline.
 
-1. Course Structure（课程结构）
-core courses, optional courses, major, module, session / semester
-2. Teaching & Learning（教学方式）
-theory, practice, integrated course, seminar, conference
-3. Class Activities（课堂活动）
-In Class: attendance register, lecture, visiting guest speaker
-Materials: outline, handout, take notes
-Interaction: tutorial, lab session, consultation, meeting
-4. Extra Programs（拓展项目）
-summer school, internship
-三、Assessment（评估 / 考核）
-听到 "exam" 或 "assignment" 时，重点关注以下词汇：
+4.Effective communication is the key to becoming a good successful manager.
 
-Written: written assignment, written exam, essay
-Format: multiple choice, short answer
-Presentation: presentation, group work, participation
-Integrity: plagiarism, academic ethics
-Tools: electronic device, digital graphics
-四、Discipline（学科）
-学科词汇决定了你能不能听懂讲座的核心内容。
+5.Participants recorded their sleep hours in the journals.
 
-1. Humanities（人文学科）
-History & Geography: history, geography (human / physical geography)
-Philosophy: philosophy, logic, reason
-2. Science（理科）
-Physics: momentum, mass, velocity
-Biology: species, human being, animal and plant
-Chemistry & Mechanics: classical mechanics, building material
-3. Mathematics & Others（数学与商科）
-statistics, data, accounting, engineering
-4. Medical Studies（医学）
-nursing, clinical work, treatment, disease, nutrition, mental health, vitality
-5. Economics（经济）
-inflation, price, recession, demand, entrepreneurship, financial sector
-五、Industry & Government（行业与政府）
-1. Industry（行业）
-Manufacturing: input and output process, feedback, expert
-Agriculture: fishing, farming methods
-2. Government（政府）
-Urban: city, urban expansion, railway system, long distance travel
-Legal: crime, law, convincing evidence
-Society: minister of culture, prosperity, educational policy
-六、Technology & Environment（科技与环境）
-1. Technology（科技）
-IT: information technology, communication, internet, social media
-Media: entertainment, photography (digital camera, traditional film)
-Issues: internet addiction
-2. Environment（环境）
-Sustainability: sustainable development, climate change
-Nature: earth, wildlife, atmosphere
-Pollution: air pollution, sea pollution
-WFD 备考建议
-优先背诵：优先背 学科 + 校园 + 课程 + 环境 + 科技 这五大板块，由于 PTE 是学术英语考试，这些词汇出现频率极高。
-听音辨词：不要只看拼写，一定要结合发音来背。WFD 考的是"听到"然后"写出"。
-试词法 (Test Strategy)：
-如果不确定听到的是单数还是复数（如 learner/learners），考试时可以把两个都写上去（试词）。
-做题顺序：听到关键词 → 迅速归类话题 → 提取相关词汇 → 拼写检查。
-掌握了这份思维导图，你就掌握了 PTE 听力 80% 的核心词汇库。
+6.The professor said biology is not the only subject on the exam.
 
+7.You will have a quiz class next week.
+
+8.The unemployment rate has steadily increased over the last year.
+
+9.Maths uses numbers and shapes to solve problems.
+
+10.We were talking about the ways of committing crime.
+我们在谈论犯罪的方式
+11. The class is canceled because the professor is sick.
+
+12.Some students were absent due to the train delay.
+
+13.The meeting seemed minor, occurring in just a small room.
+
+14.The university library cafe is on the third floor.
+
+15.Farming is affected by changes in seasonal patterns.
+
+16.Application forms should be submitted in one week.
+
+17.Plastic pollution is very dangerous for ocean lives.
+
+18.We should always use recycled plastic and glass bottles.
+
+19.The lecture will take place at a different location.
+
+20.You need to make sure that all your essays are handled in on time.
+
+21.The tutor has canceled the lecture for geography students.
+
+22.The field of social development includes description of social behavior.
+
+23.The article illustrates the intricate relationship of culture and languages.
+这篇文章说明了文化和语言之间错综复杂的关系
+24.The assessment procedure has been changed slightly since lat year.
+自去年年底以来，评估程序略有变化
+25.Having enough sleep has many positive benefits.
+
+26.The glittering of the lake camouflages the fish.
+
+27.Please return the textbooks to the correct bookshelves in the library.
+
+28.The contract will be singed by the owner of the company.
+
+29.The art course has been canceled due to the new policy.
+
+30.Meteorology is the detailed study of the Earth's atmosphere.
+气象学是对地球大气的详细研究。
+31.You do not need to have specialist knowledge to enjoy this book.
+
+32.Students often conduct research to enhance their knowledge.
+
+33.Our aim is to reduce the risks that people take.
+
+34.Students should register to gain access to the library printer.
+
+35.All new medical school students must attend the talk about optional courses.
+所有医学院新生都必须参加关于选修课的讲座
+36.The student union hosts a variety of social events.
+
+37.This class will look at the structure of an essay.
+
+38.We learned through observations and the analysis of human behaviors.
+
+39.Safety is the most important in the  biology job.
+
+40.At university, students can make friends for life.
+
+41.The vocabulary that has peculiar meanings in a special field is called jargon.
+在某一特定领域具有特殊含义的词汇称为行话。
+42.It is a debate about the value of knowledge.
+
+43.A few journalism students write for the school newspaper.
+
+44.We encourage students to complete their applications before the deadline.
+
+45.Visual aid can be really helpful when you are revising.
+当你复习的时候，视觉辅助真的很有帮助。
+46.All answers must be thoroughly researched and supported by relevant theories.
+
+47.All accounting students must submit their dissertations before the end of the week.
+
+48.A good academic paper should present a clear argument.
+
+49.His analysis study appeared to be based on the false premise.
+
+50.The rising inflation rate indicates a decrease in demand for consumer products. 
+不断上升的通胀率表明消费者产品的需求在下降。
+51.The problem was complex and difficult to explain.
+
+52.Technology is changing the way that media is used and studied.
+
+53.Strangely, people are simultaneously impressed by and skeptical of using statistics.
+奇怪的是，人们对使用统计数据既感到印象深刻，又持怀疑态度。
+54.Please note that the seminar has now been canceled
+
+55.The lectures today were carried out in the field of global warming.
+
+56.Classical mechanics is sometimes considered as a branch of applied mathematics.
+经典力学有时被认为是应用数学的一个分支。
+57.Scientists have founded all parts of society today.
+科学家建立了当今社会的所有部分
+58.The elective course introduces engineering students to construction practices and concepts.
+这门选修课向工程专业学生介绍施工实践和概念。
+59.The lecture today will cover all the main reasons for global warming.
+
+60.A good research assistant is not afraid to ask questions.
+
+61.The college operates a system of continuous assessment.
+这所学院实行/运行一套持续评估体系。
+62.Relying on natural ability will not get you far in science.
+
+63.Calculators are not allowed to be used in the examination.
+
+64.Enrolling in a double major may increase your career options.
+
+65.Please close the door behind you when you leave the room.
+
+66.The content is to define the combination of math and philosophy.
+
+67.Students should take the training course to use the gym.
+
+68.The economic predictions turned out to be incorrect.
+这些经济预测结果证明是不正确的
+69.The closing date of applications for travel scholarships will be next Monday.
+旅行奖学金申请的截止日期是下周一。
+70.Rising sea temperatures are a sigh of climate change.
+
+71.Please return your reference books to the library shelves.
+
+72.These three separate resources are not enough for this assessment.
+这三项独立的资源对于这次评估来说不够。
+73.You will be tested via continuous assessment and examinations.
+
+74.Many food crops require a large amount of water and fertilizer.
+
+75.People have become dependent on using phones in everyday life.
+人们在日常生活中已经变得依赖于使用手机。
+76.The department works closely with its partners int the business community.
+
+77.Linguistic is the scientific study and analysis of language.
+
+78.Assignments should be submitted to the department office before the deadline.
+
+79.A good abstract highlight the key points of a paper.
+
+80.The celebrated theory is still the source of a great controversy.
+这个著名理论仍然是一场巨大争议的源头。
+81.A new collection of articles has just been published.
+
+82.A visit to the newly designed museum is of great value.
+参观这个新设计的博物馆很有价值
+83.Auditions for the university choir will be held next week.
+大学合唱团的试唱选拔将于下周举行。
+84.New media journalism is an interesting field of study.
+
+85.The university provides excellent leisure facilities for students and staff.
+
+86.There is an accounting assignment for finance students.
+
+87.Calculators allow us to add numbers without making mistakes.
+
+88.We should never underestimate the power of creative design.
+我们永远不应低估创意设计的力量
+89.The marine environment has been destroyed by pollution and unsustainable development.
+
+90.Designers need to keep up with the social trend.
+
+91.The rise in the sea level indicates climate change.
+
+92.Artists need to make their works both original and accessible.
+艺术家需要让自己的作品既具有原创性，又易于理解
+93.Mutually exclusive events can be described as either complementary or opposite.
+互斥事件可以被描述为互补或相反。
+94.Our study program equips students with the essential skills for university.
+我们的学习项目为学生提供了上大学所需的基本技能
+95.Salt is produced from the sea water or extracted from the ground.
+
+96.Request for late applications will not be accepted under any circumstances.
+
+97.Gravity is the force that attracts who bodies toward one another.
+
+98.Castles were designed to intimidate both local people and enemies.
+城堡的设计旨在同时威慑当地民众和敌人
+99.The news will not be received until the following week.
+
+100.The commissioner will apportion the funds among all the authorities.
+专员将把资金分配给所有相关部门/当局
+101.Most of the lectures begin promptly, so do not be late.
+大部分讲座都会准时开始，所以不要迟到
+102.Social psychology is concerned with the understanding of human behaviors.
+
+103.A laptop computer has been found in the biology lab.
+
+104.The chemistry building is located near the entrance to the campus.
+
+105.Most of these students have not considered this issue before.
+
+106.His appointment as the Minister of Culture was seen as a demotion.
+
+107.Time and distance are used to calculate speed.
+
+108.The opening hours of the library are reducing summer.
+
+109.The study center in the library has all the latest technologies.
+
+110.Measures must be taken to prevent the unemployment rate from increasing.
+
+111.Essays and assignments are spread across the academic year.
+
+112.The area has a variety of underwater habitats and species.
+
+113.Momentum is defined as the combination of mass and velocity.
+动量被定义为质量与速度的结合
+114.Students should leave their bags on the table by the door.
+
+115.The collapse of the housing market has caused recessions throughout the world.
+房地产市场的崩溃已在全世界范围内引发了经济衰退
+116.Sugar is a compound, which consists of carbon, oxygen, and hydrogen.
+糖是一种化合物，由碳、氧和氢组成
+117.The north campus car park could be closed on Sunday.
+
+118.The reception staff can give advice on renting private accommodation.
+接待处的工作人员可以为您提供租用私人住所的建议
+119.There is a widely believed perception that engineering is for boys.
+人们普遍认为工程学是男孩的专长
+120.Your ideas are discussed and debated in seminars and tutorials.
+你的想法在研讨会和教程中被讨论和辩论
