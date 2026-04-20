@@ -247,3 +247,62 @@ PTE WFD (Write From Dictation)
 人们普遍认为工程学是男孩的专长
 120.Your ideas are discussed and debated in seminars and tutorials.
 你的想法在研讨会和教程中被讨论和辩论
+121.The printers automatically print two sides of each page.
+
+122.Students have a regular meeting with his or her personal tutor.
+
+123.Distance learning allows you to develop your career around your commitments.
+远程学习让你能够根据自己已有的（时间或生活）安排来发展你的事业
+124.Speak to your tutor if you have further assistance.
+如果你需要进一步的帮助，请咨询你的导师。
+125.Scientists were unsure when the early man first left Africa.
+
+126.Continuing students will be sent the necessary application forms.
+在读学生（或继续学业的学生）将会收到必要的申请表
+127.Much of the research is carried out in the laboratory.
+
+128.The university has invested in new technologies designed to support learning.
+
+129.More research is need before any definitive conclusion is drawn.
+
+130.There have been many changes recently in the mathematics department.
+
+131.Economic development needs to be supported by the government.
+
+132.Novelist write about the best things that they know about.
+
+133.The professor took a year off to work on the book.
+
+134.The rising temperature is changing the wildlife population.
+
+135.Some departments have their own special book collections.
+
+136.Read the safety instructions before using any equipment in the workshop.
+
+137.Plants are the living things that can grow on land or in water.
+
+138.Some economists argue that the entire financial system is fatally flawed.
+
+139.The archeologist's new discoveries stand out in previously overlooked foundations.
+这位考古学家的新发现在之前被忽视的地基中显得格外突出
+140.It may not mean that it is possible to solve the problem easily.
+
+141.If you need additional help, visit the student resource center.
+
+142.He landed his job in a very prestigious law firm.
+
+143.Geography is generally divided into two branches, human and physical.
+
+144.An introduction is an essential element of a presentation.
+
+145.Education and training provide important skills for the labor force.
+
+146.A good architectural structure should be usable, durable and beautiful.
+
+147.Good research delivers practical benefits to real people.
+
+148.If finance is the cause of a concern, scholarships may be available.
+
+149.Our medical school students must attend the talk about optional courses.
+
+150.Students who are successful have a good strategy for learning.
