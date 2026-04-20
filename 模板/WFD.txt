@@ -16,13 +16,13 @@ PTE WFD (Write From Dictation)
 4.Effective communication is the key to becoming a good successful manager.
 
 5.Participants recorded their sleep hours in the journals.
-
+参与者在日志中记录了自己的睡眠时长
 6.The professor said biology is not the only subject on the exam.
 
-7.You will have a quiz class next week.
-
+7.You will have a quiz in class next week.
+下周课堂上你们会有一次小测
 8.The unemployment rate has steadily increased over the last year.
-
+在过去一年中，失业率持续上升
 9.Maths uses numbers and shapes to solve problems.
 
 10.We were talking about the ways of committing crime.
@@ -32,11 +32,11 @@ PTE WFD (Write From Dictation)
 12.Some students were absent due to the train delay.
 
 13.The meeting seemed minor, occurring in just a small room.
-
+这次会议看似次要，只是在一个小房间里进行
 14.The university library cafe is on the third floor.
 
 15.Farming is affected by changes in seasonal patterns.
-
+农业受季节模式变化的影响
 16.Application forms should be submitted in one week.
 
 17.Plastic pollution is very dangerous for ocean lives.
@@ -58,7 +58,7 @@ PTE WFD (Write From Dictation)
 25.Having enough sleep has many positive benefits.
 
 26.The glittering of the lake camouflages the fish.
-
+湖面的波光掩盖了鱼的身影
 27.Please return the textbooks to the correct bookshelves in the library.
 
 28.The contract will be singed by the owner of the company.
@@ -66,7 +66,7 @@ PTE WFD (Write From Dictation)
 29.The art course has been canceled due to the new policy.
 
 30.Meteorology is the detailed study of the Earth's atmosphere.
-气象学是对地球大气的详细研究。
+气象学是对地球大气的详细研究
 31.You do not need to have specialist knowledge to enjoy this book.
 
 32.Students often conduct research to enhance their knowledge.
@@ -306,3 +306,25 @@ PTE WFD (Write From Dictation)
 149.Our medical school students must attend the talk about optional courses.
 
 150.Students who are successful have a good strategy for learning.
+
+151.Art is an expression of creative skill and imagination.
+
+152.Those who are considering a career in marketing should attend the talk.
+那些正在考虑从事市场营销职业的人应该参加这次讲座。
+153.This courses provides the opportunity to get valuable industry experience.
+
+154.Collaboration between departments is a feature of successful companies.
+部门之间的协作是成功公司的一个特征。
+155.In this language course, we focus on both fluency and accuracy.
+
+156.Remember, the prestigious election of stewardship has strict eligibility criteria.
+
+157.Library reference desks hold a lot of materials on academic history.
+
+158.The cafeteria features sandwiches, salads, soup, chicken and fish.
+
+159.The results of the study underscored the discoveries from early detection.
+
+160.You will acquire many skills during the academic studies.
+
+161.
