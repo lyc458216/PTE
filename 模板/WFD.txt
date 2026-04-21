@@ -72,7 +72,7 @@ PTE WFD (Write From Dictation)
 32.Students often conduct research to enhance their knowledge.
 
 33.Our aim is to reduce the risks that people take.
-
+我们的目标是减少人们所承担的风险
 34.Students should register to gain access to the library printer.
 
 35.All new medical school students must attend the talk about optional courses.
@@ -80,15 +80,15 @@ PTE WFD (Write From Dictation)
 36.The student union hosts a variety of social events.
 
 37.This class will look at the structure of an essay.
-
+本课将探讨文章的结构
 38.We learned through observations and the analysis of human behaviors.
-
-39.Safety is the most important in the  biology job.
+我们通过观察以及分析人类行为来进行学习
+39.Safety is the most important in the biology job.
 
 40.At university, students can make friends for life.
 
 41.The vocabulary that has peculiar meanings in a special field is called jargon.
-在某一特定领域具有特殊含义的词汇称为行话。
+在某一特定领域具有特殊含义的词汇称为行话
 42.It is a debate about the value of knowledge.
 
 43.A few journalism students write for the school newspaper.
@@ -327,4 +327,86 @@ PTE WFD (Write From Dictation)
 
 160.You will acquire many skills during the academic studies.
 
-161.
+161.Students should have a awareness of how business develops globally.
+
+162.Sea levels are expected to rise during the next century.
+
+163.We have sophisticated ways of studying the brain on action.
+
+164.We have not yet achieved equality in our society.
+
+165.Before attending the lecture, you must register online or by post.
+
+166.All of the assignments must be submitted in person to the faculty office.
+
+167.Please confirm that you have received the textbook.
+
+168.There is clearly a need for further research in this filed.
+
+169.Safety glasses should be worn while doing experiments in the lab.
+在实验室做实验时应佩戴护目镜
+170.Important details from the argument are missing in the summary.
+
+171.The faculty staff are very approachable, helpful and extremely friendly.
+
+172.The university will seek a colossal renovation to the faint empty theater.
+
+173.The history of the university is a long and interesting one.
+
+174.We study science to understand and appreciate the world around us.
+
+175.There are some doubts about whether these events actually occurred.
+
+176.A group meeting will be held tomorrow in the library conference room.
+
+177.The educational level is found to be related to social and economic background.
+
+178.Resources and materials are on hold at the library reference desk.
+
+179.Please make sure you have correctly cited all the necessary materials.
+
+180.Organization failure is considered from various perspectives in academic literature.
+
+181.I thought it was through the small meeting room.
+
+182.Our view is that educational reforms have been inadequately implemented.
+
+183.All dissertations must be accompanied with a submission form.
+
+184.The article considers the leisure habits of teenagers in rural areas.
+
+185.Certain scientific principles need to be learned verbally or by logical deduction.
+
+186.The director of the gallery was grateful for the anonymous donation.
+
+187.Graduates from this course typically pursue careers in the financial sector.
+
+188.The most popular courses still have a few places left.
+
+189.Parent's talk to children tends to be simplified.
+
+190.The summer school programs allow students to accelerate their studies.
+
+191.The massive accumulation of data was converted into a communicable argument.
+
+192.Water filters on the campus will discourage the unnecessary use of plastic bottles.
+
+193.The island is located at the south end of the bay.
+
+194.Public perception about biotechnology is crucial for developing scientific consensus.
+
+195.The application process may take longer than expected.
+
+196.Students have the option to live in college residences or apartments.
+
+197.The toughest part of postgraduate education is funding.
+
+198.The qualification will be assessed by using a criterion-referenced approach.
+
+199.Medical researchers have focused on the different treatments and diseases.
+
+200.Daily practice can build confidence and improve skills.
+
+201.Listening is the key skill to succeed in this course.
+
+202.Human beings compete with other living things of resources and space.
