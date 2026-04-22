@@ -106,7 +106,7 @@ PTE WFD (Write From Dictation)
 49.His analysis study appeared to be based on a false premise.
 他的分析似乎基于一个错误的前提
 50.The rising inflation rate indicates a decrease in demand for consumer products. 
-不断上升的通胀率表明消费者产品的需求在下降。
+不断上升的通胀率表明消费者产品的需求在下降
 51.The problem was complex and difficult to explain.
 
 52.Technology is changing the way that media is used and studied.
