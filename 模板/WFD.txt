@@ -92,19 +92,19 @@ PTE WFD (Write From Dictation)
 42.It is a debate about the value of knowledge.
 
 43.A few journalism students write for the school newspaper.
-
+有几名新闻专业的学生为校报撰稿
 44.We encourage students to complete their applications before the deadline.
 
-45.Visual aid can be really helpful when you are revising.
-当你复习的时候，视觉辅助真的很有帮助。
+45.Visual aids can be really helpful when you are revising.
+在你复习的时候，视觉辅助工具可能会非常有帮助
 46.All answers must be thoroughly researched and supported by relevant theories.
-
+所有答案都必须经过充分研究，并有相关理论作为支撑
 47.All accounting students must submit their dissertations before the end of the week.
 
 48.A good academic paper should present a clear argument.
 
-49.His analysis study appeared to be based on the false premise.
-
+49.His analysis study appeared to be based on a false premise.
+他的分析似乎基于一个错误的前提
 50.The rising inflation rate indicates a decrease in demand for consumer products. 
 不断上升的通胀率表明消费者产品的需求在下降。
 51.The problem was complex and difficult to explain.
