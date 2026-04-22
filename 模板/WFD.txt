@@ -192,15 +192,15 @@ PTE WFD (Write From Dictation)
 92.Artists need to make their works both original and accessible.
 艺术家需要让自己的作品既具有原创性，又易于理解
 93.Mutually exclusive events can be described as either complementary or opposite.
-互斥事件可以被描述为互补或相反。
+互斥事件可以被描述为互补或相反
 94.Our study program equips students with the essential skills for university.
 我们的学习项目为学生提供了上大学所需的基本技能
 95.Salt is produced from the sea water or extracted from the ground.
-
+盐是通过海水生产的，或是从地下开采的
 96.Request for late applications will not be accepted under any circumstances.
 
-97.Gravity is the force that attracts who bodies toward one another.
-
+97.Gravity is the force that attracts two bodies toward one another.
+重力是将两个物体彼此吸引的力
 98.Castles were designed to intimidate both local people and enemies.
 城堡的设计旨在同时威慑当地民众和敌人
 99.The news will not be received until the following week.
