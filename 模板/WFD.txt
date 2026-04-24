@@ -254,7 +254,7 @@ PTE WFD (Write From Dictation)
 123.Distance learning allows you to develop your career around your commitments.
 远程学习让你能够根据自己已有的（时间或生活）安排来发展你的事业
 124.Speak to your tutor if you have further assistance.
-如果你需要进一步的帮助，请咨询你的导师。
+如果你需要进一步的帮助，请咨询你的导师
 125.Scientists were unsure when the early man first left Africa.
 
 126.Continuing students will be sent the necessary application forms.
@@ -262,31 +262,31 @@ PTE WFD (Write From Dictation)
 127.Much of the research is carried out in the laboratory.
 
 128.The university has invested in new technologies designed to support learning.
-
-129.More research is need before any definitive conclusion is drawn.
-
+这所大学已投资于旨在支持学习的新技术
+129.More research is needed before any definitive conclusion is drawn.
+在得出任何明确结论之前，还需要进行更多的研究
 130.There have been many changes recently in the mathematics department.
-
+数学系最近发生了许多变化
 131.Economic development needs to be supported by the government.
 
 132.Novelist write about the best things that they know about.
-
+小说家写他们最了解的美好事物
 133.The professor took a year off to work on the book.
 
 134.The rising temperature is changing the wildlife population.
-
+不断升高的气温正在改变野生动物的种群数量
 135.Some departments have their own special book collections.
 
 136.Read the safety instructions before using any equipment in the workshop.
-
+在车间使用任何设备之前，请先阅读安全说明
 137.Plants are the living things that can grow on land or in water.
 
 138.Some economists argue that the entire financial system is fatally flawed.
-
+一些经济学家认为，整个金融体系存在致命(fatally)的缺陷(flawed)
 139.The archeologist's new discoveries stand out in previously overlooked foundations.
 这位考古学家的新发现在之前被忽视的地基中显得格外突出
 140.It may not mean that it is possible to solve the problem easily.
-
+这可能并不意味着能够轻易解决这个问题
 141.If you need additional help, visit the student resource center.
 
 142.He landed his job in a very prestigious law firm.
