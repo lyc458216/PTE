@@ -290,13 +290,13 @@ PTE WFD (Write From Dictation)
 141.If you need additional help, visit the student resource center.
 
 142.He landed his job in a very prestigious law firm.
-
+他成功在一家非常顶尖的(有声望的)律师事务所找到了一份工作
 143.Geography is generally divided into two branches, human and physical.
-
+地理学通常分为两个分支：人文地理学和自然地理学
 144.An introduction is an essential element of a presentation.
-
+引言是演示文稿（或演讲）中必不可少的一个要素
 145.Education and training provide important skills for the labor force.
-
+教育和培训为劳动力提供了重要的技能
 146.A good architectural structure should be usable, durable and beautiful.
 
 147.Good research delivers practical benefits to real people.
