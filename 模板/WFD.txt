@@ -348,9 +348,9 @@ PTE WFD (Write From Dictation)
 170.Important details from the argument are missing in the summary.
 
 171.The faculty staff are very approachable, helpful and extremely friendly.
-
+教职(faculty)员工(staff)非常平易近人(approachable)、乐于助人且极其友好
 172.The university will seek a colossal renovation to the faint empty theater.
-
+这所大学将寻求对那座破旧空荡的剧院进行一次大规模的翻新(renovation)
 173.The history of the university is a long and interesting one.
 
 174.We study science to understand and appreciate the world around us.
@@ -400,13 +400,22 @@ PTE WFD (Write From Dictation)
 196.Students have the option to live in college residences or apartments.
 
 197.The toughest part of postgraduate education is funding.
-
+研究生教育最难的部分是资金问题
 198.The qualification will be assessed by using a criterion-referenced approach.
-
+该资格将采用标准参照法(criterion-referenced approach)进行评估(assessed)
 199.Medical researchers have focused on the different treatments and diseases.
-
+医学研究人员一直专注于不同的治疗方法与疾病
 200.Daily practice can build confidence and improve skills.
-
+日常练习可以建立信心并提高技能
 201.Listening is the key skill to succeed in this course.
-
-202.Human beings compete with other living things of resources and space.
+听力是成功完成这门课程的关键技能
+202.Human beings compete with other living things for resources and space.
+人类为了资源和空间与其他生物竞争
+203.In my opinion, this car should be repaired soon.
+在我看来，这辆车应该尽快修理
+204.You can get your coffee and tea in the lounge.
+你可以在休息区喝到咖啡和茶
+205.We can all meet in my office after the lecture.
+讲座结束后，我们大家都可以到我办公室碰面
+206.The economic strength of the early Roman Republic will be examined.
+早期罗马共和国的经济实力(strength)将得到审视(examined)
