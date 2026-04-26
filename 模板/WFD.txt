@@ -334,17 +334,17 @@ PTE WFD (Write From Dictation)
 163.We have sophisticated ways of studying the brain on action.
 我们有先进的(sophisticated)方法来研究大脑在活动状态下的情况
 164.We have not yet achieved equality in our society.
-
+我们的社会尚未实现平等
 165.Before attending the lecture, you must register online or by post.
 
 166.All of the assignments must be submitted in person to the faculty office.
-
+所有作业都必须亲自交到学院(faculty)办公室
 167.Please confirm that you have received the textbook.
 
-168.There is clearly a need for further research in this filed.
-
-169.Safety glasses should be worn while doing experiments in the lab.
-在实验室做实验时应佩戴护目镜
+168.There is clearly a need for further research in this field.
+显然，在这个领域还需要进一步的研究
+169.Safety glasses should be worn while doing experiments in the laboratory.
+在实验室做实验(experiments)时应佩戴护目镜
 170.Important details from the argument are missing in the summary.
 
 171.The faculty staff are very approachable, helpful and extremely friendly.
