@@ -56,30 +56,38 @@ From my perspective, 【travel is a necessary component in quality education.】
 【单边论证+问题解决类型】：
 第一段：
 题干陈述句，如果题干没有陈述句则用:
-In recent years, the topic of 【题干关键词】 has (drawn a lot of public attention/ sparked widespread debate). 
+In recent years, the topic of 【题干关键词】 has (sparked widespread debate/ drawn a lot of public attention). 
+近年来，[]引起了广泛的争论/引起了公众的广泛关注。
 This issue clearly matters to both individuals and society. 
+这个问题显然对个人和社会都很重要。
 From my perspective,【我的观点】.
 第二段：
 First and foremost, 【论点1】. It is quite important for 【利益相关人1】 because 【论据1】.
 For example, 【举例】. 
 It is worth noting that several recent studies, especially those of an academic nature, have proven my point.
+值得注意的是，最近的几项研究，特别是那些学术性质的研究，证实了我的观点。
 The findings directly support what I discussed above.
+这些发现直接支持了我上面的讨论。
 Therefore, these reasons collectively underscore the importance of recognizing that【论点相关词】is/ are indeed the case.
+因此，这些原因共同强调了认识到[]确实如此的重要。
 第三段：
 In addition, another key reason supporting the argument is that 【论点2】.
+此外，支持这一论点的另一个关键原因是[]
 This factor is particularly significant because 【论据】.
+这个因素特别重要，因为[]
 A relevant example is that 【举例】.
 Through this example, one can better appreciate the value of 【论点2相关词】.
+通过这个例子，人们可以更好地理解[]的价值
 （可选）So, 【论点2换一种表述】
 第四段：
 In conclusion, more and more 【利益相关人2】 are focusing on 【主题相关词1(this problem)】. 
 It is obvious that we should acknowledge the importance of 【主题相关词2(their positive influence)】.
 In light of these points, it is evident that 【主题相关句(... bring many advantages)】, and we must take action to ensure a better future.
 
-关键词助记：cm/ cu/ kr-sa ps ocba/ sa ilo pe
+关键词助记：cm/ cu/ ak-sa ps ocba/ sa ilo pe
 clearly matters/
 collectively underscore/
-key reason supporting the argument
+another key - supporting the argument
 particularly significant
 one can better appreciate/
 should acknowledge
@@ -87,7 +95,7 @@ In light of these points, evident
 
 【双边论证】：
 第一段：题干陈述句。如果题干没有陈述句则用：
-In recent years, the topic of 【题干关键词】） has drawn a lot of public attention. 
+In recent years, the topic of 【题干关键词】） has (sparked widespread debate/ drawn a lot of public attention). 
 This issue clearly matters to both individuals and society.
 In fact, I highly believe that the issue of 【主题词】has both advantages and disadvantages.
 第二段：
