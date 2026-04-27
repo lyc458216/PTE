@@ -85,27 +85,6 @@ one can better appreciate/
 should acknowledge
 In light of these points, evident
 
-题干关键词：quality education
-我的观点：travel is a necessary component in quality education.
-
-论点1-travel对deu1: students can open their views. 
-利益相关人1=students
-论据1: students can know the local cultures. 
-举例: I can know Australian culture through travel. 
-论据2: students can learn the history.
-论点1相关词: travel
-
-论点2-travel对deu2: students can improve their language.
-论据: students can talk with foreign friends.
-举例: I improve my English through travel.
-论点2相关词: travel
-论点2换一种表述: students can enhance their language skills.
-
-利益相关人2: people
-主题相关词1:higher education
-主题相关词2:traveling
-主题相关句:travel is an important part of quality education.
-
 【双边论证】：
 第一段：题干陈述句。如果题干没有陈述句则用：
 In recent years, the topic of 【题干关键词】） has drawn a lot of public attention. 
@@ -128,6 +107,28 @@ Through this example, one can better appreciate the value of 【论点2相关词
 In conclusion, more and more 【利益相关人2】 are focusing on 【主题相关词1】. 
 While 【主题相关词2】 has its merits, it is important to consider its potential downsides.
 In light of these points, it is clear that 【主题相关句】, and we must take actions to maximize benefits while minimizing adverse impacts.
+
+0-0.Whether travel is a necessary component in quality education?
+题干关键词：quality education
+我的观点：travel is a necessary component in quality education.
+
+论点1-travel对deu1: students can open their views. 
+利益相关人1=students
+论据1: students can know the local cultures. 
+举例: I can know Australian culture through travel. 
+论据2: students can learn the history.
+论点1相关词: travel
+
+论点2-travel对deu2: students can improve their language.
+论据: students can talk with foreign friends.
+举例: I improve my English through travel.
+论点2相关词: travel
+论点2换一种表述: students can enhance their language skills.
+
+利益相关人2: people
+主题相关词1:higher education
+主题相关词2:traveling
+主题相关句:travel is an important part of quality education.
 
 1-1. work and personal life (6639) / work-life imbalance (43066)
 Nowadays, it is important to maintain the right balance between one's your job and private, personal life,
