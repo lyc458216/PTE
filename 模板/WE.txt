@@ -88,7 +88,7 @@ It is obvious that we should acknowledge the importance of 【主题相关词2(t
 很明显，我们应该承认[]的重要性。
 In light of these points, it is evident that 【主题相关句(... bring many advantages)】, and we must take action to ensure a better future.
 鉴于这些要点，很明显[]，而且我们必须采取行动，确保更美好的未来。
-关键词助记：cm/ cu/ ak-sa ps ocba/ sa ilo pe
+关键词助记：cm/ cu/ ak-sa ps ocba/ sa ilo-pe
 clearly matters/
 collectively underscore/
 another key - supporting the argument
@@ -100,16 +100,23 @@ In light of these points, evident
 【双边论证】：
 第一段：题干陈述句。如果题干没有陈述句则用：
 In recent years, the topic of 【题干关键词】） has (sparked widespread debate/ drawn a lot of public attention). 
+近年来，[]引起了广泛的争论/引起了公众的广泛关注。
 This issue clearly matters to both individuals and society.
+这个问题显然对个人和社会都很重要。
 In fact, I highly believe that the issue of 【主题词】has both advantages and disadvantages.
 事实上，我非常相信关于[]的问题各有利弊。
 第二段：
 First and foremost, 【论点1】.It is quite important for 【利益相关人1】 because 【论据】.
+首先，也是最重要的。对于[]是非常重要的，因为[]。
 For example, 【举例】.
+举个例子，[]。
 It is worth noting that several recent studies, especially those of an academic nature, have proven my point.
+值得注意的是，最近的几项研究，特别是那些学术性质的研究，证实了我的观点。
 The findings directly support what I discussed above.
+这些发现直接支持了我上面的讨论。
 （可选）What is more, another reason must be taken into consideration.【论据2】. 
 Therefore, these reasons collectively underscore the importance of recognizing that【论点1相关词】,as is indeed the case.
+因此，这些原因共同强调了认识到[]确实如此的重要。
 第三段：
 On the other hand, critics point out that【对立观点-论点2】.
 This factor is particularly significant because 【论据】.
@@ -120,6 +127,11 @@ Through this example, one can better appreciate the value of 【论点2相关词
 In conclusion, more and more 【利益相关人2】 are focusing on 【主题相关词1】. 
 While 【主题相关词2】 has its merits, it is important to consider its potential downsides.
 In light of these points, it is clear that 【主题相关句】, and we must take actions to maximize benefits while minimizing adverse impacts.
+
+关键词助记：cm hb/ cu/ 
+clearly matters
+highly believe
+collectively underscore
 
 0-0.Whether travel is a necessary component in quality education?
 题干关键词：quality education

@@ -52,7 +52,7 @@ PTE WFD (Write From Dictation)
 22.The field of social development includes description of social behavior.
 
 23.The article illustrates the intricate relationship of culture and languages.
-这篇文章说明了文化和语言之间错综复杂的关系
+这篇文章说明(illustrates)了文化和语言之间错综复杂(intricate)的关系
 24.The assessment procedure has been changed slightly since lat year.
 自去年年底以来，评估程序略有变化
 25.Having enough sleep has many positive benefits.
@@ -419,3 +419,6 @@ PTE WFD (Write From Dictation)
 讲座结束后，我们大家都可以到我办公室碰面
 206.The economic strength of the early Roman Republic will be examined.
 早期罗马共和国的经济实力(strength)将得到审视(examined)
+
+207.Our capacity to respond to national needs will determine our ability to flourish.
+我们回应国家需求的能力(capacity)，将决定(determine)我们实现繁荣(flourish)发展的能力
