@@ -9,13 +9,13 @@ It is worth noting that several recent studies, especially those of an academic 
 The findings directly support what I discussed above.
 Therefore, these reasons collectively underscore the importance of recognizing that [词] is indeed the case.
 
-In addition, another key reason supporting the argument is that [句].（差异）
+In addition, another key reason supporting the argument is that [句].(差异)
 This factor is particularly significant because [句].
 A relevant example is that [句].
 Through this example, one can better appreciate the value of [词].
 
 In conclusion, more and more [词(people)] are focusing on [词(this problem)].
-It is obvious that we should acknowledge the importance of [词(their positive influence)] 
+It is obvious that we should acknowledge the importance of [词(their positive influence)]. 
 In light of these points, it is evident that [句(... bring many advantages)], and we must take action to ensure a better future. 
 
 --双边
@@ -34,3 +34,6 @@ This factor is particularly significant because [句].
 A relevant example is that [句].
 Through this example, one can better appreciate the value of [词].
 
+In conclusion, more and more [词(people)] are focusing on [词(this problem)].
+While [词] has its merits, it is important ot consider its potential downsides.(差异)
+In light of these points, it is clear that [句], and we must take actions to maximize benefits while minimizing adverse impacts.(差异)
