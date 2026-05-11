@@ -38,4 +38,11 @@ Consequently, [句].(可选)
 
 In conclusion, an increasing number of [词(individuals/ experts/ people)] are focusing on [词(this problem)].
 While [词] has its merits, it is important to consider its potential downsides.(差异)
-In light of these points, it is clear that [句], and we must take action to maximize benefits while minimizing adverse impacts.(差异)
+In light of these points, it is evident that [句], and we must take action to maximize benefits while minimizing adverse impacts.(差异)
+
+cm: clearly matters/
+cu: collectively underscore/
+ak-rs(cp): another key reason supporting (critics point)
+ps: particularly significant
+o-cba(ps): one can better appreciate (potential risks)/
+o-sa-ti(m-ci-pd): obvious-should acknowledge the importance/ merits-consider its potential downsides
