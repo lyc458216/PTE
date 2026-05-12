@@ -15,7 +15,7 @@ DI：描述有逻辑-主次，关键信息尽量覆盖；
         2.发音：清晰可识别（同RA），不讲究语法‼️
     每道题讲到30-40秒最佳，一般【地图】/【纯图】题只会有一个
 
-DI模板(30-35秒最佳)：
+DI模板(30-35秒最佳),每天3道，练到65分：
 [线line graph/饼pie chart/柱bar chart/表table]
 要快速抓取数据，数据对应，数据趋势描述与总结；线图和柱图方便描述趋势（动态），饼图和表图方便做数据对比（静态）.
 1.This picture gives information about [读标题].
@@ -144,12 +144,47 @@ that useful. In conclusion, this discussion is very informative.
 3.  保持平缓的语调：不要激动，不要像真人在辩论那样去模仿他们的语气。你就像一个没有感情的AI播报机器，匀速、平稳地把句子过完，PTE的机器系统最吃这一套！
 
 RTS：
-建议超过30s
+1.礼貌开场
+Excuse me, I need some help from you.   对不起我需要你的帮助
+Sorry to bother you, but ...            很抱歉打扰你，但是...
+Hello, do you mind I tell you something?    你好，你介意我告诉你一件事吗
+Could I trouble you with something?     我能麻烦你点事吗？
+May I ask your help with something?     我可以请你帮个忙吗？
+Sorry to take up your time ...          抱歉占用您的时间...
+May I disturb you for a moment?         我可以打扰你一会吗？
+Could I ask you for a favor?            我能请你帮个忙吗？
+Hi team/guys, I need to discuss something urgent ...
+各位同事/伙伴们，我有件紧急的事情要和大家讨论一下 ...
+
+2.描述具体问题+原因/影响/结果【‼️可从原文提取】
+We all know that 句子   我们都知道...
+It is very clear that 句子  很明显...
+Here is the situation that 句子 在这种情况下...
+
+3.解决方案【‼️需要一定程度上DIY】
+Maybe we can all agree tht 句子         也许我们都同意...
+One solution to this is that 句子       对此的一个解决办法是...
+Well, actually, I suggest that 句子     嗯, 实际上, 我建议...
+Correct me if I'm wrong, but I think we share that the view that 句子
+如果错了请纠正我，但我想我们在...上看法一致
+Perhaps we could consider 单词/句子?    或许我们可以考虑[建议内容]?
+This might help address 单词/句子.      这可能有助于解决[问题].
+Might I suggest that we consider ...    我能否建议我们考虑...?
+
+4.礼貌结尾
+Thanks a lot/ Thank you so much.    
+Thanks for your help with this. 感谢你在这方面的帮助
+I appreciate your time.         感谢你抽出时间
+Your help means a lot to me     你的帮助对我意义很大
+Have a good day                 祝你一天愉快
+Catch you later                 回头见
+
+
 
 练习：
 RA：每天5道，每道达到70分，一句话即可
 RS：每10题1组，每天3组，每组总结问题，每道到70分，
-DI：每天3道，练到65分
+DI：
 
 --听力：  
 背单词--听到，读出来
