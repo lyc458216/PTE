@@ -15,50 +15,47 @@ DI：描述有逻辑-主次，关键信息尽量覆盖；
         2.发音：清晰可识别（同RA），不讲究语法‼️
     每道题讲到30-40秒最佳，一般【地图】/【纯图】题只会有一个
 
-DI模板：
+DI模板(30-35秒最佳)：
 [线line graph/饼pie chart/柱bar chart/表table]
 要快速抓取数据，数据对应，数据趋势描述与总结；线图和柱图方便描述趋势（动态），饼图和表图方便做数据对比（静态）.
-1.Well, this [图片类型] we've got is mostly talking about [主题/标题].
-    In this [图片类型] we can get the information about [主题/标题].
-如果图片中有时间表达：
-    直接表达年/月份 in xxx (and xxx)
-    over [数字] year/month/day period.
+1.Well, this picture gives information about [读标题].
+    In this [图片类型] we can get information about [主题/标题].
 2.From this chart, we can see X axis shows ..., and Y axis shows...
-    Look at this chart, there are a bunch of things we can spot. Such as..., and...
-    We can see many items in this picture such as..., and...
-3.Well, it's obvious that the [maximum/highest/biggest/largest] number is ..., what is related to [对应横坐标]。
-    可补充：it is from [数值] to [数值]. 横坐标从多少到多少
-    可补充：After that, [横坐标] comes in second, at 数值.
-    可补充：And the same number can also be seen on [对应横坐标].
-    可补充：Obviously, the second biggest number is ..., which is connected with...[对应横坐标]
-4.On the contrary, we can see the [smallest/lowest] value is...(which is [connected with/related to/relevant to]...[对应横坐标])
-    可补充：Also, we can find the second [smallest/lowest] number is..., which locates in the [横坐标].
+    可补充：And the X axis is from [数值] to [数值]. 横坐标从多少到多少
+    可替换为: We can see many items in this picture such as..., and...
+    In this picture, I can see [图里的词汇1], [词汇2], and [词汇3].
+    如果图里字少: I can also see some colors, such as red, blue, and green.
+3.Well, it is clear that the highest number is ..., which is [对应横坐标]。
+    可补充：After that, [横坐标] comes in second, which is [数值].
+    可补充：And the second biggest number is ..., which is [对应横坐标]
+4.However we can see the lowest number is [最小数值] which is [对应横坐标]
+    可补充：Also, we can find the second lowest number is..., which is [横坐标].
 5.探讨关系：动态：趋势分析，随时间变化的趋势；静态：元素间的大小、高低对比
-    [动态‼️]It is quite clear that the number of [横坐标] [increases/decrease/go up/go down] [slowly/mildly/slightly/suddenly/sharply/with a lot of fluctuation] from 数值 to 数值.
-    Another significant thing is that the number of [横坐标] falls to the bottom, at [数值].
-    Also, the number of... shows the greatest increase, from 数值 to 数值.
-    The overall trend of [主题] is downward/upward.
-    [静态‼️]What's more, the number of [横坐标] is bigger/smaller than that of [横坐标], at [数值差值].
-    It is noticeable that the number of [横坐标] is much higher/lower than that of [横坐标], by [数值].
-    Additionally, I can spot that the number of [横坐标] is almost [double/triple/数字times] larger than that of [横坐标] in amount.
-6.In conclusion, this [图片类型] tells us about [主题/标题].
+    [动态‼️]Overall, the trend of [主题] is going up / going down. (总体趋势上升/下降)
+    It is clear that the number of [横坐标] [increases/decrease/go up/go down] from 数值 to 数值.
+    [静态‼️]Also, [名字A] is much bigger than [名字B]
+6.In conclusion, this picture is very informative.
+    In conclusion, this [图片类型] tells us about [主题/标题].
     All in all, the picture gives information about [主题/标题].
 
 [流程图]
 1.The given picture is a flow chart, which is about [主题/标题].
-2.According to the picture, we can find that there are some [stages/steps] in the whole process. 
-3.First of all, we can see that the first step begins with... [描述一下颜色/形状/大小/几个/什么东西/其他特殊属性].
-4.After that, we can see... is also displayed here, in the second step.
-5.And apart from that, in the third step(and fourth step)[步骤多可以合并同类项], it can be seen that...
-6.And the last [stages/steps] is...
-    So in the end, according to the given chart, we can get the information about [主题/标题].
+2.There are several [stages/steps] in this process. 
+3.The first step is [描述一下颜色/形状/大小/几个/什么东西/其他特殊属性].
+4.Next, I can see [读中间某个框的词].
+5.Then, we can see [读另一个框的词]
+6.Finally the last [stages/steps] is...
+6.So in the end, according to the given chart, we can get the information about [主题/标题].
 
 [地图/纯图]
-1.Well, the picture shows the information about [主题/标题]
-2.Look at this picture, we can find ... on the [left/right] side.
-3.And if you look on the central part of the picture, there is..., which is/indicates [事物属性/大小/几个/颜色].
-4.And apart from that, we can see... and ... on the right side as well.
-5.So in conclusion, this picture shows [主题/标题].
+1.This picture gives information about [读标题]
+2.In this picture, I can see ... and ...
+3.At the top of this picture, there is ...
+4.And apart from that, we can see ... and ... on the left side as well.
+5.And on the right, we can see ...
+6.At the bottom, we can see ...
+7.And on the central part of the picture, I can find ...
+8.So in conclusion, this picture shows [主题/标题].
 描述顺序：上->下，左->右(不会遗漏、重复)
 
 RL：
