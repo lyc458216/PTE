@@ -109,15 +109,18 @@ SGD：
   机器只要捕捉到了transcript（文本）里的核心词，内容分就会给你，它没那么智能去严苛判定“这句话究竟是不是第二个人说的”。
 
 模板:
-1. 引入（抓取音频最开头、或重复最多的主题词）
-  - The discussion is mainly about [主题词/短语].
-2. 讲第一个人的观点（读你第一块区域的笔记）
-  - The first speaker mentions that [笔记1], and talks about [笔记2].
-3. 讲第二个人的观点（用一个简单的转折词，读第二块笔记）
-  - On the other hand, the second speaker highlights [笔记3], and focuses on [笔记4].
-4. 讲第三个人的观点（读第三块笔记）
-  - Furthermore, the third speaker points out [笔记5], and argues that [笔记6].
-5. In conclusion, this discussion is very informative.
+1.The discussion is mainly about [主题词/短语].
+    The three speakers were talking about [主题词/短语]
+2.In the beginning, the first speaker mentions that [笔记1], and talks about [笔记2].
+    (可选)[主题] was the main topic of the first speaker's contribution.
+3.According to the discussion, the second speaker highlights [笔记3], and focuses on [笔记4].
+    Following the first speaker, the second speaker turned to ...
+    Then he also noted that ...
+4.In addition, the third speaker mentioned ... 
+    Furthermore, the third speaker points out [笔记5], and argues that [笔记6].
+5. In conclusion, their conversation centered on ...
+    To sum up, the discussion focus on ...
+    Overall, the three speakers discussed ...
 
 💡 考场实战演示与救命技巧
 假设你记下的笔记非常稀碎，只有几个词：
