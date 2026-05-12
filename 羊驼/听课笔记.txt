@@ -60,30 +60,42 @@ DI模板(30-35秒最佳)：
 描述顺序：上->下，左->右(不会遗漏、重复)
 
 RL：
-人工审核，要有逻辑，答题要30s以上，分行记笔记，听5组左右意群就可以，流利度很重要，保证笔记的可读性，一行1点或2点关键词；
-笔记要记逻辑词：lead to/result in导致；come from/return/receive from(来自)；up/upward/rise/increase(提升)；
-compare/competitor/against（对比/对手/反对）about/around/or so/approximately; because/because of/due to; right/good/famous/well-known;
-wrong/incorrect/something bad/negative;
-注意重复出现的实词，注意信号词-But, although, however, so, because, we need to focus on..., the issue here is..., what we have discovered is..., for instance, to illustrate, on the contrary
+人工审核，要有逻辑，答题要30-35s，
+分行记笔记，听5组左右意群就可以，流利度很重要，保证笔记的可读性，一行1点或2点关键词；
+“名动名”记笔记法：
+听力时，尽量一行记3个词（例如：government - reduce - taxes），复述的时候直接套入模板：government reduces taxes
+笔记要记逻辑词：
+    lead to/ result in 导致；
+    come from/ return/ receive from 来自；
+    up/upward/ rise/ increase 提升；
+    compare/ competitor/ against 对比/对手/反对
+    about/ around/or so/ approximately; 
+    because/ because of/ due to; 
+    right/ good/famous/ well-known;
+    wrong/ incorrect/ something bad/ negative;
+注意重复出现的实词，注意信号词-
+But, although, however, so, because, we need to focus on..., 
+the issue here is..., what we have discovered is..., 
+for instance, to illustrate, on the contrary
 注意语气变化-放慢，重度.
 注意数据-具体数值，年份，百分比...
 注意开头和结尾出现的词.
 记重点-能听懂的实词词组（主题词，观点，信号词后的名词，动词短语），尽量记短语，连续词组，相对完整意群/句子.
-规范笔记格式，提高速记能力，只抓重点句，以理解为主梳理逻辑；
 练技巧手感，不要背题，熟练话题和叙述结构；
 不能将非关键词或者逻辑关联不大的词组进行套词框架堆砌，如果听到的关键句/词比较多可以进行DIY造句
 流利度是第一，日常练习简单造句，积累缓冲句式
-1.the lecture talks about relevant information about...(主题短语)
-    the speaker mainly talks about the topic of(主题短语)
-2.The speaker argues the statement with supporting details, including(短语并列), [and one key point is that ...]
-    The speaker starts with the discussion/lecture by saying that (句子)
-3.In addition, the lecture highlights...(短语或句子)
+1.The speaker mainly talks about(主题短语)
+2.The speaker starts the lecture by saying that ...
+    First of all, he mentions ... 
+3.In addition, he talks about ...
+    In addition, the lecture highlights...(短语或句子)
     Another important detail is about... (短语)
 4.After that, the speaker also pays attention to the fact that (句子)
-    He/she also mentions about the importance of... (短语)
-5.Apart from that, the speaker tells us that...(句子)
-    Furthermore, the speaker. points out... (短语)
-6.Overall, the lecture provides valuable insights into...(句子)
+    He also mentions the importance of... (短语)
+5.Apart from that, the speaker tells us that...
+    Apart from that, the speaker points out...
+    Furthermore, he highlights ...
+6.In conclusion, this lecture is very informative.
 
 SGD：
 最好说1分30秒以上，信息间要有逻辑关系
