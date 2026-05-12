@@ -66,22 +66,22 @@ RL：
 听力时，尽量一行记3个词（例如：government - reduce - taxes），复述的时候直接套入模板：government reduces taxes
 笔记要记逻辑词：
     lead to/ result in 导致；
-    come from/ return/ receive from 来自；
-    up/upward/ rise/ increase 提升；
-    compare/ competitor/ against 对比/对手/反对
-    about/ around/or so/ approximately; 
+    come from/ receive from 来自；
+    up/ upward/ rise/ increase 提升；
+    compare/ against 对比/ 反对
+    about/ around/ approximately; 
     because/ because of/ due to; 
-    right/ good/famous/ well-known;
+    right/ good/ famous/ well-known;
     wrong/ incorrect/ something bad/ negative;
 注意重复出现的实词，注意信号词-
-But, although, however, so, because, we need to focus on..., 
+but, although, however, so, because, we need to focus on..., 
 the issue here is..., what we have discovered is..., 
 for instance, to illustrate, on the contrary
 注意语气变化-放慢，重度.
 注意数据-具体数值，年份，百分比...
 注意开头和结尾出现的词.
-记重点-能听懂的实词词组（主题词，观点，信号词后的名词，动词短语），尽量记短语，连续词组，相对完整意群/句子.
 练技巧手感，不要背题，熟练话题和叙述结构；
+记重点-能听懂的实词词组（主题词，观点，信号词后的名词，动词短语），尽量记短语，连续词组，相对完整意群/句子.
 不能将非关键词或者逻辑关联不大的词组进行套词框架堆砌，如果听到的关键句/词比较多可以进行DIY造句
 流利度是第一，日常练习简单造句，积累缓冲句式
 1.The speaker mainly talks about(主题短语)
@@ -100,6 +100,45 @@ for instance, to illustrate, on the contrary
 SGD：
 最好说1分30秒以上，信息间要有逻辑关系
 一个主观点有1-2个support details 并用逻辑关系词
+📝 黄金“三宫格”记笔记法
+在考场发给你的白板上，直接画两条线，把板子分成上、中、下（或左、中、右）三块区域。
+  - 第一个人说话：在第一块区域狂记认识的实词（名词、动词短语）。
+  - 换人说话了：立刻跳到第二块区域记。
+  - 第三个人开口：跳到第三块区域。
+  - 如果他们来回插嘴怎么办？ —— 随便记！ 不要去纠结到底是谁说的，只要把听到的词组分组记下来，待会儿顺畅地填进模板里就行。
+  机器只要捕捉到了transcript（文本）里的核心词，内容分就会给你，它没那么智能去严苛判定“这句话究竟是不是第二个人说的”。
+
+模板:
+1. 引入（抓取音频最开头、或重复最多的主题词）
+  - The discussion is mainly about [主题词/短语].
+2. 讲第一个人的观点（读你第一块区域的笔记）
+  - The first speaker mentions that [笔记1], and talks about [笔记2].
+3. 讲第二个人的观点（用一个简单的转折词，读第二块笔记）
+  - On the other hand, the second speaker highlights [笔记3], and focuses on [笔记4].
+4. 讲第三个人的观点（读第三块笔记）
+  - Furthermore, the third speaker points out [笔记5], and argues that [笔记6].
+5. In conclusion, this discussion is very informative.
+
+💡 考场实战演示与救命技巧
+假设你记下的笔记非常稀碎，只有几个词：
+  - 区域1：library rules (图书馆规定) / close early (关门早)
+  - 区域2：need more time (需要更多时间) / study for exams (备考)
+  - 区域3：online resources (在线资源) / useful (有用)
+
+你用模板直接套进去读（哪怕语法是错的，只要语速匀称、发音自信，流利度就能拿满！）：
+The discussion is mainly about library rules. The first speaker mentions that
+library rules, and talks about close early. (注：不用管语法对不对，直接念笔记) On the other
+hand, the second speaker highlights need more time, and focuses on study for
+exams. Furthermore, the third speaker points out online resources, and argues
+that useful. In conclusion, this discussion is very informative.
+
+🎯 SGD 给基础一般同学的终极忠告：
+1.  只记会读的词：听到很高深的学术词汇，如果你不会拼或者拿不准发音，坚决不要记！ 记下来你读的时候会因为不会发音而卡壳，这是毁灭性的。
+    记那些你绝对认识的简单词（哪怕是 students, school, money, internet 这种基础词）。
+2.  连接词大法：如果你的某一块笔记只记下了好几个孤立的名词（比如 books, computers, desks），
+    直接在模板里用 and 把它们串起来：
+    The second speaker highlights books, computers, and desks. 机器照样给你算分！
+3.  保持平缓的语调：不要激动，不要像真人在辩论那样去模仿他们的语气。你就像一个没有感情的AI播报机器，匀速、平稳地把句子过完，PTE的机器系统最吃这一套！
 
 RTS：
 建议超过30s
