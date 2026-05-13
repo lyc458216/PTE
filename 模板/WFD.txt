@@ -8,331 +8,332 @@ PTE WFD (Write From Dictation)
 
 预测题：
 1.A university degree is required for entry into various professions.
-
+进入各个行业都需要具备大学学位。
 2.The university auditorium is around the corner.
-
+大学的礼堂就在拐角处。
 3.The professor discussed the article yesterday in this class.
-
+教授昨天在这节课上讨论了这篇文章。
 4.The university library cafe is on the third floor.
-
+大学图书馆的咖啡厅在三楼。
 5.Farming is affected by changes in seasonal patterns.
-
+农业受季节模式变化的影响。
 6.You need to make sure that all your essays are handed in on time.
-
-7.Having enough sleep have many positive benefits.
-
+你需要确保所有的论文都能按时交上。
+7.Having enough sleep has many positive benefits.
+保持充足的睡眠有许多积极的益处。
 8.It is quite clear that our facial expressions are different across the world.
-
+很明显，世界各地人们的面部表情各不相同。
 9.All experimental procedures are outlined in the laboratory manual.
-所有的实验程序都在实验室手册中列出
+所有的实验程序都在实验室手册中列出。
 10.You can find the complaint form on the website.
-
+你可以在网站上找到投诉表。
 11.There was a prize for the best student presentation.
-
+最佳学生演讲会获得一份奖品。
 12.Undoubtedly, this theory has a number of limitations.
-
+毋庸置疑，这个理论有许多局限性。
 13.The office hours will be changed from next term.
-
+办公时间将从下学期开始更改。
 14.We are looking for new ways to engage learners.
-我们正在寻找吸引学习者的新方法
+我们正在寻找吸引学习者的新方法。
 15.The unemployment rate has fallen to its lowest level in years.
-
+失业率已降至近年来的最低水平。
 16.Football is played throughout the year at the university.
-
+这所大学一年四季都有人踢足球。
 17.Chemical reactions occur when substances combine or change.
-当物质结合或变化时就会发生化学反应
+当物质结合或发生变化时，就会发生化学反应。
 18.The studies showed that the Hong Kong people were the most active in Asia.
-
+研究表明，香港人是亚洲最活跃的。
 19.Mathematics provides a foundation for understanding and analyzing data.
-
+数学为理解和分析数据提供了基础。
 20.There is probably life on other planets in the universe.
-
+宇宙中的其他星球上可能存在生命。
 21.We have a great deal of debate on that topic.
-
-22.Course work gives students the chances to thoroughly explore the subject.
-
+我们对那个话题进行了大量的辩论。
+22.Coursework gives students the chance to thoroughly explore the subject.
+课程作业给学生提供了深入探索该学科的机会。
 23.Our courses help to improve critical thinking and independent learning skills.
-
+我们的课程有助于提高批判性思维和独立学习的能力。
 24.When attending a job interview, punctuality is the key.
-
+参加求职面试时，守时是关键。
 25.The lecture is about the reasons for the financial crisis.
-
+这场讲座是关于金融危机爆发的原因。
 26.You can use your laptop in the lecture.
-
+你可以在听讲座时使用笔记本电脑。
 27.Computers used to be larger than they are now.
-
+以前的计算机比现在的要大。
 28.It is important to plan your study time carefully.
-
+仔细规划你的学习时间很重要。
 29.You must be able to work in a team.
-
-30.The museum is closed on the third Monday of very month.
-
+你必须具备团队合作的能力。
+30.The museum is closed on the third Monday of every month.
+博物馆在每个月的第三个星期一闭馆。
 31.Population has a sharp rise in the recent twenty years.
-
-32.Optional tutorials are offered in the final week of a term.
-
+在过去的二十年里，人口数量急剧上升。
+32.Optional tutorials are offered/scheduled in the final week of the term.
+选修辅导课在学期的最后一周提供。
 33.We encourage students to complete their applications before the deadline.
-
+我们鼓励学生在截止日期前完成申请。
 34.A good academic paper should present a clear argument.
-
+一篇优秀的学术论文应该提出明确的论点。
 35.The rising inflation rate indicates a decrease in demand for consumer products.
-
-36.Tha dance department stages elaborated performances each semester.
-
-37.The other books is not thorough but it's more insightful.
-
-38.All industries are a system of inputs, processes, outputs and feedback.
-
+不断上升的通货膨胀率表明对消费品的需求下降。
+36.The dance department stages elaborate performances each semester.
+舞蹈系每学期都会举办精心制作的演出。
+37.The other book is not thorough but it's more insightful.
+另一本书不够全面，但更有见地。
+38.All industries are systems of inputs, processes, outputs and feedback.
+所有行业都是由投入、过程、产出和反馈组成的系统。
 39.Strangely, people are simultaneously impressed by and skeptical of using statistics.
-
+奇怪的是，人们在对使用统计数据印象深刻的同时，又对此持怀疑态度。
 40.Please note that the seminar has now been canceled.
-
+请注意，研讨会现已被取消。
 41.Classical mechanics is sometimes considered as a branch of applied mathematics.
-
-42.The elective course introduces engineering students to construct practices and concepts.
-
+经典力学有时被认为是应用数学的一个分支。
+42.The elective course introduces engineering students to construction practices and concepts.
+这门选修课向工程学学生介绍建筑实践和概念。
 43.The college operates a system of continuous assessment.
-
+该学院实行持续评估系统。
 44.Students are advised that all the lectures today have been canceled.
-
+通知学生，今天所有的讲座都已取消。
 45.Participating in the class is the center of the course.
-
-46.Philosophy uses logic and reasons to analyze human experience.
-
-47.We have lecture in the morning on Thursday.
-
+参与课堂是本课程的核心。
+46.Philosophy uses logic and reason to analyze human experience.
+哲学运用逻辑和理性来分析人类经验。
+47.We have a lecture in the morning on Thursday.
+我们周四早上有讲座。
 48.Air pollution is a serious problem all over the world.
-
+空气污染是世界各地的一个严重问题。
 49.The content is to define the combination of math and philosophy.
-
+其内容是定义数学和哲学的结合。
 50.Students should take the training course to use the gym.
-
+学生应参加培训课程才能使用健身房。
 51.Protective clothing must always be worn in the laboratory.
-
+在实验室必须始终穿着防护服。
 52.Lecture outlines are available on the faculty board and internal website.
-
+讲座大纲可以在学院公告栏和内部网站上获取。
 53.Rising sea temperatures are a sign of climate change.
-
+海水温度上升是气候变化的迹象。
 54.He wrote poetry and plays as well as scientific papers.
-
-55.When the root system of a plant fails, foliage suffers.
-
+他写诗歌和戏剧，也写科学论文。
+55.When the root system of a plant fails, the foliage suffers.
+当植物的根系受损时，叶子也会受到影响。
 56.The use of mobile phones is not permitted in the library.
-
-57.An effective managers is always open to new ideas.
-
-58.The celebrated theory is still the sources of a great controversy.
-
+图书馆内不允许使用手机。
+57.An effective manager is always open to new ideas.
+一位高效的管理者总是乐于接受新想法。
+58.The celebrated theory is still the source of a great controversy. 
+那个著名的理论仍然是巨大争议的根源。
 59.A new collection of articles has just been published.
-
+一本新的文章集刚刚出版。
 60.The farmers need to adapt to the changes of the climate.
-
-61.Honey can be used as the food and health product.
-
+农民们需要适应气候变化。
+61.Honey can be used as a/the food and health product. 
+蜂蜜可以作为食品和保健品使用。
 62.New media journalism is an interesting field of study.
-
+新媒体新闻学是一个有趣的研究领域。
 63.Currently, the growth of the economy is unpredictable.
-
-64.Many university lectures cna now be viewed on the Internet.
-
-65.The digital camera has some advantaged over traditional film.
-
+目前，经济增长是不可预测的。
+64.Many university lectures can now be viewed on the Internet.
+许多大学讲座现在都可以在互联网上观看。
+65.The digital camera has some advantages over traditional film.
+数码相机相对于传统胶片有一些优势。
 66.Many diseases that were once serious have been eradicated.
-
+许多曾经非常严重的疾病已经被根除。
 67.New materials and techniques are changing the style of architecture.
-
+新材料和新技术正在改变建筑风格。
 68.The marine environment has been destroyed by pollution and unsustainable development.
-
-69.Academic libraries across th world are steadily incorporating social media.
-
-70.Designers need to keep up with the social trend.
-
-71.The rise in the sea level indicates climates change.
-
-72.This courses involves a combination of pure and applied mathematics.
-
+海洋环境已经被污染和不可持续的发展所破坏。
+69.Academic libraries across the world are steadily incorporating social media.
+世界各地的学术图书馆都在稳步引入社交媒体。
+70.Designers need to keep up with the social trends.
+设计师需要跟上社会的潮流。
+71.The rise in the sea level indicates climate change.
+海平面的上升表明了气候变化。
+72.This course involves a combination of pure and applied mathematics. 
+这门课程涉及纯数学和应用数学的结合。
 73.Mixtures are defined as a compound of chemically separate parts.
-
-74.Request for late applications will not be accepted under any circumstances.
-
+混合物被定义为化学上独立部分的组合。
+74.Requests for late applications will not be accepted under any circumstances.
+在任何情况下都不接受逾期申请的请求。
 75.Plants are able to continue growing throughout their lives.
-
-76.Food containing too much sugar and calories has little or not nutritional value.
-
+植物在它们的一生中都能够持续生长。
+76.Food containing too much sugar and calories has little or no nutritional value.
+含有过多糖分和卡路里的食物几乎没有或根本没有营养价值。
 77.The commissioner will apportion the funds among all the authorities.
-
+专员将在所有相关机构之间分配资金。
 78.Social psychology is concerned with the understanding of human behaviors.
-
-79.The chemistry building is located near the entrance to campus.
-
+社会心理学关注对人类行为的理解。
+79.The chemistry building is located near the entrance to the campus.
+化学楼位于校园入口附近。
 80.Banks charge interest on the money they loan to their customers.
-
+银行对贷给客户的钱收取利息。
 81.Social media is criticized for causing internet addiction.
-
+社交媒体因导致网瘾而受到批评。
 82.The student shop sells a range of stationery.
-
+学生商店出售各种文具。
 83.Students must wear protective clothing provided in the medical laboratory.
-
-84.Essay and assignments are spread across the academic year.
-
+学生必须穿戴医学实验室提供的防护服。
+84.Essays and assignments are spread across the academic year.
+论文和作业分布在整个学年中。
 85.The area has a variety of underwater habitats and species.
-
+该地区有各种水下栖息地和物种。
 86.Sugar is a compound, which consists of carbon, oxygen, and hydrogen.
-
+糖是一种化合物，由碳、氧和氢组成。
 87.The north campus car park could be closed on Sunday.
-
+北校区停车场周日可能会关闭。
 88.Photography is very useful for geographical research.
-
+摄影对地理研究非常有用。
 89.There is a widely believed perception that engineering is for boys.
-
+人们普遍认为工程学是适合男生的。
 90.The library will be closed for staff training tomorrow morning.
-
+图书馆明早将因员工培训而闭馆。
 91.Your ideas are discussed and debated in seminars and tutorials.
-
+你的想法将在研讨会和辅导课上进行讨论和辩论。
 92.The printers automatically print two sides of each page.
-
+打印机会自动进行双面打印。
 93.Make sure you choose a course that provides great career opportunities.
-
+请确保你选择了一门能提供良好职业机会的课程。
 94.Dealing with the growing population is a challenge for many governments.
-
+应对不断增长的人口是许多政府面临的挑战。
 95.Distance learning allows you to develop your career around your commitments.
-
+远程学习让你能够在不耽误日常事务的情况下发展事业。
 96.Physics is the key subject to understanding the world and the universe.
-
+物理学是理解世界和宇宙的关键学科。
 97.Scientists were unsure when the early man first left Africa.
-
+科学家们不确定早期人类是什么时候首次离开非洲的。
 98.Much of the research is carried out in the laboratory.
-
+大部分研究都是在实验室里进行的。
 99.The library plays an important role in students' lives.
-
+图书馆在学生们的生活中扮演着重要的角色。
 100.Our professor is hosting the business development conference.
-
+我们的教授正在主持业务发展会议。
 101.Check the website if you are looking for discounted textbooks.
-
+如果你正在寻找打折的教科书，请查看网站。
 102.The science library is currently located on the ground floor of the library.
-
+科学图书馆目前位于本建筑的底层。
 103.Farming methods across the world have greatly developed recently.
-
+近来，世界各地的农业方法有了很大的发展。
 104.The university has invested in new technologies designed to support learning.
-
+大学已投资于旨在辅助学习的新技术。
 105.They developed a unique approach to training their employees.
-
+他们开发了一种独特的方法来培训员工。
 106.More research is needed before any definitive conclusion is drawn.
-
+在得出任何明确的结论之前，还需要进行更多的研究。
 107.The Industrial Revolution in Europe was driven by steam technology.
-
+欧洲的工业革命是由蒸汽技术推动的。
 108.Mature students usually adapt to university life extremely well.
-
+成年学生通常能极好地适应大学生活。
 109.Take the first step by applying for a university scholarship now.
-
+迈出第一步，现在就申请大学奖学金。
 110.The professor took a year off to work on the book.
-
+教授休了一年假来写这本书。
 111.Students will focus on reporting news about the changing media world.
-
+学生将重点报道关于不断变化的媒体世界的新闻。
 112.The department has a higher-than-normal proportion of postgraduate students.
-
+该系的研究生比例高于正常水平。
 113.The railway makes the long-distance travel possible for everyone.
-
-114.Traffic is the main causes of air pollution in many cities.
-
+铁路使所有人都能进行长途旅行。
+114.Traffic is the main cause of air pollution in many cities.
+交通是许多城市空气污染的主要原因。
 115.Plants are the living things that can grow on land or in water.
-
+植物是能在陆地或水中生长的生物。
 116.The lecture tomorrow will discuss the educational policy in the United States.
-
+明天的讲座将讨论美国的教育政策。
 117.The business policy seminar includes an internship with a local firm.
-
+商业政策研讨会包括在当地公司实习。
 118.Most scientists believe that climate change threatens lives on the earth.
-
+大多数科学家认为，气候变化威胁着地球上的生命。
 119.It may not mean that it is possible to solve the problem easily.
-
+这并不意味着可以轻易解决这个问题。
 120.He landed his job in a very prestigious law firm.
-
+他在一家非常有声望的律师事务所找到了一份工作。
 121.Geography is generally divided into two branches, human and physical.
-
+地理学通常分为两个分支：人文地理学和自然地理学。
 122.The economic strength of the early Roman Republic will be examined.
-
+早期罗马共和国的经济实力将受到考察。
 123.Despite their differences, all forms of life share the same characteristics.
-
+尽管存在差异，但所有生命形式都具有相同的特征。
 124.An introduction is an essential element of a presentation.
-
+开场白是演讲的重要组成部分。
 125.Education and training provide important skills for the labor force.
-
+教育和培训为劳动力提供了重要的技能。
 126.A good architectural structure should be usable, durable and beautiful.
-
-127.Building trust is not something that cna be achieved overnight.
-
-128.Some people believed that education should be free for all.
-
+一个好的建筑结构应该是实用、耐用和美观的。
+127.Building trust is not something that can be achieved overnight.
+建立信任不是一朝一夕就能实现的。
+128.Some people believe that education should be free for all.
+有些人认为教育应该对所有人免费。
 129.One of the election promises is to decrease the income tax.
-
+竞选承诺之一是降低所得税。
 130.Those who are considering a career in marketing should attend the talk.
-
+那些考虑从事营销行业的人应该参加这次讲座。
 131.There is a pharmacy on campus near the bookstore.
-
+校园里书店附近有一家药店。
 132.Experts are now able to forecast weather over much longer periods.
-
+专家们现在能够预测更长时期的天气。
 133.Students are encouraged to monitor their own attendance.
-
+鼓励学生监督自己的出勤率。
 134.Collaboration between departments is a feature of successful companies.
-
+部门间的合作是成功企业的一个特征。
 135.The ability to work with fellow students cannot be stressed enough.
-
+与同学合作的能力怎么强调都不为过。
 136.Students are encouraged to think carefully about their accommodation needs.
-
+鼓励学生仔细考虑他们的住宿需求。
 137.Remember, the prestigious election of stewardship has strict eligibility criteria.
-
+请记住，享有盛誉的管理人员选举有着严格的资格标准。
 138.You will acquire many skills during the academic studies.
-
-139.Studies show there is a positive correlation between two variables.
-
+在学术研究期间你将获得许多技能。
+139.Studies show there is a positive correlation between the two variables.
+研究表明，这两个变量之间存在正相关关系。
 140.New media have transcended traditional national boundaries.
-
+新媒体已经超越了传统的国界。
 141.Before attending the lecture, you must register online or by post.
-
+在参加讲座之前，你必须在线或通过邮寄方式注册。
 142.All of the assignments must be submitted in person to the faculty office.
-
+所有的作业必须亲自提交到院系办公室。
 143.Important details from the argument are missing in the summary.
-
+总结中遗漏了论点里的重要细节。
 144.It is really a comprehensive program that covers both theory and practice.
-
+这确实是一个涵盖理论与实践的综合性项目。
 145.All of your assignments are due on Wednesday.
-
+你所有的作业都要在周三交。
 146.The educational level is found to be related to social and economic background.
-
-147.The students have options to live in residences or apartments.
-
+研究发现，教育水平与社会和经济背景有关。
+147.The students have the option/options to live in residences or apartments.
+学生可以选择住在宿舍或公寓里。
 148.Please make sure you have correctly cited all the necessary materials.
-
-149.Organizational failure is considered from various perspectives in academic literature.
-
+请确保你已正确引用了所有必要的材料。
+149.Organizational failure is considered from various perspectives in academic literature. 
+在学术文献中，组织失败被从不同的角度进行探讨。
 150.Our view is that educational reforms have been inadequately implemented.
-
-151.Certain scientific principles need to be learned verbally or by logical deduction.
-
+我们的观点是，教育改革的实施不够充分。
+151.Certain scientific principles need to be learned verbally or by logical deduction. 
+某些科学原理需要通过口头传授或逻辑推导来学习。
 152.The director of the gallery was grateful for the anonymous donation.
-
+美术馆馆长对匿名捐赠表示感激。
 153.The most popular courses still have a few places left.
-
+最受欢迎的课程还有几个名额。
 154.Parents' talk to children tends to be simplified.
-
+父母对孩子说话的方式往往比较简单。
 155.While some people regard it as reforming zeal, others regard it as recklessness.
-
+虽然有些人认为这是改革的热情，但另一些人则认为这是鲁莽。
 156.Affordable housing is an important issue for all members of society.
-
+经济适用房对所有社会成员来说都是一个重要问题。
 157.The massive accumulation of data was converted into a communicable argument.
-
+大量积累的数据被转化为可以传达的论点。
 158.Preparation is important to avoid mishaps in the lab.
-
-159.We can't consider any increase in our price at this stage.
-
+做好准备对于避免实验室事故很重要。
+159.We can't consider any increase in our prices at this stage.
+在现阶段，我们不能考虑任何涨价。
 160.The application process may take longer than expected.
-
+申请过程可能比预期的要长。
 161.Consumer confidence has a direct influence on sales.
-
-162.Statistical results should be described in different ways depending on circumstances.
-
+消费者信心对销售有直接影响。
+162.Statistical results should be described in different ways depending on the circumstances.
+根据情况的不同，应以不同的方式描述统计结果。
 163.Daily practice can build confidence and improve skills.
-
-164.The key difference between courses is the kind of assessment.
-
+日常练习可以建立自信并提高技能。
+164.The key difference between the courses is the kind of assessment.
+课程之间的关键区别在于评估方式。
 165.Human beings compete with other living things for resources and space.
+人类与其他生物竞争资源和空间。
