@@ -1,19 +1,4 @@
 -1.melatonin(褪黑素)
-原文：
-【The hormone I want to talk to you about it's called melatonin.】
-Descartes called it the 【seat of soul】,
-【And it has a rhythm as well.】
-【It peaks at night.】
-【And it's a hormone that prepares you for the things, that your species, does at night.】
-So, 【it's hormone that is related to darkness behavior. 】
-答案：
-This lecture focuses on melatonin(褪黑素),
-a hormone(激素) made(合成) in the pineal gland(松果体),
-a pea-sized(豌豆大小的) organ(器官) in the brain once called the "seat of soul(灵魂的宝座)" by Descartes. 
-Melatonin(褪黑素) follows(follows) a rhythm(节奏) opposite to cortisol(皮质醇), 
-peaking at night,(在晚上到达高峰) 
-so it is known as the darkness hormone. 
-It appears at night in all studied species(物种) and is linked to darkness-related behaviors such as human sleep and rodent(啮齿动物) activity(活动).
 中文逻辑：
 主题：褪黑素（melatonin）是一种由大脑松果体（pineal gland）分泌的激素，遵循与皮质醇相反的节律，被称为 “黑暗激素”，与物种的夜间行为相关。
 内容：
@@ -21,93 +6,52 @@ It appears at night in all studied species(物种) and is linked to darkness-rel
 2. 节律特点：与皮质醇（cortisol）相反，夜间达到峰值，被称为 “黑暗激素”（darkness hormone）
 3. 物种共性：所有研究过的物种中，褪黑素都在夜间(night)产生
 4. 核心作用：是一种与黑暗行为（darkness behavior）相关的激素，为物种的夜间活动做准备（如人类睡眠、啮齿类动物清醒活动）
+答案：
+melatonin(褪黑素), hormone(激素), made(合成) in the brain,
+a pea-sized(豌豆大小的) organ(器官) in the brain, called "seat of soul(灵魂的宝座)",
+and it has a rhythm as well, it peaks at night, darkness-related hormone
+related to darkness behavior, human sleep
 
 -2.Different meanings of 'need'(“需要”的不同含义)
-原文：
-【In the English language,】
- not in the American language, 【the term 'need' has different meanings.】
-When you say, 'I need a vacation', 
-【it is an expression of a strong desire but not a basic need.】
-【It also can be an objective statement.】
-【Meanwhile, This term is a multifunctional word which is very important 
-and has benefits when used in the social environment.】
-答案：
-This lecture talks about different meanings of 'need' in the English language. 
-It is an expression(表达) of a strong desire(欲望) but not a basic need. 
-It can also be an objective(客观的) statement. 
-Meanwhile, this term(术语) is a multifunctional(多功能的) word which is very important and has benefits when used in the social environment.
 中文逻辑：
 主题：need这个单词在英式英语（English language）中的多重含义。
 内容：
 1.通过一个句子（I need a vacation）说明need表达强烈的愿望（a strong desire）而不是基本的需要（a basic need）。
 2.通过设计师（designer）的例子说明need表示一个客观陈述（an objective statement）。
 3.need是一个多功能词（a multifunctional word）。
-
-3.Modern poetry
-原文：
-I see this as a course that's 【an introduction to the literature of a period to modern poetry.】 
-【We'll be studying several poets in some detail. 】
-【some sense of modernism as a field as one of the richest fields in English language writing.】
-Finally, though, 【this really is a course in poetry.】
-I mean, 【to introduce you to particular poems, to give you ways to possess them,
- enjoy them, be puzzled or frustrated by them too, 
- to learn something from them and care about them and to carry them with you】
- as you go forward after this class.
 答案：
-This lecture talks about an introduction to the literature(文学) of a period to modern poetry. 
-Students will study several poets in some detail.(学生们将详细研究几位诗人)
-Also, the speaker will give them some sense of modernism as a field as one of the richest fields in English language writing. 
-(同时，演讲者会给他们一些现代主义的感觉，作为英语语言写作中最丰富的领域之一)
-Besides, this is a course in poetry,(此外，这是一门诗歌课) 
-and will introduce students to particular poems,(并会向学生介绍一些特别的诗歌)
-to give students ways to possess and enjoy them.(给学生提供拥有和享受它们的方法)
+different meanings of 'need' in the English language,
+I need a vacation, expression(表达) of a strong desire(欲望), not a basic need,
+objective(客观的) statement, need is a multifunctional(多功能的) word,
+very important, has benefits when used in the social environment.
+
+3.Modern poetry(现代诗歌)
 中文逻辑：
 主题：介绍某一时期文学（literature）和现代诗歌的课程（modern poetry）
 内容：
 1.将详细研究几位诗人（poets） ，现代主义（modernism）是英语语言写作 （English language writing）中最丰富的领域之一
 2. 学习诗歌（poetry），介绍特定的诗歌，学习如何拥有（possess） 它们，享受（enjoy） 它们。
+答案：
+introduction to the literature(文学), modern poetry,
+students will study several poets in some detail(学生们将详细研究几位诗人),
+some sense of modernism, English language writing,
+how to possess and enjoy them.(给学生提供拥有和享受它们的方法)
 
 4.Bees' communication system
-原文：
-【Bees use an intricate and fascinating communication system known as the waggle dance.】 
-When a bee 【discovers a rich food source】,
-it returns to the hive and performs a specific dance to 
-【communicate the location of the food to the rest of the colony.】
-Through this dance, the bee conveys crucial information, such as the 
-【direction, distance, and quality of the food source, 
-by waggling its body and making specific movements.】
-【efficiently share information and cooperate in locating food sources. 】
- Moreover, bees also use 【sounds and vibrations】 during the dance.
-It’s a remarkable example of how animals can adapt and communicate in ways that are
-【essential for the survival and functioning of their colony.】
-答案：
-Bees use a waggle(摇摆) dance as their intricate communication system. 
-When they find a good food source, they perform this dance to inform other bees in the hive about the location. 
-A behavior study on their dancing behaviors shows that bees can use their dance and sounds to describe different flowers and the surrounding environment.
 中文逻辑：
 主题：蜜蜂（bees）将摇摆舞（a waggle dance）作为自身复杂的交流系统（intricate communication system）。
 内容：
 一项关于蜜蜂舞蹈行为（dancing behaviors）的研究表明：
 1.当蜜蜂发现优质食物源（good food source）时，会通过摇摆舞告知蜂巢内其他蜜蜂相关位置；
 2.蜜蜂可借助舞蹈和声音（dance and sounds），描述不同花朵及周边环境（different flowers and the surrounding environment）。
+答案：
+bees use a waggle(摇摆) dance, intricate communication system(复杂的通信系统),
+dancing behaviors, find a good food source, 
+dance to inform other bees, communicate the location(通过舞蹈来告知蜂巢中的其他蜜蜂位置),
+waggling its body, making specific movements, share information, 
+dance and sounds, different flowers and the surrounding environment.
 
 5.The Origin of Species
-原文：
-【In the Origin of Species, Darwin】 provided abundant evidence that 
-【life on Earth has evolved over time, 
-and he proposed natural selection as the primary mechanism for that change.】
-【Although Darwin realised that variation in heritable traits is a prerequisite for evolution,
-he did not know precisely how organisms pass heritable traits to their offspring.】
-In that paper, 【Mendel proposed a model of inheritance in which organisms transmit discrete heritable units (now called genes) to their offspring. 】
-Although Darwin did not know about genes, 
-【Mendel's paper set the stage for understanding the genetic differences on which evolution is based.】
-答案：
-In the Origin of Species, 
-Darwin proposed that life on Earth has evolved over time, 达尔文提出地球上的生命是随着时间进化的，
-and natural selection is the primary mechanism(机制). 
-But Darwin did not know precisely(精确地) how organisms pass heritable traits to their offspring. 但达尔文并不确切地知道生物体是如何将可遗传的特征传给后代的。
-And Mendel proposed a model of inheritance in which organisms transmit discrete heritable units to their offspring. 
-Mendel's paper set the stage for understanding the genetic differences on which evolution is based.
 中文逻辑：
 达尔文：
 物种起源（the Origin of Species）
@@ -118,58 +62,129 @@ Mendel's paper set the stage for understanding the genetic differences on which 
 孟德尔提出了一个遗传模型（model of inheritance），生物体将离散的可遗传单位传递（transmit discrete heritable units）给它们的后代。
 影响：
 孟德尔的论文（Mendel's paper）为理解进化所基于的基因差异（genetic differences）奠定了基础（which evolution is based）。
+答案：
+the Origin of Species, life on Earth, evolved over time,
+natural selection, organisms(生物体), heritable traits, offspring,
+model of inheritance, transmit discrete heritable units, genes
+Mendel's paper, genetic differences on which evolution is based.
 
 6.English language
 At the beginning, the speaker says that he is not from an English speaking country, 
 but he is going to talk about the English language. 
 English language is a basic skill. We need it just as we need water.
+
 Key words: 
-English language，specific，basic needs，human being，
-development，environment, natural people, nature American, organic system
+English language，specific，
+basic needs，human being，development，environment, 
+natural people, nature American, organic system
 
 7.Marketing
+中文逻辑：
+主题：在卖方市场（seller's market)，市场营销（marketing）是以产品为中心的市场（（a product-focused market);
+--体现1：尽最大的能力（best of your ability）开发产品（develop that product)。
+--体现2：商业目标（business objective）是销售尽可能多的产品（ sell as much as you can）和市场份额（market share)
+--原因1: 市场份额越大(the bigger your market share)，收入就越多(the more your revenues)。
+-- 原因2: 销量越大(your volume)，产品成本(lower the product cost)和盈利能力(profitability)就越低。
+答案：
 In the seller's market, 
-marketing tends to be a product-focused market,(以产品为中心的)
-and you should develop that product to the best of your ability(尽最大的能力).
-Your business objective is to sell as much as you can and market share(市场份额). 
+marketing tends to be a product-focused market(以产品为中心的),
+best of your ability(尽最大的能力), develop product,
+business objective, is to sell as much as you can and market share(市场份额),
 The bigger your market share and your volume, 你的市场份额和销量就越大 
-the more your revenues(收入), and the lower the product cost and hence profitability(盈利能力)产品成本越低，盈利能力也就越低.
+the more your revenues(收入), and the lower the product cost,
+higher revenues, lower cost, more profit. 
 
 8.Stock Market
-This lecture is about the different uses of the stock market then and now. 
-In the 18th century, manufacturing companies(制造企业) came into the market. 
+中文逻辑：
+主题：股市（stock market）的之前和现在的用途(uses)。
+过去：
+1.18世纪，制造企业(manufacturing companies)进入市场。
+2.传统的公司(traditional companies)用股票来筹钱（raise money）, 再投钱（input money）到公司。
+现在：
+1.现代企业(modern companies)，包括（apple, google,facebook）不同地利用股票。
+2.现代公司用股票输出钱（output money）。 
+答案：
+different uses of the stock market then and now. 
+In the 18th century, manufacturing companies(制造企业) came into the market, 
 However, modern companies, including Apple, Google, and Facebook, use stocks differently. 
-Traditional companies used stocks to raise money(筹钱), and input money(投钱) into companies, while modern companies used stocks to output money(用股票输出钱).
+Traditional companies used stocks to raise money(筹钱), 
+and input money(投钱) into companies, 
+while modern companies used stocks to output money(用股票输出钱).
 
 9.Building design
-The design of buildings is important. 
-Architecture(建筑设计) is the built environment and a part of our culture.
-The design of flaws(缺陷) would affect(影响) appearance and health conditions(外观和卫生条件). 
-Materials are also important. 
-Many old buildings with design flaws were destroyed(拆毁) or modified(修改) through a natural selection process. 许多有设计缺陷的老建筑通过自然选择过程被拆除或改造
+中文逻辑：
+主题：建筑设计（the design of building）
+观点：
+1.建筑既是建筑环境（built environment），也是我们文化（culture）的一部分
+2.材料也很重要（Materials）
+现象：
+许多有设计缺陷（design flaws）的老建筑通过自然选择过程（natural selection process），
+被拆除或改造（demolished or modified）
+影响：
+缺陷的设计会影响外观（appearance）和健康状况（health conditions）
+结论：
+1.建筑应该适应新世界（new world）才能生存（survive ）下去，要么被推倒
+2.尊重（honor）文化差异（ cultural nuances）是很重要的
+答案：
+The design of buildings is important, 
+built environment and a part of our culture, Materials are also important,
+The design of flaws(缺陷) would affect(影响) appearance and health conditions(外观和卫生条件),
+demolished(拆毁) or modified, natural selection process. 自然选择过程
 Buildings should adapt to the new world to survive(留存) or be pulled down. 建筑物必须适应新世界，否则就会被推倒
 And there is an importance in honoring the cultural nuances. 尊重文化差异是很重要的
 
 10.Mathematicians
-This lecture mainly talks about mathematicians. 
-Old stones in the museum are probably the first examples of humans exploring the concept of symmetry(对称). 
+中文逻辑：
+主题：数学家（mathematicians）
+例子：
+博物馆里的新石器时代的石头（Neolithic stones）可能是人类探索对称概念（symmetry）的第一个例子。
+事实：
+我们实际上并不知道数学家（mathematicians）是干什么的，甚至他们也没有目的（purpose）
+结论：
+数学是一门伟大的学科（a great subject）
+数学对象（mathematical objects）并没有什么用处，而是一种对理论可能性（what is possible）的颂扬（celebration）
+答案：
+mathematicians, old stones in the museum,
+probably the first examples of humans exploring the concept of symmetry(对称). 
 However, we do not actually know what mathematicians are for, and even they were not for a purpose. 
-Mathematics is a great subject, which created a lot of technology. 
+Mathematics is a great subject, 
 In conclusion, mathematical objects did not have a use, but a celebration of what is possible.
 
 11.Women and men leadership
-A leader can define and clarify goals, 
-and they can also mobilize people's energies. 
-Leadership can be seen as a spectrum, 
-in terms of both visibility and the power the leader wields. 
-The out-in-front, authoritative leadership has generally been exhibited by men. 
-Top leaders have been visible in their exercise of power. 
-Nowadays, more women have taken up opportunities for visible and authoritative leadership.
+中文逻辑：
+领导力的特征：
+可见性（visibility）
+领导者掌握权力(leader wields)
+领导力可以被看作是一个光谱（spectrum）
+领导的作用：
+明确目标（clarify goals），调动人们的力量（mobilize people's energies）
+最高领导人(Top leaders)在行使权力时(power)是显而易见的
+变化对比：
+过去：男人走在前面（out-in-front)，女人在幕后（behind the scenes）
+现在：女性抓住机会（taken up opportunities）成为权威的领导（authoritative leadership）
+答案：
+leadership, a leader can define and clarify goals, 
+and they can also mobilize people's energies. 他们也可以调动人们的能量
+Leadership can be seen as a spectrum(光谱), 
+both visibility(可见性) and the power the leader wields(领导者掌握的权力). 
+leadership is always possessed by men,  women behind the scenes
+Top leaders have been visible when they use power. 
+Nowadays, more women have taken up opportunities for visible and authoritative leadership(权威的领导).
 
 12.Dancing bees
-Honey bees do a waggle dance to direct other bees to the source of nectar. 
+中文逻辑：
+蜜蜂跳舞：
+蜜蜂（Honey bees）跳摇摆舞（waggle dance）
+跳舞的目的：
+引导（direct）其他蜜蜂到花蜜的源头（source of nectar）
+实验研究：
+觅食的蜜蜂（foraging bees）被引入了危险（dangers），所以它们回到蜂巢（hive）去阻止（stop）跳舞的蜜蜂
+结论：
+头部撞击（headbutt）是一种警告信号（warning signal），这种行为是警告跳舞的蜜蜂（dancing bees）花蜜的危险。
+答案：
+Honey bees do a waggle dance, direct other bees to the source of nectar. 
 According to the research, 
-foraging bees were introduced to the dangers in the experiment, 
+foraging bees(觅食的蜜蜂) were introduced to the dangers in the experiment(在实验中), 
 so they returned to hive to stop the dancing bees. 
 In conclusion, we can know that a headbutt is a warning signal, 
 and the behavior warns dancing bees about the dangers from the nectar.
@@ -224,3 +239,14 @@ Finally, the speaker talked about how to attract and engage young researchers. (
 表现：对年轻研究者（yong researchers）而言，论文（paper）出版的概率（chance）越来越小（smaller）
 退稿的好处：日后更好的结果（better result）和有助于拥有更好的职业发展道路（career path）
 如何吸引（attract and engage）更多的年轻研究人员（young researchers）
+
+
+The speaker mainly talks about [].
+The speaker starts the lecture by saying that [].
+In addition, he mentions [].
+After that, the speaker also pays attention to the fact that [].
+Apart from that, the speaker tells us that [].
+And he also mentions [].
+In conclusion, this lecture is .
+
+18.
