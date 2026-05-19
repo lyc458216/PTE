@@ -16,7 +16,7 @@ she owes tens of thousands of student loan.
 she could not find a decent job. 
 her children are facing the problem of borrowing money for school. 
 She felt stressed. (70 words)
-
+`
 4.The Big Bang theory #18710
 the Big Bang theory. 
 the universe began in a Big Bang. 
@@ -97,7 +97,9 @@ we’re aware of the problem, and people are taking action. (56 words)
 
 17.Chimpanzee #18757
 chimpanzees. 
-they wished to release a chimpanzee that had been kept in captivity for many years for research purposes. In the second part, the speaker explained that the court had dismissed the appeal because chimpanzees are not ‘persons’. In the final part, the speaker said they would continue their efforts this year to secure legal rights for animals. (69 words)
+they wished to release a chimpanzee that had been kept in captivity for many years for research purposes.
+the court had dismissed the appeal because chimpanzees are not ‘persons’.
+they would continue their efforts this year to secure legal rights for animals. (69 words)
 
 18.Automated Driving #18758
 automated driving. 
@@ -113,13 +115,15 @@ de-traditionalization leads to damage to traditional cultures. (64 words)
 
 20.Internet and Journalism #18764
 Internet and journalism. 
-people become enthusiastic about such changes, and they think the internet can improve the spreading of news and help people gain information. 
+people become enthusiastic about such changes.
+they think the internet can improve the spreading of news and help people gain information. 
 journalism now becomes a collaborative process. (57 words)
 
 21.Absolutism #18772
 moral objectivism and moral absolutism. 
 in moral objectivism, certain universal moral principles apply to all actions. 
-in moral absolutism, a clear boundary exists between right and wrong. In the final part, the speaker stated that these principles must be followed. (60 words)
+in moral absolutism, a clear boundary exists between right and wrong. 
+these principles must be followed. (60 words)
 
 22.Need #18776
 the need. 
@@ -159,7 +163,8 @@ many buildings were demolished because of their nature and function. (66 words)
 
 28.Great Ideas #18789
 great ideas. 
-a great idea should be new. In the second part of the lecture, the speaker stated a great idea should be unique. 
+a great idea should be new. In the second part of the lecture.
+a great idea should be unique. 
 a great idea should be productive. (56 words)
 
 29.Food Crisis #18790
@@ -169,15 +174,16 @@ people must double the production.
 it is urgent to increase the production. (57 words)
 
 30.The history of English #18791
-
 the history of English. 
 English is not a pure language. 
 English borrowed words from over 350 languages. 
 today we are not only learning about language, but we are also learning about history. (60 words)
 
 31.Online Research #18792
-
-the advantages and drawbacks of online research. First, the speaker highlighted that online research is quicker than conventional methods, and there are no gaps between quantities and qualities. After that, the drawback is that we cannot communicate face-to-face. Lastly, we cannot get information through reactions such as body language, which means we don’t know who is on the other side. (64 words)
+the advantages and drawbacks of online research. 
+online research is quicker than conventional methods, and there are no gaps between quantities and qualities. 
+the drawback is that we cannot communicate face-to-face. 
+we cannot get information through reactions such as body language, which means we don’t know who is on the other side. (64 words)
 
 32.Canned Food During the Great Depression #18793
 canned foods during the Great Depression. 
@@ -186,7 +192,10 @@ people could buy fridges.
 supermarkets became a new fashion. (56 words)
 
 33.Credit Card Experiment #18795
-a credit card experiment. In the first part, the speaker mentioned that some inactive credit card users received a message. They could gain benefits by using their cards. In the second part, the speaker mentioned that other users would face a penalty if they did not use their cards. Finally, the lecturer stated that customers are more likely to be motivated by potential loss. (68 words)
+a credit card experiment. 
+some inactive credit card users received a message. They could gain benefits by using their cards. 
+other users would face a penalty if they did not use their cards. 
+customers are more likely to be motivated by potential loss. (68 words)
 
 34.Mars and the earth #18796
 Mars. 
@@ -201,7 +210,9 @@ scientists could write DNA and create new organisms and cells 40 years ago.
 scientists use micro-scale tools in bacteria experiments in the labs and get bacteria the next day. (67 words)
 
 36.The History of Software #18798
-the history of software. Firstly, the speaker mentioned that the history of software is very new, and the progression is a stampede. After that, the speaker highlighted the rapid expansion of computing power and the rapid decline in cost. 
+the history of software. 
+the history of software is very new, and the progression is a stampede. 
+the rapid expansion of computing power and the rapid decline in cost. 
 this made it feasible for information technology to move into all areas of life. (62 words)
 
 37.Roman city #18799
@@ -217,12 +228,15 @@ the book includes living conversation and important ideas.
 thoughts and content are the other reasons to read the book. (67 words)
 
 39.The Industrial Revolution #18834
-the Industrial Revolution. In the first part of the lecture, the speaker stated the Industrial Revolution was measured by more than large factories and machines. In the second part of the lecture, the speaker stated the Industrial Revolution was an intensification of production. 
+the Industrial Revolution. 
+the Industrial Revolution was measured by more than large factories and machines. 
+the Industrial Revolution was an intensification of production. 
 the rapid rise of production was tied to traditional forms of production. (70 words)
 
 40.Globalization definitions #20394
 the definitions of globalization. 
-globalization increases international communications. In the second part of the lecture, the speaker stated countries become integrated in the system. 
+globalization increases international communications. 
+countries become integrated in the system. 
 globalization represents a new area of economic development. (58 words)
 
 41.Albert Einstein’s theory of Universe 20496
@@ -256,7 +270,10 @@ the secret of happiness is mild containment.
 we should find a balance between intense and loose emotions. (61 words)
 
 46.The development of machine #21119
-the development of machine. Firstly, the speaker mentioned machines ought to do things better than most people. After that, the speaker highlighted machines had replaced many industries and become better and better. Finally, the speaker believed when there are no new jobs, there is nowhere else for human to go. (54 words)
+the development of machine. 
+machines ought to do things better than most people. 
+machines had replaced many industries and become better and better. 
+when there are no new jobs, there is nowhere else for human to go. (54 words)
 
 47.Bees waggle dance and communication #21307
 how bees communicate. 
@@ -271,7 +288,11 @@ rejection would lead to a better result and would be good for the career path.
 it is important to attract young researchers and keep them engaged. (70 words)
 
 49.Society diversity #21466
-societal diversity. Firstly, the speaker mentioned that all societies have diversity, causing multiculturalism. After that, he highlighted what causes diversity and how diversity would be caused. These questions are difficult to answer. Simply counting the number is not that important. Finally, most societies have diversity to some extent. (52 words)
+societal diversity. 
+all societies have diversity, causing multiculturalism. 
+what causes diversity and how diversity would be caused. These questions are difficult to answer. 
+Simply counting the number is not that important. 
+most societies have diversity to some extent. (52 words)
 
 50.Negative bias #21621
 negative bias. 
@@ -280,63 +301,85 @@ the positive emotions we experience more are limited.
 negative emotions are less frequent but more intense. (67 words)
 
 51.Darwin and Bees #21655
-
 bee genes and Darwin’s theory. 
 worker bees will sacrifice their lives to help the queen bee pass genes to the next generation. 
 the worker bees give up reproduction and help the queen reproduce, and the worker bees will die if necessary to do so. (70 words)
 
 52.Inequality in Children #21902
-
 the inequality in children. 
 well-educated parents can provide their children with ample educational resources and support. 
-children's life opportunities are largely determined by the age of five. In the final part, the speaker stated that there are still no particularly effective solutions to this deeply entrenched inequality in society. (69 words)
+children's life opportunities are largely determined by the age of five. 
+there are still no particularly effective solutions to this deeply entrenched inequality in society. (69 words)
 
 53.Motivation #21919
 two types of motivation. 
 motivation can be categorized into approach motivation and avoidance motivation. 
-approach motivation pertains to positive things, while avoidance motivation relates to negative things. In the final part, the speaker stated that avoidance motivation tends to be significantly stronger. (62 words)
+approach motivation pertains to positive things, while avoidance motivation relates to negative things. 
+avoidance motivation tends to be significantly stronger. (62 words)
 
 54.Leadership #21945
 leadership. 
 “great leaders” is a difficult concept to define. 
-people need to master more skills, such as planning for the future and helping newcomers integrate into the team. In the final part, the speaker stated that the organizational structure surrounding individuals is also of great significance. (66 words)
+people need to master more skills, such as planning for the future and helping newcomers integrate into the team. 
+the organizational structure surrounding individuals is also of great significance. (66 words)
 
 55.Symmetry in mathematics #22451
-symmetry in mathematics. First, the speaker highlighted that historical objects in museums can have lots of mathematical significance. After that, the speaker also mentioned the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry. Finally, we don’t know what these stones are for. Maybe they were mathematical objects for joy and beauty. (65 words)
+symmetry in mathematics. 
+historical objects in museums can have lots of mathematical significance. 
+the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry. 
+we don’t know what these stones are for. Maybe they were mathematical objects for joy and beauty. (65 words)
 
 56.Bees waggle dance #22519
-how bees use a waggle dance as their communication system. First, the speaker highlighted that when bees find a good food source, they will do a waggle dance to tell other bees. After that, the speaker mentioned a behaviour study regarding bees’ dancing behaviours. 
+how bees use a waggle dance as their communication system. 
+when bees find a good food source, they will do a waggle dance to tell other bees.
+a behaviour study regarding bees’ dancing behaviours. 
 bees can use their dance and the sounds to describe different flowers and the environment. (68 words)
 
 57.Population growth #22723
 the significance of population issues. 
 resource pressure is a key factor. 
-population growth is not evenly distributed. In the final part, the speaker stated that infrastructure may begin to collapse following the expansion of megacities. (58 words)
+population growth is not evenly distributed. 
+infrastructure may begin to collapse following the expansion of megacities. (58 words)
 
 58.The Origin of Species #22868
 The Origin of Species. 
 Darwin pointed out that life on Earth is shaped by natural selection. 
-Darwin did not explain how traits are passed on to offspring. In the final part, the speaker mentioned that Mendel later discovered that organisms transmit traits through genes. (64 words)
+Darwin did not explain how traits are passed on to offspring.
+Mendel later discovered that organisms transmit traits through genes. (64 words)
 
 59.Modern Poetry #22983
-modern poetry. In the first part of the lecture, the speaker stated the works of several poets. 
-modernism is one of the most fruitful areas in English literature. In the final part, the speaker stated that one can attempt to derive pleasure, experience confusion, and draw nourishment from poetry. (61 words)
+modern poetry. 
+the works of several poets. 
+modernism is one of the most fruitful areas in English literature. 
+one can attempt to derive pleasure, experience confusion, and draw nourishment from poetry. (61 words)
 
 60.Social skills #23227
 the importance of social skills. 
-how social skills and empathy foster positive interpersonal relationships and reduce conflict risks. In the second part, the speaker stated a collaborative filmmaking experiment involving students. Finally, the speaker stated how this approach enhances students' self-regulation and critical thinking abilities. (56 words)
+how social skills and empathy foster positive interpersonal relationships and reduce conflict risks. 
+a collaborative filmmaking experiment involving students.
+how this approach enhances students' self-regulation and critical thinking abilities. (56 words)
 
 61.Washing Fruit #23239
 proper methods for washing fruits and vegetables. 
-thorough washing can effectively prevent bacteria and diseases. In the second part, the speaker stated the importance of paying attention to packaging instructions. In the final part, the speaker stated that using running cold water combined with scrubbing is the most effective approach. (62 words)
+thorough washing can effectively prevent bacteria and diseases. 
+the importance of paying attention to packaging instructions. 
+using running cold water combined with scrubbing is the most effective approach. (62 words)
 
 62.Globalization	gap	between	goods	and	services #23240
 the differences between goods and services in the globalization process. 
-services are more difficult to globalize. In the second part, the speaker stated how these factors constrain the development of service trade. In the final part, the speaker stated how digital technology can eliminate barriers and reshape the global service landscape. (66 words)
+services are more difficult to globalize. 
+how these factors constrain the development of service trade. 
+how digital technology can eliminate barriers and reshape the global service landscape. (66 words)
 
 63.Multiculturalism #23241
-multiculturalism in modern society. In the first part of the lecture, the speaker stated the essence of multiculturalism. In the second part, the speaker stated multiculturalism with the melting pot theory. In the concluding part, the speaker stated that celebrating diversity helps build an inclusive and harmonious society. (52 words)
+multiculturalism in modern society. 
+the essence of multiculturalism. 
+multiculturalism with the melting pot theory. 
+celebrating diversity helps build an inclusive and harmonious society. (52 words)
 
 64.Melatonin #23357
-melatonin. In the first part of the lecture, the lecturer stated that melatonin is secreted by the pineal gland. In the second part of the lecture, the lecturer stated that melatonin follows a circadian rhythm opposite to that of cortisol. In the final part of the lecture, the lecturer stated that melatonin plays a role in helping humans and animals prepare for nocturnal activity. (68 words)
+melatonin. 
+melatonin is secreted by the pineal gland. 
+melatonin follows a circadian rhythm opposite to that of cortisol.
+melatonin plays a role in helping humans and animals prepare for nocturnal activity. (68 words)
 
