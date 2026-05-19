@@ -1,171 +1,182 @@
 wfd:
-professions 行业/ 职业/ 专业
-architecture 建筑设计 architectural structure 建筑结构
-auditorium 礼堂/观众席
-philosophy 哲学
-experimental 实验性的
-chemically 化学的
+professions     行业/ 职业/ 专业
+architecture    建筑设计 
+architectural structure 建筑结构
+auditorium      礼堂/观众席
+philosophy      哲学
+experimental    实验性的
+chemically      化学的
 laboratory manual 实验室手册
 thoroughly thorough 完全地
-throughout 贯穿整个时期
-complaint form 投诉表格 
-presentation 典礼/仪式
-participation Participating 参与
-Undoubtedly 毫无疑问
-limitations 限制
-planets 星球
-foundation 基础
-challenge 挑战
-punctuality 准时性/ punctually 准时地/ promptly 准时地
-emotions 情感
-Photography 摄影
-geographical 地理的 Geography 地理
-mixture 混合物
-compound 化合物
-separate 独立的
-protective 防护
-continuous 持续 continue 继续/ 延续
-unpredictable 不可预测的
-tutorials 教程
-ample 充足的
-calories 卡路里
+throughout      贯穿整个时期
+complaint form  投诉表格 
+presentation    典礼/仪式
+participation participating 参与
+undoubtedly     毫无疑问
+limitations     限制
+planets         星球
+foundation      基础
+challenge       挑战
+punctuality     准时性
+punctually      准时地
+promptly        准时地
+emotions        情感
+Photography     摄影
+geographical    地理的 
+Geography       地理
+mixture         混合物
+compound        化合物
+separate        独立的
+protective      防护
+continuous      持续 
+continue        继续/ 延续
+unpredictable   不可预测的
+tutorials       教程
+ample           充足的
+calories        卡路里
 nutritional value 营养价值
-stationery 文具
-seminar 研讨会
-scientific 科学的
-comprehensive 综合的
-comprising 包含/ 由……组成
-simplified 简化
-advised 通知/告知/劝告
-despite 尽管
+stationery      文具
+seminar         研讨会
+scientific      科学的
+comprehensive   综合的
+comprising      包含/ 由……组成
+simplified      简化
+advised         通知/告知/劝告
+despite         尽管
 characteristics 特征
-elaborated 精心的
-semester 学期
-perspectives 透视/观点/看法
-failure 失败
-Statistical 统计学的 statistics 统计学/ 统计数据
-circumstances 环境/境况
-antibiotics 抗生素
-inflation 通货膨胀
-permitted 允许
-demand 需求
-faculty board 全体教员委员会 faculty office 学院办公室
-happens with 发生在……身上
-fails 衰退/出现问题
+elaborated      精心的
+semester        学期
+perspectives    透视/观点/看法
+failure         失败
+Statistical     统计学的 
+statistics      统计学/ 统计数据
+circumstances   环境/境况
+antibiotics     抗生素
+inflation       通货膨胀
+permitted       允许
+demand          需求
+faculty board   全体教员委员会 
+faculty office  学院办公室
+happens with    发生在……身上
+fails           衰退/出现问题
 foliage suffers 树叶受损
-abstract 摘要
-involves 涉及
-combination 结合
+abstract        摘要
+involves        涉及
+combination     结合
 applied mathematics 应用数学
-traditional 传统的
-classical 经典的
-journalism 新闻学
-Marine 海洋的
-pollution 污染
-unsustainable 不可持续的
-diseases 疾病
-eradicated 消灭
-destroyed 破坏
-serious 严重的/ 危急的
-compete with 争夺
-inadequately 不适当地
-implemented 实施
-industries 行业
-steadily 稳步地
-incorporating 合并的
-scholarship 奖学金
-behaviors 行为
-seminars 研讨会
-perception 看法
-believed 认为/ 相信
-automatically 自然地/ 自动地
-construction 建造/建筑/构建/创立
-interior 内部的
-a variety of 各种各样的
-habitats 栖息地 
-species 物种
-hydrogen 氢气
-atoms 原子
-criticized 批评 critical 批判的
-causing 产生/导致
-addiction 成瘾/ 入迷
-opportunities 机会
-spread out 分布
-commitments 承诺/保证/不得不做的事 commissioner 首长/ 长官
-crops 农作物
-fertilizer 肥料
-acquire 获得
-limitations 局限性
-technologies 技术 techniques 技术/ 方法/ 技巧
-designed to 旨在
+traditional     传统的
+classical       经典的
+journalism      新闻学
+marine          海洋的
+pollution       污染
+unsustainable   不可持续的
+diseases        疾病
+eradicated      消灭
+destroyed       破坏
+serious         严重的/ 危急的
+compete with    争夺
+inadequately    不适当地
+implemented     实施
+industries      行业
+steadily        稳步地
+incorporating   合并的
+scholarship     奖学金
+behaviors       行为
+seminars        研讨会
+perception      看法
+believed        认为/ 相信
+automatically   自然地/ 自动地
+construction    建造/建筑/构建/创立
+interior        内部的
+a variety of    各种各样的
+habitats        栖息地 
+species         物种
+hydrogen        氢气
+atoms           原子
+criticized      批评 
+critical        批判的
+causing         产生/导致
+addiction       成瘾/ 入迷
+opportunities   机会
+spread out      分布
+commitments     承诺/保证/不得不做的事 
+commissioner    首长/ 长官
+crops           农作物
+fertilizer      肥料
+acquire         获得
+limitations     局限性
+technologies    技术 
+techniques      技术/ 方法/ 技巧
+designed to     旨在
 unique approach 独特的方法
-pharmacy 药店
-temperature 温度
-transcended 超越/ 超过
-boundaries 边界
-massive 大量的
-accumulation 积累
-converted  into 转变成
-communicable 可传达的
-argument 论点
-assessment 评估
-gallery 美术馆
-anonymous 匿名的
-donation 捐赠
-proportion 部分/份额/比例 portion 一部分/ 分配
-apportion 分配/ 分派/ 分摊
-postgraduate 研究生
-cafeteria 自助食堂
-fellow 同伴/ 同事/ 同学
-stressed 强调/ 着重/ 重读/ 焦虑的/ 紧张的
-correlation 相互关系/ 关联/ 相关量
-variables 变量
-accommodation 住宿
-monitor 监视/ 监听
-attendance 出席/ 出勤/ 考勤情况
-Strangely 奇怪地/ 奇妙地
-simultaneously 同时地
-skeptical 不相信的/ 持怀疑态度的
-regard 认为/ 把……看作
-reforming 改正/ 改造（行为）/ 改革/ 改进
-Industrial  Revolution  工业革命
-reforms 改革
-zeal 热情/ 热忱
-recklessness 鲁莽/ 轻率/ 不顾一切
-candidates 候选人
-qualified 有资格的/ 胜任的
-prestigious 有威望的/ 有声望的
-election 选举/ 当选
+pharmacy        药店
+temperature     温度
+transcended     超越/ 超过
+boundaries      边界
+massive         大量的
+accumulation    积累
+converted into  转变成
+communicable    可传达的
+argument        论点
+assessment      评估
+gallery         美术馆
+anonymous       匿名的
+donation        捐赠
+proportion      部分/份额/比例 
+portion         一部分/ 分配
+apportion       分配/ 分派/ 分摊
+postgraduate    研究生
+cafeteria       自助食堂
+fellow          同伴/ 同事/ 同学
+stressed        强调/ 着重/ 重读/ 焦虑的/ 紧张的
+correlation     相互关系/ 关联/ 相关量
+variables       变量
+accommodation   住宿
+monitor         监视/ 监听
+attendance      出席/ 出勤/ 考勤情况
+Strangely       奇怪地/ 奇妙地
+simultaneously  同时地
+skeptical       不相信的/ 持怀疑态度的
+regard          认为/ 把……看作
+reforming       改正/ 改造（行为）/ 改革/ 改进
+Industrial Revolution  工业革命
+reforms         改革
+zeal            热情/ 热忱
+recklessness    鲁莽/ 轻率/ 不顾一切
+candidates      候选人
+qualified       有资格的/ 胜任的
+prestigious     有威望的/ 有声望的
+election        选举/ 当选
 elective course 选修课
-stewardship 管理工作
-strict 严厉的/ 严格的
+stewardship     管理工作
+strict          严厉的/ 严格的
 eligibility criteria 资格标准
-Preparation 准备工作
-mishap 灾祸/ 不幸事故
-conference 大型、正式的会议/ 研讨会
-independent 独立的
-threatens 恐吓/ 威胁
-definitive 最终的/ 确定的
-causes 原因
-extremely 极度/ 非常
-divided into 划分为
-generally 笼统地/ 大概/ 通常/ 普遍地
-forecast 预测/ 预报
-periods 周期
-strength 体力/ 力量/ 实力/ 影响力
-examined 检查过的/ 检查/ 调查
-Collaboration 合作/ 协作
-companies 公司/ 企业
-principles 道德原则/ 行为准则/ 规范/ 原则/ 原理
-verbally 口头上地
-deduction  演绎/ 推论
-associated 有关联的/ 相关的/ 联合的
-durable 持久的/ 耐用的
-internship 实习生/ 实习期
-mechanics 机械学/ 力学 
-due 到期的/ 预期的/ 应有的/ 应得的
-materials 材料
-carried out 完成或执行某项任务
-widely 普遍地/ 广泛地
-produced 引起/ 造成/ 生产/ 产生
-extracted 萃取的/ 提取
+Preparation     准备工作
+mishap          灾祸/ 不幸事故
+conference      大型、正式的会议/ 研讨会
+independent     独立的
+threatens       恐吓/ 威胁
+definitive      最终的/ 确定的
+causes          原因
+extremely       极度/ 非常
+divided into    划分为
+generally       笼统地/ 大概/ 通常/ 普遍地
+forecast        预测/ 预报
+periods         周期
+strength        体力/ 力量/ 实力/ 影响力
+examined        检查过的/ 检查/ 调查
+Collaboration   合作/ 协作
+companies       公司/ 企业
+principles      道德原则/ 行为准则/ 规范/ 原则/ 原理
+verbally        口头上地
+deduction       演绎/ 推论
+associated      有关联的/ 相关的/ 联合的
+durable         持久的/ 耐用的
+internship      实习生/ 实习期
+mechanics       机械学/ 力学 
+due             到期的/ 预期的/ 应有的/ 应得的
+materials       材料
+carried out     完成或执行某项任务
+widely          普遍地/ 广泛地
+produced        引起/ 造成/ 生产/ 产生
+extracted       萃取的/ 提取
