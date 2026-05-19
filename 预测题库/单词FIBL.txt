@@ -291,509 +291,235 @@ evoke           vt. 引起，唤起；博得
 excellence      n. 优秀；美德；长处
 exercise        n. 运动；练习；运用；操练；礼拜；典礼   vt. 锻炼；练习；使用；使忙碌；使惊恐    vi. 运动；练习
 exercises       运动，练习
-exhibit
-n&v 陈列（品），展览（品）
-existences
-n. 存在，实在；生存，生活；存在物，实在物
-expansion
-n. 扩张，发展
-expectations
-n. 期待
-experience
-n.经验,经历v.经历;感受
-experiencing
-n. 体验
-v. 体验（experience的现在分词）
-exploring
-v.勘查， 探测,探索
-explosion
-n. 爆炸；爆发；激增
-exposure
-n.暴露，显露，曝光
-external
-a 外部的，外面的;表面上的
-extol
-v. 赞美，颂扬
-extreme
-n. 极端, 末端adj. 极端的, 尽头的
-face
-n.脸，表情 v.面向，正视，承认，呈现......前
-facilities
-n.(使事情便利的)设备、工具
-factors
-n.因素
-factory
-n.工厂，制造厂
-failed
-adj.
-失败了的，不成功的
-famous
-adj.著名的；有名的
-fashions
-n. 时尚；流行；风行一时的事物（fashion的复数形式）
-favourite
-adj.特别受喜爱的
-femininity
-n. 女子气质，女性本性
-ferry
-n．渡船，渡口，v．运送
-field
-n. 领域；牧场；旷野；战场；运动场;字段
-adj. 扫描场；田赛的；野生的
-figurative
-a.比喻的,形容多的,修饰丰富的
-financial
-adj.财政的，金融的
-firmed
-v. 使坚定；使牢固
-five
-num.五 pron./a.五(个，只......)
-flame
-n.火焰,火苗;热情;光辉 v.发火焰,燃烧
-floor
-n.地面；楼层；底部，底线
-folder
-n. 文件夹；折叠机；折叠式印刷品
-followers
-n. 追随者；仿效者；契约附页；随动件（follower的复数）
-force
-vt.强迫 n.力，力量
-forecast
-v.预报，预测；n.预测
-former
-adj. 从前的，前者的；前任的
-n. 模型，样板；起形成作用的人
-foreshadowed
-vt. 预示；成为...的前兆
-foundation
-n. 基础；地基；基金会；根据；创立
-fragile
-a.易碎的，易坏的
-frequency
-n.频率,周率,发生次数
-frontier
-n. 前沿；边界；国境
-adj. 边界的；开拓的
-frontiers
-边疆
-frustrated
-adj. 失意的，挫败的；泄气的
-fundamental
-adj. 基础的，基本的
-funding
-n. 提供资金；用发行长期债券的方法来收回短期债券
-v. 提供资金；积存（fund的ing形式）
-galaxies
-n. [天] 星系；银河系（galaxy的复数）
-gaps
-n. 差异，缺口；缝隙（gap的复数形式） v. 裂开；使豁裂（gap的第三人称单数形式）
-generated
-adj. 生成的；发生
-genius
-n 天才，天资，天赋，天分
-getting
-越来越
-glean
-v.拾落在地里的谷物；(来源广，零碎而费力地)收集(情报、信息、材料等)
-gleaned
-vt. 收集（资料）；拾（落穗）
-vi. 收集；拾落穗
-global
-adj. 全世界的；球形的
-government
-n.政府,内阁;管理,支配;政治,政体
-gradually
-adv.慢慢地；渐渐地
-graduate
-n.大学毕业生,研究生 v.大学毕业a.毕了业的
-graduated
-a.按等级(高度，困难等)分的；
-v.毕业（过去式）
-grapher
-n. 记录仪；[仪] 自动记录器
-graphic
-adj. 形象的；图表的；绘画似的
-graphics
-n. [测] 制图学；制图法；图表算法
-green
-绿色
-ground
-n.地，地面，土地；场地，场所；理由，根据
-growing
-v. 生长（grow的ing形式） adj. 发展的；成长的
-growth
-n.生长,增长,发展
-habitant
-n.居住者
-habitat
-n.自然环境，栖息地
-happen
-vi.发生,碰巧,偶然;v.发生,恰巧,偶然发现
-headed
-adj.有头的,有标题的
-heart
-n.心(脏)；内心，感情；热忱；中心，要点
-helpful
-adj.有帮助的, 有用的, 有益的
-hemisphere
-n.半球；半球地图
-hire
-vt.租借 n.租用，雇用
-historian
-n.历史学家；编史家
-historical
-a.历史的;有关历史的
-histories
-n. 历史，历史故事；历史纪录（history的复数形式）
-horns
-n. 角
-horror
-n. 惊骇；惨状；极端厌恶；令人恐怖的事物
-hostile
-a.敌对的，敌意的
-huge
-a.巨大的,庞大的
-hundred
-num.百，一百；[pl.]许多 a.一百的；许多
-Hydrogen
-n. 氢
-hypothesise
-vt. 假设，假定
-ideas
-观点
-identical
-adj. 同一的；完全相同的
-identities
-n. 身份,特性
-identity
-n. 身份；同一性，一致；特性；恒等式
-illusion
-n 幻想；错觉
-illustrative
-adj.解说性的，用作说明的
-image
-n. 图像，肖像；形象
-imagine
-vt. 想像；猜想；臆断
-vi. 想像；猜想；想像起来
-imaging
-n.成像
-imagining
-想象
-immense
-adj. 巨大的，无限的
-immune
-a.免疫的；免除的
-impacting
-冲击,撞击,碰撞
-implement
-n.工具，器具；v.实现，实施
-implications
-n. 含义；暗示；牵连，卷入；可能的结果，影响
-important
-a.重要的
-improvements
-n.改进,进步
-inbred
-a.天生的,生来的,同系繁殖的
-incentive
-n.刺激，鼓励；刺激因素
-include
-v.包括;包含
-incorporate
-vt. 包含，吸收；体现；把......合并
-vi. 合并；混合；组成公司
-adj. 合并的；一体化的；组成公司的
-incorporating
-合并的
-increasing
-adj. 越来越多的，渐增的
-increasingly
-adv. 越来越多地；渐增地
-incredibly
-adv. 难以置信地， 非常
-indeed
-adv.真正地；确实
-independence
-n.独立,自主
-individual
-a.单独的，特有的；n.个人，个体
-individuality
-n.个性,人格,特征
-induced
-v. 引诱；说服（induce的过去分词）
-adj. 感应的；诱发型
-industrial
-a.工业的；产业的
-inevitable
-adj.不可避免的，必然的
-infrastructure
-n.基础结构，基础设施
-ingredients
-n. 材料；佐料
-initially
-adv. 最初，首先；开头
-innovator
-n.改革者,刷新者
-insights
-n. 洞察力；眼力；深刻见解（insight的复数）
-install
-v.安装，装置；使就职
-instilled
-逐渐灌输的
-instinct
-n.本能,直觉,天性
-institution
-n.公共机构，协会；制度
-institutional
-a.制度的,公共团体的,学会的
-insurance
-n.保险；保险费
-intelligence
-n. 智力；聪明
-intelligent
-adj. 聪明的，有才智的
-intensity
-n. 强度；强烈；[电子] 亮度；紧张
-intensive
-adj. 加强的；集中的；透彻的；加强语气的
-n. 加强器
-intentional
-a.企图的,策划的,故意的
-intentionally
-adv. 有意地，特意地
-interact
-v. 相互作用，相互影响
-interesting
-adj.有意思
-intermediate
-adj. 中间的；中级的
-introduced
-v.介绍；引进 adj. 引进的；引种的
-invaluable
-adj.无价的, 价值无法衡量的
-invest
-v.投(资),购买(有用之物),授予,投资
-investigate
-v. 研究，调查；审查
-investigators
-n. 调查者, 研究者
-invisible
-a.看不见的,无形的
-involved
-a.复杂的，棘手的
-irrational
-n.无理数a.无理性的,不合理的
-irrelevant
-adj.不相关的，不切题的
-issue
-（有争议的）话题，议题；发布（期刊）等；（使）流出
-journal
-n 日记，日志，航海日记
-journalism
-n.新闻业,报章杂志
-journalist
-n. 记者
-key
-a.关键的，重要的 n.钥匙
-knowledge
-n.知识,学识;知道,了解
-label
-n.标签(记)；称号 vt.贴标签于；把...称为
-laboratory
-n 实验室，化验室，研究室
-labour
-n.劳动, 劳力, 劳工, 努力, 分娩, 工作 v.劳动, 苦干, 费力地前进, 分娩, 工作, 悉心完成
-large
-adj.大的；巨大的
-latter
-adj. 较后的
-leading
-a.领导的,指导的;第一位的;最主要的
-leans
-n. 倾斜；倾斜错觉（lean的复数）
-v. 倚靠（lean的第三人称单数形式）
-legitimate
-v. 认为...正当adj. 合法的
-lenient
-adj. 宽大仁慈的
-library
-图书馆
-light
-n.光;灯,灯光 v.点(火),点燃 a.轻的;轻松的
-lighting
-n.照明
-lined
-v. 排队（line的过去分词）；填满 adj. 有内衬的；具线纹的
-listed
-adj.列出的
-loosely
-adv. 宽松地；放荡地；轻率地
-lure
-v. 引诱，诱惑 n. 魅力；诱惑品，诱饵
-lying
-n. 说谎 a. 横躺的,说谎的
-magnifying
-a.放大的
-majority
-n.多数,大多数,成年,法定年龄
-mammals
-n. 哺乳动物 (复数)
-managers
-经理（复数）
-manipulate
-vt. 操纵；操作；巧妙地处理；篡改
-manufacture
-v.制造,加工 n.制造,制造业;产品
-marionette
-n.牵线木偶
-market
-n.市场，集市
-markings
-n. 标记；记分；成交价格记录（marking的复数）
-massive
-a.巨大的，厚重的
-matchstick
-n. 火柴杆
-materials
-n. [材] 材料；材质（material的复数）；材料科学；材料费
-mathematical
-a.数学的；数学上的
-mathematics
-n. 数学；数学运算
-maximise
-vt. 把...增加到最大限度；尽量增大
-mean
-卑贱的；吝啬的；打算，怀有目的；意味着
-medium
-n 媒介；（常作[pl]）宣传工具；传播媒介；手段，方法 adj. 中间的，中等的；半生熟的；（投球）中速的
-meet
-遇见
-mentioned
-adj. 提及的，提到的
-v. 提到（mention的过去式）
-migration
-n.移民,移往,移动
-millions
-n.数百万
-mimic
-vt. 模仿，摹拟
-n. 效颦者，模仿者；仿制品；小丑
-adj. 模仿的，模拟的；假装的
-minimise (minimize)
-vt. 尽量减少, 使最小化
-（英式-se，美式-ze）
-moderation
-n.缓和,适度,温和
-modern
-adj.现代的,时髦的
-modes
-n.模式；方法
-module
-n.模数；模；组件
-monetary
-a 货币的；金钱的；金融的；财政（上）的
-months
-月份（复数）
-motive
-n.动机，目的
-movements
-变动
-muscle
-n.肌肉，体力；力量，实力
-mutate
-（使）改变，（使）变异：
-mysterious
-adj. 神秘的；不可思议的；难解的
-native
-adj.本国的；本地的；与生俱来的
-natural
-adj.自然的，天然的
-nature
-n. 自然；性质；本性；种类
-naval
-adj.（有）海军的，军舰的，船的
-navicular
-adj.舟状的,船状的 n.舟骨
-nearest
-adj. 最近的（near的最高级）
-necessarily
-adv. 必要地；必定地，必然地
-negative
-adj.否定的；负的；消极的
-neighbour
-n 邻人，邻居，邻近的人，邻国（人）
-neighbouring
-a.邻近的，接壤的
-nitrogen
-n 氮，氮气
-nutrients
-营养物质
-nutrition
-n.营养,营养学
-obesity
-n. 肥大，肥胖
-objective
-a.客观的；n.目标
-objects
-v. 反对, 抗议 n. 物体;目标
-obligated
-adj. 有义务的，有责任的
-obscure
-adj. 模糊的；晦涩的；昏暗
-observable
-a.可观察的,可识别的;该注意的,该遵守的
-observe
-v. 观察；遵守
-observed
-v. 知道，认识到
-obtaining
-获得
-occupies
-占领
-occurring
-发生
-occurrence
-n （事件的）发生，出现
-occurs
-v. 重现（occur的第三人称单数）
-ocean
-n.海洋
-oceanographer
-n.海洋学者, 海洋研究者
-oceanologist
-n.海洋学家
-offsetting
-抵消
-offspring
-n. 后代，子孙；产物
-opening
-n.开,开放,开始,空缺,机会 a.开始的,开幕的
-operation
-n.运转,开动,操作,手术,运算,经营
-operational
-adj.操作的,运转的,起作用的,经营的
-opposed
-adj.反对的；截然不同的
-opt
-vi.选择
-optimizing
-优化
-option
-n. 选择，取舍
-origin
-n 根源，起因，由来；出身，来历
-originated
-v. 起源，发起；发明（originate的过去式，过去分词）；准备呼叫
-overfishing
-过度捕捞
-overlap
-n. 重叠；重复
-vi. 部分重叠；部分的同时发生
-vt. 与...重叠；与...同时发生
-overseas
-a.外国的,海外的 ad.在海外
-overseeing
-监督
-overview
-n.梗概，概述
+exhibit         n&v 陈列（品），展览（品）
+existences      n. 存在，实在；生存，生活；存在物，实在物
+expansion       n. 扩张，发展
+expectations    n. 期待
+experience      n.经验,经历v.经历;感受
+experiencing    n. 体验 v. 体验（experience的现在分词）
+exploring       v.勘查， 探测,探索
+explosion       n. 爆炸；爆发；激增
+exposure        n.暴露，显露，曝光
+external        a 外部的，外面的;表面上的
+extol           v. 赞美，颂扬
+extreme         n. 极端, 末端adj. 极端的, 尽头的
+face            n.脸，表情 v.面向，正视，承认，呈现......前
+facilities      n.(使事情便利的)设备、工具
+factors         n.因素
+factory         n.工厂，制造厂
+failed          adj.失败了的，不成功的
+famous          adj.著名的；有名的
+fashions        n. 时尚；流行；风行一时的事物（fashion的复数形式）
+favourite       adj.特别受喜爱的
+femininity      n. 女子气质，女性本性
+ferry           n．渡船，渡口，v．运送
+field           n. 领域；牧场；旷野；战场；运动场;字段  adj. 扫描场；田赛的；野生的
+figurative      a.比喻的,形容多的,修饰丰富的
+financial       adj.财政的，金融的
+firmed          v. 使坚定；使牢固
+five            num.五 pron./a.五(个，只......)
+flame           n.火焰,火苗;热情;光辉 v.发火焰,燃烧
+floor           n.地面；楼层；底部，底线
+folder          n. 文件夹；折叠机；折叠式印刷品
+followers       n. 追随者；仿效者；契约附页；随动件（follower的复数）
+force           vt.强迫 n.力，力量
+forecast        v.预报，预测；n.预测
+former          adj. 从前的，前者的；前任的 n. 模型，样板；起形成作用的人
+foreshadowed    vt. 预示；成为...的前兆
+foundation      n. 基础；地基；基金会；根据；创立
+fragile         a.易碎的，易坏的
+frequency       n.频率,周率,发生次数
+frontier        n. 前沿；边界；国境 adj. 边界的；开拓的
+frontiers       边疆
+frustrated      adj. 失意的，挫败的；泄气的
+fundamental     adj. 基础的，基本的
+funding         n. 提供资金；用发行长期债券的方法来收回短期债券 v. 提供资金；积存（fund的ing形式）
+galaxies        n. [天] 星系；银河系（galaxy的复数）
+gaps            n. 差异，缺口；缝隙（gap的复数形式） v. 裂开；使豁裂（gap的第三人称单数形式）
+generated       adj. 生成的；发生
+genius          n 天才，天资，天赋，天分
+glean           v.拾落在地里的谷物；(来源广，零碎而费力地)收集(情报、信息、材料等)
+gleaned         vt. 收集（资料）；拾（落穗）    vi. 收集；拾落穗
+global          adj. 全世界的；球形的
+government      n.政府,内阁;管理,支配;政治,政体
+gradually       adv.慢慢地；渐渐地
+graduate        n.大学毕业生,研究生 v.大学毕业a.毕了业的
+graduated       a.按等级(高度，困难等)分的；v.毕业（过去式）
+grapher         n. 记录仪；[仪] 自动记录器
+graphic         adj. 形象的；图表的；绘画似的
+graphics        n. [测] 制图学；制图法；图表算法
+growth          n.生长,增长,发展
+habitant        n.居住者
+habitat         n.自然环境，栖息地
+happen          vi.发生,碰巧,偶然;v.发生,恰巧,偶然发现
+headed          adj.有头的,有标题的
+heart           n.心(脏)；内心，感情；热忱；中心，要点
+helpful         adj.有帮助的, 有用的, 有益的
+hemisphere      n.半球；半球地图
+hire            vt.租借 n.租用，雇用
+historian       n.历史学家；编史家
+historical      a.历史的;有关历史的
+histories       n. 历史，历史故事；历史纪录（history的复数形式）
+horns           n. 角
+horror          n. 惊骇；惨状；极端厌恶；令人恐怖的事物
+hostile         a.敌对的，敌意的
+huge            a.巨大的,庞大的
+hundred         num.百，一百；[pl.]许多 a.一百的；许多
+Hydrogen        n. 氢
+hypothesise     vt. 假设，假定
+ideas           观点
+identical       adj. 同一的；完全相同的
+identities      n. 身份,特性
+identity        n. 身份；同一性，一致；特性；恒等式
+illusion        n 幻想；错觉
+illustrative    adj.解说性的，用作说明的
+image           n. 图像，肖像；形象
+imagine         vt. 想像；猜想；臆断    vi. 想像；猜想；想像起来
+imaging         n.成像
+imagining       想象
+immense         adj. 巨大的，无限的
+immune          a.免疫的；免除的
+impacting       冲击,撞击,碰撞
+implement       n.工具，器具；v.实现，实施
+implications    n. 含义；暗示；牵连，卷入；可能的结果，影响
+important       a.重要的
+improvements    n.改进,进步
+inbred          a.天生的,生来的,同系繁殖的
+incentive       n.刺激，鼓励；刺激因素
+include         v.包括;包含
+incorporate     vt. 包含，吸收；体现；把......合并  vi. 合并；混合；组成公司    adj. 合并的；一体化的；组成公司的
+incorporating   合并的
+increasing      adj. 越来越多的，渐增的
+increasingly    adv. 越来越多地；渐增地
+incredibly      adv. 难以置信地， 非常
+indeed          adv.真正地；确实
+independence    n.独立,自主
+individual      a.单独的，特有的；n.个人，个体
+individuality   n.个性,人格,特征
+induced         v. 引诱；说服（induce的过去分词）   adj. 感应的；诱发型
+industrial      a.工业的；产业的
+inevitable      adj.不可避免的，必然的
+infrastructure  n.基础结构，基础设施
+ingredients     n. 材料；佐料
+initially       adv. 最初，首先；开头
+innovator       n.改革者,刷新者
+insights        n. 洞察力；眼力；深刻见解（insight的复数）
+instilled       逐渐灌输的
+instinct        n.本能,直觉,天性
+institution     n.公共机构，协会；制度
+institutional   a.制度的,公共团体的,学会的
+insurance       n.保险；保险费
+intelligence    n. 智力；聪明
+intelligent     adj. 聪明的，有才智的
+intensity       n. 强度；强烈；[电子] 亮度；紧张
+intensive       adj. 加强的；集中的；透彻的；加强语气的 n. 加强器
+intentional     a.企图的,策划的,故意的
+intentionally   adv. 有意地，特意地
+interact        v. 相互作用，相互影响
+interesting     adj.有意思
+intermediate    adj. 中间的；中级的
+introduced      v.介绍；引进 adj. 引进的；引种的
+invaluable      adj.无价的, 价值无法衡量的
+invest          v.投(资),购买(有用之物),授予,投资
+investigate     v. 研究，调查；审查
+investigators   n. 调查者, 研究者
+invisible       a.看不见的,无形的
+involved        a.复杂的，棘手的
+irrational      n.无理数a.无理性的,不合理的
+irrelevant      adj.不相关的，不切题的
+issue           （有争议的）话题，议题；发布（期刊）等；（使）流出
+journal         n 日记，日志，航海日记
+journalism      n.新闻业,报章杂志
+journalist      n. 记者
+knowledge       n.知识,学识;知道,了解
+label           n.标签(记)；称号 vt.贴标签于；把...称为
+laboratory      n 实验室，化验室，研究室
+labour          n.劳动, 劳力, 劳工, 努力, 分娩, 工作 v.劳动, 苦干, 费力地前进, 分娩, 工作, 悉心完成
+large           adj.大的；巨大的
+leans           n. 倾斜；倾斜错觉（lean的复数） v. 倚靠（lean的第三人称单数形式）
+legitimate      v. 认为...正当adj. 合法的
+lenient         adj. 宽大仁慈的
+library         图书馆
+light           n.光;灯,灯光 v.点(火),点燃 a.轻的;轻松的
+lighting        n.照明
+lined           v. 排队（line的过去分词）；填满 adj. 有内衬的；具线纹的
+listed          adj.列出的
+loosely         adv. 宽松地；放荡地；轻率地
+lure            v. 引诱，诱惑 n. 魅力；诱惑品，诱饵
+lying           n. 说谎 a. 横躺的,说谎的
+magnifying      a.放大的
+majority        n.多数,大多数,成年,法定年龄
+mammals         n. 哺乳动物 (复数)
+manipulate      vt. 操纵；操作；巧妙地处理；篡改
+manufacture     v.制造,加工 n.制造,制造业;产品
+marionette      n.牵线木偶
+markings        n. 标记；记分；成交价格记录（marking的复数）
+massive         a.巨大的，厚重的
+matchstick      n. 火柴杆
+materials       n. [材] 材料；材质（material的复数）；材料科学；材料费
+mathematical    a.数学的；数学上的
+mathematics     n. 数学；数学运算
+maximise        vt. 把...增加到最大限度；尽量增大
+mean            卑贱的；吝啬的；打算，怀有目的；意味着
+medium          n 媒介；（常作[pl]）宣传工具；传播媒介；手段，方法 adj. 中间的，中等的；半生熟的；（投球）中速的
+meet            遇见
+mentioned       adj. 提及的，提到的 v. 提到（mention的过去式）
+migration       n.移民,移往,移动
+millions        n.数百万
+mimic           vt. 模仿，摹拟  n. 效颦者，模仿者；仿制品；小丑 adj. 模仿的，模拟的；假装的
+minimize        vt. 尽量减少, 使最小化
+moderation      n.缓和,适度,温和
+modern          adj.现代的,时髦的
+modes           n.模式；方法
+module          n.模数；模；组件
+monetary        a 货币的；金钱的；金融的；财政（上）的
+months          月份（复数）
+motive          n.动机，目的
+movements       变动
+muscle          n.肌肉，体力；力量，实力
+mutate          （使）改变，（使）变异：
+mysterious      adj. 神秘的；不可思议的；难解的
+native          adj.本国的；本地的；与生俱来的
+natural         adj.自然的，天然的
+nature          n. 自然；性质；本性；种类
+naval           adj.（有）海军的，军舰的，船的
+navicular       adj.舟状的,船状的 n.舟骨
+nearest         adj. 最近的（near的最高级）
+necessarily     adv. 必要地；必定地，必然地
+negative        adj.否定的；负的；消极的
+neighbour       n 邻人，邻居，邻近的人，邻国（人）
+neighbouring    a.邻近的，接壤的
+nitrogen        n 氮，氮气
+nutrients       营养物质
+nutrition       n.营养,营养学
+obesity         n. 肥大，肥胖
+objective       a.客观的；n.目标
+objects         v. 反对, 抗议 n. 物体;目标
+obligated       adj. 有义务的，有责任的
+obscure         adj. 模糊的；晦涩的；昏暗
+observable      a.可观察的,可识别的;该注意的,该遵守的
+observe         v. 观察；遵守
+observed        v. 知道，认识到
+obtaining       获得
+occupies        占领
+occurring       发生
+occurrence      n （事件的）发生，出现
+occurs          v. 重现（occur的第三人称单数）
+ocean           n.海洋
+oceanographer   n.海洋学者, 海洋研究者
+oceanologist    n.海洋学家
+offsetting      抵消
+offspring       n. 后代，子孙；产物
+opening         n.开,开放,开始,空缺,机会 a.开始的,开幕的
+operation       n.运转,开动,操作,手术,运算,经营
+operational     adj.操作的,运转的,起作用的,经营的
+opposed         adj.反对的；截然不同的
+opt             vi.选择
+optimizing      优化
+origin          n 根源，起因，由来；出身，来历
+originated      v. 起源，发起；发明（originate的过去式，过去分词）；准备呼叫
+overfishing     过度捕捞
+overlap         n. 重叠；重复   vi. 部分重叠；部分的同时发生    vt. 与...重叠；与...同时发生
+overseas    a.外国的,海外的 ad.在海外
+overseeing  监督
+overview    n.梗概，概述
