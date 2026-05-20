@@ -1,278 +1,466 @@
 This lecture mainly discussed []. 
-In the first part of the lecture, the speaker stated that []. 
-In the second part of the lecture, the speaker mentioned that [] 
-In the last part of the lecture, the speaker highlighted that [].
+In the first part of the lecture(First), the speaker stated that []. 
+In the second part of the lecture(After that), the speaker mentioned that [] 
+In the last part of the lecture(Finally), the speaker highlighted that [].
 
 1.Marketing #18671
-marketing. 
-marketing is the process of transferring goods and services from suppliers to customers. 
-profit models can ensure a return on capital. 
-marketing is directly linked to sales growth. (66 words)
+marketing.
+市场营销 
+marketing is the process of [transferring] goods,
+ and services from [suppliers] to customers. 
+市场营销是将商品和服务从供应商转移到客户的过程。
+profit models can ensure a return on [capital]. 
+盈利模式可以确保资本回报
+marketing is directly linked to sales growth.
+市场营销与销售增长直接相关
 
 2.Vitamin D #18683
-vitamin D. 
-vitamin D is called the sunshine vitamin. 
-if you get enough sunshine, there is no dietary need for vitamin D. 
-vitamin D isn’t a vitamin. (64 words)
+vitamin D.
+维生素 D
+vitamin D is called the sunshine vitamin.
+维生素 D 被称为阳光维生素 
+if you get enough sunshine, there is no [dietary need] for vitamin D. 
+如果你得到足够的阳光，就不需要维生素D
+vitamin D is not a vitamin.
 
 3.A woman in student loan #18690
 a woman in student loan. 
+背负助学贷款的女性
 she owes tens of thousands of student loan. 
-she could not find a decent job. 
-her children are facing the problem of borrowing money for school. 
-She felt stressed. (70 words)
+她欠了几万的学生贷款
+she could not find a [decent job]. 
+她找不到体面的工作
+her children are facing the problem of [borrowing money] for school, and she felt stressed.
+她的孩子们面临着借钱上学的问题，她感到压力很大
 
 4.The Big Bang theory #18710
 the Big Bang theory. 
-the universe began in a Big Bang. 
-the universe started in a Big Bang over 13.7 billion years ago. 
-everything fits, and we can understand the universe. (68 words)
+大爆炸理论
+the universe [began in] a Big Bang.
+宇宙始于一次大爆炸
+the universe [started in] a Big Bang over 13.7 billion years ago. 
+宇宙在大约 137 亿年前的一次大爆炸中诞生
+[everything fits], and we can understand the universe. (68 words)
+一切都符合，我们就能理解宇宙
 
 5.Fishing Industry In Africa #18713
-the fishing industry in Africa. 
+the [fishing industry] in Africa. 
+非洲渔业
 wildlife is the source of food and the source of income. 
-the management of fish resources influences health. 
-the wildlife tourism industry is important. (66 words)
+野生动物既是食物来源，也是收入来源
+[the management of] fish resources influences health.
+渔业资源管理对健康具有重要影响
+the [wildlife tourism] industry is important.
+野生动物旅游业的重要性
 
 6.An experiment about female body fat #18717
-an experiment about female body fat. 
-31 fat women volunteered in the experiment. 
+an [experiment] about female [body fat]. 
+女性体脂的实验
+31 fat women [volunteered] in the [experiment]. 
+31 名肥胖女性自愿参与了实验
 they needed to exercise regularly. 
-some people ate more, or they exercised less. (63 words)
+需要坚持规律锻炼
+some people ate more, or they [exercised] less.
+有些人饮食过量，或是运动不足
 
 7.Smart consumers #18719
-smart consumers and the brand. 
-a brand is essential to smart consumers. 
-the Second Moment of Truth is important; the product must have great quality. 
-there are fundamental engineering contradictions for the products to be both strong and soft. (66 words)
+the relationship between smart consumers and the [brand]. 
+智能消费者与品牌的关系
+a brand is [essential] to smart consumers. 
+品牌对智能消费者至关重要
+the Second Moment of Truth is important, and the product must have great quality. 
+"第二次真相时刻"的重要性——产品必须具备卓越品质
+there are fundamental engineering contradictions for the products to be both strong and soft.
+同时兼具硬核与柔性特质，存在根本性的工程矛盾
 
 8.Dangers of Keeping Drugs at Home #18720
 the dangers of keeping drugs at home. 
-children may ingest the drugs. 
-the drugs may be taken for the wrong reasons. 
-doctors should give the correct amount of drugs. (66 words)
+家中存放药品的危险性
+children may [ingest] the drugs.
+儿童可能误服药品
+the drugs may be [taken] for the wrong reasons.
+药品可能被用于不当用途
+doctors should give the [correct amount] of drugs.
+医生应开具正确的药品剂量
 
 9.A Survey on Social Well-Being and Happiness #18721
 a survey on social well-being and happiness. 
-one factor is the consistent patterns. 
-it includes basic things like income and health. 
-other factors include the living environment and the quality of life. (69 words)
+社会福祉与幸福感的调查
+one factor is the [consistent patterns]. 
+一个因素是稳定的模式
+it includes basic things like income and health.
+这包括收入和健康等基本要素 
+other factors include the living [environment] and the quality of life.
+其他因素还包括生活环境和生活质量
 
 10.Symbolic Systems #18731
-symbolic systems. 
-language is a classic symbolic system. 
+symbolic systems.
+符号系统
+language is a classic [symbolic] system.
+语言是经典的符号系统 
 people communicate with sign language and movement. 
-it is a good idea to do something with your hands and communicate at the same time. (69 words)
+人们通过手语和肢体动作进行交流
+it is a good idea to do something with your hands and communicate at the same time.
+边动手操作边交流是个好主意
 
 11.Global Warming and Climate Change #18737
-global warming and climate change. 
-climate change is becoming a severe problem. 
-national governments should take action. 
-some major changes are taking place globally. (61 words)
+global warming and climate change.
+全球变暖与气候变化问题
+climate change is becoming a [severe problem]. 
+气候变化正演变为严峻的社会问题
+national governments should [take action].
+各国政府应当采取行动
+some [major changes] are [taking place] globally.
+全球范围内正在[发生]的重大变革
 
 12.Face Recognition #18738
 recognizing faces. 
-humans are experts in face recognition. 
-face recognition is a hard problem, and it is a clever trick that you can use to recognize different types of information. 
-people need to appreciate face recognition. (69 words)
+人脸识别
+humans are [experts] in [face recognition]. 
+人类是人脸识别的专家
+face recognition is a hard problem, 
+and it is a [clever thing] that you can use to recognize different types of information. 
+人脸识别是一个难题，能够识别不同类型的信息是一件很[聪明的事情]
+people need to [appreciate] face recognition.
+人们需要欣赏人脸识别
 
 13.Baby Smile #18742
 baby smiles. 
-they want whoever they are interacting with to smile back. 
-the researchers defined four categories between mothers and infants. 
-mothers want the interaction, while babies just want to be smiled at. (70 words)
+babies hope that the people they interact with will give them a smile in return. 
+婴儿希望与之互动的对象能给予回笑
+the researchers defined four [categories] between mothers and [infants]. 
+研究人员将母亲与婴儿之间的互动划分为四类
+mothers want the interaction, while babies just want to be smiled at. 
+母亲渴望建立互动关系，而婴儿则仅仅希望获得微笑回应
 
 14.Managers #18743
-managers. 
-managers should have a broad perspective by reading more books and going back to the university to improve themselves. 
-management knowledge and skills are more important than experience. 
-the best manager should be a professor of management. (69 words)
+managers.
+管理者
+managers should have a [broad perspective] by reading more books,
+ and going back to the university to improve themselves. 
+管理者应通过多读书、重返校园等方式提升自我，以[拓宽视野]
+management knowledge and skills are more important than experience.
+管理知识与技能比经验更为重要
+the best manager should be a professor of management.
+最优秀的管理者应当是管理学教授
 
 15.Industrialization #18752
-industrialization. 
-the Industrial Revolution had a very negative effect on people. 
-we should pass legislation about working conditions. 
-we need regulations for better environmental conditions. (53 words)
+industrialization.
+工业化 
+the [Industrial Revolution] had a very [negative] effect on people.
+工业革命对人们产生了极其负面的影响
+we should pass [legislation] about working conditions.
+我们应当制定关于工作条件的立法
+we need regulations for better environmental conditions.
+我们需要制定法规以改善环境状况
 
 16.The decline of bees #18755
-the decline of bees. 
-these declines are supported by strong scientific evidence. 
-the drives to decline are different. 
-we’re aware of the problem, and people are taking action. (56 words)
+the decline of bees.
+蜜蜂数量的减少问题
+these declines are supported by strong scientific evidence.
+这些减少现象有强有力的科学证据支持
+the drives to decline are different.
+导致减少的驱动因素各不相同
+we are aware of the problem, and people are taking action.
+我们已意识到这个问题，人们正在采取行动
 
 17.Chimpanzee #18757
 chimpanzees. 
+黑猩猩
 they wished to release a chimpanzee that had been kept in captivity for many years for research purposes.
-the court had dismissed the appeal because chimpanzees are not ‘persons’.
-they would continue their efforts this year to secure legal rights for animals. (69 words)
+希望将一只因研究目的而被圈养多年的黑猩猩放归自然
+the court had [dismissed the appeal] because chimpanzees are not ‘persons’.
+法院驳回了上诉，理由是黑猩猩不属于“人”
+they would continue their efforts this year to secure legal rights for animals.
+今年将继续努力，争取为动物争取法律权利
 
 18.Automated Driving #18758
-automated driving. 
-automated driving is a system at levels three and four. 
-level three is the full-automatic mode. 
-level four automation can save fuel, making it more efficient than level three. (68 words)
+automated driving.
+自动驾驶
+automated driving is a system at levels three and four.
+自动驾驶属于三级和四级自动驾驶系统
+level three is the full-automatic mode.
+三级自动驾驶属于全自动驾驶模式
+level four automation can save fuel, making it more efficient than level three.
+四级自动驾驶能够节省燃料，因此比三级自动驾驶更具效率
 
 19.Globalization And De-Traditionalization #18759
-Globalization and De-Traditionalization. 
+Globalization and De-Traditionalization.
+全球化与去传统化 
 we all live in a global village. 
-globalization means we can share ideas all over the world. 
-de-traditionalization leads to damage to traditional cultures. (64 words)
+我们都生活在一个地球村中
+globalization means we can share ideas all over the world.
+全球化意味着我们能够在全球范围内共享思想
+de-traditionalization leads to damage to traditional cultures.
+去传统化导致了传统文化的损毁
 
 20.Internet and Journalism #18764
-Internet and journalism. 
-people become enthusiastic about such changes.
-they think the internet can improve the spreading of news and help people gain information. 
-journalism now becomes a collaborative process. (57 words)
+Internet and journalism.
+网络和新闻
+people become [enthusiastic] about such changes,
+and they think the internet can improve the spreading of news and help people gain information.
+人们对于这种改变很热情，
+并且他们认为互联网可以提升新闻的传播并帮助人们获得信息
+journalism now becomes a collaborative process.
+新闻业现已成为一个协作过程
 
 21.Absolutism #18772
-moral objectivism and moral absolutism. 
-in moral objectivism, certain universal moral principles apply to all actions. 
-in moral absolutism, a clear boundary exists between right and wrong. 
-these principles must be followed. (60 words)
+moral objectivism and moral absolutism.
+道德客观主义与道德绝对主义
+in [moral objectivism], certain [universal moral principles] apply to all actions.
+在[道德客观主义]中，某些[普遍的道德原则]适用于所有行为
+in moral absolutism, a clear boundary exists between right and wrong.
+在道德绝对主义中，是非之间存在明确的界限
+these principles must be followed.
+必须遵循这些原则
 
 22.Need #18776
-the need. 
-the need is a strong desire and an essential thing. 
-in a social environment, it is a multifunctional word. 
-it means the requirement from nature in psychological terms. (67 words)
+the need.
+需求
+the need is a strong desire and an essential thing.
+需求是一种强烈渴望且不可或缺的事物
+in a social environment, it is a [multifunctional] word.
+在社会环境中，需求是一个具有多重功能的词汇
+it means the requirement from nature in psychological terms.
+从心理学的角度指出，需求意味着来自自然的内在要求
 
 23.Newspaper #18777
-newspapers. 
-in some American states, the newspaper industry is shrinking. 
-economic models change. 
-the small newspapers decided to go online, and some newspapers disappeared. (61 words)
+newspapers.
+报纸行业
+in some American states, the newspaper industry is shrinking.
+在美国某些州，报纸行业正在萎缩
+[economic models] change.
+经济模式正在发生变化
+the small newspapers decided to go online, and some newspapers disappeared.
+小型报纸决定转向线上运营，而部分报纸则已消失
 
 24.Fight-or-Flight Response #18778
-the fight-or-flight response and emotions. 
-emotions have a purpose. 
-basic emotions are vital messengers. 
-the brain runs information to control instinctive responses and create unignorable signals. (63 words)
+the fight-or-flight response and emotions.
+应激反应和情绪的关系
+emotions have a purpose.
+情绪有它们出现的目的
+basic emotions are vital messengers.
+基本的情绪是重要的信使
+the brain runs information to control instinctive responses,
+ and create [unignorable] signals.
+大脑运行信息来控制本能反应和产生[不可被忽略的]信号
 
 25.The Separation of powers #18781
-the separation of powers. 
-the separation of powers means dividing government power into 3 parts. 
-one is to make the laws, and the second is to enforce the laws. 
-the third is to explain the laws. (64 words)
+the separation of powers.
+三权分立原则
+the separation of powers means dividing government power into 3 parts.
+三权分立意味着将政府权力划分为三个部分
+one is to make the laws, and the second is to enforce the laws.
+其中一部分负责制定法律，另一部分负责执行法律
+the third is to explain the laws.
+第三部分则承担解释法律的职能
 
 26.Water recycling #18787
-water recycling. 
-water recycling is needed. 
-there is technology available for industrial use, but there is little technology available for home use. 
+water recycling.
+水循环利用问题
+water recycling is needed.
+水循环利用具有必要性
+there is [technology available] for [industrial use], 
+but there is [little technology available] for [home use].
+[工业领域]已有[相关技术可用]，但[家庭应用]的[技术尚不成熟]
 on the local level, water recycling at home is important. (69 words)
+地方层面，家庭水循环利用具有重要意义
 
 27.The Design of Buildings #18788
-the design of buildings. 
+the design of buildings.
+建筑设计
 design is important to a building. 
-there are some bad buildings and some great buildings. 
-many buildings were demolished because of their nature and function. (66 words)
+设计对建筑至关重要
+there are some bad buildings and some great buildings.
+存在一些劣质建筑和一些杰出建筑
+many buildings were [demolished] because of their nature and function. (66 words)
+许多建筑因其性质和功能而被拆除
 
 28.Great Ideas #18789
-great ideas. 
-a great idea should be new. In the second part of the lecture.
-a great idea should be unique. 
-a great idea should be productive. (56 words)
+great ideas.
+伟大思想
+a great idea should be new.
+伟大思想应当具有新颖性
+a great idea should be unique.
+伟大思想应当独具特色
+a great idea should be [productive]. (56 words)
+伟大思想应当富有成效
 
 29.Food Crisis #18790
-food crisis. 
-people suffered from a serious food crisis. 
-people must double the production. 
+food crisis.
+食物危机
+people [suffered from] a serious food crisis.
+人们遭受严重的粮食危机
+people must double the production.
+我们必须将产量翻番
 it is urgent to increase the production. (57 words)
+产量翻番是当务之急
 
 30.The history of English #18791
-the history of English. 
-English is not a pure language. 
-English borrowed words from over 350 languages. 
-today we are not only learning about language, but we are also learning about history. (60 words)
+the history of English.
+英语的历史
+English is not a pure language.
+英语并非纯粹的语言
+English borrowed words from over 350 languages.
+英语从超过 350 种语言中借用了词汇
+today we are not only learning about language, 
+but we are also learning about history. (60 words)
+当今我们不仅在学习语言，更是在学习历史
 
 31.Online Research #18792
-the advantages and drawbacks of online research. 
-online research is quicker than conventional methods, and there are no gaps between quantities and qualities. 
+the advantages and drawbacks of online research.
+在线调研的优缺点
+online research is quicker than conventional methods, 
+and there are no gaps between quantities and qualities. 
+在线调研比传统方法更快捷，且数量与质量之间不存在差距
 the drawback is that we cannot communicate face-to-face. 
-we cannot get information through reactions such as body language, which means we don’t know who is on the other side. (64 words)
+其缺点在于无法进行面对面交流
+we cannot get information through reactions such as body language, 
+which means we don’t know who is on the other side. (64 words)
+我们无法通过肢体语言等反应获取信息，这意味着我们无从知晓对方真实身份
 
 32.Canned Food During the Great Depression #18793
-canned foods during the Great Depression. 
-canned foods became popular. 
-people could buy fridges. 
+canned foods during the Great Depression.
+大萧条时期罐头食品的发展历程
+canned foods became popular.
+罐头食品开始流行起来
+people could buy fridges.
+人们能够购买冰箱
 supermarkets became a new fashion. (56 words)
+超市成为了一种新的消费潮流
 
 33.Credit Card Experiment #18795
-a credit card experiment. 
-some inactive credit card users received a message. They could gain benefits by using their cards. 
-other users would face a penalty if they did not use their cards. 
-customers are more likely to be motivated by potential loss. (68 words)
+a credit card experiment.
+一项信用卡实验
+some [inactive] credit card users received a message,
+and they could gain benefits by using their cards.
+演讲者提到部分闲置信用卡用户收到了一条信息，提示他们使用信用卡可获得优惠
+other users would face a penalty if they did not use their cards.
+其他用户若不使用信用卡将面临处罚
+customers are more likely to be [motivated by] potential loss. (68 words)
+客户更容易受到潜在损失的驱动
 
 34.Mars and the earth #18796
-Mars. 
-Mars is close to the Earth. 
-Mars has hills, seasons and weather. 
-Mars has rare gases. (54 words)
+Mars.
+火星
+Mars is close to the Earth.
+火星距离地球较近
+Mars has hills, seasons and weather.
+火星存在丘陵、季节变化和天气现象
+Mars has [rare gases]. (54 words)
+火星存在稀有气体
 
 35.Application in biology #18797
-applications in biology. 
-scientists can engineer nature. 
-scientists could write DNA and create new organisms and cells 40 years ago. 
-scientists use micro-scale tools in bacteria experiments in the labs and get bacteria the next day. (67 words)
+applications in biology.
+生物学领域的应用
+scientists can engineer nature.
+科学家能够改造自然
+scientists could write DNA and create new organisms and cells 40 years ago.
+四十年前科学家已能编写 DNA 序列并创造新生物体与细胞
+scientists use micro-scale tools in bacteria experiments in the labs and get [bacteria] the next day. (67 words)
+科学家在实验室进行细菌实验时使用微尺度工具，次日即可获得细菌
 
 36.The History of Software #18798
-the history of software. 
-the history of software is very new, and the progression is a stampede. 
-the rapid expansion of computing power and the rapid decline in cost. 
-this made it feasible for information technology to move into all areas of life. (62 words)
+the history of software.
+软件的发展历程
+the history of software is very new, and the [progression] is a [stampede].
+软件历史极为短暂，其发展进程犹如一场狂奔
+the rapid expansion of computing power and the rapid decline in cost.
+计算能力的迅猛扩张与成本的急剧下降
+this made it feasible for information technology to [move into] all areas of life. (62 words)
+正是这些因素使得信息技术得以[渗透到]生活的方方面面
 
 37.Roman city #18799
-the city of Rome. 
-the city grew in a fairly ad hoc way. 
-Romans structured the city in a very methodical way. 
-when the Romans built their ideal Roman city, they turned to military camp design. (67 words)
+the city of Rome.
+罗马城
+the city grew in a fairly casual way.
+该城市是以相当随意的方式发展起来的
+Romans [structured] the city in a very methodical way.
+罗马人以非常有条理的方式[规划了]城市结构
+when the Romans built their ideal Roman city, 
+they turned to military camp design. (67 words)
+当罗马人建造他们理想中的罗马城市时，他们借鉴了军事营地的设计理念
 
 38.Why Read Plato's “The Republic”? #18827
 the reasons to read the Republic. 
+阅读《共和国》的理由
 the book is very readable. 
-the book includes living conversation and important ideas. 
+该书极具可读性
+the book includes living conversation and important ideas.
+书中包含生动的对话与重要的思想
 thoughts and content are the other reasons to read the book. (67 words)
+思想内涵与内容价值是阅读此书的其他理由
 
 39.The Industrial Revolution #18834
 the Industrial Revolution. 
+工业革命
 the Industrial Revolution was measured by more than large factories and machines. 
+工业革命不仅是以大型工厂和机器来衡量的
 the Industrial Revolution was an intensification of production. 
+工业革命是生产的集约化
 the rapid rise of production was tied to traditional forms of production. (70 words)
+生产的迅速增长是与传统的生产形式联系在一起的
 
 40.Globalization definitions #20394
-the definitions of globalization. 
-globalization increases international communications. 
-countries become integrated in the system. 
+the definitions of globalization.
+全球化的定义
+globalization increases international communications.
+全球化促进了国际交流
+countries become integrated in the system.
+国家在这个体系中成为整体
 globalization represents a new area of economic development. (58 words)
+全球化代表了一个新的经济发展领域
 
 41.Albert Einstein’s theory of Universe 20496
-Einstein's theory of the universe. 
+Einstein's theory of the universe.
+宇宙理论
 people thought the space was fixed for thousands of years. 
+人们曾认为空间是静止不变的，这种观念延续了数千年之久
 the view of the universe was changed because of Einstein. 
+爱因斯坦如何彻底改变了人类对宇宙的认知
 the space itself is changing. (58 words)
+空间本身正在持续变化的事实
 
 42.Luxury brands #21110
-luxury brands. 
-how we distinguish luxury brands is a difficult question. 
-the answer is relative. 
+luxury brands.
+奢侈品牌
+how we distinguish luxury brands is a difficult question.
+如何区分奢侈品牌是一个难题
+the answer is relative.
+答案具有相对性
 the answer is complicated. (56 words)
+答案相当复杂
 
 43.Migration history in Australia #21113
-migration history in Australia. 
-the first inhabitants in Australia were ancestors of Indigenous people. 
-when Australia and its surrounding regions formed a single landmass, the Aboriginal peoples settled. 
+migration history in Australia.
+澳大利亚的移民历史
+the first inhabitants in Australia were ancestors of Indigenous people.
+澳大利亚最早的居民是原住民的祖先
+when Australia and its surrounding regions formed a single landmass, 
+the Aboriginal peoples settled.
+当澳大利亚及其周边地区形成单一陆地时，原住民便在此定居
 Australia adopted the multiculturalism policy. (64 words)
+澳大利亚采纳了多元文化主义政策
 
 44.Stock market and modern business #21115
-the stock market and modern business. 
-the manufacturing companies came in. 
-big modern companies include Apple, Google and Microsoft. 
+the stock market and modern business.
+股票市场与现代商业
+the manufacturing companies came in.
+制造业公司纷纷涌入市场
+big modern companies include Apple, Google and Microsoft.
+大型现代企业包括苹果、谷歌和微软
 there are some differences between them. (62 words)
+这些企业之间存在某些差异
 
 45.Mood #21117
-mood. 
-mood may vary among different people. 
-the secret of happiness is mild containment. 
-we should find a balance between intense and loose emotions. (61 words)
+mood.
+情绪问题
+mood may [vary] among different people.
+不同人的情绪可能存在差异
+the secret of happiness is mild containment.
+幸福的秘诀在于适度克制
+we should find a balance between intense and loose emotions. (61 words)\
+我们应当在强烈情绪与松弛情绪之间寻求平衡
 
 46.The development of machine #21119
 the development of machine. 
