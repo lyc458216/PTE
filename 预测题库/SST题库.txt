@@ -6,12 +6,11 @@ In the last part of the lecture(Finally), the speaker highlighted that [].
 1.Marketing #18671
 marketing.
 市场营销 
-marketing is the process of [transferring] goods,
- and services from [suppliers] to customers. 
+marketing is the process of [transferring] goods and services from [suppliers] to customers. 
 市场营销是将商品和服务从供应商转移到客户的过程。
-profit models can ensure a return on [capital]. 
+[profit models] can ensure a return on [capital]. 
 盈利模式可以确保资本回报
-marketing is directly linked to sales growth.
+marketing is directly [linked to] sales growth.
 市场营销与销售增长直接相关
 
 2.Vitamin D #18683
@@ -24,33 +23,33 @@ if you get enough sunshine, there is no [dietary need] for vitamin D.
 vitamin D is not a vitamin.
 
 3.A woman in student loan #18690
-a woman in student loan. 
-背负助学贷款的女性
+a woman in [student loan]. 
+背负[助学贷款]的女性
 she owes tens of thousands of student loan. 
 她欠了几万的学生贷款
 she could not find a [decent job]. 
-她找不到体面的工作
-her children are facing the problem of [borrowing money] for school, and she felt stressed.
-她的孩子们面临着借钱上学的问题，她感到压力很大
+她找不到[体面的工作]
+her children are facing the problem of [borrowing money] for school, and she [felt stressed].
+她的孩子们面临着借钱上学的问题，她[感到压力很大]
 
 4.The Big Bang theory #18710
 the Big Bang theory. 
 大爆炸理论
-the universe [began in] a Big Bang.
+the universe [began with] a Big Bang.
 宇宙始于一次大爆炸
-the universe [started in] a Big Bang over 13.7 billion years ago. 
+the universe [started with] a Big Bang about 13.7 billion years ago. 
 宇宙在大约 137 亿年前的一次大爆炸中诞生
 [everything fits], and we can understand the universe. (68 words)
 一切都符合，我们就能理解宇宙
 
 5.Fishing Industry In Africa #18713
 the [fishing industry] in Africa. 
-非洲渔业
+非洲[渔业]
 wildlife is the source of food and the source of income. 
 野生动物既是食物来源，也是收入来源
 [the management of] fish resources influences health.
 渔业资源管理对健康具有重要影响
-the [wildlife tourism] industry is important.
+the [wildlife tourism industry] is important.
 野生动物旅游业的重要性
 
 6.An experiment about female body fat #18717
@@ -64,13 +63,14 @@ some people ate more, or they [exercised] less.
 有些人饮食过量，或是运动不足
 
 7.Smart consumers #18719
-the relationship between smart consumers and the [brand]. 
+smart consumers and the [brand]. 
 智能消费者与品牌的关系
 a brand is [essential] to smart consumers. 
 品牌对智能消费者至关重要
-the Second Moment of Truth is important, and the product must have great quality. 
+the Second Moment of Truth is important, 
+and the product must have great [quality]. 
 "第二次真相时刻"的重要性——产品必须具备卓越品质
-there are fundamental engineering contradictions for the products to be both strong and soft.
+there are engineering contradictions for the products to be both strong and soft.
 同时兼具硬核与柔性特质，存在根本性的工程矛盾
 
 8.Dangers of Keeping Drugs at Home #18720
@@ -78,13 +78,13 @@ the dangers of keeping drugs at home.
 家中存放药品的危险性
 children may [ingest] the drugs.
 儿童可能误服药品
-the drugs may be [taken] for the wrong reasons.
+the drugs may [be taken for] the wrong reasons.
 药品可能被用于不当用途
 doctors should give the [correct amount] of drugs.
 医生应开具正确的药品剂量
 
 9.A Survey on Social Well-Being and Happiness #18721
-a survey on social well-being and happiness. 
+[a survey on] [social well-being] and happiness. 
 社会福祉与幸福感的调查
 one factor is the [consistent patterns]. 
 一个因素是稳定的模式
@@ -94,11 +94,11 @@ other factors include the living [environment] and the quality of life.
 其他因素还包括生活环境和生活质量
 
 10.Symbolic Systems #18731
-symbolic systems.
+[symbolic] systems.
 符号系统
-language is a classic [symbolic] system.
+language is a classic symbolic system.
 语言是经典的符号系统 
-people communicate with sign language and movement. 
+people [communicate with] [sign language] and movement. 
 人们通过手语和肢体动作进行交流
 it is a good idea to do something with your hands and communicate at the same time.
 边动手操作边交流是个好主意
