@@ -459,120 +459,200 @@ mood may [vary] among different people.
 不同人的情绪可能存在差异
 the secret of happiness is mild containment.
 幸福的秘诀在于适度克制
-we should find a balance between intense and loose emotions. (61 words)\
+we should find a balance between intense and loose emotions. (61 words)
 我们应当在强烈情绪与松弛情绪之间寻求平衡
 
 46.The development of machine #21119
-the development of machine. 
-machines ought to do things better than most people. 
-machines had replaced many industries and become better and better. 
+the development of machine.
+机器的发展历程
+machines [ought to] do things better than most people.
+机器应当比大多数人更擅长完成特定任务
+machines had replaced many industries and become better and better.
+机器已取代众多行业，且性能日益精进
 when there are no new jobs, there is nowhere else for human to go. (54 words)
+当新岗位消失时，人类将无处可去
 
 47.Bees waggle dance and communication #21307
-how bees communicate. 
-it is curious how bees communicate with each other. 
-bees do waggle dance to indicate the distance and direction of the food resource. 
-it is a unique communication system. (69 words)
+how bees communicate.
+蜜蜂的交流方式
+it is curious how bees communicate with each other.
+蜜蜂彼此间的交流方式令人好奇
+bees do waggle dance to indicate the distance and direction of the food resource.
+蜜蜂会通过摆尾舞来传达食物资源的距离与方向
+it is a [unique] communication system. (69 words)
+这是一种独特的交流系统
 
 48.Paper rejection #21450
-paper rejection. 
-he was giving some advice on publishing a paper. 
-rejection would lead to a better result and would be good for the career path. 
+paper rejection.
+论文被拒的问题
+he was giving some advice on publishing a paper.
+将就论文发表提供一些建议
+rejection would lead to a better result and would be good for the career path.
+被拒反而能带来更好的结果，对职业发展大有裨益
 it is important to attract young researchers and keep them engaged. (70 words)
+吸引年轻研究者并保持他们的参与度至关重要
 
 49.Society diversity #21466
-societal diversity. 
-all societies have diversity, causing multiculturalism. 
-what causes diversity and how diversity would be caused. These questions are difficult to answer. 
-Simply counting the number is not that important. 
+societal diversity.
+社会多样性问题
+all societies have diversity, causing multiculturalism.
+所有社会都存在多样性，从而形成多元文化主义
+what causes diversity and how diversity would be caused. 
+These questions are difficult to answer.
+Simply counting the number is not that important.
+多样性的成因及其形成机制。这些问题难以简单回答，单纯统计数量并不重要
+单纯统计数量并不重要
 most societies have diversity to some extent. (52 words)
+大多数社会都存在不同程度的多样性
 
 50.Negative bias #21621
-negative bias. 
-we are more likely to sense negative emotions to help us survive. 
-the positive emotions we experience more are limited. 
+negative bias.
+负面偏见
+we are more likely to sense negative emotions to help us survive.
+我们更容易感知负面情绪，这有助于人类生存
+the positive emotions we experience more are limited.
+我们体验到的积极情绪更为有限
 negative emotions are less frequent but more intense. (67 words)
+负面情绪虽然出现频率较低，但强度更为强烈
 
 51.Darwin and Bees #21655
-bee genes and Darwin’s theory. 
-worker bees will sacrifice their lives to help the queen bee pass genes to the next generation. 
-the worker bees give up reproduction and help the queen reproduce, and the worker bees will die if necessary to do so. (70 words)
+bee genes and Darwin’s theory.
+蜜蜂基因与达尔文理论
+worker bees will sacrifice their lives to help the queen bee pass genes to the next generation.
+工蜂会牺牲生命来帮助蜂后将基因传递给下一代
+the worker bees give up reproduction and help the queen reproduce,
+and the worker bees will die if necessary to do so. (70 words)
+工蜂放弃繁殖能力以协助蜂后繁衍的事实，并强调工蜂必要时会为此献出生命
 
 52.Inequality in Children #21902
-the inequality in children. 
-well-educated parents can provide their children with ample educational resources and support. 
-children's life opportunities are largely determined by the age of five. 
+the inequality in children.
+儿童群体中的不平等现象
+well-educated parents can provide their children with ample educational resources and support.
+受过良好教育的父母能够为子女提供充足的教育资源与支持
+children's life opportunities are largely determined by the age of five.
+儿童的人生机遇在很大程度上取决于五岁时的成长环境
 there are still no particularly effective solutions to this deeply entrenched inequality in society. (69 words)
+对于这种根深蒂固的社会不平等现象，至今仍缺乏特别有效的解决方案
 
 53.Motivation #21919
-two types of motivation. 
-motivation can be categorized into approach motivation and avoidance motivation. 
-approach motivation pertains to positive things, while avoidance motivation relates to negative things. 
+two types of motivation.
+两种动机类型
+motivation can be categorized into approach motivation and avoidance motivation.
+动机可分为趋近动机与回避动机
+approach motivation pertains to positive things, while avoidance motivation relates to negative things.
+趋近动机关联积极事物，而回避动机则关联消极事物
 avoidance motivation tends to be significantly stronger. (62 words)
+回避动机往往具有显著更强的驱动力
 
 54.Leadership #21945
-leadership. 
-“great leaders” is a difficult concept to define. 
-people need to master more skills, such as planning for the future and helping newcomers integrate into the team. 
+leadership.
+领导力
+“great leaders” is a difficult concept to define.
+“伟大领导者”是一个难以定义的概念
+people need to master more skills, such as planning for the future and helping newcomers integrate into the team.
+人们需要掌握更多技能，例如规划未来以及帮助新人融入团队
 the organizational structure surrounding individuals is also of great significance. (66 words)
+围绕个体的组织结构同样具有重要意义
 
 55.Symmetry in mathematics #22451
-symmetry in mathematics. 
-historical objects in museums can have lots of mathematical significance. 
-the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry. 
-we don’t know what these stones are for. Maybe they were mathematical objects for joy and beauty. (65 words)
+symmetry in mathematics.
+数学中的对称性
+historical objects in museums can have lots of mathematical significance.
+博物馆中的历史文物往往蕴含丰富的数学意义
+the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry.
+在苏格兰发现的五千年前石器，是人类探索对称概念的最早实例
+we don’t know what these stones are for. 
+Maybe they were mathematical objects for joy and beauty. (65 words)
+这些石器的具体用途至今成谜，或许它们只是为愉悦与美感而存在的数学物件
 
 56.Bees waggle dance #22519
 how bees use a waggle dance as their communication system. 
+蜜蜂如何运用摆尾舞作为其通讯系统
 when bees find a good food source, they will do a waggle dance to tell other bees.
-a behaviour study regarding bees’ dancing behaviours. 
+当蜜蜂发现优质食物来源时，会通过摆尾舞向其他蜜蜂传递信息
+a behavior study regarding bees’ dancing behaviors. 
+一项关于蜜蜂舞蹈行为的研究
 bees can use their dance and the sounds to describe different flowers and the environment. (68 words)
+蜜蜂能够通过舞蹈动作与声音来描述不同花卉及环境特征
 
 57.Population growth #22723
 the significance of population issues. 
-resource pressure is a key factor. 
-population growth is not evenly distributed. 
+人口问题的意义
+resource pressure is a key factor.
+资源压力是一个关键因素
+population growth is not evenly distributed.
+人口增长并非均匀分布
 infrastructure may begin to collapse following the expansion of megacities. (58 words)
+随着特大城市的扩张，基础设施可能会开始崩溃
 
 58.The Origin of Species #22868
-The Origin of Species. 
-Darwin pointed out that life on Earth is shaped by natural selection. 
+The Origin of Species.
+物种起源
+Darwin pointed out that life on Earth is shaped by natural selection.
+达尔文阐明了地球生命是由自然选择塑造的
 Darwin did not explain how traits are passed on to offspring.
+达尔文并未解释性状如何传递给后代
 Mendel later discovered that organisms transmit traits through genes. (64 words)
+孟德尔后来发现生物体通过基因传递性状
 
 59.Modern Poetry #22983
-modern poetry. 
-the works of several poets. 
-modernism is one of the most fruitful areas in English literature. 
-one can attempt to derive pleasure, experience confusion, and draw nourishment from poetry. (61 words)
+modern poetry.
+现代诗歌
+the works of several poets.
+列举了多位诗人的作品
+modernism is one of the most fruitful areas in English literature.
+现代主义是英语文学中最富成果的领域之一
+one can attempt to derive pleasure, experience confusion, 
+and draw nourishment from poetry. (61 words)
+人们可以尝试从诗歌中获得愉悦、经历困惑并汲取滋养
 
 60.Social skills #23227
-the importance of social skills. 
-how social skills and empathy foster positive interpersonal relationships and reduce conflict risks. 
+the importance of social skills.
+社交技能的重要性
+how social skills and empathy foster positive interpersonal relationships and reduce conflict risks.
+社交技能与共情能力如何促进积极的人际关系并降低冲突风险
 a collaborative filmmaking experiment involving students.
+学生的协作式电影制作实验
 how this approach enhances students' self-regulation and critical thinking abilities. (56 words)
+这种方法如何提升学生的自我调节能力和批判性思维能力
 
 61.Washing Fruit #23239
-proper methods for washing fruits and vegetables. 
-thorough washing can effectively prevent bacteria and diseases. 
-the importance of paying attention to packaging instructions. 
+proper methods for washing fruits and vegetables.
+正确清洗果蔬的方法
+thorough washing can effectively prevent bacteria and diseases.
+彻底清洗能有效预防细菌和疾病
+the importance of paying attention to packaging instructions.
+关注包装说明的重要性
 using running cold water combined with scrubbing is the most effective approach. (62 words)
+使用流动冷水配合刷洗是最有效的方式
 
-62.Globalization	gap	between	goods	and	services #23240
-the differences between goods and services in the globalization process. 
-services are more difficult to globalize. 
-how these factors constrain the development of service trade. 
+62.Globalization gap between goods and services #23240
+the differences between goods and services in the globalization process.
+商品与服务在全球化进程中的差异
+services are more difficult to globalize.
+服务更难实现全球化
+how these factors constrain the development of service trade.
+这些因素如何制约服务贸易的发展
 how digital technology can eliminate barriers and reshape the global service landscape. (66 words)
+数字技术如何消除壁垒并重塑全球服务格局
 
 63.Multiculturalism #23241
-multiculturalism in modern society. 
-the essence of multiculturalism. 
-multiculturalism with the melting pot theory. 
+multiculturalism in modern society.
+现代社会中的多元文化主义
+the essence of multiculturalism.
+多元文化主义的本质
+multiculturalism with the melting pot theory.
+结合熔炉理论阐释了多元文化主义
 celebrating diversity helps build an inclusive and harmonious society. (52 words)
+颂扬多样性有助于构建包容和谐的社会
 
 64.Melatonin #23357
 melatonin. 
-melatonin is secreted by the pineal gland. 
-melatonin follows a circadian rhythm opposite to that of cortisol.
-melatonin plays a role in helping humans and animals prepare for nocturnal activity. (68 words)
+褪黑素
+melatonin is generated by the pineal gland.
+褪黑素由松果体分泌
+melatonin follows a rhythm opposite to that of cortisol.
+褪黑素的节律与皮质醇的节律相反
+melatonin plays a role in helping humans and animals prepare for nighttime activity. (68 words)
+褪黑素有助于人类和动物为夜间活动做好准备
 
