@@ -249,96 +249,96 @@ and [create unignorable signals].
 25.The Separation of powers #18781
 [the separation of] powers.
 三权分立原则
-the separation of powers means [dividing government power into 3 parts].
+[the separation of] powers means [dividing government power into 3 parts].
 三权分立意味着[将政府权力划分为三个部分]
-one is to [make the laws], and the second is to enforce the laws.
+one is to [make the laws], and the second is [to enforce the laws].
 其中一部分负责[制定法律]，另一部分负责[执行法律]
 the third is to [explain the laws].
 第三部分则承担[解释法律]的职能
 
 26.Water recycling #18787
-water recycling.
+[water recycling].
 水循环利用问题
-water recycling is needed.
-水循环利用具有必要性
+water recycling [is needed].
+水循环利用[具有必要性]
 there is [technology available] for [industrial use], 
 but there is [little technology available] for [home use].
 [工业领域]已有[相关技术可用]，但[家庭应用]的[技术尚不成熟]
-on the local level, water recycling at home is important. (69 words)
-地方层面，家庭水循环利用具有重要意义
+[on the local level], [water recycling at home] is important. (69 words)
+地方层面，[家庭水循环利用]具有重要意义
 
 27.The Design of Buildings #18788
-the design of buildings.
+[the design of] buildings.
 建筑设计
 design is important to a building. 
 设计对建筑至关重要
 there are some bad buildings and some great buildings.
 存在一些劣质建筑和一些杰出建筑
-many buildings were [demolished] because of their nature and function. (66 words)
-许多建筑因其性质和功能而被拆除
+many buildings [were demolished] because of their [nature and function]. (66 words)
+许多建筑因其[性质和功能]而[被拆除]
 
 28.Great Ideas #18789
 great ideas.
 伟大思想
 a great idea should be new.
 伟大思想应当具有新颖性
-a great idea should be unique.
+a great idea should [be unique].
 伟大思想应当独具特色
-a great idea should be [productive]. (56 words)
+a great idea should [be productive]. (56 words)
 伟大思想应当富有成效
 
 29.Food Crisis #18790
-food [crisis].
+[food crisis].
 食物危机
-people [suffered from] a serious food crisis.
-人们遭受严重的粮食危机
-people must double the production.
-我们必须将产量翻番
-it is urgent to increase the production. (57 words)
-产量翻番是当务之急
+people [suffered from] a [serious food crisis].
+人们[遭受][严重的粮食危机]
+people must [double the production].
+我们必须[将产量翻番]
+[it is urgent to] increase the production. (57 words)
+增加产量[是当务之急]
 
 30.The history of English #18791
-the history of English.
+[the history of] English.
 英语的历史
 English is not a pure language.
 英语并非纯粹的语言
-English [borrowed] words from over 350 languages.
-英语从超过 350 种语言中借用了词汇
-today we are not only learning about language, 
-but we are also learning about history. (60 words)
+English [borrowed words from] over 350 languages.
+英语从超过 350 种语言中[借用了词汇]
+today we are [not only] learning about language, 
+[but] we are [also] learning about history. (60 words)
 当今我们不仅在学习语言，更是在学习历史
 
 31.Online Research #18792
-the advantages and [drawbacks] of online research.
-在线调研的优缺点
-online research is quicker than [conventional] methods, 
-and there are no gaps between [quantities] and [qualities]. 
-在线调研比[传统]方法更快捷，且数量与质量之间不存在差距
-the [drawback] is that we can not communicate face-to-face. 
-其缺点在于无法进行面对面交流
-we can not get information through reactions such as body language, 
-which means we don’t know who is on the other side. (64 words)
-我们无法通过肢体语言等反应获取信息，这意味着我们无从知晓对方真实身份
+[the advantages and drawbacks of] online research.
+在线调研[的优缺点]
+online research [is quicker than] [conventional methods], 
+and there [are no gaps between] [quantities] and [qualities]. 
+在线调研比[传统方法][更快捷]，且数量与质量之间[不存在差距]
+the [drawback] is that we [can not communicate face-to-face]. 
+其[缺点]在于无法进行面对面交流
+we can not [get information through] reactions such as [body language], 
+which means we don’t know [who is on the other side]. (64 words)
+我们无法[通过][肢体语言]等反应[获取信息]，这意味着我们[无从知晓对方真实身份]
 
 32.Canned Food During the Great Depression #18793
-canned foods during the [Great Depression].
-大萧条时期罐头食品的发展历程
-canned foods became popular.
-罐头食品开始流行起来
-people could buy fridges.
-人们能够购买冰箱
-supermarkets became a new fashion. (56 words)
-超市成为了一种新的消费潮流
+[canned foods] during the [Great Depression].
+[大萧条时期][罐头食品]的发展历程
+[canned foods] [became popular].
+[罐头食品][开始流行起来]
+people could buy [fridges].
+人们能够购买[冰箱]
+supermarkets [became a new fashion]. (56 words)
+超市[成为了一种新的潮流]
 
 33.Credit Card Experiment #18795
 a credit card [experiment].
-一项信用卡实验
-some [inactive] credit card users received a message,
-and they could gain benefits by using their cards.
-演讲者提到部分闲置信用卡用户收到了一条信息，提示他们使用信用卡可获得优惠
-other users would face a [penalty] if they did not use their cards.
-其他用户若不使用信用卡将面临处罚
-customers are more likely to be driven by potential loss. (68 words)
+一项信用卡[实验]
+some [inactive credit card users] received a message,
+and they could [gain benefits] by using their cards.
+演讲者提到部分[闲置信用卡用户]收到了一条信息，提示他们使用信用卡可[获得优惠]
+other users would [face a penalty] if they did not use their cards.
+其他用户若不使用信用卡将[面临处罚]
+customers [are more likely to] [be driven by] [potential loss]. (68 words)
 客户更容易受到潜在损失的驱动
 
 34.Mars and the earth #18796
@@ -354,11 +354,11 @@ Mars has [rare gases]. (54 words)
 35.Application in biology #18797
 applications in biology.
 生物学领域的应用
-scientists can engineer nature.
+scientists can [engineer nature].
 科学家能够改造自然
-scientists could write DNA and create new cells 40 years ago.
+scientists could [write DNA] and [create new cells] 40 years ago.
 四十年前科学家已能编写 DNA 序列并创造新细胞
-scientists use micro-scale tools in experiments in the labs and get [bacteria] the next day. (67 words)
+scientists use [micro-scale] tools [in experiments] [in the labs] and get [bacteria] [the next day]. (67 words)
 科学家在实验室进行细菌实验时使用微尺度工具，次日即可获得细菌
 
 36.The History of Software #18798
@@ -366,21 +366,21 @@ the history of software.
 软件的发展历程
 the history of software is very new, and the [progression] is a [stampede].
 软件历史极为短暂，其[发展进程]犹如一场[狂奔]
-the [rapid expansion] of computing power and the [rapid decline] in cost.
-计算能力的迅猛扩张与成本的[急剧下降]
-this made the information technology to [move into] all areas of life. (62 words)
+the [rapid expansion] of [computing power] and the [rapid decline] in cost.
+[计算能力]的[迅猛扩张]与成本的[急剧下降]
+this made the [information technology] to [move into] [all areas of life]. (62 words)
 正是这些因素使得信息技术得以[渗透到]生活的方方面面
 
 37.Roman city #18799
 the city of Rome.
 罗马城
-the city grew in a [fairly casual] way.
-该城市是以[相当随意的]方式发展起来的
-Romans [structured] the city in a very methodical way.
-罗马人以非常有条理的方式[规划了]城市结构
+[the city grew] in a [fairly casual] way.
+该[城市]是以[相当随意的]方式[发展]起来的
+Romans [structured the city] in a very [methodical way].
+罗马人以非常[有条理的方式][规划了城市结构]
 when the Romans built their ideal Roman city, 
-they turned to [military camp] design. (67 words)
-当罗马人建造他们理想中的罗马城市时，他们借鉴了军事营地的设计理念
+they [turned to] [military camp] design. (67 words)
+当罗马人建造他们理想中的罗马城市时，他们[借鉴了][军事营地]的设计理念
 
 38.Why Read Plato's “The Republic”? #18827
 the reasons to read the Republic. 
@@ -388,67 +388,67 @@ the reasons to read the Republic.
 the book is very readable. 
 该书极具可读性
 the book includes [living conversation] and important ideas.
-书中包含生动的对话与重要的思想
-[thoughts] and content are the other reasons to read the book. (67 words)
-思想内涵与内容价值是阅读此书的其他理由
+书中包含[生动的对话]与重要的思想
+[thoughts and content] are the other reasons to read the book. (67 words)
+[思想内涵与内容价值]是阅读此书的其他理由
 
 39.The Industrial Revolution #18834
 the [Industrial Revolution]. 
 工业革命
-the Industrial Revolution was [measured by] more than large factories and machines. 
-工业革命不仅是以大型工厂和机器来[衡量]的
-the Industrial Revolution was an [intensification] of production. 
-工业革命是生产的[集约化]
-the [rapid rise of production] [was tied to] traditional forms of production. (70 words)
-[生产的迅速增长]是与传统的生产形式[联系在一起]的
+the [Industrial Revolution] [was measured by] more than [large factories and machines]. 
+工业革命不仅是以[大型工厂和机器][来衡量]的
+the Industrial Revolution was an [intensification of production]. 
+工业革命是[生产的集约化]
+the [rapid rise of production] [was tied to] [traditional forms of production]. (70 words)
+[生产的迅速增长]是与[传统的生产形式][联系在一起]的
 
 40.Globalization definitions #20394
 the [definitions] of [globalization].
 全球化的定义
-globalization increases [international communications].
-全球化促进了国际交流
-countries become [integrated] in the system.
-国家在这个体系中成为[整体]
-globalization [represents] a new area of economic development. (58 words)
-全球化代表了一个新的经济发展领域
+globalization [increases] [international communications].
+全球化[促进了][国际交流]
+countries [become integrated] [in the system].
+国家[在这个体系中][成为整体]
+globalization [represents] [a new area of] economic development. (58 words)
+全球化代表了[一个新的]经济发展[领域]
 
 41.Albert Einstein’s theory of Universe 20496
-Einstein's theory of the universe.
+Einstein's [theory of] the universe.
 宇宙理论
-people thought the space was fixed for thousands of years. 
-人们曾认为空间是静止不变的，这种观念延续了数千年之久
-the view of the universe was changed because of Einstein. 
-爱因斯坦如何彻底改变了人类对宇宙的认知
+[people thought] the space [was fixed] for thousands of years. 
+[人们曾认为]空间[是静止不变的]，这种观念延续了数千年之久
+[the view of] the universe [was changed because of] Einstein. 
+爱因斯坦[彻底改变了]人类[对]宇宙[的认知]
 the space itself is changing. (58 words)
 空间本身正在持续变化的事实
 
 42.Luxury brands #21110
 luxury brands.
 奢侈品牌
-how we [distinguish] luxury brands is a difficult question.
-如何区分奢侈品牌是一个难题
-the answer is relative.
+[how we distinguish] luxury brands is a difficult question.
+[我们如何区分]奢侈品牌是一个难题
+[the answer is relative].
 答案具有相对性
-the answer is [complicated]. (56 words)
+[the answer is complicated]. (56 words)
 答案相当复杂
 
 43.Migration history in Australia #21113
-[migration] history in Australia.
-澳大利亚的移民历史
-the first [inhabitants] in Australia were ancestors of [indigenous] people.
-澳大利亚最早的居民是原住民的祖先
-when Australia and its surrounding regions formed a single [landmass], 
-the indigenous peoples settled.
-当澳大利亚及其周边地区形成单一陆地时，原住民便在此定居
-Australia adopted the multiculturalism policy. (64 words)
-澳大利亚采纳了多元文化主义政策
+[migration history in] Australia.
+澳大利亚[的移民历史]
+[the first inhabitants of Australia] were the [Indigenous Australians].
+[澳大利亚最早的居民]是[原住民的祖先]
+when Australia and its [surrounding regions] [formed a single landmass], 
+[the indigenous peoples settled].
+当澳大利亚及其[周边地区][形成单一陆地时]，原住民便在此定居
+Australia [adopted the multiculturalism policy]. (64 words)
+澳大利亚[采纳了多元文化主义政策]
 
 44.Stock market and modern business #21115
-the stock market and modern business.
+[the stock market] and [modern business].
 股票市场与现代商业
-the manufacturing companies [came in].
+[the manufacturing companies] [came in].
 制造业公司纷纷涌入市场
-big [modern] companies include Apple, Google and Microsoft.
+[big modern companies] include Apple, Google and Microsoft.
 大型现代企业包括苹果、谷歌和微软
 there are some differences between them. (62 words)
 这些企业之间存在某些差异
@@ -456,64 +456,64 @@ there are some differences between them. (62 words)
 45.Mood #21117
 mood.
 情绪问题
-mood may [vary] among different people.
-不同人的情绪可能存在[差异]
-the secret of happiness is [mild containment].
+mood may [vary among different people].
+[不同人的]情绪可能[存在差异]
+[the secret of] happiness is [mild containment].
 幸福的秘诀在于[适度克制]
-we should find a balance between [intense] and [loose] emotions. (61 words)
-我们应当在[强烈]情绪与[松弛]情绪之间寻求平衡
+we should [find a balance between] [intense] and [loose] emotions. (61 words)
+我们应当[在][强烈]与[松弛]情绪[之间寻求平衡]
 
 46.The development of machine #21119
-the development of machine.
+[the development of] machine.
 机器的发展历程
-machines [ought to] do things better than most people.
-machines should be better at doing things than most people.
-机器应当比大多数人更擅长完成特定任务
-machines had replaced many industries and become better and better.
-机器已取代众多行业，且性能日益精进
-when there are no new jobs, there is nowhere else for human to go. (54 words)
-当新岗位消失时，人类将无处可去
+machines [ought to] [do things better than] most people.
+machines [should be better at] doing things than most people.
+机器[应当]比大多数人[更擅长完成特定任务]
+machines [had replaced many industries] and [become better and better].
+机器[已取代众多行业]，且性能[日益精进]
+when [there are no new jobs], humans will have nowhere to go. (54 words)
+当[新岗位消失]时，[人类将无处可去]
 
 47.Bees waggle dance and communication #21307
-how bees [communicate].
+[how bees communicate].
 蜜蜂的交流方式
-it is [curious] how bees communicate with each other.
-蜜蜂彼此间的交流方式[令人好奇]
-bees [do waggle dance] to indicate the distance and direction of the food resource.
+[it is curious] [how bees communicate with each other].
+[蜜蜂彼此间的交流方式][令人好奇]
+bees [do waggle dance] [to indicate] [the distance and direction of] [the food resource].
 蜜蜂会通过摆尾舞来传达食物资源的距离与方向
-it is a [unique] communication system. (69 words)
+it is [a unique communication system]. (69 words)
 这是一种独特的交流系统
 
 48.Paper rejection #21450
-paper rejection.
+[paper rejection].
 论文被拒的问题
-he was [giving some advice on] publishing a paper.
+he was [giving some advice on] [publishing a paper].
 将就论文发表[提供一些建议]
-rejection would [lead to] a better result and would be good for the [career path].
-被拒反而能[带来]更好的结果，对[职业发展]大有裨益
-it is important to [attract] young researchers and keep them [engaged]. (70 words)
-[吸引]年轻研究者并保持他们的[参与]度至关重要
+rejection [would lead to] [a better result] and would be good for the [career path].
+被拒反而[能带来][更好的结果]，对[职业发展]大有裨益
+it is important to [attract young researchers] and [keep them engaged]. (70 words)
+[吸引年轻研究者并][保持他们的参与]度至关重要
 
 49.Society diversity #21466
-[societal] diversity.
+[societal diversity].
 社会的多样性问题
-all societies have diversity, causing [multiculturalism].
-所有社会都存在多样性，从而形成[多元文化主义]
-what causes diversity and how diversity would be caused. 
+[all societies have diversity], [causing] [multiculturalism].
+所有社会都存在多样性，[从而形成][多元文化主义]
+[what causes diversity] and [how diversity would be caused]. 
 These questions are difficult to answer.
-Simply counting the number is not that important.
+Simply [counting the number] is not that important.
 多样性的成因及其形成机制。这些问题难以简单回答，单纯统计数量并不重要
-most societies have diversity to [some extent]. (52 words)
-大多数社会都存在[不同程度]的多样性
+[most societies] [have diversity] to [some extent]. (52 words)
+[大多数社会]都[存在][不同程度][的多样性]
 
 50.Negative bias #21621
-negative [bias].
-负面[偏见]
-we are more likely to sense negative emotions to help us [survive].
-我们更容易感知负面情绪，这有助于人类[生存]
-the positive emotions we experience more are limited.
+[negative bias].
+[负面偏见]
+[we are more likely to] [sense negative emotions] to help us [survive].
+[我们更容易][感知负面情绪]，这有助于人类[生存]
+the [positive emotions] we experience are more limited.
 我们体验到的积极情绪更为有限
-negative emotions [are less frequent] but [more intense]. (67 words)
+[negative emotions] [are less frequent] but [more intense]. (67 words)
 负面情绪虽然出现[频率较低]，但强度更为[强烈]
 
 51.Darwin and Bees #21655
