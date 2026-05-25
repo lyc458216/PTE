@@ -548,112 +548,112 @@ motivation [can be categorized into] [approach motivation] and [avoidance motiva
 54.Leadership #21945
 leadership.
 领导力
-“great leaders” [is a difficult concept to define].
-“伟大领导者”是一个难以定义的概念
+“great leaders” is [a difficult concept to define].
+“伟大领导者”是一个[难以定义的概念]
 people need to [master more skills], such as [planning for the future] and [helping newcomers integrate into the team].
 人们需要[掌握更多技能]，例如规划未来以及[帮助新人融入团队]
 [the organizational structure surrounding individuals] [is also of] [great significance]. (66 words)
 [围绕个体的组织结构][同样具有][重要意义]
 
 55.Symmetry in mathematics #22451
-symmetry in mathematics.
+[symmetry in mathematics].
 数学中的对称性
-historical objects in museums can have lots of mathematical significance.
-博物馆中的历史文物往往蕴含丰富的数学意义
-the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry.
-在苏格兰发现的五千年前石器，是人类探索对称概念的最早实例
-we don’t know what these stones are for. 
-Maybe they were mathematical objects for joy and beauty. (65 words)
-这些石器的具体用途至今成谜，或许它们只是为愉悦与美感而存在的数学物件
+[historical objects] in museums can [have lots of mathematical significance].
+博物馆中的[历史文物]往往[蕴含丰富的数学意义]
+[the stones discovered in Scotland 5000 years ago] are [the first examples of] [humans exploring the concept of symmetry].
+[在苏格兰发现的五千年前石器]，是[人类探索对称概念]的[最早实例]
+we don’t know [what these stones are for]. 
+Maybe they were [mathematical objects] [for joy and beauty]. (65 words)
+这些石器的[具体用途]至今成谜，或许它们只是[为愉悦与美感]而存在的[数学物件]
 
 56.Bees waggle dance #22519
-how bees use a waggle dance as their communication system. 
-蜜蜂如何运用摆尾舞作为其通讯系统
-when bees find a good food source, they will do a waggle dance to tell other bees.
-当蜜蜂发现优质食物来源时，会通过摆尾舞向其他蜜蜂传递信息
-a behavior study regarding bees’ dancing behaviors. 
-一项关于蜜蜂舞蹈行为的研究
-bees can use their dance and the sounds to describe different flowers and the environment. (68 words)
-蜜蜂能够通过舞蹈动作与声音来描述不同花卉及环境特征
+[how bees use] a waggle dance [as] their [communication system]. 
+[蜜蜂如何运用]摆尾舞[作为]其[通讯系统]
+when bees find a [good food source], they [will do a waggle dance to] tell other bees.
+当蜜蜂发现[优质食物来源]时，会[通过摆尾舞]向其他蜜蜂传递信息
+[a behavior study] [regarding bees’ dancing behaviors]. 
+[一项][关于蜜蜂舞蹈][行为的研究]
+bees can use their dance and the sounds to [describe different flowers and the environment]. (68 words)
+蜜蜂能够通过舞蹈动作与声音来[描述不同花卉及环境特征]
 
 57.Population growth #22723
-the significance of population issues. 
-人口问题的意义
-resource pressure is a key factor.
-资源压力是一个关键因素
-population growth is not evenly distributed.
-人口增长并非均匀分布
-infrastructure may begin to collapse following the expansion of megacities. (58 words)
-随着特大城市的扩张，基础设施可能会开始崩溃
+[the significance of] [population issues]. 
+[人口问题][的意义]
+[resource pressure] [is a key factor].
+[资源压力][是一个关键因素]
+[population growth] is not [evenly distributed].
+[人口增长]并非[均匀分布]
+[infrastructure may begin to collapse] following [the expansion of megacities]. (58 words)
+随着[特大城市的扩张]，[基础设施可能会开始崩溃]
 
 58.The Origin of Species #22868
 The Origin of Species.
 物种起源
-Darwin pointed out that life on Earth is shaped by natural selection.
-达尔文阐明了地球生命是由自然选择塑造的
-Darwin did not explain how traits are passed on to offspring.
-达尔文并未解释性状如何传递给后代
-Mendel later discovered that organisms transmit traits through genes. (64 words)
-孟德尔后来发现生物体通过基因传递性状
+Darwin [pointed out] that [life on Earth] [is shaped by natural selection].
+达尔文[阐明了][地球生命][是由自然选择塑造的]
+[Darwin did not explain] [how traits are passed on to offspring].
+[达尔文并未解释][性状如何传递给后代]
+[Mendel later discovered] that [organisms transmit traits through genes]. (64 words)
+[孟德尔后来发现][生物体通过基因传递性状]
 
 59.Modern Poetry #22983
 modern poetry.
 现代诗歌
-the works of several poets.
-列举了多位诗人的作品
-modernism is one of the most fruitful areas in English literature.
-现代主义是英语文学中最富成果的领域之一
-one can attempt to derive pleasure, experience confusion, 
-and draw nourishment from poetry. (61 words)
-人们可以尝试从诗歌中获得愉悦、经历困惑并汲取滋养
+[the works of] several poets.
+列举了多位诗人[的作品]
+[modernism] is [one of the most fruitful areas] [in English literature].
+[现代主义]是[英语文学中][最富成果的领域之一]
+one can [attempt to] [derive pleasure], [experience confusion], 
+and [draw nourishment from] poetry. (61 words)
+人们可以[尝试]从诗歌中[获得愉悦]、[经历困惑]并[汲取滋养]
 
 60.Social skills #23227
 the importance of social skills.
 社交技能的重要性
-how social skills and empathy foster positive interpersonal relationships and reduce conflict risks.
-社交技能与共情能力如何促进积极的人际关系并降低冲突风险
-a collaborative filmmaking experiment involving students.
-学生的协作式电影制作实验
-how this approach enhances students' self-regulation and critical thinking abilities. (56 words)
-这种方法如何提升学生的自我调节能力和批判性思维能力
+how social skills and [empathy foster] [positive interpersonal relationships] and [reduce conflict risks].
+社交技能与[共情能力]如何[促进积极的人际关系]并[降低冲突风险]
+[a collaborative filmmaking experiment] involving students.
+涉及学生的[协作式电影制作实验]
+[how this approach enhances] [students' self-regulation] and [critical thinking abilities]. (56 words)
+[这种方法如何提升][学生的自我调节能力]和[批判性思维能力]
 
 61.Washing Fruit #23239
-proper methods for washing fruits and vegetables.
-正确清洗果蔬的方法
-thorough washing can effectively prevent bacteria and diseases.
-彻底清洗能有效预防细菌和疾病
-the importance of paying attention to packaging instructions.
-关注包装说明的重要性
-using running cold water combined with scrubbing is the most effective approach. (62 words)
-使用流动冷水配合刷洗是最有效的方式
+[proper methods for] washing fruits and vegetables.
+清洗果蔬[的正确方法]
+[thorough washing] [can effectively prevent bacteria and diseases].
+[彻底清洗]能有效预防细菌和疾病
+[the importance of] [paying attention to] [packaging instructions].
+[关注][包装说明][的重要性]
+[using running cold water] [combined with] scrubbing [is the most effective approach]. (62 words)
+[使用流动冷水][配合]刷洗[是最有效的方式]
 
 62.Globalization gap between goods and services #23240
-the differences between goods and services in the globalization process.
-商品与服务在全球化进程中的差异
-services are more difficult to globalize.
+[the differences between] goods and services [in] [the globalization process].
+商品与服务[在][全球化进程中][的差异]
+services [are more difficult to] globalize.
 服务更难实现全球化
-how these factors constrain the development of service trade.
-这些因素如何制约服务贸易的发展
-how digital technology can eliminate barriers and reshape the global service landscape. (66 words)
-数字技术如何消除壁垒并重塑全球服务格局
+[how these factors] [constrain the development of service trade].
+[这些因素如何][制约服务贸易的发展]
+how digital technology can [eliminate barriers] and [reshape the global service landscape]. (66 words)
+数字技术如何[消除壁垒]并[重塑全球服务格局]
 
 63.Multiculturalism #23241
-multiculturalism in modern society.
+[multiculturalism] [in modern society].
 现代社会中的多元文化主义
-the essence of multiculturalism.
-多元文化主义的本质
-multiculturalism with the melting pot theory.
-结合熔炉理论阐释了多元文化主义
-celebrating diversity helps build an inclusive and harmonious society. (52 words)
-颂扬多样性有助于构建包容和谐的社会
+[the essence of] multiculturalism.
+多元文化主义[的本质]
+multiculturalism [with the melting pot theory].
+[结合熔炉理论]阐释了多元文化主义
+[celebrating diversity] helps [build an inclusive and harmonious society]. (52 words)
+[颂扬多样性]有助于[构建包容和谐的社会]
 
 64.Melatonin #23357
 melatonin. 
 褪黑素
-melatonin is generated by the pineal gland.
+melatonin [is generated by] the pineal gland.
 褪黑素由松果体分泌
-melatonin follows a rhythm opposite to that of cortisol.
+melatonin [follows a rhythm opposite to that of] cortisol.
 褪黑素的节律与皮质醇的节律相反
-melatonin plays a role in helping humans and animals prepare for nighttime activity. (68 words)
-褪黑素有助于人类和动物为夜间活动做好准备
+melatonin [plays a role in helping] humans and animals [prepare for] [nighttime activity]. (68 words)
+褪黑素[有助于]人类和动物[为][夜间活动][做好准备]
 
