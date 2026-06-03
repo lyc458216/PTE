@@ -512,19 +512,24 @@ Should schools make learning a foreign language compulsory?
 并能与其它学科相辅相成，是适应未来全球化挑战的重要教育举措。
 --
 第一段：重述背景与题目+表明观点
-educational curriculum
-学校是否应将外语学习定为必修课
-I tend to be the advocate regarding this issue.
+In recent years, the topic of [educational curriculum] has sparked widespread debate.
+There has been a heated debate on whether [学校是否应将外语学习定为必修课].
+From my perspective, I tend to be the advocate regarding this issue.
 第二段：观点1论述与解释
-这对学生的认知与学业发展是有益的
-学习一门外语能够增强批判性思维、提升记忆力并促进跨文化理解。
+It is evidently reasonable for me to believe that [这对学生的认知与学业发展是有益的].
+This is because [学习一门外语能够增强批判性思维、提升记忆力并促进跨文化理解].
 To illustrate this, my personal experience is a convincing example. 
 从我初中开始学习英语的经历来看，它不仅拓宽了我获取全球信息的渠道，也让我在解决问题时思维更加灵活。
-As a result, 外语教育为学生提供了在日益互联的世界中所必需的技能。
+As a result, [外语教育为学生提供了在日益互联的世界中所必需的技能].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that 强制学生学习外语可能会增加学业压力，并挤占其他重要科目的时间。 Nevertheless, this argument does not hold water. It should be pointed out that 一个设计合理的语言课程完全可以与其他学科平衡协调，甚至实现跨领域学习的融合。That is to say, 语言学习不仅不是负担，反而能通过培养创造力和思维灵活性来完善学生的整体教育。
+In contrast, it is commonly believed as a fact that [强制学生学习外语可能会增加学业压力，并挤占其他重要科目的时间]. 
+Nevertheless, this argument does not hold water. 
+It should be pointed out that [一个设计合理的语言课程完全可以与其他学科平衡协调，甚至实现跨领域学习的融合].
+That is to say, [语言学习不仅不是负担，反而能通过培养创造力和思维灵活性来完善学生的整体教育].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 将外语学习设为学校必修课有利于学生的全面发展，并为他们应对未来的全球挑战做好准备。
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that 
+[将外语学习设为学校必修课有利于学生的全面发展，并为他们应对未来的全球挑战做好准备].
 
 20.
 Government should create a better network of public transport available for everyone or build more roa ds owning population？
@@ -536,18 +541,23 @@ What are the advantages of cheaper public transportation? What will it cause to 
 它既能缓解拥堵、促进环保和社会公平，也能为城市的可持续发展提供长远解决方案。
 --
 第一段：重述背景与题目+表明观点
-城市规划与发展方向
-政府应优先发展完善的公共交通网络，还是应该修建更多道路以适应人口增长
-I tend to be the 公共交通建设的坚定支持者 regarding this issue.
+In recent years, the topic of [城市规划与发展方向] has sparked widespread debate.
+There has been a heated debate on whether [政府应优先发展完善的公共交通网络，还是应该修建更多道路以适应人口增长].
+From my perspective, I tend to be the [公共交通建设的坚定支持者] regarding this issue.
 第二段：观点1论述与解释
-建设便捷的公共交通系统能带来显著的长远效益。
-一个设计完善的公交体系能有效缓解城市拥堵，减少污染排放，并为不同收入群体提供平等的出行选择。 
-To illustrate this, 上海交通系统的成功转型就是有力证明——通过整合电车、巴士和地铁网络，该市使无车生活既便利又受欢迎。
-As a result, 这样的投资既能促进社会公平，又能推动城市的可持续发展。
+It is evidently reasonable for me to believe that [建设便捷的公共交通系统能带来显著的长远效益].
+This is because [一个设计完善的公交体系能有效缓解城市拥堵，减少污染排放，并为不同收入群体提供平等的出行选择]. 
+To illustrate this, [上海交通系统的成功转型就是有力证明——通过整合电车、巴士和地铁网络，该市使无车生活既便利又受欢迎].
+As a result, [这样的投资既能促进社会公平，又能推动城市的可持续发展].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that 扩建道路是应对人口增长和汽车数量增加最直接有效的方式。 Nevertheless, this argument does not hold water. It should be pointed out that 新建道路往往会刺激更多车辆使用，最终形成"道路越多，车辆越多"的恶性循环。 That is to say, 这种方法只能提供短期缓解，却可能加剧环境污染并扩大不同群体在出行机会上的差距。
+In contrast, it is commonly believed as a fact that [扩建道路是应对人口增长和汽车数量增加最直接有效的方式]. 
+Nevertheless, this argument does not hold water. 
+It should be pointed out that [新建道路往往会刺激更多车辆使用，最终形成"道路越多，车辆越多"的恶性循环]. 
+That is to say, [这种方法只能提供短期缓解，却可能加剧环境污染并扩大不同群体在出行机会上的差距]
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 相比盲目扩建道路，投资建设完善的公共交通网络才是更明智、更具前瞻性的城市发展策略。
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that 
+[相比盲目扩建道路，投资建设完善的公共交通网络才是更明智、更具前瞻性的城市发展策略].
 
 22.
 The formal written examination can be a valid method to assess students' learning. To what extent do you agree or disagree?
@@ -560,19 +570,23 @@ exam is correct?Please discuss the significance of formal written assessments in
 且其现代形式已涵盖批判性思维等关键能力，但仍需与其他评价方式结合以实现更全面的评估。
 --
 第一段：重述背景与题目 + 表明观点
-教育评估
-一个依赖正式笔试来评估学习的体系是否正确.
-I tend to be the advocate regarding 这类考试在当今世界扮演重要角色.
+In recent years, the topic of [教育评估] has sparked widespread debate.
+There has been a heated debate on whether [一个依赖正式笔试来评估学习的体系是否正确].
+From my perspective, I tend to be the advocate regarding [这类考试在当今世界扮演重要角色].
 第二段：观点1论述与解释
-笔试是一种有效且必要的评估工具.
-它们提供了一个标准化、客观且公平的方法，来评估学生对核心课程的理解以及他们在压力下应用知识的能力.
-To illustrate this, my personal experience as a student is a convincing example.
+It is evidently reasonable for me to believe that [笔试是一种有效且必要的评估工具].
+This is because [它们提供了一个标准化、客观且公平的方法，来评估学生对核心课程的理解以及他们在压力下应用知识的能力].
+To illustrate this, my personal experience as [一个学生][a student] is a convincing example.
 备考时培养的技能，比如总结归纳和构建论点的能力，对我的职业生涯有直接帮助。
-As a result, 这些评估为学业成就和智力训练提供了可靠的基准.
+As a result, [这些评估为学业成就和智力训练提供了可靠的基准].
 第三段：让步反驳段（反方观点 + 观点2/反驳）
-In contrast, it is commonly believed as a fact that 这类考试过分强调记忆而忽视实践技能. Nevertheless, this argument does not hold water when considering modern assessment design. It should be pointed out that 当代考试越来越多地通过论述题和复杂问题解决来测试批判性思维. That is to say, 它们能有效地评估结构化的推理和清晰的沟通能力，而这些能力对于在当今信息化社会取得成功至关重要.
+In contrast, it is commonly believed as a fact that [这类考试过分强调记忆而忽视实践技能]. 
+Nevertheless, this argument does not hold water when considering modern assessment design. 
+It should be pointed out that [当代考试越来越多地通过论述题和复杂问题解决来测试批判性思维]. 
+That is to say, [它们能有效地评估结构化的推理和清晰的沟通能力，而这些能力对于在当今信息化社会取得成功至关重要].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 正式的笔试评估仍然是一种正确且重要的方法，能够公平且严格地评估学生的表现. However, 当与其他评估形式结合使用时，它们才是最有效的，这样才能全面了解学生的能力.
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that [正式的笔试评估仍然是一种正确且重要的方法，能够公平且严格地评估学生的表现]. However, 当与其他评估形式结合使用时，它们才是最有效的，这样才能全面了解学生的能力.
 
 23.
 Age restrictions can be seen everywhere. It is believed that people should not do things until they reach the right age, such as marriage, and driving. Select one activity and state the minimum age that you think.
@@ -583,19 +597,24 @@ Support with your own experiences.
 因为它与青少年后期判断力和责任感的形成相匹配，能更好地在个人自由与公共安全之间取得平衡。
 --
 第一段：重述背景与题目 + 表明观点
-驾驶最低年龄要求
-应该降低法定驾驶年龄.
-I tend to be the opponent regarding this proposal.
+In recent years, the topic of [驾驶最低年龄要求] has sparked widespread debate.
+There has been a heated debate on whether [应该降低法定驾驶年龄].
+From my perspective, I tend to be the opponent regarding this proposal.
 第二段：观点1论述与解释
-将最低驾驶年龄设为18岁是有益的.
-安全驾驶车辆不仅需要操作技能，还需要通常在青少年后期形成的成熟判断力和责任感.
+It is evidently reasonable for me to believe that [将最低驾驶年龄设为18岁是有益的].
+This is because [安全驾驶车辆不仅需要操作技能，还需要通常在青少年后期形成的成熟判断力和责任感].
 To illustrate this, my personal experience is a convincing example.
 在观察我家族中的新司机时，我注意到那些年龄稍长者，在处理复杂交通状况时比年轻的同龄人更有耐心和远见. 
-As a result, 这项更高的年龄要求有助于从一开始就培养更安全的驾驶习惯.
+As a result, [这项更高的年龄要求有助于从一开始就培养更安全的驾驶习惯].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that 较低的驾驶年龄能为青少年提供必要的独立性和便利. Nevertheless, this argument does not hold water. It should be pointed out that 个人便利的好处必须与确保所有道路使用者公共安全的基本要求仔细权衡. That is to say, 授予驾驶这样的重大责任，应当与个人更有可能持续保持谨慎的人生阶段相匹配.
+In contrast, it is commonly believed as a fact that [较低的驾驶年龄能为青少年提供必要的独立性和便利]. 
+Nevertheless, this argument does not hold water. 
+It should be pointed out that [个人便利的好处必须与确保所有道路使用者公共安全的基本要求仔细权衡]. 
+That is to say, [授予驾驶这样的重大责任，应当与个人更有可能持续保持谨慎的人生阶段相匹配].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 18岁仍然是一个经过深思熟虑的最低驾驶年龄，因为它能更好地平衡个人自由与道路上所有人共同的安全需求.
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that 
+[18岁仍然是一个经过深思熟虑的最低驾驶年龄，因为它能更好地平衡个人自由与道路上所有人共同的安全需求].
 
 24.
 Is it fair for universities to deduct students’ marks when their assignments are overdue? How to solve this problem?
