@@ -599,7 +599,7 @@ Support with your own experiences.
 第一段：重述背景与题目 + 表明观点
 In recent years, the topic of [驾驶最低年龄要求] has sparked widespread debate.
 There has been a heated debate on whether [应该降低法定驾驶年龄].
-From my perspective, I tend to be the opponent regarding this proposal.
+From my perspective, I tend to be an opponent of this idea/proposal.
 第二段：观点1论述与解释
 It is evidently reasonable for me to believe that [将最低驾驶年龄设为18岁是有益的].
 This is because [安全驾驶车辆不仅需要操作技能，还需要通常在青少年后期形成的成熟判断力和责任感].
@@ -624,18 +624,24 @@ Is it fair for universities to deduct students’ marks when their assignments a
 但真正的公平需要在严格执行规则的同时，为有实际困难的学生提供灵活的申请渠道和辅助支持。
 --
 第一段：重述背景与题目 + 表明观点
-大学评分政策
-大学因作业逾期而扣分是否公平。
-就我而言，我倾向于支持这种做法。
+In recent years, the topic of [大学评分政策] has sparked widespread debate.
+There has been a heated debate on whether [大学因作业逾期而扣分是否公平].
+From my perspective, [我倾向于支持这种做法] I tend to be an advocate for this issue.
 第二段：观点1论述与解释
-对逾期提交的作业进行扣分是一项公平且必要的政策。
-它维护了学术诚信，确保了按时完成作业学生的公平，并教授了关键的时间管理技能。
-To illustrate this, 明确的逾期扣分规定在我大学一年级时教会了我如何进行任务优先级排序，这项技能在我后来的实习中被证明极其有用。
-As a result, 这类政策有助于营造一个负责任的学习环境。
+It is evidently reasonable for me to believe that [对逾期提交的作业进行扣分是一项公平且必要的政策].
+This is because [它维护了学术诚信，确保了按时完成作业学生的公平，并教授了关键的时间管理技能].
+To illustrate this, [明确的逾期扣分规定在我大学一年级时教会了我如何进行任务优先级排序，这项技能在我后来的实习中被证明极其有用].
+As a result, [这类政策有助于营造一个负责任的学习环境].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that 严格的截止日期会不公平地惩罚那些面临实际困难的学生。 Nevertheless, this argument does not hold water when 理解性措施与规则一同实施时。 It should be pointed out that 大学可以将标准处罚与辅助系统结合起来。 That is to say, 为面临重大困难的学生建立清晰、保密的延期申请渠道，可以在坚持原则的同时提供必要的灵活性。
+In contrast, it is commonly believed as a fact that [严格的截止日期会不公平地惩罚那些面临实际困难的学生]. 
+Nevertheless, this argument does not hold water when [理解性措施与规则一同实施时]. 
+It should be pointed out that [大学可以将标准处罚与辅助系统结合起来]. 
+That is to say, [为面临重大困难的学生建立清晰、保密的延期申请渠道，可以在坚持原则的同时提供必要的灵活性].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that mark deduction for lateness is fundamentally fair as a standard rule. However, 只有当它与有益的灵活性措施相结合时，其公平性才能充分体现，从而在维持学术标准的同时实现真正的公平。
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that 
+[mark deduction for lateness is fundamentally fair as a standard rule]. 
+However, [只有当它与有益的灵活性措施相结合时，其公平性才能充分体现，从而在维持学术标准的同时实现真正的公平].
 
 25.
 Large shopping malls are replacing small shops. What is your opinion about this? Discuss with appropriate examples.
@@ -646,21 +652,23 @@ Large shopping malls are replacing small shops. What is your opinion about this?
 最终实现二者互补共存、丰富市场生态的良性发展。
 --
 第一段：重述背景与题目+表明观点
-大型商场取代小商店
-这一趋势整体上是利大于弊的.
-I tend to be the advocate regarding this issue.
+In recent years, the topic of [大型商场取代小商店] has sparked widespread debate.
+There has been a heated debate on whether [这一趋势整体上是利大于弊的].
+From my perspective, I tend to be an advocate for this issue.
 第二段：观点1论述与解释
-this is beneficial.
-大商场为消费者提供了极高的便利性、丰富的选择和舒适的环境.
+It is evidently reasonable for me to believe that [this is beneficial].
+This is because [大商场为消费者提供了极高的便利性、丰富的选择和舒适的环境].
 To illustrate this, my personal experience is a convincing example.
-As a result, 商场非常适应现代都市人快节奏、注重体验的生活方式.
+As a result, [商场非常适应现代都市人快节奏、注重体验的生活方式].
 第三段：让步反驳段（反方观点+观点2/反驳）
-In contrast, it is commonly believed as a fact that 这一趋势会破坏社区独特氛围并威胁小商户生存.
+In contrast, it is commonly believed as a fact that [这一趋势会破坏社区独特氛围并威胁小商户生存].
 Nevertheless, this argument does not hold water.
-It should be pointed out that 小商店可以通过提供个性化服务和特色产品来与大商场共存.
-That is to say，它们并非被简单淘汰，而是在压力下创新并找到差异化市场定位，最终为消费者提供更多元的选择.
+It should be pointed out that [小商店可以通过提供个性化服务和特色产品来与大商场共存].
+That is to say, [它们并非被简单淘汰，而是在压力下创新并找到差异化市场定位，最终为消费者提供更多元的选择].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 大型购物中心的兴起是零售业的积极发展，前提是城市规划能营造一个让大商场和灵活的小商业都能蓬勃发展的多元生
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that 
+[大型购物中心的兴起是零售业的积极发展，前提是城市规划能营造一个让大商场和灵活的小商业都能蓬勃发展的多元生].
 
 26.
 Write about Climate change? Who is responsible whether Government or industries? Why?
@@ -670,20 +678,23 @@ Write about Climate change? Who is responsible whether Government or industries?
 但政府必须承担通过制定法规和政策来领导和强制系统性变革的主要责任。
 --
 第一段：重述背景与题目+表明观点
-谁该对气候变化负责
-政府还是企业应承担主要责任.
-I tend to be the advocate for 共同承担责任，但政府负有最终责任.
+In recent years, the topic of [谁该对气候变化负责] has sparked widespread debate.
+There has been a heated debate on whether [政府还是企业应承担主要责任].
+From my perspective, I tend to be an advocate for [共同承担责任，但政府负有最终责任].
 第二段：观点1论述与解释
-this is 至关重要的.
-This is because 只有政府能够制定法律和政策，迫使所有行业共同减少污染.
-To illustrate this, my personal observation of 碳税政策 is a convincing example.
-As a result, 政府行动创造了公平的竞争环境并推动大规模变革.
+It is evidently reasonable for me to believe that [this is 至关重要的].
+This is because [只有政府能够制定法律和政策，迫使所有行业共同减少污染].
+To illustrate this, my personal observation of [碳税政策] is a convincing example.
+As a result, [政府行动创造了公平的竞争环境并推动大规模变革].
 第三段：让步反驳段（反方观点+观点2/反驳）
-In contrast, it is commonly believed as a fact that 企业是主要原因并应自行解决问题.
+In contrast, it is commonly believed as a fact that [企业是主要原因并应自行解决问题].
 Nevertheless, this argument does not hold water.
-It should be pointed out that 若无严格的政府法规，许多公司将选择更便宜但污染严重的方式以击败竞争对手. That is to say，期待企业自愿行动往往不切实际，这使得强有力的政府监管对于推动必要转型至关重要.
+It should be pointed out that [若无严格的政府法规，许多公司将选择更便宜但污染严重的方式以击败竞争对手]. 
+That is to say, [期待企业自愿行动往往不切实际，这使得强有力的政府监管对于推动必要转型至关重要].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 虽然企业必须改进其运营方式，但解决气候变化的主要责任在于政府制定并执行可持续发展所需的规则.
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that 
+[虽然企业必须改进其运营方式，但解决气候变化的主要责任在于政府制定并执行可持续发展所需的规则].
 
 27.
 Experience is more effective and useful than books and formal education. What is your opinion?
@@ -695,20 +706,23 @@ Whether experiential learning (learning by doing) can work well in formal educat
 后者赋予灵活应用的能力，只有将二者有机结合才能实现最有效的学习和个人发展。
 --
 第一段：重述背景与题目+表明观点
-实践经验与正规教育的价值比较
-实际生活技能比学术学习更重要.
-I tend to be the advocate 支持二者结合而非对立.
+In recent years, the topic of [实践经验与正规教育的价值比较] has sparked widespread debate.
+There has been a heated debate on whether [实际生活技能比学术学习更重要].
+From my perspective, I tend to be the advocate [支持二者结合而非对立].
 第二段：观点1论述与解释
-实践经验是不可或缺的.
-它能培养在课堂中难以完全掌握的灵活性、解决问题能力和人际交往技巧.
-To illustrate this, 许多工匠和企业创始人的成功经历 is a convincing example.
-As a result, 经验提供了独特而实用的智慧.
+It is evidently reasonable for me to believe that [实践经验是不可或缺的].
+This is because [它能培养在课堂中难以完全掌握的灵活性、解决问题能力和人际交往技巧].
+To illustrate this, [许多工匠和企业创始人的成功经历] is a convincing example.
+As a result, [经验提供了独特而实用的智慧].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that 正规教育大多是理论性的且不太实用.
+In contrast, it is commonly believed as a fact that [正规教育大多是理论性的且不太实用].
 Nevertheless, this argument does not hold water.
-It should be pointed out that 教育构建了知识、逻辑和进入工程学或法学等复杂领域所必需的基础. That is to say, 它为理解提供了必要的框架，有效的经验可以在此基础上建立和解释.
+It should be pointed out that [教育构建了知识、逻辑和进入工程学或法学等复杂领域所必需的基础]. 
+That is to say, [它为理解提供了必要的框架，有效的经验可以在此基础上建立和解释].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 最有效的途径是结合两者：正规教育提供基础的地图，而经验则提供导航的旅程，彼此使对方更有价值和完整.
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that
+[最有效的途径是结合两者：正规教育提供基础的地图，而经验则提供导航的旅程，彼此使对方更有价值和完整].
 
 28.
 Study needs time, peace and comfort, whereas employment needs the same thing. Someone says it is impossible to combine those two because one distracts one another. Do you think this is realistic in our life today? To what extent do you agree with it? Support your opinion with example.
@@ -718,20 +732,23 @@ Study needs time, peace and comfort, whereas employment needs the same thing. So
 在现代社会中不仅是可行的，而且正成为越来越普遍的个人发展路径。
 --
 第一段：重述背景与题目+表明观点
-同时进行全日制学习与工作
-学习与工作必然会相互干扰.
-I tend to be the opponent of the view that 二者完全无法兼容.
+In recent years, the topic of [同时进行全日制学习与工作] has sparked widespread debate.
+There has been a heated debate on whether [学习与工作必然会相互干扰].
+From my perspective, I tend to be the opponent of the view that [二者完全无法兼容].
 第二段：观点1论述与解释
-在妥善规划下兼顾两者是可行的.
-现代灵活的学习方式和时间管理工具能帮助整合这两项活动.
-To illustrate this, 越来越多攻读在线学位并同时从事兼职工作的成功案例 is a convincing example.
-As a result, 许多人能够有效划分时间和精力来履行双重角色.
+It is evidently reasonable for me to believe that [在妥善规划下兼顾两者是可行的].
+This is because [现代灵活的学习方式和时间管理工具能帮助整合这两项活动].
+To illustrate this, [越来越多攻读在线学位并同时从事兼职工作的成功案例] is a convincing example.
+As a result, [许多人能够有效划分时间和精力来履行双重角色].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that 工作与学习的需求不可避免地会产生冲突，导致精力耗尽或某一方表现不佳.
+In contrast, it is commonly believed as a fact that [工作与学习的需求不可避免地会产生冲突，导致精力耗尽或某一方表现不佳].
 Nevertheless, this argument does not hold water when we consider structured support systems.
-It should be pointed out that 许多大学现在提供夜间课程、录播讲座以及专为职场人士设计的公司资助教育计划. That is to say, 机构对此需求的正式认可已为二者结合创造了现实途径.
+It should be pointed out that [许多大学现在提供夜间课程、录播讲座以及专为职场人士设计的公司资助教育计划]. 
+That is to say, [机构对此需求的正式认可已为二者结合创造了现实途径].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 尽管兼顾学业和工作需要高度的自律和支持体系，但这在当今不断变化的教育与职业环境中不仅是现实的，而且正变得越来越普遍.
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that 
+[尽管兼顾学业和工作需要高度的自律和支持体系，但这在当今不断变化的教育与职业环境中不仅是现实的，而且正变得越来越普遍].
 
 29.
 Technology has made the world a better place to live. To what extent do you agree with this statement?
@@ -742,21 +759,23 @@ Technology has made the world a better place to live. To what extent do you agre
 才能实现更为公平、普惠的人类发展。
 --
 第一段：重述背景与题目+表明观点
-科技是否让世界变得更美好
-技术进步最终改善了人类生活.
-I tend to be the advocate for a 持平衡视角，既肯定其带来的深远益处，也承认其伴随的重大挑战.
+In recent years, the topic of [科技是否让世界变得更美好] has sparked widespread debate.
+There has been a heated debate on whether [技术进步最终改善了人类生活].
+From my perspective, I tend to be the advocate for a [持平衡视角，既肯定其带来的深远益处，也承认其伴随的重大挑战].
 第二段：观点1论述与解释
-科技带来了深刻的改善.
-它极大促进了沟通、医疗和信息获取.
-To illustrate this, 互联网和疫苗的发展 are convincing examples—connecting people globally and eradicating diseases like smallpox.
-As a result, 技术前所未有地延长了预期寿命、减少了贫困并推动了教育普及.
+It is evidently reasonable for me to believe that [科技带来了深刻的改善].
+This is because [它极大促进了沟通、医疗和信息获取].
+To illustrate this, [互联网和疫苗的发展] are convincing examples—connecting people globally and eradicating diseases like smallpox.
+As a result, [技术前所未有地延长了预期寿命、减少了贫困并推动了教育普及].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that 科技引发了隐私侵蚀、就业替代和环境危害等新问题. 
-Nevertheless, this argument does not hold water if we consider 人类的主观能动性与伦理创新.
-It should be pointed out that 这些问题并非源于技术本身，而源于社会如何选择发展和监管技术. 
-That is to say, 通过负责任的治理和包容性设计，技术可以被引导以缓解其自身的负面影响.
+In contrast, it is commonly believed as a fact that [科技引发了隐私侵蚀、就业替代和环境危害等新问题]. 
+Nevertheless, this argument does not hold water if we consider [人类的主观能动性与伦理创新].
+It should be pointed out that [这些问题并非源于技术本身，而源于社会如何选择发展和监管技术]. 
+That is to say, [通过负责任的治理和包容性设计，技术可以被引导以缓解其自身的负面影响].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 科技整体上让世界变得更美好，但其益处并非自动实现或均匀分布。关键在于确保技术进步由智慧、公平和对公共福祉的承诺所引导，而非仅仅受利润或便利驱动.
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that 
+[科技整体上让世界变得更美好，但其益处并非自动实现或均匀分布。关键在于确保技术进步由智慧、公平和对公共福祉的承诺所引导，而非仅仅受利润或便利驱动].
 
 30.
 Design of buildings have positive or negative impact on people’s life and work?
@@ -767,21 +786,23 @@ Design of buildings have positive or negative impact on people’s life and work
 而其价值最终取决于是否以人为本、功能优先，而非停留于表面形式。
 --
 第一段：重述背景与题目+表明观点
-建筑设计
-建筑设计对人们的生活和工作产生积极还是消极影响.
-I tend to be the advocate that 用心的设计具有积极影响，尽管糟糕的设计可能有害.
+In recent years, the topic of [建筑设计] has sparked widespread debate.
+There has been a heated debate on whether [建筑设计对人们的生活和工作产生积极还是消极影响].
+From my perspective, I tend to be the advocate that [用心的设计具有积极影响，尽管糟糕的设计可能有害].
 第二段：观点1论述与解释
-设计良好的建筑能显著提升日常生活质量.
-自然光、高效的空间规划和绿化区域等要素能直接改善情绪、健康和工作效率.
-To illustrate this, 现代工作场所广泛采用的共享办公室和大窗户 is a convincing example.
-As a result, 在此类环境中工作的员工通常表现出更高的满意度和更好的专注力，这证明了设计带来的实际益处.
+It is evidently reasonable for me to believe that [设计良好的建筑能显著提升日常生活质量].
+This is because [自然光、高效的空间规划和绿化区域等要素能直接改善情绪、健康和工作效率].
+To illustrate this, [现代工作场所广泛采用的共享办公室和大窗户] is a convincing example.
+As a result, [在此类环境中工作的员工通常表现出更高的满意度和更好的专注力，这证明了设计带来的实际益处].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that 设计仅关乎美观，并不影响实际效果.
+In contrast, it is commonly believed as a fact that [设计仅关乎美观，并不影响实际效果].
 Nevertheless, this argument does not hold water when examining the evidence of poorly planned spaces.
-It should be pointed out that 缺乏通风、自然光或安全设施的建筑物可能导致健康问题、团队士气低落和生产力下降.
-That is to say, 设计并非表面问题，而是影响功能福祉的关键因素.
+It should be pointed out that [缺乏通风、自然光或安全设施的建筑物可能导致健康问题、团队士气低落和生产力下降].
+That is to say, [设计并非表面问题，而是影响功能福祉的关键因素].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 建筑设计对人们的生活和工作具有显著的积极影响力，前提是设计应优先考虑人的需求、可持续性和功能性，而非仅仅注重外观.
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that 
+[建筑设计对人们的生活和工作具有显著的积极影响力，前提是设计应优先考虑人的需求、可持续性和功能性，而非仅仅注重外观].
 
 31.
 Parents should be held legally responsible for children’s acts. What is your opinion? Support it with personal examples.
@@ -792,21 +813,23 @@ Parents should be held legally responsible for children’s acts. What is your o
 其根本目的在于通过合理追责促进家庭教育的尽责履行，而非实施普遍性惩罚。
 --
 第一段：重述背景与观点
-父母对子女行为的法律责任
-这种做法是否公平或有效.
-I tend to support 有限度的法律责任，主要适用于明显监护失职或造成严重伤害的情况.
+In recent years, the topic of [父母对子女行为的法律责任] has sparked widespread debate.
+There has been a heated debate on whether [这种做法是否公平或有效].
+From my perspective, I tend to support [有限度的法律责任，主要适用于明显监护失职或造成严重伤害的情况].
 第二段：观点论述
-父母应承担一定责任.
-他们通过引导和监管塑造孩子的行为.
-To illustrate this, 若儿童屡次破坏公共财产，让父母介入处理行为并安排赔偿 is a practical example.
-As a result, 这更侧重于教育和社区责任，而非单纯归咎.
+It is evidently reasonable for me to believe that [父母应承担一定责任].
+This is because [他们通过引导和监管塑造孩子的行为].
+To illustrate this, [若儿童屡次破坏公共财产，让父母介入处理行为并安排赔偿] is a practical example.
+As a result, [这更侧重于教育和社区责任，而非单纯归咎].
 第三段：让步反驳
-In contrast, it is commonly believed as a fact that 儿童拥有自由意志，父母无法控制其所有行为. 
-Nevertheless, this argument does not hold water when considering 极端监护失职的情况.
-It should be pointed out that 若因父母疏于监管导致严重伤害，法律追责就成为保障公共安全的必要手段. 
-That is to say, 法律应区分普通的儿童顽皮行为与父母失职直接导致伤害的情形.
+In contrast, it is commonly believed as a fact that [儿童拥有自由意志，父母无法控制其所有行为]. 
+Nevertheless, this argument does not hold water when considering [极端监护失职的情况].
+It should be pointed out that [若因父母疏于监管导致严重伤害，法律追责就成为保障公共安全的必要手段]. 
+That is to say, [法律应区分普通的儿童顽皮行为与父母失职直接导致伤害的情形].
 第四段：总结
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 父母法律责任应有明确范围，旨在通过促进尽责教养来预防伤害，而非广泛惩罚家庭.
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that 
+[父母法律责任应有明确范围，旨在通过促进尽责教养来预防伤害，而非广泛惩罚家庭].
 
 32.
 Which one is better, Textbook library or new digital material in university.
@@ -816,72 +839,96 @@ Discuss both the advantages and disadvantages of this position and give your own
 大学里，教材图书馆和新数字资源哪一种更好？
 
 第一段：重述背景与题目+表明观点
-大学学习资源的选择
-传统图书馆教材更好，还是新型数字材料更优。
-I tend to be the advocate of digital materials regarding this issue.
+In recent years, the topic of [大学学习资源的选择] has sparked widespread debate.
+There has been a heated debate on whether [传统图书馆教材更好，还是新型数字材料更优].
+From my perspective, I tend to be the advocate of digital materials regarding this issue.
 第二段：观点1论述与解释
-数字材料更好。
-This is because 数字材料能提供更高效、更灵活的学习方式，学生可以随时随地获取最新信息。
+It is evidently reasonable for me to believe that [数字材料更好].
+This is because [数字材料能提供更高效、更灵活的学习方式，学生可以随时随地获取最新信息].
 To illustrate this, my personal experience is a convincing example.
 上学期我通过电子数据库查阅了多篇最新论文，顺利完成课题，而纸质书籍更新很慢，很多信息已经过时。
-As a result, 数字材料大大提升了大学生的学习效率和知识获取速度。
+As a result, [数字材料大大提升了大学生的学习效率和知识获取速度].
 第三段：让步反驳段（反方观点+观点2/反驳）
-In contrast, it is commonly believed as a fact that 传统图书馆教材更加可靠，有助于深度阅读和专注学习，避免电子设备的干扰。
+In contrast, it is commonly believed as a fact that [传统图书馆教材更加可靠，有助于深度阅读和专注学习，避免电子设备的干扰].
 Nevertheless, this argument does not hold water.
-It should be pointed out that 数字材料同样可以通过护眼模式、离线阅读和专注软件来减少干扰，而且图书馆教材数量有限，多人争抢一本，反而浪费时间。
-That is to say, 数字材料在便利性和可获取性上远超纸质书，而专注力问题可以通过学习方法和管理来解决，并非数字材料本身的缺陷。
+It should be pointed out that [数字材料同样可以通过护眼模式、离线阅读和专注软件来减少干扰，而且图书馆教材数量有限，多人争抢一本，反而浪费时间].
+That is to say, [数字材料在便利性和可获取性上远超纸质书，而专注力问题可以通过学习方法和管理来解决，并非数字材料本身的缺陷].
 第四段：总结段落
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that 在大学中，新型数字材料比传统图书馆教材更值得推广。
+In a nutshell, due to the mentioned reasons, 
+we may safely reach the conclusion that [在大学中，新型数字材料比传统图书馆教材更值得推广].
 
 33.
 When people need to complain about a product or a service, some prefer to complain in writing while others prefer to complain in person. Which way do you prefer?
 当人们需要抱怨产品或服务时，有些人喜欢书面投诉，而另一些人喜欢亲自投诉。你喜欢哪种方式？
 第一段：重述背景与题目+表明观点
-complaining about unsatisfactory products or services. 
-people prefer to make complaints in writing or in person. 
-I tend to be the advocate regarding this issue and prefer written complaints.
+In recent years, the topic of [如何抱怨不满意的产品或服务][how to complaining about unsatisfactory products or services] has sparked widespread debate. 
+There has been a heated debate on whether [人们更喜欢以书面形式还是亲自投诉][people prefer to make complaints in writing or in person]. 
+From my perspective, I tend to be the advocate regarding this issue and prefer written complaints.
 第二段：观点1论述与解释
-this is a better way to complain.
-written complaints can keep clear records and serve as solid evidence for future rights protection.
+It is evidently reasonable for me to believe that [这是一种更好的抱怨方式][this is a better way to complain].
+This is because [书面投诉可以保持清晰的记录，并为未来的权利保护提供坚实的证据][written complaints can keep clear records and serve as solid evidence for future rights protection].
 To illustrate this, my personal experience is a convincing example. 
 I once filed a written complaint about a defective commodity, and the detailed written content made the merchant admit their responsibility quickly. 
-As a result, I solved the problem efficiently without unnecessary disputes.
+[我曾经书面投诉过一个有缺陷的商品，详细的书面内容让商家很快承认了他们的责任]
+As a result, [我有效地解决了这个问题，没有出现不必要的争执][I solved the problem efficiently without unnecessary disputes].
 第三段：让步反驳
-In contrast, it is commonly believed as a fact that complaining in person can communicate directly and get immediate feedback. 
+In contrast, it is commonly believed as a fact that [当面抱怨可以直接沟通，并得到即时的反馈][complaining in person can communicate directly and get immediate feedback]. 
 Nevertheless, this argument does not hold water. 
-It should be pointed out that face-to-face complaints may cause emotional conflicts and leave no valid proof. 
-That is to say, people may argue impulsively and fail to keep useful evidence for further negotiation.
+It should be pointed out that [面对面的抱怨可能会导致情绪冲突，并且没有留下有效的证据][face-to-face complaints may cause emotional conflicts and leave no valid proof]. 
+That is to say, [人们可能会冲动地争论，而不能为进一步的谈判保留有用的证据][people may argue impulsively and fail to keep useful evidence for further negotiation].
 第四段：总结
-In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that making complaints in writing is more reliable and practical than complaining in person.
+In a nutshell, due to the mentioned reasons,
+we may safely reach the conclusion that [书面投诉比亲自投诉更可靠、更实际][making complaints in writing is more reliable and practical than complaining in person].
 
 --18.[report]
-Governments and international institution are faced with many global problems. What these problems could be? What solution would you suggest?
-
-The pressing problem: The world’s governments and organisations confront a multigrade of issues.
+Governments and international institution are faced with many global problems. 
+What these problems could be? What solution would you suggest?
+The pressing problem: The world’s governments and organizations confront a multigrade of issues.
 What is the most pressing problem facing the inhabitants of our planets and what are the solutions?
 全球问题与解决方案
+--
+In modern society governments and international institutions are faced with many global problems. 
+In this essay, I am going to investigate these problems and then offer some solutions.
 
-In modern society governments and international institutions are faced with many global problems. In this essay, I am going to investigate these problems and then offer some solutions.
+It is evidently reasonable for some to believe that the problems are various. 
+The first point with respect to this is that climate change is one of the most serious issues. 
+This is because it affects all countries through extreme weather and rising sea levels. 
+To be more specific, many island nations may disappear completely. 
+That is to say millions of people could become climate refugees in coming decades.
 
-It is evidently reasonable for some to believe that the problems are various. The first point with respect to this is that climate change is one of the most serious issues. This is because it affects all countries through extreme weather and rising sea levels. To be more specific, many island nations may disappear completely. That is to say millions of people could become climate refugees in coming decades.
+On the basis of the above reasoning, the solutions to this problem should also be many. 
+Firstly, the government has the responsibility and obligation to take some actions. 
+For example, they should invest more in renewable energy like solar and wind power. 
+In addition, the media is fully capable of raising the public awareness by revealing the truth and spreading the idea of environmental protection. 
+Indeed, many documentaries about climate change have already changed people's behavior regarding plastic use and recycling.
 
-On the basis of the above reasoning, the solutions to this problem should also be many. Firstly, the government has the responsibility and obligation to take some actions. For example, they should invest more in renewable energy like solar and wind power. In addition, the media is fully capable of raising the public awareness by revealing the truth and spreading the idea of environmental protection. Indeed, many documentaries about climate change have already changed people's behavior regarding plastic use and recycling.
-
-In a nutshell, I think that the above-mentioned problem can be solved one day in the future. Additionally, I would suggest that it seems highly wise and vital for every citizen to reduce their carbon footprint in daily life.
+In a nutshell, I think that the above-mentioned problem can be solved one day in the future. 
+Additionally, I would suggest that it seems highly wise and vital for every citizen to reduce their carbon footprint in daily life.
 
 217 words
+
 --21.[report]
-You need to study climate change. Which aspect of climate change will you choose and why ?
-You are given climate change as the field of study. Which area would you prefer? Explain why you pick this particular area of your study and give an example in the area you pick
+You need to study climate change. 
+Which aspect of climate change will you choose and why?
+You are given climate change as the field of study. 
+Which area would you prefer? 
+Explain why you pick this particular area of your study and give an example in the area you pick
 气候变化会选择哪个方面学习？
+--
+Discussions about climate change always generate much excitement. 
+In this essay, I will explain why I choose to research climate change's impacts on human living environments.
 
-Discussions about climate change always generate much excitement. In this essay, I will explain why I choose to research climate change's impacts on human living environments.
+It is evidently reasonable to believe that understanding how climate change affects human living environments allows us to develop more effective measures to safeguard human life and safety. 
+The first point regarding this is that research helps us forecast extreme weather events, such as hurricanes and floods, so we can prepare and reduce damage. 
+Secondly, understanding climate risks enables us to protect people from threats like heatwaves, food shortages, and diseases.
 
-It is evidently reasonable to believe that understanding how climate change affects human living environments allows us to develop more effective measures to safeguard human life and safety. The first point regarding this is that research helps us forecast extreme weather events, such as hurricanes and floods, so we can prepare and reduce damage. Secondly, understanding climate risks enables us to protect people from threats like heatwaves, food shortages, and diseases.
+Additionally, another obvious reason is that by studying climate change's effects, we can better protect our planet and find solutions to these problems. 
+To be more specific, studying climate change helps us save animals and plants from extinction caused by habitat loss. 
+Due to global warming, many species of plants and animals are struggling to survive and face the risk of extinction. 
+That is to say, such research contributes to developing practical solutions. 
+Scientists are already working on clean energy, sustainable farming, and better policies to combat climate change.
 
-Additionally, another obvious reason is that by studying climate change's effects, we can better protect our planet and find solutions to these problems. To be more specific, studying climate change helps us save animals and plants from extinction caused by habitat loss. Due to global warming, many species of plants and animals are struggling to survive and face the risk of extinction. That is to say, such research contributes to developing practical solutions. Scientists are already working on clean energy, sustainable farming, and better policies to combat climate change.
-
-In a nutshell, studying climate change is like giving Earth a health checkup, only by understanding the problems can we cure the disease. Every small action contributes to protecting our home.
+In a nutshell, studying climate change is like giving Earth a health checkup, only by understanding the problems can we cure the disease. 
+Every small action contributes to protecting our home.
 
 （217Words）
-
