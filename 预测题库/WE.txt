@@ -969,23 +969,41 @@ Write about Climate change? Who is responsible whether Government or industries?
 但政府必须承担通过制定法规和政策来领导和强制系统性变革的主要责任。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [谁该对气候变化负责] has sparked widespread debate.
-There has been a heated debate on whether [政府还是企业应承担主要责任].
-From my perspective, I tend to be an advocate for [共同承担责任，但政府负有最终责任].
+In recent years, the topic of [谁该对气候变化负责][who should be held accountable for climate change] has sparked widespread debate.
+There has been a heated debate on whether [政府还是企业应承担主要责任][governments or corporations should bear the primary responsibility].
+From my perspective, I tend to be an advocate for [共同承担责任，但政府负有最终责任][a shared responsibility approach, while recognizing that governments bear the ultimate accountability].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [this is 至关重要的].
-This is because [只有政府能够制定法律和政策，迫使所有行业共同减少污染].
-To illustrate this, my personal observation of [碳税政策] is a convincing example.
-As a result, [政府行动创造了公平的竞争环境并推动大规模变革].
+It is evidently reasonable for me to believe that [这种政府主导的方法至关重要][this government-led approach is of paramount importance].
+This is because [只有政府能够制定法律和政策，迫使所有行业共同减少污染][only governments possess the authority to enact laws and implement policies that compel all industries to collectively reduce pollution emissions].
+To illustrate this, my personal observation of [碳税政策的实施][the implementation of carbon tax policies] is a convincing example.
+[这种立法干预成功地迫使高排放企业进行创新，并将其碳足迹降至最低]
+[Such legislative interventions successfully force high-emission enterprises to innovate and minimize their carbon footprints].
+As a result, [政府行动创造了公平的竞争环境并推动大规模变革][government actions create a level playing field and drive large-scale systemic changes].
 第三段：让步反驳段（反方观点+观点2/反驳）
-In contrast, it is commonly believed as a fact that [企业是主要原因并应自行解决问题].
+In contrast, it is commonly believed as a fact that [企业是主要原因并应自行解决问题][corporations are the primary culprits and should resolve this crisis autonomously].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [若无严格的政府法规，许多公司将选择更便宜但污染严重的方式以击败竞争对手]. 
-That is to say, [期待企业自愿行动往往不切实际，这使得强有力的政府监管对于推动必要转型至关重要].
+It should be pointed out that [若无严格的政府法规，许多公司将选择更便宜但污染严重的方式以击败竞争对手][in the absence of stringent government regulations, numerous companies would opt for cheaper yet highly polluting methods to outpace their competitors]. 
+That is to say, [期待企业自愿行动往往不切实际，这使得强有力的政府监管对于推动必要转型至关重要][expecting voluntary corporate action is often unrealistic, which renders robust government oversight indispensable for driving the necessary ecological transition].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[虽然企业必须改进其运营方式，但解决气候变化的主要责任在于政府制定并执行可持续发展所需的规则].
+[虽然企业必须改进其运营方式，但解决气候变化的主要责任在于政府制定并执行可持续发展所需的规则]
+[although enterprises must undeniably improve their operational practices, the primary responsibility for combatting climate change lies with governments to formulate and enforce the essential rules for sustainable development].
+--
+核心提分词汇与搭配（PTE加分项）：
+held accountable for...（对...负责）：比普通的 responsible for 更具法律和学术严肃性。
+bear the primary responsibility / ultimate accountability（承担主要责任 / 负有最终责任）：极其精准地翻译了你的中文观点。
+paramount importance（至关重要的）：替代 very important。
+enact laws and implement policies（制定法律和实施政策）：公共政策类话题的黄金满分搭配（动词 enact 是必背高级词汇）。
+compel（迫使）：替代 force 或 make。
+carbon tax policies / carbon footprints（碳税政策 / 碳足迹）：环保类话题最核心的专有名词，机器极易识别并加分。
+a level playing field（公平的竞争环境）：商业法规领域的顶级黑话！ 意为政府通过统一监管，让所有企业在同一起跑线上竞争。
+primary culprits（主要罪魁祸首/主要原因）：culprit（罪犯/问题的起因）是极佳的学术名词。
+autonomously（自行地/自主地）：替代 by themselves。
+in the absence of stringent government regulations（若无严格的政府法规）：stringent (严格的) 是 strict 的高级替换；in the absence of 是极为高阶的状语结构。
+outpace their competitors（击败/超越竞争对手）：商业用词，比 beat 专业。
+unrealistic（不切实际的）：常用于驳斥某个观点时的精准形容词。
+renders robust government oversight indispensable（使得强有力的政府监管变得至关重要）：满分句型！ render + 宾语 + 形容词（使得...变得...），配合 robust（强有力的）、oversight（监管）和 indispensable（不可或缺的），这一套组合拳能直接震撼评分系统！
 
 27.
 Experience is more effective and useful than books and formal education. What is your opinion?
@@ -997,23 +1015,38 @@ Whether experiential learning (learning by doing) can work well in formal educat
 后者赋予灵活应用的能力，只有将二者有机结合才能实现最有效的学习和个人发展。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [实践经验与正规教育的价值比较] has sparked widespread debate.
-There has been a heated debate on whether [实际生活技能比学术学习更重要].
-From my perspective, I tend to be the advocate [支持二者结合而非对立].
+In recent years, the topic of [实践经验与正规教育的价值比较][the comparative value of practical experience and formal education] has sparked widespread debate.
+There has been a heated debate on whether [实际生活技能比学术学习更重要][practical life skills hold greater significance than academic learning].
+From my perspective, I tend to be an advocate [支持二者结合而非对立][for integrating both elements rather than viewing them in opposition] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [实践经验是不可或缺的].
-This is because [它能培养在课堂中难以完全掌握的灵活性、解决问题能力和人际交往技巧].
-To illustrate this, [许多工匠和企业创始人的成功经历] is a convincing example.
-As a result, [经验提供了独特而实用的智慧].
+It is evidently reasonable for me to believe that [实践经验是不可或缺的][practical experience is unequivocally indispensable].
+This is because [它能培养在课堂中难以完全掌握的灵活性、解决问题能力和人际交往技巧][it cultivates adaptability, problem-solving capabilities, and interpersonal skills that are arduous to fully master within a classroom setting].
+To illustrate this, [许多工匠和企业创始人的成功经历][the success story of numerous artisans and corporate founders] is a convincing example.
+As a result, [实践经验提供了独特而实用的智慧][hands-on experience imparts a unique and highly pragmatic form of wisdom].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [正规教育大多是理论性的且不太实用].
+In contrast, it is commonly believed as a fact that [正规教育大多是理论性的且不太实用][formal education is predominantly theoretical and consequently less practical in real-world scenarios].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [教育构建了知识、逻辑和进入工程学或法学等复杂领域所必需的基础]. 
-That is to say, [它为理解提供了必要的框架，有效的经验可以在此基础上建立和解释].
+It should be pointed out that [教育构建了知识、逻辑和进入工程学或法学等复杂领域所必需的基础][education constructs the foundational knowledge, logical reasoning, and essential prerequisites required to enter complex disciplines such as engineering or law]. 
+That is to say, [它为理解提供了必要的框架，有效的经验可以在此基础上建立和解释][it provides the necessary cognitive framework upon which effective experience can be built and interpreted].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that
-[最有效的途径是结合两者：正规教育提供基础的地图，而经验则提供导航的旅程，彼此使对方更有价值和完整].
+[最有效的途径是结合两者：正规教育提供基础的地图，而经验则提供导航的旅程，彼此使对方更有价值和完整]
+[the most optimal pathway entails a synergy of both: formal education provides the foundational map, whereas practical experience offers the actual journey of navigation, mutually rendering each other more valuable and complete].
+--
+核心提分词汇与搭配（PTE加分项）：
+the comparative value（价值比较）：高级学术名词搭配。
+hold greater significance（具有更重要的意义/比...更重要）：替代简单的 are more important，词汇分大幅提升。
+viewing them in opposition（将它们对立看待）：对应中文的“非对立”，是非常地道的学术思辨表达。
+unequivocally indispensable（绝对不可或缺的）：unequivocally（明确地/毫不含糊地）修饰 indispensable（不可或缺的），语气极强，机器极度偏爱。
+cultivates adaptability（培养灵活性/适应性）：adaptability 是职场和教育话题的核心加分词汇。
+arduous（困难的/费力的）：替代简单的 difficult 或 hard。
+imparts a pragmatic form of wisdom（传授了一种实用的智慧）：impart（传授/赋予）和 pragmatic（实用的/务实的）的组合，极大地提升了句子的文学与学术色彩。
+predominantly theoretical（大多是理论性的/主要偏向理论的）：高级副词+形容词搭配。
+essential prerequisites（必要的先决条件/基础）：对应中文的“进入复杂领域必需的基础”。
+cognitive framework（认知框架）：满分词汇！ 认知科学与教育学专有名词，完美翻译“为理解提供了必要的框架”。
+synergy（协同作用/结合）：替代普通的 combination，商业与教育学术语，指1+1>2的结合。
+mutually rendering each other...（彼此使对方变得...）：render（使成为）和 mutually（相互地）为结尾句的隐喻（地图与旅程）画上了极具哲理的完美句号。
 
 28.
 Study needs time, peace and comfort, whereas employment needs the same thing. Someone says it is impossible to combine those two because one distracts one another. Do you think this is realistic in our life today? To what extent do you agree with it? Support your opinion with example.
@@ -1023,23 +1056,38 @@ Study needs time, peace and comfort, whereas employment needs the same thing. So
 在现代社会中不仅是可行的，而且正成为越来越普遍的个人发展路径。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [同时进行全日制学习与工作] has sparked widespread debate.
-There has been a heated debate on whether [学习与工作必然会相互干扰].
-From my perspective, I tend to be the opponent of the view that [二者完全无法兼容].
+In recent years, the topic of [同时进行全日制学习与工作][undertaking full-time study and employment simultaneously] has sparked widespread debate.
+There has been a heated debate on whether [学习与工作必然会相互干扰][studying and working inevitably interfere with each other].
+From my perspective, I tend to be the opponent of the view that [二者完全无法兼容][these two pursuits are entirely incompatible].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [在妥善规划下兼顾两者是可行的].
-This is because [现代灵活的学习方式和时间管理工具能帮助整合这两项活动].
-To illustrate this, [越来越多攻读在线学位并同时从事兼职工作的成功案例] is a convincing example.
-As a result, [许多人能够有效划分时间和精力来履行双重角色].
+It is evidently reasonable for me to believe that [在妥善规划下兼顾两者是可行的][balancing both commitments is highly feasible with meticulous planning].
+This is because [现代灵活的学习方式和时间管理工具能帮助整合这两项活动][modern flexible learning modalities and advanced time-management tools can facilitate the seamless integration of these two activities].
+To illustrate this, [越来越多攻读在线学位并同时从事兼职工作的成功案例][the growing number of successful cases of individuals pursuing online degrees while maintaining employment] is a convincing example.
+As a result, [许多人能够有效划分时间和精力来履行双重角色][many individuals can effectively compartmentalize their time and energy to fulfill these dual roles].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [工作与学习的需求不可避免地会产生冲突，导致精力耗尽或某一方表现不佳].
-Nevertheless, this argument does not hold water when we consider structured support systems.
-It should be pointed out that [许多大学现在提供夜间课程、录播讲座以及专为职场人士设计的公司资助教育计划]. 
-That is to say, [机构对此需求的正式认可已为二者结合创造了现实途径].
+In contrast, it is commonly believed as a fact that [工作与学习的需求不可避免地会产生冲突，导致精力耗尽或某一方表现不佳][the demanding requirements of work and study inevitably clash, culminating in burnout or suboptimal performance in either domain].
+Nevertheless, this argument does not hold water when [考虑结构化支持系统][considering structured support systems].
+It should be pointed out that [许多大学现在提供夜间课程、录播讲座以及专为职场人士设计的公司资助教育计划][numerous universities currently offer evening classes, recorded lectures, and corporate-sponsored educational programs specifically tailored for working professionals]. 
+That is to say, [机构对此需求的正式认可已为二者结合创造了现实途径][the formal institutional recognition of this necessity has paved a pragmatic pathway for their integration].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[尽管兼顾学业和工作需要高度的自律和支持体系，但这在当今不断变化的教育与职业环境中不仅是现实的，而且正变得越来越普遍].
+[尽管兼顾学业和工作需要高度的自律和支持体系，但这在当今不断变化的教育与职业环境中不仅是现实的，而且正变得越来越普遍]
+[although juggling academic and professional commitments demands a high degree of self-discipline and robust support systems, it is not only realistic but also becoming increasingly prevalent in today's ever-evolving educational and occupational landscape].
+--
+核心提分词汇与搭配（PTE加分项）：
+undertaking... simultaneously / juggling（同时进行/兼顾）：在描述“兼顾学业与工作”时，juggle (像抛接球一样兼顾) 和 undertake simultaneously 是最地道的表达。
+entirely incompatible（完全无法兼容的）：极佳的学术形容词搭配，精准反驳了“必须二选一”的观点。
+meticulous planning（妥善/周密的规划）：meticulous（一丝不苟的/细致的）是 PTE 高阶词汇。
+learning modalities（学习方式）：教育学专有名词，替代简单的 learning methods。
+compartmentalize（划分/区隔）：C2级别满分词汇！ 意为把时间和精力划分开来专心处理不同任务，在时间管理类话题中是绝杀词汇。
+dual roles（双重角色）：简练且高级的概括。
+culminating in burnout（导致精力耗尽）：culminate in（最终导致/以...告终）是高级动词短语；burnout（职业/学业倦怠）是心理学职场高频词。
+suboptimal performance（表现不佳）：suboptimal（未达最佳标准的/次优的）替代 bad performance，瞬间拉升学术逼格。
+tailored for working professionals（专为职场人士量身定制）：职场教育领域的标准表达。
+paved a pragmatic pathway（创造了现实/务实的途径）：pragmatic（务实的）修饰 pathway，比 realistic way 更具书面感。
+robust support systems（强大的支持体系）：robust（强健的/稳固的）常用于形容系统或体系。
+ever-evolving educational and occupational landscape（不断变化的教育与职业环境）：结尾段极其宏大、优美的升华词组！
 
 29.
 Technology has made the world a better place to live. To what extent do you agree with this statement?
