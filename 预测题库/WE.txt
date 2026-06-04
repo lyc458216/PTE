@@ -49,18 +49,18 @@ In recent years, the topic of [选择居住地][choosing where to live] has spar
 There has been a heated debate on whether [生活在乡村还是拥有都市生活更好][it is better to live in the countryside or enjoy city life]. 
 From my perspective, I tend to be the advocate of [支持城市生活][urban life] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [都市生活提供了极大的便利和高效率]. 
-This is because [城市提供了无缝衔接的交通、医疗和商业服务].
-To illustrate this, my personal experience [在上海的生活] is a convincing example. 
-As a result, [城市生活的便利性节省了时间和精力，促成了一种更高效能的生活方式].
+It is evidently reasonable for me to believe that [都市生活提供了极大的便利和高效率][urban life offers immense convenience and high efficiency]. 
+This is because [城市提供了无缝衔接的交通、医疗和商业服务][cities provide seamless transportation, healthcare, and commercial services].
+To illustrate this, my personal experience [在上海的生活][of living in Shanghai] is a convincing example. 
+As a result, [城市生活的便利性节省了时间和精力，促成了一种更高效能的生活方式][the convenience of urban living saves time and energy, contributing to a more productive lifestyle].
 第三段：让步反驳段（反方观点+观点2）
-In contrast, it is commonly believed as a fact that [乡村的自然环境能减轻压力并带来更可负担的生活成本].
+In contrast, it is commonly believed as a fact that [乡村的自然环境能减轻压力并带来更可负担的生活成本][the natural environment of rural areas can alleviate stress and provide a more affordable cost of living].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [城市为个人和职业成长提供了不可替代的优势，尤其对年轻人而言]. 
-That is to say, [尽管乡村生活可能适合养老或短期放松，但都市中心对于实现长远目标仍然至关重要].
+It should be pointed out that [城市为个人和职业成长提供了不可替代的优势，尤其对年轻人而言][cities offer irreplaceable advantages for personal and professional growth, especially for young adults]. 
+That is to say, [尽管乡村生活可能适合养老或短期放松，但都市中心对于实现长远目标仍然至关重要][while rural life may be ideal for retirement or short-term relaxation, urban centers remain crucial for achieving long-term goals].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that [都市生活因其便利性、职业机会和教育资源而更可取].
+we may safely reach the conclusion that [都市生活因其便利性、职业机会和教育资源而更可取][urban living is a more desirable choice thanks to its convenience, career opportunities, and educational resources].
 
 2.
 The mass media (mass communication) including TV, Radio and newspaper influence our society and shape our opinions and characters. What is your opinion?
@@ -76,22 +76,22 @@ Nowadays the way people communicate with each other has changed in society. Disc
 让全家人吃得更好、更健康。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [大众媒体的影响] has sparked widespread debate. 
-There has been a heated debate on whether [大众媒体对社会和个人性格的影响主要是积极的].
-From my perspective, I tend to be the advocate of [支持大众媒体的积极作用] regarding this issue.
+In recent years, the topic of [大众媒体的影响][the impact of mass media] has sparked widespread debate. 
+There has been a heated debate on whether [大众媒体对社会和个人性格的影响主要是积极的][its influence on society and individual character is predominantly positive].
+From my perspective, I tend to be an advocate of [支持大众媒体的积极作用][its positive role] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [大众媒体是现代社会中不可或缺的信息桥梁].
-This is because [它提供及时的新闻、多元的视角和有价值的教育内容].
-To illustrate this, my personal experience [在疫情期间通过媒体获取信息] is a convincing example.
-As a result, [大众媒体不仅为我提供了决策依据，还在关键时刻缓解了不必要的焦虑].
+It is evidently reasonable for me to believe that [大众媒体是现代社会中不可或缺的信息桥梁][mass media serves as an indispensable information bridge in modern society].
+This is because [它提供及时的新闻、多元的视角和有价值的教育内容][it provides timely news, diverse perspectives, and valuable educational content].
+To illustrate this, my personal experience [在疫情期间通过媒体获取信息][of accessing information through the media during the pandemic] is a convincing example.
+As a result, [大众媒体不仅为我提供了决策依据，还在关键时刻缓解了不必要的焦虑][mass media not only provided me with a basis for decision-making but also alleviated unnecessary anxiety at critical moments].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [大众媒体有时传播错误信息和负面价值观].
+In contrast, it is commonly believed as a fact that [大众媒体有时传播错误信息和负面价值观][mass media sometimes spreads misinformation and negative values].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [负责任的媒体机构和批判性的受众参与可以最大化益处]. 
-That is to say, [尽管媒体有潜在缺点，但它在传播知识方面的作用仍然是积极的].
+It should be pointed out that [负责任的媒体机构和批判性的受众参与可以最大化益处][responsible media outlets and critical audience engagement can maximize its benefits]. 
+That is to say, [尽管媒体有潜在缺点，但它在传播知识方面的作用仍然是积极的][while the media has potential drawbacks, its role in disseminating knowledge remains fundamentally positive].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that [大众媒体在塑造知情社会方面发挥着关键作用].
+we may safely reach the conclusion that [大众媒体在塑造知情社会方面发挥着关键作用][mass media plays a pivotal role in shaping a well-informed society].
 
 3.
 Should marketing for consumer goods companies like clothing and food focus on reputation or on short term strategies like discount and special offers? Why?
@@ -101,23 +101,24 @@ Should marketing for consumer goods companies like clothing and food focus on re
 聪明的企业会用“快餐”引流，但永远在用心经营那桌“家宴”。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [企业营销策略] has sparked widespread debate.
-There has been a heated debate on whether [消费品公司应优先建立稳固声誉还是采用折扣等短期策略]. 
-From my perspective, I tend to be the advocate of [支持以建立声誉为核心的方法] regarding this issue.
+In recent years, the topic of [企业营销策略][corporate marketing strategies] has sparked widespread debate.
+There has been a heated debate on whether [消费品公司应优先建立稳固声誉还是采用折扣等短期策略][consumer goods companies should prioritize building a solid reputation or adopting short-term tactics like offering discounts]. 
+From my perspective, I tend to be an advocate of [支持以建立声誉为核心的方法][a reputation-centric approach] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [强大的品牌声誉是可持续成功的基石].
-This is because [建立在质量和信任上的声誉能培养坚定的客户忠诚度].
-To illustrate this, my personal experience [作为一名消费者的经历] is a convincing example.
-我始终坚持选择某一酸奶品牌，并非因其偶尔促销，而是因为我完全信赖其多年可靠体验带来的品质与安全. 
-As a result, [这种情感纽带使我无视竞争对手的短暂折扣，直接为公司带来了终身价值].
+It is evidently reasonable for me to believe that [强大的品牌声誉是可持续成功的基石][a strong brand reputation is the cornerstone of sustainable success].
+This is because [建立在质量和信任上的声誉能培养坚定的客户忠诚度][a reputation built on quality and trust cultivates unwavering customer loyalty].
+To illustrate this, my personal experience [作为一名消费者的经历][as a consumer] is a convincing example.
+[我始终坚持选择某一酸奶品牌，并非因其偶尔促销，而是因为我完全信赖其多年可靠体验带来的品质与安全].
+[I consistently choose a specific yogurt brand not because of its occasional promotions, but because I fully trust its quality and safety guaranteed by years of reliable experiences].
+As a result, [这种情感纽带使我无视竞争对手的短暂折扣，直接为公司带来了终身价值][this emotional bond enables me to overlook competitors' fleeting discounts, directly contributing to the lifetime value for the company].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [激进的折扣和特价能快速提升销量、清理库存，带来即时财务缓解].
+In contrast, it is commonly believed as a fact that [激进的折扣和特价能快速提升销量、清理库存，带来即时财务缓解][aggressive discounts and special offers can rapidly boost sales, clear inventory, and provide immediate financial relief].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [过度依赖价格战会侵蚀品牌价值，培养顾客只在促销时购买的习惯，最终损害利润]. 
-That is to say, [虽然短期策略可作为有用的战术工具，但它们无法替代可信声誉这一战略资产].
+It should be pointed out that [过度依赖价格战会侵蚀品牌价值，培养顾客只在促销时购买的习惯，最终损害利润][over-reliance on price wars can erode brand value, foster a habit among customers of buying only during promotions, and ultimately undermine profitability]. 
+That is to say, [虽然短期策略可作为有用的战术工具，但它们无法替代可信声誉这一战略资产][while short-term tactics can serve as useful tools, they cannot replace the strategic asset of a credible reputation].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that [消费品公司应明确专注于培育卓越声誉].
+we may safely reach the conclusion that [消费品公司应明确专注于培育卓越声誉][consumer goods companies should unequivocally focus on cultivating a stellar reputation].
 
 4.
 Whether studying films at school is as important as studying literature?
@@ -129,23 +130,34 @@ There are both problems and benefits for high school students study plays and wo
 但推开后便能望见跨越时空的人性风景与智慧底蕴。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [在教育中纳入古典戏剧] has sparked widespread debate.
-There has been a heated debate on whether [学校应该要求学生接触有数百年历史的戏剧作品].
-From my perspective, I tend to be an advocate for [这一做法] regarding this issue.
+In recent years, the topic of [在教育中纳入古典戏剧][incorporating classical drama into education] has sparked widespread debate.
+There has been a heated debate on whether [学校应该要求学生接触有数百年历史的戏剧作品][schools should require students to engage with centuries-old theatrical works].
+From my perspective, I tend to be an advocate for [这一做法][this practice] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [学习这些作品具有独特的价值].
-This is because [它们能让人直接洞察历史文化、普遍的人类情感和复杂的语言，从而培养批判性思维]. 
-To illustrate this, my personal experience [学习莎士比亚作品的经历] is a convincing example.
-在课堂上讨论其剧中人物的动机，显著提升了我的共情能力.
-As a result, [这种与过去的对话被证明是理解人性的深刻且有意义的过程].
+It is evidently reasonable for me to believe that [学习这些作品具有独特的价值][studying these works holds unique value].
+This is because [它们能让人直接洞察历史文化、普遍的人类情感和复杂的语言，从而培养批判性思维][they offer direct insights into historical cultures, universal human emotions, and complex languages, thereby fostering critical thinking]. 
+To illustrate this, my personal experience [学习莎士比亚作品的经历][of studying Shakespearean plays] is a convincing example.
+[在课堂上讨论其剧中人物的动机，显著提升了我的共情能力].
+[Discussing the motivations of the characters in class significantly enhanced my capacity for empathy].
+As a result, [这种与过去的对话被证明是理解人性的深刻且有意义的过程][this dialogue with the past proves to be a profound and meaningful process for understanding human nature].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [这类古老的文本对现代学生来说既无关紧要又枯燥乏味，可能损害他们对文学的兴趣].
+In contrast, it is commonly believed as a fact that [这类古老的文本对现代学生来说既无关紧要又枯燥乏味，可能损害他们对文学的兴趣][such archaic texts are irrelevant and tedious to modern students, potentially undermining their interest in literature].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [创新的教学方法，例如将古老戏剧改编为现代故事或让学生参与表演，能够成功弥合历史的鸿沟]. 
-That is to say, [尽管最初的困难是真实存在的，但这恰恰是培养决心和深化文化欣赏能力的宝贵挑战].
+It should be pointed out that [创新的教学方法，例如将古老戏剧改编为现代故事或让学生参与表演，能够成功弥合历史的鸿沟][innovative teaching methods, such as adapting ancient plays into modern stories or involving students in theatrical performances, can successfully bridge the historical gap]. 
+That is to say, [尽管最初的困难是真实存在的，但这恰恰是培养决心和深化文化欣赏能力的宝贵挑战][while the initial difficulties are genuine, they represent a valuable challenge that cultivates determination and deepens cultural appreciation].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that 学习古典戏剧利大于弊.
+we may safely reach the conclusion that [学习古典戏剧利大于弊][the benefits of studying classical drama far outweigh its drawbacks].
+--
+核心提分词汇与搭配（PTE加分项）：
+incorporating... into...（将...纳入...）：非常标准的教育类话题高频搭配。
+engage with（接触/参与）：比单纯用 read 或 learn 高级很多。
+fostering critical thinking（培养批判性思维）：万能加分词组。
+archaic texts（古老的文本）：archaic 是极佳的学术替换词，替代了简单的 old。
+tedious（枯燥乏味的）：精准替换 boring。
+undermining（损害/削弱）：学术高频词，替代 damaging。
+bridge the historical gap（弥合历史鸿沟）：非常地道的满分隐喻表达。
+outweigh（大于/超过）：A far outweigh B（A远大于B）是对比结论句的黄金句型。
 
 5.
 Some famous people such as pop-stars and sportsman give up the right to privacy, because this is the price of fame. To what extent do you agree/disagree with this point of view? Give your opinion with your experiences.
@@ -156,23 +168,35 @@ Some famous people such as pop-stars and sportsman give up the right to privacy,
 在闪光灯照不到的地方，理应存在一片受法律庇护的私人阴影。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [名人隐私] has sparked widespread debate.
-There has been a heated debate on whether [名声理应以牺牲私人生活权利为代价].
-From my perspective, I disagree with the view that [名人必须完全放弃这项权利].
+In recent years, the topic of [名人隐私][celebrity privacy] has sparked widespread debate.
+There has been a heated debate on whether [名声理应以牺牲私人生活权利为代价][fame should naturally come at the expense of the right to a private life].
+From my perspective, I disagree with the view that [名人必须完全放弃这项权利][celebrities must entirely surrender this fundamental right].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [每个人都应享有基本的隐私权].
-This is because [隐私保护心理健康、人身安全与家庭生活，这些是人的基本需求].
-To illustrate this, my personal observation [对一位知名女演员的观察] is a convincing example.
-她所面临的持续狗仔队骚扰，给她和年幼的孩子带来了巨大的痛苦.
-As a result, [将隐私视为可买卖的商品会导致真实的伤害].
+It is evidently reasonable for me to believe that [每个人都应享有基本的隐私权][everyone is entitled to a basic right to privacy].
+This is because [隐私保护心理健康、人身安全与家庭生活，这些是人的基本需求][privacy safeguards mental health, personal safety, and family life, which are fundamental human needs].
+To illustrate this, my personal observation [对一位知名女演员的观察][of a well-known actress] is a convincing example.
+[她所面临的持续狗仔队骚扰，给她和年幼的孩子带来了巨大的痛苦].
+[The constant paparazzi harassment she faced caused immense distress to both her and her young children].
+As a result, [将隐私视为可买卖的商品会导致真实的伤害][treating privacy as a tradable commodity can lead to genuine harm].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [成名是一种选择，公众关注是明星和运动员职业生涯中不可避免的一部分].
+In contrast, it is commonly believed as a fact that [成名是一种选择，公众关注是明星和运动员职业生涯中不可避免的一部分][achieving fame is a choice, and public attention is an inevitable part of the careers of stars and athletes].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [公众对某人工作的兴趣与侵入其纯粹私人、非工作时刻之间存在明确界限]. 
-That is to say, [虽然部分隐私的丧失不可避免，但这应被限制，不应延伸到彻底丧失基本个人边界].
+It should be pointed out that [公众对某人工作的兴趣与侵入其纯粹私人、非工作时刻之间存在明确界限][there is a clear boundary between public interest in someone's professional work and the intrusion into their purely private, non-working moments]. 
+That is to say, [虽然部分隐私的丧失不可避免，但这应被限制，不应延伸到彻底丧失基本个人边界][while a partial loss of privacy is unavoidable, it should be restricted and not extend to the complete erosion of basic personal boundaries].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that [名声不应要求完全放弃隐私].
+we may safely reach the conclusion that [名声不应要求完全放弃隐私][fame should not require the total abandonment of personal privacy].
+--
+核心提分词汇与搭配（PTE加分项）：
+come at the expense of（以牺牲...为代价）：非常高级且地道的议论文论证短语。
+entitled to（享有...的权利）：在讨论权利、隐私、法律规范时，使用 be entitled to 远比单纯的 should have 要专业得多。
+safeguards（保护/捍卫）：动词，精准替换简单的 protects。
+immense distress（巨大的痛苦）：高级形容词搭配，替换 great pain。
+tradable commodity（可买卖的商品）：满分词汇，把抽象的隐私具象化为商业名词，极具批判性。
+inevitable（不可避免的）：PTE 必背高频词汇。
+intrusion（侵入/干涉）：讨论隐私话题时的绝对核心词汇（例如：intrusion into privacy）。
+erosion（丧失/侵蚀）：原文“彻底丧失”我用了 complete erosion，这是一个非常形象且高级的学术用法（例如侵蚀边界、侵蚀权利）。
+abandonment（放弃/抛弃）：名词，与前面的 surrender 形成优秀的同义词替换。
 
 6.
 In modern society, unemployment among young people is a serious problem. One solution is to shorten the working week. Give your opinion of the idea, considering the advantages and disadvantages, whether it can apply to young people or the whole workforce.
@@ -184,23 +208,34 @@ In modern society, unemployment among young people is a serious problem. One sol
 但它无疑引领我们走向一个更人性化、更看重时间价值的进步社会。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [未来工作模式] has sparked widespread debate.
-There has been a heated debate on whether [缩短工作周是一个可行的解决方案].
-From my perspective, [我同意这一前景，尽管它需要仔细实施] [I agree with this prospect though it requires careful implementation].
+In recent years, the topic of [未来工作模式][future work models] has sparked widespread debate.
+There has been a heated debate on whether [缩短工作周是一个可行的解决方案][a shortened workweek is a viable solution].
+From my perspective, [我同意这一前景，尽管它需要仔细实施] [I agree with this prospect, though it requires careful implementation].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [减少工作时间可以带来显著的益处].
-This is because [它创造了工作共享的机会，有可能吸收更多年轻人进入劳动力市场，同时促进更好的工作与生活平衡]. 
-To illustrate this, my personal experience [参与四天工作制试点的经历] is a convincing example.
-我观察到生产效率得以维持，并且我个人有了更多时间用于个人发展.
-As a result, [这一模式证明了福祉与效率是可以共存的].
+It is evidently reasonable for me to believe that [减少工作时间可以带来显著的益处][reducing working hours can yield significant benefits].
+This is because [它创造了工作共享的机会，有可能吸收更多年轻人进入劳动力市场，同时促进更好的工作与生活平衡][it creates opportunities for job sharing, potentially absorbing more young adults into the labor market while promoting a better work-life balance]. 
+To illustrate this, my personal experience [参与四天工作制试点的经历][of participating in a four-day workweek trial] is a convincing example.
+[我观察到生产效率得以维持，并且我个人有了更多时间用于个人发展].
+[I observed that productivity was successfully maintained, and I personally gained more time for self-development].
+As a result, [这一模式证明了福祉与效率是可以共存的][this model proves that employee well-being and operational efficiency can seamlessly coexist].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [全面减少工时可能会增加企业成本压力，并且难以适用于需要直接服务客户的岗位]. 
+In contrast, it is commonly believed as a fact that [全面减少工时可能会增加企业成本压力，并且难以适用于需要直接服务客户的岗位][an across-the-board reduction in working hours might increase cost pressures on enterprises and be difficult to apply to customer-facing roles]. 
 Nevertheless, this argument does not hold water.
-It should be pointed out that [最主要的受益者可能是拥有固定薪水的办公室职员，但这对于轮班制员工是否可行则不太明确]. 
-That is to say, [尽管这一趋势是积极的，但其实施必须根据不同行业进行调整].
+It should be pointed out that [最主要的受益者可能是拥有固定薪水的办公室职员，但这对于轮班制员工是否可行则不太明确][the primary beneficiaries might be salaried office workers, and its feasibility for shift workers remains less clear]. 
+That is to say, [尽管这一趋势是积极的，但其实施必须根据不同行业进行调整][while this trend is fundamentally positive, its implementation must be carefully tailored to specific industries].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that [减少工作时间是一个理想的未来趋势]. 
+we may safely reach the conclusion that [减少工作时间是一个理想的未来趋势][reducing working hours is an ideal trend for the future]. 
+--
+核心提分词汇与搭配（PTE加分项）：
+viable solution（可行的解决方案）：非常标准且高级的学术搭配。
+yield significant benefits（带来显著益处）：用 yield 替代 bring，动词瞬间高级化。
+absorbing... into the labor market（吸收...进入劳动力市场）：描述就业问题时的极其地道表达。
+coexist（共存）：完美对应中文的“福祉与效率是可以共存的”。为了进一步提分，我加上了 employee well-being（员工福祉）和 operational efficiency（运营效率）。
+across-the-board（全面的/一刀切的）：形容“全面减少”时，这是一个非常高级的形容词短语。
+customer-facing roles（需要直接服务客户的岗位）：商业人力资源领域的绝对专业术语，比写 jobs that need to serve customers 要高分得多。
+salaried office workers / shift workers（固定薪水的办公室职员 / 轮班制员工）：精准的职场词汇分类。
+tailored to（根据...进行调整/量身定制）：在讨论政策、方案“因地制宜”时，tailored to 是 PTE 的满分动词搭配。
 
 7.
 It is important to preserve beautiful buildings from the past, even it is expensive for owner to do so. Agree or Disagree?
@@ -212,24 +247,37 @@ More and more countries spend large amounts of money on the restoration of build
 更是在千城一面的未来中，为我们的精神世界保留一块无可替代的“文化自留地”。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [保护古建筑] has sparked widespread debate.
-There has been a heated debate on whether [政府资金应当优先用于历史修复而非现代建设]. 
-From my perspective, I tend to be the advocate [支持这种保护] regarding this issue.
+In recent years, the topic of [保护古建筑][the preservation of historic buildings] has sparked widespread debate.
+There has been a heated debate on whether [政府资金应当优先用于历史修复而非现代建设][government funds should prioritize historical restoration over modern construction]. 
+From my perspective, I tend to be an advocate [支持这种保护][for such preservation] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [保护建筑遗产是重要的].
-This is because [它维系着一座城市的独特风貌，并成为所有市民与其历史之间的直接纽带].
-To illustrate this, my personal experience [亲眼目睹一家老剧院的变迁] is a convincing example.
-我见证了社区里一家老剧院经过精心修复，从一栋被遗弃的建筑变成了一个充满活力的艺术中心.
-As a result, [此举并未抹去过去，而是让历史重获新生，使其成为当地自豪感与经济活力的源泉，惠及众人].
+It is evidently reasonable for me to believe that [保护建筑遗产是重要的][the conservation of architectural heritage is of paramount importance].
+This is because [它维系着一座城市的独特风貌，并成为所有市民与其历史之间的直接纽带][it maintains the unique identity of a city and serves as a direct link between all citizens and their history].
+To illustrate this, my personal experience [亲眼目睹一家老剧院的变迁][of witnessing the transformation of an old theater] is a convincing example.
+[我见证了社区里一家老剧院经过精心修复，从一栋被遗弃的建筑变成了一个充满活力的艺术中心].
+[I observed an old theater in my community being meticulously restored from an abandoned structure into a vibrant art center].
+As a result, [此举并未抹去过去，而是让历史重获新生，使其成为当地自豪感与经济活力的源泉，惠及众人][instead of erasing the past, this initiative breathed new life into history, making it a source of local pride and economic vitality that benefits everyone].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [此类支出是浪费钱财，本应用于解决紧迫的住房短缺问题].
+In contrast, it is commonly believed as a fact that [此类支出是浪费钱财，本应用于解决紧迫的住房短缺问题][such expenditure is a waste of financial resources that should have been allocated to resolving the pressing housing shortages].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [城市发展不必非要在新旧之间做出选择；周密的规划可以将二者融合].
-That is to say, [一座城市可以在满足现代需求的同时，依然珍视那些述说其故事的标志性建筑，从而避免所有地方在未来都千篇一律].
+It should be pointed out that [城市发展不必非要在新旧之间做出选择；周密的规划可以将二者融合][urban development does not have to be a binary choice between the old and the new; thoughtful planning can seamlessly integrate both].
+That is to say, [一座城市可以在满足现代需求的同时，依然珍视那些述说其故事的标志性建筑，从而避免所有地方在未来都千篇一律][a city can satisfy contemporary demands while still cherishing the iconic landmarks that narrate its stories, thereby preventing urban landscapes from becoming monotonously uniform in the future].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that
 [对重要的古建筑进行保护性投资，对于任何珍视自身身份与未来文化厚度的社会而言，都是一项明智且必要的政策].
+[protective investment in significant historic buildings is a prudent and essential policy for any society that values its identity and future cultural depth].
+--
+核心提分词汇与搭配（PTE加分项）：
+conservation of architectural heritage（保护建筑遗产）：最高级的同义替换，替代了第一段的 preservation of historic buildings。
+of paramount importance（至关重要的）：比 very important 高级极多的学术表达。
+meticulously restored（被精心修复）：副词+动词分词的黄金组合，meticulously（一丝不苟地/精心）是极高分的词汇。
+breathed new life into（让...重获新生）：非常地道且优美的满分短语。
+pressing housing shortages（紧迫的住房短缺）：pressing（紧迫的）常用于搭配社会问题，是极佳的学术词汇。
+a binary choice（非此即彼的选择）：完美翻译了“不必非要在二者之间做出选择”。
+cherishing / narrate（珍视 / 述说）：使用 narrate its stories 替代 tell its stories，增加文学与历史厚重感。
+monotonously uniform（千篇一律的）：完美的满分词组，形容城市发展失去特色、变得单调一致。
+prudent and essential policy（明智且必要的政策）：prudent（审慎的、明智的）是高阶议论文里的极佳评价词。
 
 8.
 Should we have a maximum wage for the high-paid jobs?
@@ -240,24 +288,38 @@ Should we have a maximum wage for the high-paid jobs?
 治理贫富差距的智慧，不在于截断创造的源头，而在于更合理地疏导与分享其带来的丰沛滋养。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [收入不平等] has sparked widespread debate.
-There has been a heated debate on whether [应为高收入工作设定最高工资上限].
-From my perspective, I tend to be the [反对] regarding this issue.
+In recent years, the topic of [收入不平等][income inequality] has sparked widespread debate.
+There has been a heated debate on whether [应为高收入工作设定最高工资上限][a maximum wage ceiling should be imposed on high-income jobs].
+From my perspective, I tend to be [反对][an opponent of this proposal] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [设定强制性的最高工资是有害的].
-This is because [它会削弱人们创新、创业和追求卓越的根本动力].
-To illustrate this, my personal experience [科技行业] serves as a convincing example.
-其快速发展很大程度上源于获得高额回报的可能性；人为限制这种可能性可能会扼杀雄心，并驱使人才流向其他地方.
-As a result, [这样的政策可能会阻碍整体经济的活力与发展].
+It is evidently reasonable for me to believe that [设定强制性的最高工资是有害的][imposing a mandatory maximum wage is detrimental].
+This is because [它会削弱人们创新、创业和追求卓越的根本动力][it undermines the fundamental motivation for innovation, entrepreneurship, and the pursuit of excellence].
+To illustrate this, my personal experience [科技行业][in the technology industry] serves as a convincing example.
+[其快速发展很大程度上源于获得高额回报的可能性, 而且人为限制这种可能性可能会扼杀雄心，并驱使人才流向其他地方].
+[Its rapid development stems largely from the potential for substantial financial rewards, and artificially limiting this possibility could stifle ambition and drive top talent elsewhere].
+As a result, [这样的政策可能会阻碍整体经济的活力与发展][such a policy could impede the overall vitality and development of the economy].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [最高工资是控制极端不平等所必需的].
+In contrast, it is commonly believed as a fact that [最高工资是控制极端不平等所必需的][a maximum wage is essential for curbing extreme inequality].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [存在更好、危害更小的方法，例如让富人缴纳更多税的税制，以及对社会需求的强力投入]. 
-That is to say, [更公平社会的目标，通过财富创造后进行明智分配来实现会更好，而不是简单地人为设定一个收入上限].
+It should be pointed out that [存在更好、危害更小的方法，例如让富人缴纳更多税的税制，以及对社会需求的强力投入][there are better and less harmful alternatives, such as a progressive taxation system that taxes the wealthy more heavily, coupled with robust investments in social needs]. 
+That is to say, [更公平社会的目标，通过财富创造后进行明智分配来实现会更好，而不是简单地人为设定一个收入上限][the goal of a fairer society is better achieved through the prudent redistribution of wealth after its creation, rather than by merely imposing an artificial income cap].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
 [立法设定最高工资并非良策.解决财富差距需要审慎的财政与社会政策，而不是可能损害国家繁荣源泉的、简单的限制措施].
+[legislating a maximum wage is not a sound strategy; addressing the wealth gap requires prudent fiscal and social policies, rather than simplistic restrictive measures that could damage the wellspring of national prosperity].
+--
+核心提分词汇与搭配（PTE加分项）：
+maximum wage ceiling（最高工资上限）：极佳的专业术语搭配。
+detrimental（有害的/不利的）：强力的高分词汇，比 harmful 更有学术感。
+undermines（削弱/破坏）：PTE核心高频动词。
+entrepreneurship（创业精神）：商业与社会类话题的极品加分词。
+stifle ambition（扼杀雄心）：极其生动且高阶的动宾搭配（stifle 意为扼杀、压制）。
+impede（阻碍）：替代简单的 hinder 或 stop。
+curbing（控制/遏制）：例如 curb inflation, curb inequality，是解决负面问题时最标准的动词。
+progressive taxation system（累进税制/富人多交税的税制）：直接将“让富人多交税”翻译为经济学专有名词，瞬间拉满专业度！
+prudent redistribution（审慎的/明智的重新分配）：探讨社会财富时的顶级满分搭配。
+wellspring of national prosperity（国家繁荣的源泉）：优美且极具分量的总结词汇。
 
 9.
 In some companies, employers take workers' opinions into consideration of products a nd services. Discuss the advantages and disadvantages.
@@ -269,24 +331,36 @@ Company’s top-level authorities should involve their employees in decision-mak
 聪明的公司会把这种“噪音”转化为产品迭代最精准的导航信号。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [员工参与公司决策] has sparked widespread debate.
-There has been a heated debate on whether [企业应该在产品与服务的设计中采纳员工的意见].
-From my perspective, I strongly support [这一做法].
+In recent years, the topic of [员工参与公司决策][employee participation in corporate decision-making] has sparked widespread debate.
+There has been a heated debate on whether [企业应该在产品与服务的设计中采纳员工的意见][businesses should incorporate employees' feedback into the design of products and services].
+From my perspective, I strongly support [这一做法][this practice].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [这种方法是非常有益的].
-This is because [直接服务客户的员工具备关于日常运营和用户需求的实用知识].
-To illustrate this, my personal experience [在一家零售公司的经历] is a convincing example.
-当采纳收银员优化结账流程的建议后，客户满意度和工作效率都得到了提升.
-As a result, [这种让全员参与的策略直接提升了服务质量，并创造了真实的商业优势].
+It is evidently reasonable for me to believe that [这种方法是非常有益的][this approach is highly beneficial].
+This is because [直接服务客户的员工具备关于日常运营和用户需求的实用知识][frontline employees possess practical knowledge regarding daily operations and consumer demands].
+To illustrate this, my personal experience [在一家零售公司的经历][of working in a retail company] is a convincing example.
+[当采纳收银员优化结账流程的建议后，客户满意度和工作效率都得到了提升].
+[When cashiers' suggestions for optimizing the checkout process were adopted, both customer satisfaction and operational efficiency significantly improved].
+As a result, [这种让全员参与的策略直接提升了服务质量，并创造了真实的商业优势][this inclusive strategy directly enhances service quality and generates genuine commercial advantages].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [征求过多意见会拖慢决策并引发冲突].
+In contrast, it is commonly believed as a fact that [征求过多意见会拖慢决策并引发冲突][soliciting excessive opinions can slow down decision-making and trigger conflicts].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [问题的根源不在于征询意见本身，而在于其执行方式].
-That is to say, [虽然风险确实存在，但可以通过建立清晰的流程来有效收集和利用员工反馈，从而管理这些风险].
+It should be pointed out that [问题的根源不在于征询意见本身，而在于其执行方式][the root of the problem lies not in the consultation process itself, but in how it is executed].
+That is to say, [虽然风险确实存在，但可以通过建立清晰的流程来有效收集和利用员工反馈，从而管理这些风险][while these risks genuinely exist, they can be managed effectively by establishing clear procedures to collect and utilize employee feedback].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[倾听员工意见对企业的成功至关重要. Although 它需要细致的执行， 其为创新和士气带来的益处远超潜在风险].
+[倾听员工意见对企业的成功至关重要][listening to employees' opinions is crucial for corporate success].
+[虽然它需要细致的执行，其为创新和士气带来的益处远超潜在风险][Although it requires meticulous execution, its benefits for innovation and morale far outweigh the potential risks].
+--
+核心提分词汇与搭配（PTE加分项）：
+corporate decision-making（公司决策）：极其标准的商业词汇。
+incorporate... feedback into...（将...的反馈采纳/结合进...）：讨论“采纳意见”时最地道的满分动词搭配，比用 use 或 accept 高级得多。
+frontline employees（一线员工/直接服务客户的员工）：人力资源管理的专业词汇，精准翻译了你的中文概念。
+inclusive strategy（包容性策略/全员参与的策略）：inclusive 在现代商业语境中是一个极高频的满分词汇，形容鼓励所有人参与的文化。
+soliciting excessive opinions（征求过多意见）：solicit (征求/索求) 是 PTE 的高分动词。
+the root of the problem lies not in... but in...（问题的根源不在于...而在于...）：经典的学术反驳句型，逻辑极其严密。
+meticulous execution（细致的执行）：meticulous（一丝不苟的/细致的）再次出现，搭配 execution（执行），尽显高阶商务英语的魅力。
+morale /mɔˈræl/（士气）：职场类话题的绝佳得分词汇。
 
 10.
 Nowadays TV has become an essential part of life. It is a medium to spread news & awareness and for some it act s like a companion. What is your opinion about this?
@@ -296,24 +370,37 @@ Nowadays TV has become an essential part of life. It is a medium to spread news 
 最终决定我们视野广度与深度的，不是窗子本身，而是我们选择打开它的方式与时长。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [电视在现代社会中的角色] has sparked widespread debate.
-There has been a heated debate on whether [电视的广泛普及总体上是利大于弊].
-From my perspective, I tend to be the advocate [支持其积极作用] regarding this issue.
+In recent years, the topic of [电视在现代社会中的角色][the role of television in modern society] has sparked widespread debate.
+There has been a heated debate on whether [电视的广泛普及总体上是利大于弊][the widespread prevalence of television generally does more good than harm].
+From my perspective, I tend to be an advocate [支持其积极作用][of its positive impacts] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [电视带来了显著的益处].
-This is because [它能有效地传播及时新闻、提升公众意识，并向广大观众提供教育内容].
-To illustrate this, my personal experience [在重大国际事件期间观看电视新闻的经历] is a convincing example.
-观看可信新闻网络的直播，为我提供了理解复杂局势所必需的即时、清晰信息.
-As a result, [电视被证明是促进公共参与和提供知情陪伴的重要工具].
+It is evidently reasonable for me to believe that [电视带来了显著的益处][television yields remarkable benefits].
+This is because [它能有效地传播及时新闻、提升公众意识，并向广大观众提供教育内容][it can effectively disseminate timely news, raise public awareness, and provide educational content to a vast audience].
+To illustrate this, my personal experience [在重大国际事件期间观看电视新闻的经历][of watching television news during major international events] is a convincing example.
+[观看可信新闻网络的直播，为我提供了理解复杂局势所必需的即时、清晰信息].
+[Watching live broadcasts from credible news networks provided me with the immediate and clear information necessary to understand complex situations].
+As a result, [电视被证明是促进公共参与和提供知情陪伴的重要工具][television proves to be an essential tool for promoting public engagement and providing informed companionship].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [电视助长懒惰与孤立的生活方式，因其鼓励被动消费].
+In contrast, it is commonly believed as a fact that [电视助长懒惰与孤立的生活方式，因其鼓励被动消费][television fosters a sedentary and isolated lifestyle because it encourages passive consumption].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [这种结果源于观看习惯，而非媒介本身].
-That is to say, [只要有意识地选择内容和保持平衡的观看习惯，其告知和连接社会的强大能力就能得到充分发挥].
+It should be pointed out that [这种结果源于观看习惯，而非媒介本身][such negative outcomes stem from poor viewing habits rather than the medium itself].
+That is to say, [只要有意识地选择内容和保持平衡的观看习惯，其告知和连接社会的强大能力就能得到充分发挥][as long as individuals maintain conscious content selection and balanced viewing habits, its powerful capacity to inform and connect society can be fully harnessed].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
 [电视在很大程度上保持着积极的地位.它在分享知识和促进共同体验方面的深刻用处，确保了其在现代生活中不可或缺的价值].
+[television largely maintains a positive status; its profound utility in sharing knowledge and fostering shared experiences ensures its indispensable value in modern life].
+--
+核心提分词汇与搭配（PTE加分项）：
+prevalence（广泛普及/流行）：替换简单的 popularity，显得更为学术。
+yields remarkable benefits（带来显著的益处）：用 yields 替代 brings。
+disseminate（传播）：媒体类话题的绝对满分词汇，专指传播信息、新闻或知识（disseminate news/information）。
+fosters a sedentary and isolated lifestyle（助长懒惰与孤立的生活方式）：sedentary（久坐的/缺乏活动的）是 PTE 考试中描述现代人不良生活方式（如看电视多、缺乏运动）时的 T0 级别核心词汇，务必记住！
+passive consumption（被动消费）：精准翻译，媒体学的高级概念。
+stem from（源于）：替代 come from。
+the medium itself（媒介本身）：用 medium 指代电视这种传播媒介，展示了极佳的词汇多样性。
+fully harnessed（得到充分发挥/利用）：harness 意为驾驭、利用，用在这里形容“发挥其强大能力”极为地道。
+indispensable value（不可或缺的价值）：首尾呼应的强力总结词。
 
 11.
 How widely of you think the problem spreads that people spend too much time on work than their personal life and experience time shortage? What problems will it cause?
@@ -324,24 +411,37 @@ How widely of you think the problem spreads that people spend too much time on w
 而是认识到：可持续的个人幸福，本身就是最高效、最长远的“生产力”。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [工作与生活的平衡] has sparked widespread debate.
-There has been a heated debate on whether [普遍存在的失衡是一个严重的社会问题].
-From my perspective, I tend to be the strong advocate [认为此问题严重且急需关注] regarding this issue.
+In recent years, the topic of [工作与生活的平衡][work-life balance] has sparked widespread debate.
+There has been a heated debate on whether [普遍存在的失衡是一个严重的社会问题][the pervasive imbalance constitutes a severe social issue].
+From my perspective, I tend to be a strong advocate [认为此问题严重且急需关注][for recognizing its severity and the urgent need for attention] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [过长的工作时间是有害的].
-This is because [它们直接损害身心健康、破坏家庭关系并降低整体生活满意度].
-To illustrate this, my personal observation [在之前公司的观察] is a convincing example.
-长期加班的同事报告了持续的疲惫感、受损的家庭关系以及创造力的丧失.
-As a result, [公司面临了更高的人员流失率和更低的团队士气，这证明过度工作最终损害个人与组织双方].
+It is evidently reasonable for me to believe that [过长的工作时间是有害的][excessively long working hours are highly detrimental].
+This is because [它们直接损害身心健康、破坏家庭关系并降低整体生活满意度][they directly impair physical and mental health, strain family relationships, and diminish overall life satisfaction].
+To illustrate this, my personal observation [在之前公司的观察][in my previous company] is a convincing example.
+[长期加班的同事报告了持续的疲惫感、受损的家庭关系以及创造力的丧失].
+[Colleagues who chronically worked overtime reported persistent fatigue, damaged family ties, and a loss of creativity].
+As a result, [公司面临了更高的人员流失率和更低的团队士气，这证明过度工作最终损害个人与组织双方][the company faced higher employee turnover rates and lower team morale, proving that overwork ultimately penalizes both the individual and the organization].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [长时间工作是职业成功和经济增长所必需的].
+In contrast, it is commonly believed as a fact that [长时间工作是职业成功和经济增长所必需的][prolonged working hours are indispensable for career success and economic growth].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [持续的时间匮乏感会导致倦怠，降低长期生产力，并造就一个人们无暇顾及社区或个人成长的社会]. 
-That is to say, [虽然短期的努力冲刺可能有用，但一种持续过度工作的文化是无益的，且对经济和社会健康都不可持续].
+It should be pointed out that [持续的时间匮乏感会导致倦怠，降低长期生产力，并造就一个人们无暇顾及社区或个人成长的社会][a chronic sense of time poverty leads to burnout, undermines long-term productivity, and fosters a society where individuals have no time for community engagement or personal growth]. 
+That is to say, [虽然短期的努力冲刺可能有用，但一种持续过度工作的文化是无益的，且对经济和社会健康都不可持续][while short-term sprints of intense effort may be useful, a culture of perpetual overwork is counterproductive and completely unsustainable for both economic and societal well-being].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
 [工作与生活失衡是一个普遍且有害的问题.由于竞争激烈的职场文化和经济压力，实现平衡固然困难，但它对于构建一个健康、可持续且真正高效的社会至关重要].
+[work-life imbalance is a pervasive and detrimental issue. 
+Although achieving equilibrium is undeniably difficult due to a highly competitive workplace culture and economic pressures, it remains crucial for building a healthy, sustainable, and genuinely productive society].
+--
+核心提分词汇与搭配（PTE加分项）：
+pervasive imbalance（普遍存在的失衡）：pervasive 意为无处不在的、普遍的，比 common 高级极多。
+impair... strain... diminish...（损害...破坏...降低...）：这里为你设计了一组极其漂亮的动词平行结构，直接拉满语法和语篇连贯性分数。
+employee turnover rates（人员流失率）：最标准的人力资源商业术语。
+penalizes（使...受损/惩罚）：替代简单的 harms 或 hurts，体现词汇多样性。
+time poverty（时间匮乏）：社会学里的绝对高级专有名词，形容现代人感觉时间永远不够用的状态，机器识别到必给高分。
+burnout（倦怠）：职场心理学核心词汇，指过度劳累导致的职业倦怠。
+counterproductive（适得其反的/无益的）：议论文中批判某种做法时极好用的高级形容词。
+achieving equilibrium（实现平衡）：在结尾段，为了避免重复使用第一段的 balance，这里用 equilibrium（平衡/均衡）做完美同义替换！
 
 12.
 In the past 100 years, there are many inventions such as antibiotics, airplanes and computer. What do you think is the most important invention for the past 100 years? Why?
@@ -352,23 +452,34 @@ In the past 100 years, there are many inventions such as antibiotics, airplanes 
 而互联网解决的是“如何更高效地解决一切问题”的问题。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [最具影响力的现代发明] has sparked widespread debate.
-There has been a heated debate on whether [突破性发明最深刻地塑造了我们的世界].
-From my perspective, I tend to be the strong advocate [认为互联网是过去一个世纪最重要的发明].
+In recent years, the topic of [最具影响力的现代发明][the most influential modern inventions] has sparked widespread debate.
+There has been a heated debate on whether [突破性发明最深刻地塑造了我们的世界][breakthrough inventions have most profoundly shaped our world].
+From my perspective, I tend to be a strong advocate [认为互联网是过去一个世纪最重要的发明][for the belief that the Internet is the most significant invention of the past century].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [互联网是最重要的发明].
-This is because [它彻底改变了全球人类生活的方方面面，使时间和距离不再是障碍].
-To illustrate this, my personal experience [求学时期的经历] is a convincing example.
-大量学术资料得以在线即时获取，使我能在几小时内完成以往需在图书馆耗费数周的研究.
-As a result, [互联网不仅普及了知识获取，更创造了一个始终互联的世界].
+It is evidently reasonable for me to believe that [互联网是最重要的发明][the Internet stands as the most paramount invention].
+This is because [它彻底改变了全球人类生活的方方面面，使时间和距离不再是障碍][it has revolutionized every aspect of human life globally, rendering time and distance obsolete as barriers].
+To illustrate this, my personal experience [求学时期的经历][during my academic years] is a convincing example.
+[大量学术资料得以在线即时获取，使我能在几小时内完成以往需在图书馆耗费数周的研究].
+[The instant online availability of vast academic resources enabled me to complete in mere hours the research that would have previously taken weeks to conduct in a physical library].
+As a result, [互联网不仅普及了知识获取，更创造了一个始终互联的世界][the Internet has not only democratized access to knowledge but also forged a perpetually interconnected world].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [抗生素或飞机等其他发明具有更直接、真实的救生或物理世界效应].
+In contrast, it is commonly believed as a fact that [抗生素或飞机等其他发明具有更直接、真实的救生或物理世界效应][other inventions, such as antibiotics or airplanes, exert more direct and tangible life-saving or physical impacts on the world].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [当我们考量规模和整合性时，互联网优化并加速了一切，推动了医学、物流及科学本身的新思想更快诞生]. 
-That is to say, [互联网作为一个基础，几乎使所有其他现代发明都变得更实用、更强大].
+It should be pointed out that [当我们考量规模和整合性时，互联网优化并加速了一切，推动了医学、物流及科学本身的新思想更快诞生][when we consider scale and integration, the Internet has optimized and accelerated everything, driving the faster emergence of new ideas in medicine, logistics, and science itself]. 
+That is to say, [互联网作为一个基础，几乎使所有其他现代发明都变得更实用、更强大][serving as a foundational infrastructure, the Internet makes nearly all other modern inventions more practical and powerful].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that [互联网是改变世界最多的发明].
+we may safely reach the conclusion that [互联网是改变世界最多的发明][the Internet is unequivocally the invention that has transformed the world to the greatest extent].
+--
+核心提分词汇与搭配（PTE加分项）：
+paramount（首要的/最重要的）：完美替换第一段的 significant 和原模板的 important。
+revolutionized（彻底改变）：科技类话题的王牌动词，比 changed 强大得多。
+rendering... obsolete（使...变得过时/不再是问题）：render (致使) 和 obsolete (过时的) 的组合是极高分的学术表达。
+democratized access to knowledge（普及了知识获取）：满分搭配！ democratize 在这里不是民主化，而是“使大众化/普及”，是形容互联网作用时最地道的高阶词汇。
+forged a perpetually interconnected world（创造了一个始终互联的世界）：forge（铸造/缔造）比 create 更具力量感；perpetually（永久地/始终）也是极佳的副词修饰。
+tangible（有形的/真实的）：替换简单的 real，常用于对比虚拟世界与物理世界（tangible impacts）。
+foundational infrastructure（基础架构/基石）：完美对应中文的“作为一个基础”，在描述技术整合时极其专业。
+unequivocally（毫无疑问地/明确地）：在结论句中加强语气，替代普通的 definitely。
 
 13.
 Some people believe that human behavior can be changed by laws; others argue that laws have little effect on human behaviour. Which opinion do you agree with? Please explain.
@@ -378,24 +489,38 @@ Some people believe that human behavior can be changed by laws; others argue tha
 却能通过设定清晰的边界与代价，系统性地引导公众行为、塑造社会习惯，最终将外在的强制规则内化为普遍的集体自觉。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [法律的影响力] has sparked widespread debate.
-There has been a heated debate on whether [法律能够改变人的行为].
-From my perspective, I tend to be the advocate [支持法律具有重要作用].
+In recent years, the topic of [法律的影响力][the profound influence of the legal system] has sparked widespread debate.
+There has been a heated debate on whether [法律能够改变人的行为][laws can effectively alter human behavior].
+From my perspective, I tend to be an advocate [支持法律具有重要作用][for the belief that the law plays a pivotal role] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [法律善于引导行为].
-This is because [它们设立了清晰的规则与后果，并随着时间推移塑造社会规范].
-To illustrate this, my personal observation [关于公共场所禁烟的观察] is a convincing example.
-在严格的法规出台后，我所在城市的室内吸烟现象在几年内几乎绝迹.
-As a result, [一项法律条文演变为一种社会规范，这展现了法律如何能够重塑公众行为].
+It is evidently reasonable for me to believe that [法律善于引导行为][the law is highly adept at guiding human conduct].
+This is because [它们设立了清晰的规则与后果，并随着时间推移塑造社会规范][it establishes unambiguous regulations and punitive consequences, ultimately shaping societal norms over time].
+To illustrate this, my personal observation [关于公共场所禁烟的观察][regarding the ban on smoking in public areas] is a convincing example.
+[在严格的法规出台后，我所在城市的室内吸烟现象在几年内几乎绝迹].
+[Following the implementation of stringent regulations, indoor smoking in my city virtually vanished within a few years].
+As a result, [一项法律条文演变为一种社会规范，这展现了法律如何能够重塑公众行为][a legal mandate evolved into a deeply ingrained social norm, demonstrating how legislation can fundamentally reshape public behavior].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [法律收效甚微，因为行为源于个人道德].
+In contrast, it is commonly believed as a fact that [法律收效甚微，因为行为源于个人道德][laws yield minimal effects because behavior fundamentally stems from personal morality].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [法律构建了一个框架，使得有害行为变得不便且代价高昂].
-That is to say, [法律的力量不在于完美的控制，而在于设定边界，以积极的方式引导文化].
+It should be pointed out that [法律构建了一个框架，使得有害行为变得不便且代价高昂][the legal system constructs a robust framework that renders detrimental actions highly inconvenient and costly].
+That is to say, [法律的力量不在于完美的控制，而在于设定边界，以积极的方式引导文化][the true power of the law lies not in achieving absolute control, but rather in establishing boundaries that positively guide cultural evolution].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
 [法律是改变社会行为的有效工具.尽管它不能保证人人绝对服从，但其在建立规则和影响规范方面的作用，对于一个功能健全的社会是有效且必要的].
+[the law is a potent instrument for altering societal behavior. Although it cannot guarantee absolute compliance from every individual, its role in establishing rules and influencing norms is both effective and indispensable for a well-functioning society].
+--
+核心提分词汇与搭配（PTE加分项）：
+profound influence / alter human behavior（深远的影响 / 改变人类行为）：在第一段完美替换了简单的词汇。
+is highly adept at guiding human conduct（善于引导人类行为）：用 human conduct 替换 behavior 以增加词汇多样性；be adept at（擅长于）是极佳的高分短语。
+unambiguous regulations / punitive consequences（清晰明确的规则 / 惩罚性的后果）：法律类话题的绝对核心词汇。
+stringent regulations（严格的法规）：描述法律法规时，stringent 是最地道、最高级的形容词（比 strict 更好）。
+virtually vanished（几乎绝迹/消失）：virtually（几乎/实质上）常搭配消失、完成等词，显得极为专业。
+a legal mandate / an ingrained social norm（一项法律条文 / 一种根深蒂固的社会规范）：mandate（命令/指令）和 ingrained（根深蒂固的）都是高阶学术词汇。
+yield minimal effects（收效甚微）：比 have little effect 高级得多。
+renders detrimental actions highly inconvenient（使得有害行为变得极度不便）：满分句型！ render + 宾语 + 形容词（致使...变得...）是最高级的动宾结构之一；detrimental（有害的）替换了 harmful。
+absolute compliance（绝对的服从/遵守）：法律与制度类话题必背词汇。
+indispensable for a well-functioning society（对于一个功能健全的社会是不可或缺的）：结尾句的终极升华，well-functioning（运转良好的/功能健全的）是极具社会学深度的复合词。
 
 14.
 In developing countries, tourism has disadvantages and advantages.
@@ -407,24 +532,41 @@ In developing countries, tourism has disadvantages and advantages.
 用错了（粗放、外资主导），则可能锁上环境与本地福祉的未来。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [发展中国家的旅游业] has sparked widespread debate.
-There has been a heated debate on whether [其总体影响是积极的].
-From my perspective, I tend to recognize that [它同时带来利益与挑战].
+In recent years, the topic of [发展中国家的旅游业][tourism in developing countries] has sparked widespread debate.
+There has been a heated debate on whether [其总体影响是积极的][its overall impact is predominantly positive].
+From my perspective, I tend to recognize that [它同时带来利益与挑战][it brings both significant benefits and notable challenges].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [旅游业能带来重要优势].
-This is because [它能创造亟需的就业岗位并为地方经济带来宝贵的外汇收入].
-To illustrate this, my personal experience [探访一个山地小镇的经历] is a convincing example.
-我观察到由村民经营的徒步向导服务和家庭旅馆创造了稳定收入，并鼓励年轻人留在家乡而非前往城市工作.
-As a result, [旅游业不仅提高了生活水平，还通过赋予实用经济价值，帮助保护了当地的语言和生态知识].
+It is evidently reasonable for me to believe that [旅游业能带来重要优势][tourism yields substantial advantages].
+This is because [它能创造亟需的就业岗位并为地方经济带来宝贵的外汇收入][it generates much-needed employment opportunities and injects valuable foreign exchange earnings into the local economy].
+To illustrate this, my personal experience [探访一个山地小镇的经历][of visiting a mountainous town] is a convincing example.
+[我观察到由村民经营的徒步向导服务和家庭旅馆创造了稳定收入，并鼓励年轻人留在家乡而非前往城市工作].
+[I observed that trekking guide services and homestays operated by villagers generated stable incomes, encouraging young adults to remain in their hometowns rather than migrating to cities for work].
+As a result, [旅游业不仅提高了生活水平，还通过赋予实用经济价值，帮助保护了当地的语言和生态知识]
+[tourism not only elevates living standards but also helps preserve local languages and ecological knowledge by endowing them with practical economic value].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [旅游业常导致环境破坏，并使大部分利润流向大型外国公司].
+In contrast, it is commonly believed as a fact that [旅游业常导致环境破坏，并使大部分利润流向大型外国公司][tourism frequently leads to environmental degradation and allows the majority of profits to flow into massive multinational corporations].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [这些问题源于管理不善的大众旅游模式].
-That is to say, [解决方案在于推广由社区自主运营的小规模旅游模式，确保利益留在当地，并保护吸引游客的环境与文化].
+It should be pointed out that [这些问题源于管理不善的大众旅游模式][these issues stem primarily from poorly managed mass tourism models].
+That is to say, [解决方案在于推广由社区自主运营的小规模旅游模式，确保利益留在当地，并保护吸引游客的环境与文化]
+[the solution lies in promoting small-scale, community-led tourism models, which ensure that financial benefits remain local while protecting the very environment and culture that attract visitors].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[旅游业若以可持续方式进行，是发展的有力工具.其成功与否取决于选择真正惠及当地社区、同时能守护其自然与文化遗产的发展模式].
+[旅游业若以可持续方式进行，是发展的有力工具.其成功与否取决于选择真正惠及当地社区、同时能守护其自然与文化遗产的发展模式]
+[tourism, when conducted sustainably, acts as a potent instrument for development. Its ultimate success hinges on adopting development paradigms that genuinely benefit local communities while safeguarding their natural and cultural heritage].
+--
+核心提分词汇与搭配（PTE加分项）：
+predominantly positive（主要是积极的）：满分副词搭配，前面经常用到，非常适合用于 whether 引导的从句中。
+injects valuable foreign exchange earnings（注入宝贵的外汇收入）：经济类话题的顶级搭配！foreign exchange earnings (外汇收入) 是一记非常漂亮的重拳，机器识别度极高。
+migrating to cities（迁移到城市）：替代 going to cities，更加书面化和学术化。
+elevates living standards（提高生活水平）：用 elevates（提升）替代常见的 improves，增强词汇变化。
+endowing them with practical economic value（赋予它们实用的经济价值）：满分句型！ endow sb/sth with sth 意为“赋予...”，比 give 高级无数倍。
+environmental degradation（环境恶化/破坏）：环境类话题的核心专有名词，替代 environmental damage。
+multinational corporations（跨国公司）：商业类标准表达，完美对应中文的“大型外国公司”。
+community-led tourism models（社区主导的旅游模式）：极为专业的旅游社会学概念。
+potent instrument（有力的工具）：用 potent (强有力的/有效的) 替代 powerful。
+hinges on（取决于）：替代常见的 depends on。
+safeguarding their natural and cultural heritage（守护其自然与文化遗产）：保护遗产最地道的动名词搭配。
 
 15.
 The advanced medical technology expands human’s life. Do you think it is a curse or blessing?
@@ -434,23 +576,38 @@ The advanced medical technology expands human’s life. Do you think it is a cur
 它在有效减轻痛苦、延长健康寿命的同时，也推动着社会制度的完善与资源的公平分配。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [通过先进医疗技术延长人类寿命] has sparked widespread debate.
-There has been a heated debate on whether [这最终是福是祸].
-From my perspective, I tend to be its [坚定支持者].
+In recent years, the topic of [通过先进医疗技术延长人类寿命][prolonging human lifespan through advanced medical technology] has sparked widespread debate.
+There has been a heated debate on whether [这最终是福是祸][this is ultimately a blessing or a curse].
+From my perspective, I tend to be [坚定支持者][a staunch advocate for this development].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [this is a blessing]
-This is because [它不仅减轻人类痛苦，更能通过延长健康且有生产力的年限来增强社会韧性]. 
-To illustrate, [诸如疫苗、器官移植和早期疾病检测等突破，已将致命的疾病转变为可控制的状况，使人们能够享受更长久、更有意义的人生]. 
-As a result, [这正印证了医学的根本宗旨——维护并提升人类的福祉].
+It is evidently reasonable for me to believe that [这一发展无疑是一件好事][this development is unequivocally a blessing]
+This is because [它不仅减轻人类痛苦，更能通过延长健康且有生产力的年限来增强社会韧性][it not only alleviates human suffering but also enhances societal resilience by extending healthy and productive years]. 
+To illustrate, [诸如疫苗、器官移植和早期疾病检测等突破，已将致命的疾病转变为可控制的状况，使人们能够享受更长久、更有意义的人生][breakthroughs such as vaccines, organ transplants, and early disease detection have transformed fatal illnesses into manageable conditions, enabling people to enjoy longer and more meaningful lives]. 
+As a result, [这正印证了医学的根本宗旨——维护并提升人类的福祉][this precisely aligns with the fundamental purpose of medicine—to safeguard and elevate human well-being].
 第三段：让步反驳段
-In contrast, some argue that [寿命延长可能导致人口过剩、医疗成本上升以及代际关系紧张]. 
+In contrast, some argue that [寿命延长可能导致人口过剩、医疗成本上升以及代际关系紧张][prolonged lifespans might lead to overpopulation, escalating healthcare costs, and intergenerational tensions]. 
 Nevertheless, this argument does not hold water. 
-It should be pointed out that [这些挑战源于规划不当，而非医疗进步本身]. 
-That is to say, [通过前瞻性政策、可持续创新和公平的制度安排，社会完全能够将更长的寿命转化为惠及所有人的发展机遇].
+It should be pointed out that [这些挑战源于规划不当，而非医疗进步本身][these challenges stem from inadequate planning rather than the medical advancements themselves]. 
+That is to say, [通过前瞻性政策、可持续创新和公平的制度安排，社会完全能够将更长的寿命转化为惠及所有人的发展机遇]
+[through forward-thinking policies, sustainable innovations, and equitable institutional arrangements, society is fully capable of translating longer lifespans into development opportunities that benefit everyone].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[先进医疗技术始终是深刻的福祉，它体现了人类对尊严、健康与进步的永恒追求].
+[先进医疗技术始终是深刻的福祉，它体现了人类对尊严、健康与进步的永恒追求]
+[advanced medical technology remains a profound blessing, embodying humanity's eternal pursuit of dignity, health, and progress].
+--
+核心提分词汇与搭配（PTE加分项）：
+a blessing or a curse（是福是祸）：英语中最地道、最高频的辩证类话题固定搭配。
+a staunch advocate（坚定的支持者）：用 staunch（坚定的/忠诚的）替代 strong，词汇分直接拉满。
+unequivocally（毫无疑问地/明确地）：极佳的副词，用来加强你论点的说服力。
+alleviates human suffering（减轻人类痛苦）：医学与人道主义话题的绝对标准搭配（动词 alleviate 是必备高分词）。
+societal resilience（社会韧性）：极具高度的社会学词汇，指社会抵御风险和恢复的能力。
+manageable conditions（可控制的状况）：在医学英语中，指将绝症变成可以通过药物控制的慢性病，翻译极其精准。
+escalating healthcare costs（不断上升的医疗成本）：escalating 意为“加剧的/不断攀升的”，比 increasing 更能体现问题的严重性。
+intergenerational tensions（代际关系紧张/代际冲突）：探讨人口老龄化时最顶级的学术词汇！
+forward-thinking policies（前瞻性政策）：公共政策领域的高分表达。
+equitable institutional arrangements（公平的制度安排）：PTE 机器非常喜欢这种“形容词+形容词+名词”的复合高级短语。
+embodying humanity's eternal pursuit（体现了人类的永恒追求）：结尾句的终极升华，embody（体现/化身）和 eternal（永恒的）为文章画上了极具文学与哲学深度的句号。
 
 16.
 It is getting harder for children to live and grow in the 21st century than in the past. Do you agree or disagree?
@@ -459,24 +616,41 @@ It is getting harder for children to live and grow in the 21st century than in t
 童年从未如此“富裕”，也从未如此艰难——物质丰盈与精神压力的时代悖论，正重塑着成长的本质。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [21世纪的孩子成长是否比过去更艰难] has sparked widespread debate.
-There has been a heated debate on whether [当代童年比过去更具挑战性].
+In recent years, the topic of [21世纪的孩子成长是否比过去更艰难][the difficulties of growing up in the 21st century] has sparked widespread debate.
+There has been a heated debate on whether [当代童年比过去更具挑战性][contemporary childhood presents more formidable challenges than in the past].
 From my perspective, I tend to agree with this view.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [children face greater pressures today].
-This is because [他们不仅承受着巨大的学业压力，同时也被数字世界深刻地塑造着].
+It is evidently reasonable for me to believe that [如今的孩子面临更大的压力][children face greater pressures today].
+This is because [他们不仅承受着巨大的学业压力，同时也被数字世界深刻地塑造着][they are not only burdened with immense academic pressure but also profoundly shaped by the digital world].
 To illustrate this, my personal observation is a convincing example.
-如今很多孩子的日程被结构化的活动填满，几乎没有时间进行自由玩耍或自主探索.
-As a result, [童年正日益变成一场高风险的竞赛，而非自然成长与探索的时光].
+[如今很多孩子的日程被结构化的活动填满，几乎没有时间进行自由玩耍或自主探索].
+[Nowadays, many children's schedules are packed with structured activities, leaving them with scarcely any time for free play or independent exploration].
+As a result, [童年正日益变成一场高风险的竞赛，而非自然成长与探索的时光][childhood is increasingly transforming into a high-stakes competition rather than a period of natural growth and exploration].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [如今的孩子们享有更好的物质条件、医疗保健和信息获取途径，因此生活比过去更轻松]. 
+In contrast, it is commonly believed as a fact that [如今的孩子们享有更好的物质条件、医疗保健和信息获取途径，因此生活比过去更轻松][children today enjoy superior material conditions, healthcare, and access to information, thereby making their lives easier than in the past]. 
 Nevertheless, this argument does not hold water. 
-It should be pointed out that [物质上的舒适并不等同于心理上的健康，数字连接往往以加剧焦虑和社会比较为代价]. 
-That is to say, [童年挑战的本质已从身体层面的生存问题，转变为心理与情感层面的韧性考验].
+It should be pointed out that [物质上的舒适并不等同于心理上的健康，数字连接往往以加剧焦虑和社会比较为代价][material comfort does not equate to psychological well-being, and digital connectivity often comes at the expense of heightened anxiety and social comparison]. 
+That is to say, [童年挑战的本质已从身体层面的生存问题，转变为心理与情感层面的韧性考验]
+[the fundamental nature of childhood challenges has shifted from physical survival to a test of psychological and emotional resilience].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[在21世纪成长对孩子来说确实更加复杂和艰难，他们必须应对一个由学业、社交和数字压力交织而成的无形迷宫，这是前几代人从未面对过的].
+[在21世纪成长对孩子来说确实更加复杂和艰难，他们必须应对一个由学业、社交和数字压力交织而成的无形迷宫，这是前几代人从未面对过的]
+[growing up in the 21st century is indeed more complex and arduous for children; they must navigate an invisible maze intertwined with academic, social, and digital pressures, which previous generations never had to confront].
+--
+核心提分词汇与搭配（PTE加分项）：
+contemporary childhood（当代童年）：比直接写 childhood today 更具书面学术感。
+formidable challenges（艰巨的挑战）：formidable（令人生畏的/艰难的）是替代 difficult 的王牌高分词。
+unprecedented pressures（前所未有的压力）：由于你括号里原本提供的是 "greater pressures"，我将其升级为了 unprecedented，更能体现21世纪的时代特殊性。
+burdened with（承受着...的重担）：极佳的动词短语。
+structured activities（结构化的活动）：教育学和发展心理学里的专有名词，指被大人安排好、带有功利性的各种补习班或培训班。
+scarcely any time（几乎没有时间）：使用副词 scarcely 表达否定，比直接用 almost no time 句型更高级。
+high-stakes competition（高风险的竞赛）：high-stakes 完美诠释了当今社会“一考定终身”、“不能输在起跑线上”的那种高压氛围。
+equate to（等同于）：绝佳的谓语动词，如：A does not equate to B。
+comes at the expense of（以牺牲...为代价）：雅思和PTE大作文中必背的黄金论证句型！
+social comparison（社会比较）：社会心理学专有名词，指人们总爱在社交网络上和别人比较从而产生焦虑。
+resilience（韧性/抗压能力）：探讨心理健康和儿童成长话题时的 T0 级别神仙词汇。
+navigate an invisible maze（应对/穿越一个无形的迷宫）：非常生动且高级的比喻写法，navigate（航行/摸索前行）在这里用得极其地道。
 
 17.
 Travel to study is over rated, we have brilliant scholars who studied locally. Is travel really required for higher studies?
@@ -488,21 +662,39 @@ Travel to study is over rated, we have brilliant scholars who studied locally. I
 让知识在跨越山海的过程中真正落地生根。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [旅行是否为一流教育所必需] has sparked widespread debate.
-There has been a heated debate on whether [学生必须离乡求学才能获得顶尖教育].
-From my perspective, I tend to recognize that [旅行以独特方式促进深度学习，但并非成功的唯一路径].
+In recent years, the topic of [旅行是否为一流教育所必需][whether travel is an essential prerequisite for a first-rate education] has sparked widespread debate.
+There has been a heated debate on whether [学生必须离乡求学才能获得顶尖教育][students must study away from their hometowns to acquire a top-tier education].
+From my perspective, I tend to recognize that [旅行以独特方式促进深度学习，但并非成功的唯一路径]
+[while travel uniquely facilitates in-depth learning, it is not the sole pathway to success].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [在新环境中学习大有裨益]. 
-This is because [它能培养独立精神、深化文化认知，并开拓获取专业资源的渠道]. 
-To illustrate this, [一名建筑专业学生若能在罗马亲临古遗址，便能直面大师杰作与前沿设计，获得任何课本都无法替代的直观体验].
-As a result, [这类实践性学习不仅能锤炼实用技能，更能塑造更宽广的世界观——这在当今时代尤为重要].
+It is evidently reasonable for me to believe that [在新环境中学习大有裨益][studying in a novel environment is highly beneficial]. 
+This is because [它能培养独立精神、深化文化认知，并开拓获取专业资源的渠道][it cultivates an independent spirit, deepens cultural awareness, and broadens access to specialized resources]. 
+To illustrate this, [一名建筑专业学生若能在罗马亲临古遗址，便能直面大师杰作与前沿设计，获得任何课本都无法替代的直观体验][if an architecture student visits ancient ruins in Rome in person, they can directly engage with masterpieces and cutting-edge designs, acquiring an intuitive experience that no textbook can replicate].
+As a result, [这类实践性学习不仅能锤炼实用技能，更能塑造更宽广的世界观——这在当今时代尤为重要]
+[this type of hands-on learning not only hones practical skills but also shapes a broader worldview, which is of paramount importance in the contemporary era].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [许多卓越学者终身未曾远离故乡，却依然取得非凡成就，这似乎证明旅行并非关键]. 
+In contrast, it is commonly believed as a fact that [许多卓越学者终身未曾远离故乡，却依然取得非凡成就，这似乎证明旅行并非关键][many exceptional scholars have achieved extraordinary success without ever leaving their hometowns, which ostensibly proves that travel is not crucial]. 
 Nevertheless, this argument does not hold water. 
-It should be pointed out that [在当今紧密联结的世界中，国际协作与竞争的能力日益成为完整教育的重要组成部分，而沉浸式旅行正是培育此种能力的最有效途径之一].
+It should be pointed out that [在当今紧密联结的世界中，国际协作与竞争的能力日益成为完整教育的重要组成部分，而沉浸式旅行正是培育此种能力的最有效途径之一]
+[in today's hyper-connected world, the capacity for international collaboration and competition has increasingly become a vital component of a comprehensive education, and immersive travel is precisely one of the most effective ways to foster such abilities].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that [旅行虽非天才成长的必要条件，却是现代优质教育中极具价值的一环].
+we may safely reach the conclusion that [旅行虽非天才成长的必要条件，却是现代优质教育中极具价值的一环]
+[although travel is not an absolute prerequisite for the cultivation of genius, it remains a highly valuable component of a modern, high-quality education].
+--
+核心提分词汇与搭配（PTE加分项）：
+an essential prerequisite（一个必要的先决条件）：极佳的学术名词搭配，完美翻译“必需”。
+first-rate education / top-tier education（一流教育/顶尖教育）：替换普通的 good education，展现词汇多样性。
+uniquely facilitates（以独特方式促进）：副词+动词的高分组合，facilitate（促进/使便利）是极其常用的学术动词。
+novel environment（新环境）：用 novel（新颖的/陌生的）替代简单的 new。
+cultivates / deepens / broadens（培养 / 深化 / 开拓）：极其工整的动词平行结构，PTE 机器最爱。
+engage with masterpieces（直面/接触大师杰作）：engage with 是表达“与...互动/接触”的高频词组。
+intuitive experience（直观体验）：也可以用 visceral experience。
+no textbook can replicate（任何课本都无法替代/复制）：replicate（复制）比 replace 或 copy 更加精妙。
+hones practical skills（锤炼实用技能）：hone（磨砺/锻炼）是搭配 skills 的满分动词。
+ostensibly（表面上似乎...）：副词，表示“表面上看如此（但实际未必）”，完美契合让步反驳段的语境（对应中文的“似乎证明”）。
+hyper-connected world（紧密联结的世界）：描述现代全球化社会时 T0 级别的复合形容词。
+immersive travel（沉浸式旅行）：极具现代感的旅游/教育概念。
 
 19.
 Should schools make learning a foreign language compulsory?
@@ -512,24 +704,42 @@ Should schools make learning a foreign language compulsory?
 并能与其它学科相辅相成，是适应未来全球化挑战的重要教育举措。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [educational curriculum] has sparked widespread debate.
-There has been a heated debate on whether [学校是否应将外语学习定为必修课].
-From my perspective, I tend to be the advocate regarding this issue.
+In recent years, the topic of [教育课程][educational curriculum] has sparked widespread debate.
+There has been a heated debate on whether [学校是否应将外语学习定为必修课][schools should make foreign language learning a compulsory subject].
+From my perspective, I tend to be an advocate [对于这项硬性要求][for this mandate] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [这对学生的认知与学业发展是有益的].
-This is because [学习一门外语能够增强批判性思维、提升记忆力并促进跨文化理解].
+It is evidently reasonable for me to believe that [这对学生的认知与学业发展是有益的][this is highly beneficial to students' cognitive and academic development].
+This is because [学习一门外语能够增强批判性思维、提升记忆力并促进跨文化理解][learning a foreign language can enhance critical thinking, improve memory, and foster cross-cultural understanding].
 To illustrate this, my personal experience is a convincing example. 
-从我初中开始学习英语的经历来看，它不仅拓宽了我获取全球信息的渠道，也让我在解决问题时思维更加灵活。
-As a result, [外语教育为学生提供了在日益互联的世界中所必需的技能].
+[从我初中开始学习英语的经历来看，它不仅拓宽了我获取全球信息的渠道，也让我在解决问题时思维更加灵活。]
+[My experience of learning English since junior high school demonstrates that it not only broadened my channels for accessing global information but also endowed me with greater cognitive flexibility in problem-solving].
+As a result, [外语教育为学生提供了在日益互联的世界中所必需的技能][foreign language education equips students with the essential skills required in an increasingly interconnected world].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [强制学生学习外语可能会增加学业压力，并挤占其他重要科目的时间]. 
+In contrast, it is commonly believed as a fact that [强制学生学习外语可能会增加学业压力，并挤占其他重要科目的时间]
+[compelling students to learn a foreign language might increase their academic burden and marginalize the time allocated for other core subjects]. 
 Nevertheless, this argument does not hold water. 
-It should be pointed out that [一个设计合理的语言课程完全可以与其他学科平衡协调，甚至实现跨领域学习的融合].
-That is to say, [语言学习不仅不是负担，反而能通过培养创造力和思维灵活性来完善学生的整体教育].
+It should be pointed out that [一个设计合理的语言课程完全可以与其他学科平衡协调，甚至实现跨领域学习的融合]
+[a well-designed language curriculum can be perfectly balanced with other disciplines, even facilitating cross-disciplinary integration].
+That is to say, [语言学习不仅不是负担，反而能通过培养创造力和思维灵活性来完善学生的整体教育]
+[rather than being a burden, language learning actually complements a student's holistic education by cultivating creativity and mental agility].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
 [将外语学习设为学校必修课有利于学生的全面发展，并为他们应对未来的全球挑战做好准备].
+[designating foreign language learning as a mandatory school subject is conducive to students' comprehensive development and thoroughly prepares them for future global challenges].
+--
+核心提分词汇与搭配（PTE加分项）：
+compulsory subject / mandatory school subject（必修课）：教育类话题的绝对核心词汇，两个词组在首尾段做了完美的同义替换。
+cognitive and academic development（认知与学业发展）：cognitive（认知的）是 PTE 阅读和写作中最喜欢考的高级学术词汇。
+foster cross-cultural understanding（促进跨文化理解）：语言学习话题的满分短语。
+endowed me with greater cognitive flexibility（赋予了我更大的认知灵活性/思维灵活性）：endow sb with sth 搭配 cognitive flexibility，极大地提升了“思维灵活”这一中文表达的英文学术感。
+equips students with...（为学生配备/提供...）：比简单的 gives students 更加地道。
+compelling students to...（强制学生去...）：compel 是高级动词，完美对应“必修”的强制性。
+marginalize（挤占/边缘化）：极其高级的动词，替代简单的 take up time。
+cross-disciplinary integration（跨学科/跨领域的融合）：教育界极其热门的学术概念（例如STEM教育等常常用到此词）。
+holistic education（全人教育/整体教育）：教育类词汇的 T0 级别神词，指代关注学生全面发展的教育模式。
+mental agility（思维敏捷度/灵活性）：与前文的 cognitive flexibility 形成极佳的同义替换。
+is conducive to（有利于...）：替代 is good for，也是学术写作必备固定搭配。
 
 20.
 Government should create a better network of public transport available for everyone or build more roa ds owning population？
@@ -541,23 +751,39 @@ What are the advantages of cheaper public transportation? What will it cause to 
 它既能缓解拥堵、促进环保和社会公平，也能为城市的可持续发展提供长远解决方案。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [城市规划与发展方向] has sparked widespread debate.
-There has been a heated debate on whether [政府应优先发展完善的公共交通网络，还是应该修建更多道路以适应人口增长].
-From my perspective, I tend to be the [公共交通建设的坚定支持者] regarding this issue.
+In recent years, the topic of [城市规划与发展方向][urban planning and developmental directions] has sparked widespread debate.
+There has been a heated debate on whether [政府应优先发展完善的公共交通网络，还是应该修建更多道路以适应人口增长][the government should prioritize developing a comprehensive public transportation network or construct more roads to accommodate population growth].
+From my perspective, I tend to be [公共交通建设的坚定支持者][a staunch advocate for prioritizing public transit] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [建设便捷的公共交通系统能带来显著的长远效益].
-This is because [一个设计完善的公交体系能有效缓解城市拥堵，减少污染排放，并为不同收入群体提供平等的出行选择]. 
-To illustrate this, [上海交通系统的成功转型就是有力证明——通过整合电车、巴士和地铁网络，该市使无车生活既便利又受欢迎].
-As a result, [这样的投资既能促进社会公平，又能推动城市的可持续发展].
+It is evidently reasonable for me to believe that [建设便捷的公共交通系统能带来显著的长远效益][constructing an accessible public transit system can yield remarkable long-term benefits].
+This is because [一个设计完善的公交体系能有效缓解城市拥堵，减少污染排放，并为不同收入群体提供平等的出行选择][a well-designed transit network can effectively alleviate urban congestion, curtail pollution emissions, and provide equitable mobility options for diverse income groups]. 
+To illustrate this, [上海交通系统的成功转型][the successful transformation of Shanghai's transportation system] is a convincing example.
+[通过无缝整合有轨电车、公共汽车和地铁网络，这座城市提供了一种既方便又受欢迎的无车生活方式]
+By seamlessly integrating its tram, bus, and subway networks, the city has rendered a car-free lifestyle both convenient and highly popular. 
+As a result, [这样的投资既能促进社会公平，又能推动城市的可持续发展][such investments not only promote social equity but also propel the sustainable development of cities].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [扩建道路是应对人口增长和汽车数量增加最直接有效的方式]. 
+In contrast, it is commonly believed as a fact that [扩建道路是应对人口增长和汽车数量增加最直接有效的方式][expanding roads is the most direct and effective approach to coping with population growth and the surging number of automobiles]. 
 Nevertheless, this argument does not hold water. 
-It should be pointed out that [新建道路往往会刺激更多车辆使用，最终形成"道路越多，车辆越多"的恶性循环]. 
-That is to say, [这种方法只能提供短期缓解，却可能加剧环境污染并扩大不同群体在出行机会上的差距]
+It should be pointed out that [新建道路往往会刺激更多车辆使用，最终形成"道路越多，车辆越多"的恶性循环][constructing new roads frequently stimulates greater vehicle usage, ultimately culminating in a vicious cycle of induced demand where more roads simply lead to more cars]. 
+That is to say, [这种方法只能提供短期缓解，却可能加剧环境污染并扩大不同群体在出行机会上的差距][this approach merely provides short-term relief, while potentially exacerbating environmental pollution and widening the mobility gap among different socioeconomic groups].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[相比盲目扩建道路，投资建设完善的公共交通网络才是更明智、更具前瞻性的城市发展策略].
+[相比盲目扩建道路，投资建设完善的公共交通网络才是更明智、更具前瞻性的城市发展策略]
+[rather than blindly expanding roadways, investing in a comprehensive public transportation network is a far wiser and more forward-looking strategy for urban development].
+--
+核心提分词汇与搭配（PTE加分项）：
+comprehensive public transportation network（完善的公共交通网络）：城市类话题的绝对标准搭配。
+accommodate population growth（适应人口增长）：accommodate（容纳/适应）是替换 meet the needs of 的满分动词。
+staunch advocate（坚定的支持者）：高级搭配，替代 strong supporter。
+curtail pollution emissions（减少污染排放）：curtail（削减/缩减）比 reduce 高级很多。
+equitable mobility options（平等的出行选择）：交通领域的极佳学术词汇，mobility（出行/流动性）是 PTE 的高频加分词。
+seamlessly integrating / rendered（无缝整合 / 使...变成...）：rendered a car-free lifestyle convenient 完美翻译了“使无车生活既便利...”。
+propel the sustainable development（推动可持续发展）：用 propel 替代 promote，增加词汇多样性。
+surging number of automobiles（不断激增的汽车数量）：surging（激增的）是描述数量增长的高级形容词。
+culminating in a vicious cycle of induced demand（最终形成诱导需求的恶性循环）：满分王牌句型！ vicious cycle (恶性循环) 和 induced demand (诱导需求：交通工程学术语，指路修得越多车就越多) 的结合，能直接震撼机器评分系统！
+exacerbating（加剧/恶化）：替代 making worse。
+forward-looking strategy（具前瞻性的策略）：结尾升华的顶级形容词搭配。
 
 22.
 The formal written examination can be a valid method to assess students' learning. To what extent do you agree or disagree?
@@ -570,23 +796,39 @@ exam is correct?Please discuss the significance of formal written assessments in
 且其现代形式已涵盖批判性思维等关键能力，但仍需与其他评价方式结合以实现更全面的评估。
 --
 第一段：重述背景与题目 + 表明观点
-In recent years, the topic of [教育评估] has sparked widespread debate.
-There has been a heated debate on whether [一个依赖正式笔试来评估学习的体系是否正确].
-From my perspective, I tend to be the advocate regarding [这类考试在当今世界扮演重要角色].
+In recent years, the topic of [教育评估][educational assessment] has sparked widespread debate.
+There has been a heated debate on whether [一个依赖正式笔试来评估学习的体系是否正确][a system relying on formal written examinations to evaluate learning is valid].
+From my perspective, I tend to be an advocate [这类考试在当今世界扮演重要角色][for the crucial role such examinations play in the contemporary world] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [笔试是一种有效且必要的评估工具].
-This is because [它们提供了一个标准化、客观且公平的方法，来评估学生对核心课程的理解以及他们在压力下应用知识的能力].
+It is evidently reasonable for me to believe that [笔试是一种有效且必要的评估工具][written examinations are a highly effective and essential evaluation tool].
+This is because [它们提供了一个标准化、客观且公平的方法，来评估学生对核心课程的理解以及他们在压力下应用知识的能力][they offer a standardized, objective, and equitable approach to assessing students' comprehension of core curricula and their capacity to apply knowledge under pressure].
 To illustrate this, my personal experience as [一个学生][a student] is a convincing example.
-备考时培养的技能，比如总结归纳和构建论点的能力，对我的职业生涯有直接帮助。
-As a result, [这些评估为学业成就和智力训练提供了可靠的基准].
+[备考时培养的技能，比如总结归纳和构建论点的能力，对我的职业生涯有直接帮助]
+[The skills cultivated during exam preparation, such as synthesizing information and structuring arguments, have directly benefited my professional career].
+As a result, [这些评估为学业成就和智力训练提供了可靠的基准][these assessments provide a reliable benchmark for academic achievement and intellectual discipline].
 第三段：让步反驳段（反方观点 + 观点2/反驳）
-In contrast, it is commonly believed as a fact that [这类考试过分强调记忆而忽视实践技能]. 
+In contrast, it is commonly believed as a fact that [这类考试过分强调记忆而忽视实践技能][such exams place excessive emphasis on rote memorization while neglecting practical skills]. 
 Nevertheless, this argument does not hold water when considering modern assessment design. 
-It should be pointed out that [当代考试越来越多地通过论述题和复杂问题解决来测试批判性思维]. 
-That is to say, [它们能有效地评估结构化的推理和清晰的沟通能力，而这些能力对于在当今信息化社会取得成功至关重要].
+It should be pointed out that [当代考试越来越多地通过论述题和复杂问题解决来测试批判性思维][contemporary exams increasingly test critical thinking through essay questions and complex problem-solving scenarios]. 
+That is to say, [它们能有效地评估结构化的推理和清晰的沟通能力，而这些能力对于在当今信息化社会取得成功至关重要]
+[they effectively evaluate structured reasoning and clear communication, which are paramount for achieving success in today's information-driven society].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that [正式的笔试评估仍然是一种正确且重要的方法，能够公平且严格地评估学生的表现]. However, 当与其他评估形式结合使用时，它们才是最有效的，这样才能全面了解学生的能力.
+we may safely reach the conclusion that [正式的笔试评估仍然是一种正确且重要的方法，能够公平且严格地评估学生的表现][formal written assessments remain a valid and crucial method capable of evaluating student performance fairly and rigorously]. 
+However, [当与其他评估形式结合使用时，它们才是最有效的，这样才能全面了解学生的能力]
+[they are most effective when combined with other forms of assessment, thereby providing a holistic understanding of a student's capabilities].
+--
+核心提分词汇与搭配（PTE加分项）：
+evaluate learning is valid（评估学习的体系是否正确/有效）：在学术英语中，形容考试体系或评估标准是否“正确/合理”，用 valid 比 right 或 correct 要专业得多（测验效度）。
+standardized, objective, and equitable approach（标准化、客观且公平的方法）：三个极佳的形容词并列，equitable（公平公正的）替换了简单的 fair。
+comprehension of core curricula（对核心课程的理解）：curricula 是 curriculum 的复数，教育类绝佳词汇。
+synthesizing information（总结归纳信息）：synthesize 是非常高级的学术动词，指将不同信息综合归纳，远比 summarizing 强大。
+intellectual discipline（智力训练/思维训练）：完美的学术概念替换。
+rote memorization（死记硬背/机械记忆）：教育类话题必背满分词组！完美翻译了“过分强调记忆”。
+complex problem-solving scenarios（复杂问题解决情境）：高级名词组合。
+structured reasoning（结构化的推理）：极具逻辑学和批判性思维深度的词汇。
+information-driven society（信息驱动的/信息化的社会）：当代社会的地道表达，替换简单的 modern society。
+holistic understanding（全面的了解）：holistic（整体的/全面的）是教育评估话题中的终极神词（holistic assessment 全面评估），极受 PTE 机器青睐！
 
 23.
 Age restrictions can be seen everywhere. It is believed that people should not do things until they reach the right age, such as marriage, and driving. Select one activity and state the minimum age that you think.
@@ -597,24 +839,40 @@ Support with your own experiences.
 因为它与青少年后期判断力和责任感的形成相匹配，能更好地在个人自由与公共安全之间取得平衡。
 --
 第一段：重述背景与题目 + 表明观点
-In recent years, the topic of [驾驶最低年龄要求] has sparked widespread debate.
-There has been a heated debate on whether [应该降低法定驾驶年龄].
-From my perspective, I tend to be an opponent of this idea/proposal.
+In recent years, the topic of [驾驶最低年龄要求][the minimum driving age requirement] has sparked widespread debate.
+There has been a heated debate on whether [应该降低法定驾驶年龄][the legal driving age should be lowered].
+From my perspective, I tend to be an opponent of this proposal.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [将最低驾驶年龄设为18岁是有益的].
-This is because [安全驾驶车辆不仅需要操作技能，还需要通常在青少年后期形成的成熟判断力和责任感].
+It is evidently reasonable for me to believe that [将最低驾驶年龄设为18岁是有益的][setting the minimum driving age at eighteen is highly beneficial].
+This is because [安全驾驶车辆不仅需要操作技能，还需要通常在青少年后期形成的成熟判断力和责任感][operating a vehicle safely requires not only mechanical skills but also the mature judgment and sense of responsibility that typically develop in late adolescence].
 To illustrate this, my personal experience is a convincing example.
-在观察我家族中的新司机时，我注意到那些年龄稍长者，在处理复杂交通状况时比年轻的同龄人更有耐心和远见. 
-As a result, [这项更高的年龄要求有助于从一开始就培养更安全的驾驶习惯].
+[在观察我家族中的新司机时，我注意到那些年龄稍长者，在处理复杂交通状况时比年轻的同龄人更有耐心和远见].
+[When observing novice drivers in my family, I noticed that older individuals demonstrated greater patience and foresight when navigating complex traffic situations compared to their younger counterparts]. 
+As a result, [这项更高的年龄要求有助于从一开始就培养更安全的驾驶习惯][this higher age requirement is conducive to cultivating safer driving habits from the very beginning].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [较低的驾驶年龄能为青少年提供必要的独立性和便利]. 
+In contrast, it is commonly believed as a fact that [较低的驾驶年龄能为青少年提供必要的独立性和便利][a lower driving age can provide teenagers with necessary independence and convenience]. 
 Nevertheless, this argument does not hold water. 
-It should be pointed out that [个人便利的好处必须与确保所有道路使用者公共安全的基本要求仔细权衡]. 
-That is to say, [授予驾驶这样的重大责任，应当与个人更有可能持续保持谨慎的人生阶段相匹配].
+It should be pointed out that [个人便利的好处必须与确保所有道路使用者公共安全的基本要求仔细权衡]
+[the benefits of personal convenience must be carefully weighed against the fundamental imperative of ensuring public safety for all road users]. 
+That is to say, [授予驾驶这样的重大责任，应当与个人更有可能持续保持谨慎的人生阶段相匹配]
+[granting such a substantial responsibility as driving should align with a life stage where individuals are more likely to exercise consistent prudence].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[18岁仍然是一个经过深思熟虑的最低驾驶年龄，因为它能更好地平衡个人自由与道路上所有人共同的安全需求].
+[18岁仍然是一个经过深思熟虑的最低驾驶年龄，因为它能更好地平衡个人自由与道路上所有人共同的安全需求]
+[eighteen remains a well-considered minimum driving age, as it better balances individual liberty with the collective safety needs of everyone on the road].
+--
+核心提分词汇与搭配（PTE加分项）：
+mechanical skills / mature judgment（操作技能 / 成熟的判断力）：形成极佳的对比，mechanical（机械的/操作上的）和 judgment 都是高阶词汇。
+late adolescence（青少年后期）：发展心理学专有名词，比写 when they are older teenagers 显得极其专业。
+novice drivers（新司机/新手司机）：交通类话题必背满分词汇！ 绝对不要写 new drivers，novice（新手/初学者）是最高级的替换。
+navigating complex traffic situations（处理复杂交通状况）：navigate 在这里意为“应对/驾驶穿行”，是非常地道的高阶动宾搭配。
+counterparts（同龄人/对应的人）：学术写作中进行比较时（比起...）的最常用高级词汇。
+is conducive to cultivating（有助于培养）：conducive to（对...有益的）后面接 V-ing，比 helps to build 高级得多。
+weighed against（与...相权衡）：议论文探讨利弊时的经典黄金搭配（A must be weighed against B）。
+fundamental imperative（基本要求/首要任务）：imperative 在这里作名词，意为“极其重要/紧迫的事”，极具公共政策文献的严谨感。
+exercise consistent prudence（持续保持谨慎）：满分词组！ exercise 在这里是“行使/运用”的意思，prudence（谨慎/慎重）是极其高级的名词。
+collective safety needs（共同的安全需求）：与前面的 individual liberty（个人自由）形成完美的工整对仗，逻辑升华满分。
 
 24.
 Is it fair for universities to deduct students’ marks when their assignments are overdue? How to solve this problem?
@@ -624,24 +882,40 @@ Is it fair for universities to deduct students’ marks when their assignments a
 但真正的公平需要在严格执行规则的同时，为有实际困难的学生提供灵活的申请渠道和辅助支持。
 --
 第一段：重述背景与题目 + 表明观点
-In recent years, the topic of [大学评分政策] has sparked widespread debate.
-There has been a heated debate on whether [大学因作业逾期而扣分是否公平].
-From my perspective, [我倾向于支持这种做法] I tend to be an advocate for this issue.
+In recent years, the topic of [大学评分政策][university grading policies] has sparked widespread debate.
+There has been a heated debate on whether [大学因作业逾期而扣分是否公平][it is fair for universities to deduct marks for late assignments].
+From my perspective, [我倾向于支持这种做法] I tend to be an advocate for this practice.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [对逾期提交的作业进行扣分是一项公平且必要的政策].
-This is because [它维护了学术诚信，确保了按时完成作业学生的公平，并教授了关键的时间管理技能].
-To illustrate this, [明确的逾期扣分规定在我大学一年级时教会了我如何进行任务优先级排序，这项技能在我后来的实习中被证明极其有用].
-As a result, [这类政策有助于营造一个负责任的学习环境].
+It is evidently reasonable for me to believe that [对逾期提交的作业进行扣分是一项公平且必要的政策][penalizing late submissions is both a fair and necessary policy].
+This is because [它维护了学术诚信，确保了按时完成作业学生的公平，并教授了关键的时间管理技能][it upholds academic integrity, ensures equity for students who meet deadlines, and imparts crucial time-management skills].
+To illustrate this, [我大一的个人经历][my personal experience during my freshman year] serves as a convincing example.
+[严格的迟到惩罚规定教会了我如何有效地对任务进行优先排序，这一技能在我随后的实习中被证明是非常有利的]
+[Strict late-penalty regulations taught me how to prioritize tasks effectively, a skill that proved exceptionally advantageous during my subsequent internships].
+As a result, [这类政策有助于营造一个负责任的学习环境][such policies are conducive to fostering a highly responsible academic environment].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [严格的截止日期会不公平地惩罚那些面临实际困难的学生]. 
-Nevertheless, this argument does not hold water when [理解性措施与规则一同实施时]. 
-It should be pointed out that [大学可以将标准处罚与辅助系统结合起来]. 
-That is to say, [为面临重大困难的学生建立清晰、保密的延期申请渠道，可以在坚持原则的同时提供必要的灵活性].
+In contrast, it is commonly believed as a fact that [严格的截止日期会不公平地惩罚那些面临实际困难的学生][rigid deadlines unfairly penalize students confronting genuine hardships]. 
+Nevertheless, this argument does not hold water when [理解性措施与规则一同实施时][compassionate measures are implemented alongside the rules]. 
+It should be pointed out that [大学可以将标准处罚与辅助系统结合起来][universities can seamlessly integrate standard penalties with supportive systems]. 
+That is to say, [为面临重大困难的学生建立清晰、保密的延期申请渠道，可以在坚持原则的同时提供必要的灵活性]
+[establishing clear and confidential channels for extension applications for students facing significant difficulties can provide essential flexibility while upholding core principles].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that 
-[mark deduction for lateness is fundamentally fair as a standard rule]. 
-However, [只有当它与有益的灵活性措施相结合时，其公平性才能充分体现，从而在维持学术标准的同时实现真正的公平].
+we may safely reach the conclusion that [作为标准规则，迟到扣分基本上是公平的][mark deduction for lateness is fundamentally fair as a standard rule]. 
+However, [只有当它与有益的灵活性措施相结合时，其公平性才能充分体现，从而在维持学术标准的同时实现真正的公平]
+[its fairness is only fully manifested when combined with beneficial, flexible measures, thereby achieving true equity while maintaining rigorous academic standards].
+--
+核心提分词汇与搭配（PTE加分项）：
+penalizing late submissions（对逾期提交进行扣分/惩罚）：教育评价领域极其地道的高级表达。
+upholds academic integrity（维护学术诚信）：满分搭配！ academic integrity 是所有英语考试（雅思、PTE、托福）中谈论学校规则时的 T0 级别核心词汇。
+imparts crucial time-management skills（教授/传授了关键的时间管理技能）：用 impart 替代简单的 teach，学术感更强。
+prioritize tasks effectively（有效地进行任务优先级排序）：职场与个人发展类话题的高分词组。
+is conducive to fostering（有助于营造/培养）：经典的 PTE 高分动名词搭配。
+rigid deadlines（严格的/死板的截止日期）：用 rigid 形容制度的僵化，比 strict 更有批判意味。
+confronting genuine hardships（面临真实的/实际的困难）：confront (面临) 和 genuine hardships (真实的困境) 的结合，完美翻译了你的中文。
+compassionate measures（理解性/充满同情心的措施）：极佳的高级行政/政策类词汇。
+confidential channels for extension applications（保密的延期申请渠道）：极其贴合大学真实的运作体系，机器识别极好。
+fully manifested（充分体现/彰显）：高级动词，替代 shown。
+rigorous academic standards（严格的学术标准）：结尾段首尾呼应的王牌搭配词汇！
 
 25.
 Large shopping malls are replacing small shops. What is your opinion about this? Discuss with appropriate examples.
@@ -652,23 +926,40 @@ Large shopping malls are replacing small shops. What is your opinion about this?
 最终实现二者互补共存、丰富市场生态的良性发展。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [大型商场取代小商店] has sparked widespread debate.
-There has been a heated debate on whether [这一趋势整体上是利大于弊的].
-From my perspective, I tend to be an advocate for this issue.
+In recent years, the topic of [大型商场取代小商店][the replacement of small shops by massive shopping malls] has sparked widespread debate.
+There has been a heated debate on whether [这一趋势整体上是利大于弊的][this prevailing trend generally does more good than harm].
+From my perspective, I tend to be [支持这一趋势][an advocate for this trend].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [this is beneficial].
-This is because [大商场为消费者提供了极高的便利性、丰富的选择和舒适的环境].
+It is evidently reasonable for me to believe that [这种转变是非常有益的][this transition is highly beneficial].
+This is because [大商场为消费者提供了极高的便利性、丰富的选择和舒适的环境][large shopping centers provide consumers with unparalleled convenience, an extensive array of choices, and a highly comfortable environment].
 To illustrate this, my personal experience is a convincing example.
-As a result, [商场非常适应现代都市人快节奏、注重体验的生活方式].
+[逛一个综合性的大型购物中心可以让我毫不费力地把买菜、吃饭和娱乐结合在一起，节省时间]
+[Visiting a comprehensive mega-mall allows me to effortlessly combine grocery shopping, dining, and entertainment into a single, time-saving trip].
+As a result, [商场非常适应现代都市人快节奏、注重体验的生活方式][shopping malls perfectly cater to the fast-paced, experience-oriented lifestyle of modern urbanites].
 第三段：让步反驳段（反方观点+观点2/反驳）
-In contrast, it is commonly believed as a fact that [这一趋势会破坏社区独特氛围并威胁小商户生存].
+In contrast, it is commonly believed as a fact that [这一趋势会破坏社区独特氛围并威胁小商户生存][this trend might erode the unique atmosphere of local communities and threaten the survival of small retailers].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [小商店可以通过提供个性化服务和特色产品来与大商场共存].
-That is to say, [它们并非被简单淘汰，而是在压力下创新并找到差异化市场定位，最终为消费者提供更多元的选择].
+It should be pointed out that [小商店可以通过提供个性化服务和特色产品来与大商场共存][small shops can successfully coexist with large malls by offering personalized services and niche products].
+That is to say, [它们并非被简单淘汰，而是在压力下创新并找到差异化市场定位，最终为消费者提供更多元的选择]
+[rather than being simply eliminated, they are compelled to innovate under pressure, secure a differentiated market positioning, and ultimately provide consumers with more diverse options].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[大型购物中心的兴起是零售业的积极发展，前提是城市规划能营造一个让大商场和灵活的小商业都能蓬勃发展的多元生].
+[大型购物中心的兴起是零售业的积极发展，前提是城市规划能营造一个让大商场和灵活的小商业都能蓬勃发展的多元生态系统]
+[the rise of large shopping centers represents a positive development in the retail industry, provided that urban planning can cultivate a diverse ecosystem where both mega-malls and agile small businesses can thrive].
+--
+核心提分词汇与搭配（PTE加分项）：
+massive shopping malls / mega-malls（大型商场/巨型购物中心）：替换简单的 big shops，展现词汇高级感。
+does more good than harm（利大于弊）：英语中最标准、最地道的“利弊比较”表达句型。
+unparalleled convenience（无与伦比的/极高的便利性）：unparalleled 是极其高级的满分形容词，常用于赞美某种事物带来的好处。
+an extensive array of choices（丰富的选择）：完美替换 many choices，an array of (一系列) 是极具学术色彩的量词搭配。
+cater to（迎合/适应）：商业和服务业话题的绝对核心动词（如：cater to consumer needs）。
+fast-paced, experience-oriented lifestyle（快节奏、注重体验的生活方式）：满分复合形容词搭配！ experience-oriented 精准翻译了现代人对于消费体验的追求。
+erode（破坏/侵蚀）：替代 destroy，常用于描述气氛、文化、价值被逐渐破坏的过程（erode the unique atmosphere）。
+niche products（特色产品/小众产品）：商业营销专有名词，指针对特定细分市场的产品。
+secure a differentiated market positioning（找到/确保差异化市场定位）：商科满分黑话！ differentiated（差异化的）和 market positioning（市场定位）的组合，能极大地提升文章的专业深度。
+agile small businesses（灵活的小商业）：agile（敏捷的/灵活的）是当代商业管理中极其受推崇的高频评价词。
+thrive（蓬勃发展）：结尾段必备的高级动词，替代 grow well。
 
 26.
 Write about Climate change? Who is responsible whether Government or industries? Why?
