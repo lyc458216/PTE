@@ -47,7 +47,7 @@ Please use examples or your personal experience to support your opinion.
 第一段：重述背景与题目+表明观点
 In recent years, the topic of [选择居住地][choosing where to live] has sparked widespread debate. 
 There has been a heated debate on whether [生活在乡村还是拥有都市生活更好][it is better to live in the countryside or enjoy city life]. 
-From my perspective, I tend to be the advocate of [支持城市生活][urban life] regarding this issue.
+From my perspective, I tend to be an advocate of [支持城市生活][urban life] regarding this issue.
 第二段：观点1论述与解释
 It is evidently reasonable for me to believe that [都市生活提供了极大的便利和高效率][urban life offers immense convenience and high efficiency]. 
 This is because [城市提供了无缝衔接的交通、医疗和商业服务][cities provide seamless transportation, healthcare, and commercial services].
@@ -61,7 +61,7 @@ That is to say, [尽管乡村生活可能适合养老或短期放松，但都市
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that [都市生活因其便利性、职业机会和教育资源而更可取][urban living is a more desirable choice thanks to its convenience, career opportunities, and educational resources].
-
+(216words)
 2.
 The mass media (mass communication) including TV, Radio and newspaper influence our society and shape our opinions and characters. What is your opinion?
 Information revolution has changed the way of mass communications and had some negative and positive effects on individual lives as well as on society. To what extent do you agree or disagree?
@@ -92,7 +92,7 @@ That is to say, [尽管媒体有潜在缺点，但它在传播知识方面的作
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that [大众媒体在塑造知情社会方面发挥着关键作用][mass media plays a pivotal role in shaping a well-informed society].
-
+(209words)
 3.
 Should marketing for consumer goods companies like clothing and food focus on reputation or on short term strategies like discount and special offers? Why?
 消费品（服装/食品）营销应注重品牌声誉还是短期促销？
@@ -1098,23 +1098,41 @@ Technology has made the world a better place to live. To what extent do you agre
 才能实现更为公平、普惠的人类发展。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [科技是否让世界变得更美好] has sparked widespread debate.
-There has been a heated debate on whether [技术进步最终改善了人类生活].
-From my perspective, I tend to be the advocate for a [持平衡视角，既肯定其带来的深远益处，也承认其伴随的重大挑战].
+In recent years, the topic of [科技是否让世界变得更美好][whether technology has made the world a better place] has sparked widespread debate.
+There has been a heated debate on whether [技术进步最终改善了人类生活][technological advancements have ultimately ameliorated human life].
+From my perspective, I tend to be an advocate for a [持平衡视角，既肯定其带来的深远益处，也承认其伴随的重大挑战][balanced perspective that acknowledges its profound benefits while recognizing the substantial challenges it entails].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [科技带来了深刻的改善].
-This is because [它极大促进了沟通、医疗和信息获取].
-To illustrate this, [互联网和疫苗的发展] are convincing examples—connecting people globally and eradicating diseases like smallpox.
-As a result, [技术前所未有地延长了预期寿命、减少了贫困并推动了教育普及].
+It is evidently reasonable for me to believe that [科技带来了深刻的改善][technology has brought about profound improvements].
+This is because [它极大促进了沟通、医疗和信息获取][it has drastically facilitated communication, healthcare, and access to information].
+To illustrate this, [互联网和疫苗的发展][the development of the Internet and vaccines] are convincing examples—connecting people globally and eradicating diseases like smallpox.
+As a result, [技术前所未有地延长了预期寿命、减少了贫困并推动了教育普及][technology has unprecedentedly prolonged life expectancy, alleviated poverty, and propelled the democratization of education].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [科技引发了隐私侵蚀、就业替代和环境危害等新问题]. 
-Nevertheless, this argument does not hold water if we consider [人类的主观能动性与伦理创新].
-It should be pointed out that [这些问题并非源于技术本身，而源于社会如何选择发展和监管技术]. 
-That is to say, [通过负责任的治理和包容性设计，技术可以被引导以缓解其自身的负面影响].
+In contrast, it is commonly believed as a fact that [科技引发了隐私侵蚀、就业替代和环境危害等新问题]
+[technology has engendered novel issues such as privacy erosion, job displacement, and environmental degradation]. 
+Nevertheless, this argument does not hold water if we consider [人类的主观能动性与伦理创新][human agency and ethical innovation].
+It should be pointed out that [这些问题并非源于技术本身，而源于社会如何选择发展和监管技术]
+[these problems stem not from the technology itself, but from how society chooses to develop and regulate it]. 
+That is to say, [通过负责任的治理和包容性设计，技术可以被引导以缓解其自身的负面影响]
+[through responsible governance and inclusive design, technology can be steered to mitigate its own adverse impacts].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[科技整体上让世界变得更美好，但其益处并非自动实现或均匀分布。关键在于确保技术进步由智慧、公平和对公共福祉的承诺所引导，而非仅仅受利润或便利驱动].
+[科技整体上让世界变得更美好，但其益处并非自动实现或均匀分布。关键在于确保技术进步由智慧、公平和对公共福祉的承诺所引导，而非仅仅受利润或便利驱动]
+[technology has overwhelmingly made the world a better place, yet its benefits are neither automatically guaranteed nor evenly distributed. 
+The key lies in ensuring that technological progress is guided by wisdom, equity, and a commitment to the public good, rather than being driven solely by profit or convenience].
+--
+核心提分词汇与搭配（PTE加分项）：
+ameliorated（改善/改良）：替代 improved 的终极高分动词。
+acknowledges its profound benefits while recognizing the substantial challenges it entails（既肯定其带来的深远益处，也承认其伴随的重大挑战）：完美的平衡视角表达，句型工整且极具思辨色彩。
+democratization of education（教育普及）：满分词组！ democratization 在这里指“大众化/平民化/普及”，比 popularization 高级且地道得多。
+engendered novel issues（引发了新问题）：engender（产生/引起）是替代 cause 或 create 的高阶学术词汇。
+privacy erosion, job displacement, and environmental degradation（隐私侵蚀、就业替代和环境危害）：科技负面影响的满分排比结构，用词极其专业！
+human agency（人类的主观能动性）：社会学和哲学领域的 T0 级别神词！指人类独立思考并采取行动的能力，机器识别到必给高分。
+inclusive design（包容性设计）：当代科技伦理学里的高频专有名词。
+steered to mitigate its own adverse impacts（被引导以缓解其自身的负面影响）：steer (引导/驾驶) 和 mitigate (缓解/减轻) 的组合非常精彩。
+overwhelmingly（压倒性地/整体上）：副词，加强语气，替代 generally。
+evenly distributed（均匀分布）：探讨社会资源、科技红利时常用的经济学/社会学词组。
+a commitment to the public good（对公共福祉的承诺）：在总结段拔高立意，完美收尾。
 
 30.
 Design of buildings have positive or negative impact on people’s life and work?
@@ -1125,23 +1143,43 @@ Design of buildings have positive or negative impact on people’s life and work
 而其价值最终取决于是否以人为本、功能优先，而非停留于表面形式。
 --
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [建筑设计] has sparked widespread debate.
-There has been a heated debate on whether [建筑设计对人们的生活和工作产生积极还是消极影响].
-From my perspective, I tend to be the advocate that [用心的设计具有积极影响，尽管糟糕的设计可能有害].
+In recent years, the topic of [建筑设计][architectural design] has sparked widespread debate.
+There has been a heated debate on whether [建筑设计对人们的生活和工作产生积极还是消极影响][architectural design exerts a positive or negative impact on people's lives and work].
+From my perspective, I tend to be an advocate [用心的设计具有积极影响，尽管糟糕的设计可能有害][for the view that thoughtful design yields positive impacts, although poor design can be detrimental].
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [设计良好的建筑能显著提升日常生活质量].
-This is because [自然光、高效的空间规划和绿化区域等要素能直接改善情绪、健康和工作效率].
-To illustrate this, [现代工作场所广泛采用的共享办公室和大窗户] is a convincing example.
-As a result, [在此类环境中工作的员工通常表现出更高的满意度和更好的专注力，这证明了设计带来的实际益处].
+It is evidently reasonable for me to believe that [设计良好的建筑能显著提升日常生活质量][well-designed buildings can significantly elevate the quality of daily life].
+This is because [自然光、高效的空间规划和绿化区域等要素能直接改善情绪、健康和工作效率]
+[elements such as natural illumination, efficient spatial planning, and green zones can directly enhance psychological well-being, physical health, and occupational productivity].
+To illustrate this, [现代工作场所广泛采用的共享办公室和大窗户][the widespread adoption of open-plan offices and expansive windows in modern workplaces] is a convincing example.
+As a result, [在此类环境中工作的员工通常表现出更高的满意度和更好的专注力，这证明了设计带来的实际益处]
+[employees working in such environments typically exhibit higher satisfaction and better concentration, substantiating the tangible benefits brought about by design].
 第三段：让步反驳段
-In contrast, it is commonly believed as a fact that [设计仅关乎美观，并不影响实际效果].
+In contrast, it is commonly believed as a fact that [设计仅关乎美观，并不影响实际效果][architectural design pertains solely to aesthetics and exerts no influence on practical efficacy].
 Nevertheless, this argument does not hold water when examining the evidence of poorly planned spaces.
-It should be pointed out that [缺乏通风、自然光或安全设施的建筑物可能导致健康问题、团队士气低落和生产力下降].
-That is to say, [设计并非表面问题，而是影响功能福祉的关键因素].
+It should be pointed out that [缺乏通风、自然光或安全设施的建筑物可能导致健康问题、团队士气低落和生产力下降]
+[structures devoid of adequate ventilation, natural light, or safety amenities can trigger health complications, diminish team morale, and degrade productivity].
+That is to say, [设计并非表面问题，而是影响功能福祉的关键因素][design is not a superficial concern, but a critical determinant affecting functional well-being].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[建筑设计对人们的生活和工作具有显著的积极影响力，前提是设计应优先考虑人的需求、可持续性和功能性，而非仅仅注重外观].
+[建筑设计对人们的生活和工作具有显著的积极影响力，前提是设计应优先考虑人的需求、可持续性和功能性，而非仅仅注重外观]
+[architectural design exerts a remarkably positive influence on people's lives and work, provided that the design prioritizes human needs, sustainability, and functionality rather than merely focusing on superficial appearance].
+--
+核心提分词汇与搭配（PTE加分项）：
+exerts a positive or negative impact（产生积极或消极影响）：exert an impact on 是比 have an impact on 高级得多的学术动宾搭配。
+thoughtful design（用心的设计/周到的设计）：设计领域的绝佳形容词搭配。
+detrimental（有害的/不利的）：完美替代简单的 harmful 或 bad。
+natural illumination（自然光）：illumination (照明/光照) 是 light 的高级学术替换。
+efficient spatial planning（高效的空间规划）：建筑学与室内设计领域的极品专业词汇。
+occupational productivity（工作/职业效率）：比写 work efficiency 显得更加专业。
+expansive windows（大窗户）：用 expansive (广阔的/宽敞的) 替代普通的 big。
+substantiating the tangible benefits（证明了实际益处）：满分句型！ substantiate (证实/证明) 搭配 tangible benefits (切实可见的好处)，能直接震撼评分系统！
+pertains solely to aesthetics（仅关乎美观）：pertain to (关于/涉及) 和 aesthetics (美学/美观) 是极高阶的学术词汇组合。
+structures devoid of...（缺乏...的建筑物）：be devoid of (缺乏/没有) 替代简单的 lack；用 structures 替代上一段用过的 buildings 以增加词汇多样性。
+safety amenities（安全设施）：比 safety facilities 更地道。
+a critical determinant（关键的决定因素）：PTE 议论文中解释事物重要性时的王牌名词。
+functional well-being（功能性福祉/实际层面的健康与舒适）：社会学与设计学交叉领域的词汇。
+provided that（前提是）：在结论句中用来引出条件，比 if 更具正式的学术严谨感。
 
 31.
 Parents should be held legally responsible for children’s acts. What is your opinion? Support it with personal examples.
@@ -1152,23 +1190,37 @@ Parents should be held legally responsible for children’s acts. What is your o
 其根本目的在于通过合理追责促进家庭教育的尽责履行，而非实施普遍性惩罚。
 --
 第一段：重述背景与观点
-In recent years, the topic of [父母对子女行为的法律责任] has sparked widespread debate.
-There has been a heated debate on whether [这种做法是否公平或有效].
-From my perspective, I tend to support [有限度的法律责任，主要适用于明显监护失职或造成严重伤害的情况].
+In recent years, the topic of [父母对子女行为的法律责任][parental legal liability for children's conduct] has sparked widespread debate.
+There has been a heated debate on whether [这种做法是否公平或有效][this practice is fair or effective].
+From my perspective, I tend to support [有限度的法律责任，主要适用于明显监护失职或造成严重伤害的情况][limited legal liability, primarily applicable in cases of blatant supervisory negligence or severe harm].
 第二段：观点论述
-It is evidently reasonable for me to believe that [父母应承担一定责任].
-This is because [他们通过引导和监管塑造孩子的行为].
-To illustrate this, [若儿童屡次破坏公共财产，让父母介入处理行为并安排赔偿] is a practical example.
-As a result, [这更侧重于教育和社区责任，而非单纯归咎].
+It is evidently reasonable for me to believe that [父母应承担一定责任][parents should bear a certain degree of accountability].
+This is because [他们通过引导和监管塑造孩子的行为][they shape their children's behavior through consistent guidance and supervision].
+To illustrate this, [若儿童屡次破坏公共财产，让父母介入处理行为并安排赔偿][the scenario where parents are required to intervene and arrange compensation when a child repeatedly vandalizes public property] is a practical example.
+As a result, [这更侧重于教育和社区责任，而非单纯归咎][this approach focuses predominantly on rehabilitation and community responsibility rather than mere punitive blame].
 第三段：让步反驳
-In contrast, it is commonly believed as a fact that [儿童拥有自由意志，父母无法控制其所有行为]. 
-Nevertheless, this argument does not hold water when considering [极端监护失职的情况].
-It should be pointed out that [若因父母疏于监管导致严重伤害，法律追责就成为保障公共安全的必要手段]. 
-That is to say, [法律应区分普通的儿童顽皮行为与父母失职直接导致伤害的情形].
+In contrast, it is commonly believed as a fact that [儿童拥有自由意志，父母无法控制其所有行为][children possess free will, and parents are incapable of controlling all of their actions]. 
+Nevertheless, this argument does not hold water when considering [极端监护失职的情况][cases of extreme supervisory negligence].
+It should be pointed out that [若因父母疏于监管导致严重伤害，法律追责就成为保障公共安全的必要手段][if severe harm occurs due to parental negligence, enforcing legal accountability becomes an essential measure for safeguarding public safety]. 
+That is to say, [法律应区分普通的儿童顽皮行为与父母失职直接导致伤害的情形][the legal system should distinguish between ordinary childhood mischief and situations where parental dereliction of duty directly leads to injury].
 第四段：总结
 In a nutshell, due to the mentioned reasons, 
 we may safely reach the conclusion that 
-[父母法律责任应有明确范围，旨在通过促进尽责教养来预防伤害，而非广泛惩罚家庭].
+[父母法律责任应有明确范围，旨在通过促进尽责教养来预防伤害，而非广泛惩罚家庭]
+[parental legal liability should entail a well-defined scope, aiming to prevent harm by promoting conscientious parenting rather than broadly penalizing families].
+--
+核心提分词汇与搭配（PTE加分项）：
+parental legal liability for children's conduct（父母对子女行为的法律责任）：法学领域的绝对标准表达，完美翻译了题目核心。
+blatant supervisory negligence（明显的监护失职）：满分词组！ blatant（公然的/明显的）和 supervisory negligence（监护疏忽/失职）结合，展现了极强的法律英语素养。
+bear a certain degree of accountability（承担一定程度的责任）：用 accountability（问责/责任）替代 responsibility，更符合法律语境。
+vandalizes public property（破坏公共财产）：vandalize 是描述恶意破坏公物时的专有高级动词。
+rehabilitation / punitive blame（教育恢复 / 惩罚性责备）：rehabilitation 在法律和社会学中特指“康复/行为矫正/教育”，与 punitive（惩罚性的）形成极佳的学术对比。
+incapable of controlling（无法控制）：替代简单的 cannot control。
+safeguarding public safety（保障公共安全）：PTE 议论文中探讨社会政策时的王牌动宾搭配。
+childhood mischief（儿童的顽皮行为）：mischief（恶作剧/顽皮）精准地描绘了小孩非恶意的捣蛋行为。
+parental dereliction of duty（父母失职）：dereliction of duty 是法律和正式文书中的顶级词汇，指“玩忽职守/严重失职”。
+entail a well-defined scope（有明确的范围）：entail（牵涉/需要）和 well-defined（界定清晰的）组合，显得严谨专业。
+conscientious parenting（尽责的教养）：conscientious（认真的/尽责的）是极好的高级形容词，完美概括了“尽责教养”。
 
 32.
 Which one is better, Textbook library or new digital material in university.
@@ -1176,48 +1228,88 @@ With the increase of digital media available online, the role of the library has
 Universities should only procure digital materials rather than constantly textbooks. 
 Discuss both the advantages and disadvantages of this position and give your own point of view.
 大学里，教材图书馆和新数字资源哪一种更好？
-
+--
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [大学学习资源的选择] has sparked widespread debate.
-There has been a heated debate on whether [传统图书馆教材更好，还是新型数字材料更优].
-From my perspective, I tend to be the advocate of digital materials regarding this issue.
+In recent years, the topic of [大学学习资源的选择][the selection of university learning resources] has sparked widespread debate.
+There has been a heated debate on whether [传统图书馆教材更好，还是新型数字材料更优][traditional library textbooks are superior, or if novel digital materials are more advantageous].
+From my perspective, I tend to be an advocate of digital materials regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [数字材料更好].
-This is because [数字材料能提供更高效、更灵活的学习方式，学生可以随时随地获取最新信息].
+It is evidently reasonable for me to believe that [数字材料更好][digital materials are highly preferable].
+This is because [数字材料能提供更高效、更灵活的学习方式，学生可以随时随地获取最新信息]
+[they offer a more efficient and flexible learning modality, allowing students to access the most up-to-date information anytime and anywhere].
 To illustrate this, my personal experience is a convincing example.
-上学期我通过电子数据库查阅了多篇最新论文，顺利完成课题，而纸质书籍更新很慢，很多信息已经过时。
-As a result, [数字材料大大提升了大学生的学习效率和知识获取速度].
+[上学期我通过电子数据库查阅了多篇最新论文，顺利完成课题，而纸质书籍更新很慢，很多信息已经过时]
+[Last semester, I successfully completed my research project by consulting numerous recent papers through electronic databases, whereas physical books are updated slowly and often contain obsolete information].
+As a result, [数字材料大大提升了大学生的学习效率和知识获取速度]
+[digital resources significantly enhance university students' learning efficiency and the velocity of knowledge acquisition].
 第三段：让步反驳段（反方观点+观点2/反驳）
-In contrast, it is commonly believed as a fact that [传统图书馆教材更加可靠，有助于深度阅读和专注学习，避免电子设备的干扰].
+In contrast, it is commonly believed as a fact that [传统图书馆教材更加可靠，有助于深度阅读和专注学习，避免电子设备的干扰]
+[traditional library textbooks are more reliable, conducive to in-depth reading and focused study, and free from the distractions of electronic devices].
 Nevertheless, this argument does not hold water.
-It should be pointed out that [数字材料同样可以通过护眼模式、离线阅读和专注软件来减少干扰，而且图书馆教材数量有限，多人争抢一本，反而浪费时间].
-That is to say, [数字材料在便利性和可获取性上远超纸质书，而专注力问题可以通过学习方法和管理来解决，并非数字材料本身的缺陷].
+It should be pointed out that [数字材料同样可以通过护眼模式、离线阅读和专注软件来减少干扰，而且图书馆教材数量有限，多人争抢一本，反而浪费时间]
+[digital materials can equally minimize distractions through eye-care modes, offline reading, and focus-enhancing software. 
+Moreover, the limited quantity of library textbooks often leads to multiple students competing for a single copy, which paradoxically wastes time].
+That is to say, [数字材料在便利性和可获取性上远超纸质书，而专注力问题可以通过学习方法和管理来解决，并非数字材料本身的缺陷]
+[digital materials far surpass physical books in terms of convenience and accessibility, and concentration issues can be resolved through effective learning strategies and self-management rather than being an inherent flaw of the digital medium itself].
 第四段：总结段落
 In a nutshell, due to the mentioned reasons, 
-we may safely reach the conclusion that [在大学中，新型数字材料比传统图书馆教材更值得推广].
+we may safely reach the conclusion that [在大学中，新型数字材料比传统图书馆教材更值得推广]
+[novel digital materials are far more worthy of promotion in universities than traditional library textbooks].
+--
+核心提分词汇与搭配（PTE加分项）：
+novel digital materials（新型数字材料）：用 novel（新颖的/新型的）修饰，比用 new 显得学术词汇量更大。
+learning modality（学习方式/模式）：教育学专有名词，完美替换简单的 learning way。
+consulting numerous recent papers（查阅多篇最新论文）：在学术英语中，查阅文献最地道的动词是 consult。
+obsolete information（过时的信息）：满分词组！ obsolete（废弃的/过时的）比 outdated 级别更高，是极其标准的书面词汇。
+velocity of knowledge acquisition（知识获取速度）：用 velocity 替代 speed，让整个句子的学术感瞬间拉满。
+conducive to in-depth reading（有助于深度阅读）：conducive to（对...有益）是议论文中的常客搭配。
+paradoxically（自相矛盾地/反而）：高级副词，精妙地翻译了中文里的“反而”，向机器展示了你极强的逻辑转折表达能力。
+surpass（超越/超过）：替代 are better than，动词更加有力。
+inherent flaw（本身的缺陷/内在缺陷）：探讨事物优缺点时的顶级名词搭配。
+worthy of promotion（值得推广）：在结尾段给出政策性或趋势性的建议时，极其地道的结尾搭配。
 
 33.
 When people need to complain about a product or a service, some prefer to complain in writing while others prefer to complain in person. Which way do you prefer?
 当人们需要抱怨产品或服务时，有些人喜欢书面投诉，而另一些人喜欢亲自投诉。你喜欢哪种方式？
 第一段：重述背景与题目+表明观点
-In recent years, the topic of [如何抱怨不满意的产品或服务][how to complaining about unsatisfactory products or services] has sparked widespread debate. 
+In recent years, the topic of [如何抱怨不满意的产品或服务][how to complain about unsatisfactory products or services] has sparked widespread debate. 
 There has been a heated debate on whether [人们更喜欢以书面形式还是亲自投诉][people prefer to make complaints in writing or in person]. 
-From my perspective, I tend to be the advocate regarding this issue and prefer written complaints.
+From my perspective, I tend to be an advocate for [书面投诉][written complaints] regarding this issue.
 第二段：观点1论述与解释
-It is evidently reasonable for me to believe that [这是一种更好的抱怨方式][this is a better way to complain].
-This is because [书面投诉可以保持清晰的记录，并为未来的权利保护提供坚实的证据][written complaints can keep clear records and serve as solid evidence for future rights protection].
+It is evidently reasonable for me to believe that [这是一种更好的抱怨方式][this is a better way to complain][this is a far superior method of lodging a complaint].
+This is because [书面投诉可以保持清晰的记录，并为未来的权利保护提供坚实的证据][written complaints can keep clear records and serve as solid evidence for future rights protection]
+[written complaints maintain a clear paper trail and serve as solid evidence for safeguarding consumer rights in the future].
 To illustrate this, my personal experience is a convincing example. 
-I once filed a written complaint about a defective commodity, and the detailed written content made the merchant admit their responsibility quickly. 
 [我曾经书面投诉过一个有缺陷的商品，详细的书面内容让商家很快承认了他们的责任]
-As a result, [我有效地解决了这个问题，没有出现不必要的争执][I solved the problem efficiently without unnecessary disputes].
+[I once filed a written complaint about a defective commodity, and the detailed written content made the merchant admit their responsibility quickly]. 
+[I once filed a written complaint about a defective commodity, and the comprehensive written documentation compelled the merchant to promptly acknowledge their liability].
+As a result, [我有效地解决了这个问题，没有出现不必要的争执][I solved the problem efficiently without unnecessary disputes]
+[I resolved the issue efficiently while averting any unnecessary verbal disputes].
 第三段：让步反驳
-In contrast, it is commonly believed as a fact that [当面抱怨可以直接沟通，并得到即时的反馈][complaining in person can communicate directly and get immediate feedback]. 
+In contrast, it is commonly believed as a fact that [当面抱怨可以直接沟通，并得到即时的反馈][complaining in person can communicate directly and get immediate feedback]
+[complaining in person facilitates direct communication and elicits immediate feedback]. 
 Nevertheless, this argument does not hold water. 
-It should be pointed out that [面对面的抱怨可能会导致情绪冲突，并且没有留下有效的证据][face-to-face complaints may cause emotional conflicts and leave no valid proof]. 
-That is to say, [人们可能会冲动地争论，而不能为进一步的谈判保留有用的证据][people may argue impulsively and fail to keep useful evidence for further negotiation].
+It should be pointed out that [面对面的抱怨可能会导致情绪冲突，并且没有留下有效的证据][face-to-face complaints may cause emotional conflicts and leave no valid proof]
+[face-to-face confrontations frequently trigger emotional conflicts and fail to leave any legally valid proof]. 
+That is to say, [人们可能会冲动地争论，而不能为进一步的谈判保留有用的证据][people may argue impulsively and fail to keep useful evidence for further negotiation]
+[individuals might argue impulsively, thereby failing to preserve the concrete evidence required for further negotiations].
 第四段：总结
 In a nutshell, due to the mentioned reasons,
-we may safely reach the conclusion that [书面投诉比亲自投诉更可靠、更实际][making complaints in writing is more reliable and practical than complaining in person].
+we may safely reach the conclusion that [书面投诉比亲自投诉更可靠、更实际][making complaints in writing is more reliable and practical than complaining in person]
+[submitting complaints in writing is a significantly more reliable and practical approach than confronting service providers in person].
+--
+核心提分词汇与搭配（PTE加分项）：
+lodging a complaint（提出投诉）：比简单的 making a complaint 更加正式、高级，是商业法律领域的标准用词。
+maintain a clear paper trail（保持清晰的书面/文件记录）：满分商业俗语！ paper trail 指的是“书面证据/记录追踪”，地道且极其高级。
+safeguarding consumer rights（保护消费者权益）：safeguard（捍卫/保护）是 protect 的完美升级替换。
+defective commodity（有缺陷的商品）：保留了你原本使用的好词，defective 是描述产品质量问题的绝佳词汇。
+comprehensive written documentation（详细/全面的书面文件）：替代了 detailed written content，学术感更强。
+acknowledge their liability（承认他们的责任）：在商业和法律语境中，用 liability（法律责任）替代 responsibility 非常专业。
+averting（避免/防止）：avert 是替代 avoid 的高阶动词。
+facilitates direct communication（促进直接沟通）：动词 facilitate 是大作文的提分利器。
+elicits immediate feedback（得到/引出即时反馈）：用 elicit（引出/探出）替代简单的 get。
+face-to-face confrontations（面对面的对峙/冲突）：confrontation 精准地描绘了当面投诉时容易产生的对立局面。
+preserve the concrete evidence（保留具体的证据）：preserve (保留) + concrete evidence (铁证/具体证据)，逻辑严密，用词满分。
 
 --18.[report]
 Governments and international institution are faced with many global problems. 
