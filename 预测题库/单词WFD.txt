@@ -1,150 +1,247 @@
 wfd:
-professions     行业/ 职业/ 专业
-architecture    建筑设计 
+entry into              进入
+professions             行业 /职业 /专业
+architecture            建筑 /建筑学 /架构 
 architectural structure 建筑结构
-auditorium      礼堂/观众席
-philosophy      哲学
-experimental    实验性的
-chemically      化学的
-laboratory manual 实验室手册
-thoroughly thorough 完全地
-throughout      贯穿整个时期
-complaint form  投诉表格 
-presentation    典礼/仪式
-participation participating 参与
-undoubtedly     毫无疑问
-limitations     限制
-planets         星球
-foundation      基础
-challenge       挑战
-punctuality     准时性
-punctually      准时地
-promptly        准时地
-emotions        情感
-Photography     摄影
-geographical    地理的 
-Geography       地理
-mixture         混合物
-compound        化合物
-separate        独立的
-protective      防护
-continuous      持续 
-continue        继续/ 延续
-unpredictable   不可预测的
-tutorials       教程
-ample           充足的
-calories        卡路里
-nutritional value 营养价值
-stationery      文具
-seminar         研讨会
-scientific      科学的
-comprehensive   综合的
-comprising      包含/ 由……组成
-simplified      简化
-advised         通知/告知/劝告
-despite         尽管
-characteristics 特征
-elaborated      精心的
-semester        学期
-perspectives    透视/观点/看法
-failure         失败
-Statistical     统计学的 
-statistics      统计学/ 统计数据
-circumstances   环境/境况
-antibiotics     抗生素
-inflation       通货膨胀
-permitted       允许
-demand          需求
-faculty board   全体教员委员会 
-faculty office  学院办公室
-happens with    发生在……身上
-fails           衰退/出现问题
-foliage suffers 树叶受损
-abstract        摘要
-involves        涉及
-combination     结合
-applied mathematics 应用数学
-traditional     传统的
-classical       经典的
-journalism      新闻学
-marine          海洋的
-pollution       污染
-unsustainable   不可持续的
-diseases        疾病
-eradicated      消灭
-destroyed       破坏
-serious         严重的/ 危急的
-compete with    争夺
-inadequately    不适当地
-implemented     实施
-industries      行业
-steadily        稳步地
-incorporating   合并的
-scholarship     奖学金
-behaviors       行为
-seminars        研讨会
-perception      看法
-believed        认为/ 相信
-automatically   自然地/ 自动地
-construction    建造/建筑/构建/创立
-interior        内部的
-a variety of    各种各样的
-habitats        栖息地 
-species         物种
-hydrogen        氢气
-atoms           原子
-criticized      批评 
-critical        批判的
-causing         产生/导致
-addiction       成瘾/ 入迷
-opportunities   机会
-spread out      分布
-commitments     承诺/保证/不得不做的事 
-commissioner    首长/ 长官
-crops           农作物
-fertilizer      肥料
-acquire         获得
-limitations     局限性
-technologies    技术 
-techniques      技术/ 方法/ 技巧
-designed to     旨在
-unique approach 独特的方法
-pharmacy        药店
-temperature     温度
-transcended     超越/ 超过
-boundaries      边界
-massive         大量的
-accumulation    积累
-converted into  转变成
-communicable    可传达的
-argument        论点
-assessment      评估
-gallery         美术馆
-anonymous       匿名的
-donation        捐赠
-proportion      部分/份额/比例 
-portion         一部分/ 分配
-apportion       分配/ 分派/ 分摊
-postgraduate    研究生
-cafeteria       自助食堂
-fellow          同伴/ 同事/ 同学
-stressed        强调/ 着重/ 重读/ 焦虑的/ 紧张的
-correlation     相互关系/ 关联/ 相关量
-variables       变量
-accommodation   住宿
-monitor         监视/ 监听
-attendance      出席/ 出勤/ 考勤情况
-Strangely       奇怪地/ 奇妙地
-simultaneously  同时地
-skeptical       不相信的/ 持怀疑态度的
-regard          认为/ 把……看作
-reforming       改正/ 改造（行为）/ 改革/ 改进
-Industrial Revolution  工业革命
-reforms         改革
-zeal            热情/ 热忱
-recklessness    鲁莽/ 轻率/ 不顾一切
-candidates      候选人
-qualified       有资格的/ 胜任的
+auditorium              礼堂 /观众席
+aspects                 方面 /体 /样子 /面貌
+a/the combination of    ...的结合
+philosophy              哲学 /哲理 /自然哲理 /理念
+experimental procedures 实验步骤
+chemically              以化学方法
+chemical reactions      化学反应
+laboratory manual       实验室手册
+lounge                  休息室 /休息厅 /贵宾厅 /酒廊
+tough                   坚韧 /强硬 /吃苦耐劳 /硬朗
+thoroughly              彻底地 /摸底 /十分地 /充分地
+thorough                彻底的 /深入 /完全的 /详尽的
+throughout              贯穿整个时期 /遍及 /纵观 /贯穿 /自始至终
+facial expressions      面部表情
+complaint form          投诉表格
+present                 现在 /礼物 /目前的 /出席的 /出示
+presentation            典礼 /仪式 表现 /情况介绍 /新课呈现 /介绍 /演示文稿
+participation           参与 /出勤 /参加 /分享
+participate in          参与 /参加 /分享 /分担
+final grade             最后一年级 /最终成绩 /最终等级 /末级       
+undoubtedly             无疑 /毫无疑问 /无庸置疑地 /必定
+without doubt           无疑地；确实地
+limitation              限制，制约 /局限性 /边界 /缺陷
+probably                大概 /很可能 /没准 /可能
+planets                 星球
+engage                  吸引 /从事 /雇用 /使从事于
+foundation              基金会 /基础 /粉底 /地基
+dealing with            对待 /应对 /关于
+challenge               挑战 /难题 /叫板 /挑战赛 /擂台
+punctuality             准时 /守时 /正点 /论守时
+punctually              准时地 /守时地 /毁掉 /消灭
+promptly                立即 /敏捷地
+shape ... emotions      塑造 ... 的情感 /喜怒哀乐 /个人感情 /情绪
+used to be              曾当过 /过去一向 /曾经是
+photography             摄影 /摄影术 /摄影学 /摄影壁纸
+geographical            地理的 /区域的 /地理学的 
+geography               地理学 /地理 /地舆 /地舆学
+mixture                 混合物 /混合 /合剂 /混并织物
+compound                合成词 /化合物 /复合词 /复合的
+the compound of         ...的化合物
+separate parts          分开的部分 /独立的部分
+protective              保护的 /防护的 /给予保护的 /保护伞
+operate                 操作 /经营 /运作 /运转
+continuous              连续 /持续 /续不断 /连续不断的 
+continuous assessments  连续评估：一种教育考试形式，它在整个规定课程期间评估学生的进展。
+continue                继续 /连续 /继续游戏 /继续循环
+unpredictable           莫测 /不可预知的 /变化莫测 /难以捉摸
+tutorial                教程 /助教的辅导 /指南 /辅导课
+optional tutorials      可选的教程
+elective course         选修课 /选修课程 /选修科目
+ample                   充足的 /足够的 /宽敞的 /许多
+calories                卡路里 /热量 /热卡
+nutritional value       营养价值
+a range of              一些 /一套 /许多的
+stationery              文具 /信笺 /信纸 /文具用品
+seminar                 研讨会 /研讨班 /讨论会 /讲座
+semester                学期
+due                     到期 /预期的 /所致
+be due by               截止日期
+a great deal of         大量的
+debate                  辩论 /争论 /讨论 /议论
+scientific              科学的 /科学化 /科学报告 /科学美国人
+scientific papers       科学论文
+comprehensive           全面 /综合的 /广泛的 /综合性
+comprising              包含/ 由……组成 /包括 /组成 /构成
+simplified              简易 /简化的 /简体中文 /简单
+advised                 建议 /忠告 /通知
+despite                 尽管如此 /尽管 /不管 /不顾
+all forms of            ……的所有形式
+characteristics         特征 /特性 /特色 /特点
+share certain characteristics   具有某些共同特征：指两个或多个事物之间存在某些相似之处或共同点。
+stages                  v.计划；表演；分阶段进行 n.舞台；戏剧表演
+elaborated              详尽的  /复杂的 /精心的 /精美的
+perspectives            透视 /观点/ 看法 /视角
+failure                 失败 /失效 /故障 /未考好
+organization failure    组织失灵
+literature              文学 /文献 /文学 /印刷品 /著述；印刷品，宣传品
+statistical             统计的 /统计学的
+statistic               n. 统计数字，统计资料；统计学（statistics）；（一项）统计数据; adj. 统计的，统计学的
+circumstance            环境 /情况 /境遇 /条件
+antibiotics             抗生素 /抗菌素 /抗菌药物
+training course         培训班 /培训课程 /实习课
+inflation               通货膨胀
+rising inflation rate   通货膨胀率上升
+indicate                表明，标示；象征，暗示；间接提及，示意；指示，指出
+indicates a decrease    表示减少
+permit                  许可证 /允许 /许可 /准许
+is not permitted        是不允许的
+demand for              对 ...的需求 /要求 /需求量
+faculty board           教务委员会 
+faculty office          教职员工办公室
+lecture outlines        讲义
+open to new idea        接受新思想
+effective               有效 /有影响的 /起作用的 /生预期结果的，有效的；实际的，事实上的
+happens with            发生在……身上
+fails                   衰退/ 出现问题 /失败 /未通过 /名字 /爽约
+foliage suffers         树叶受损 /叶子会受到影响
+abstract                摘要 /抽象的 /文摘 /抽象派
+structure               结构 /构造 /建筑物 /鞋型
+highlight               强调 /加精 /重头戏
+involve                 涉及 /使卷入 /牵涉 /包含
+applied mathematics     应用数学
+have advantages over    比……更有优势：在某些方面比另一个人或事物更具优势
+traditional             传统的 /惯例的 /爱守成规 /繁体
+classical               古典的 /古典音乐 /经典 /传统的
+new media               新媒体 /新媒介 /新传媒 /网络传播
+journalism              新闻 /新闻业 /报刊 /新闻专业
+marine                  海军陆战队 /海的 /海产的 /机枪兵
+marine environments     海洋环境 /洋环境 /海洋
+pollution               污染 /公害 /玷污 /环境污染    
+unsustainable           不可持续的
+once                    曾经 /一次 /一旦 /过去
+diseases                疾病
+eradicate               根除 /连根拔除 /铲除 /扑灭
+destroyed               破坏 /毁掉 /毁于一旦 /摧垮 /毁坏
+destroyed by            被...破坏
+serious                 严重的/ 危急的 /严重 /认真 /正经
+compete with            与……竞争 /一较高下 /竞赛 /与谁竞争 /较高下 
+educational reforms     教育改革
+inadequately            不适当地；不够好地 /不够地 /不足地
+implement               实现 /完成 /贯彻 /执行
+inadequately implemented没有得到充分实施
+consist of              由……组成 /由…组成 /由…构成
+processes               过程 /流程 /进程 /操作
+steadily                稳步 /稳稳 /稳中有升 /节节 /逐渐地，稳步地；不变地，稳定地；冷静地，镇定地；固定地，牢固地
+incorporate             包含 /混合 /合并 /使加入 /结合 /收编
+collection of           收藏，一系列
+take the first step by  现在就 /迈出第一步
+scholarship             奖学金；学问，学术
+be concerned with       关心 /从事于 /担心 /挂念 /关注 /担忧 /涉及
+be considered by        被考虑为
+behavior                反应 /性能 /行为习惯
+request for late applications   申请逾期
+perception              看法 /认知 /感知 /感觉 /悟性
+under any circumstances 在任何情况下 /在无论何种情况下
+carry out               完成 /实现 /执行 /实行 /执行，实施
+automatically           自动的 /自然而然 /无意识的 /不自觉的
+play an important role  起重要作用 /发挥重要作用
+there is a widely believed perception that  人们普遍认为
+construction            建造 /建筑 /构建 /创立
+construction practices  施工做法 /施工实践
+could be                可能是 /可能的 /可以是 /有可能
+interior                内部的 /内部 /内饰 /室内设计 /室内
+staff training          员工培训 /全培训 /职员培训 /人员培训
+a variety of            各种各样的 /种种 /一些 /多种多样的 /一种
+habitat                 栖息地 /动物栖地 /生境
+species                 物种 /种 /种类 /异种 /类
+oxygen                  氧 /氧气 /强氧 /纯氧
+hydrogen                氢，氢气
+atoms                   原子 /元子 /元素 /字符串
+be criticized for       因……而受到批评
+critical                批判的 /关键的 /严重的 /病重的 /临界的 /危急的
+causing                 产生 /导致 /造成 /引起
+addiction               成瘾 /上瘾 /成瘾性 /烟瘾
+Internet addiction      网瘾
+opportunity             机会 /机遇 /机遇号 /时机
+great career opportunity良好的职业发展机会
+considering a career in 考虑从事某个职业
+develop a career        发展职业
+be produced from        产生于 
+produce                 引起，造成；（自然地）生产，产生；（尤指用机器）生产，制造
+extracted from          从……中提取
+spread out              分布 /分散开来 /打开、摊开 /分散、分配
+academic year           学年 /组成学年的单位 /教学年度
+distance learning       远程学习
+commitment              忠诚，献身；承诺，保证；奉献，投入；热情，决心; 义务，责任；花费
+commissioner            首长/ 长官
+adapt                   改编 /适应 /使适应 /修改
+charge interest         收取利息
+lend to                 借给某人某物，期望在短时间内归还
+crops                   农作物 /庄稼 /谷物 /农作物 /作物
+large amounts of        大量的
+fertilizer              肥料，化肥
+acquire                 获得，得到；学到，习得；患上
+technology              科技，技术；技术设备，先进机器；技术学，工艺学；术语 
+technique               技巧，工艺；（尤指体育或艺术方面的）技巧，技术
+design to               为……制定计划或设计 /设计 /用于 
+invest in               投资于；买进；寄希望于
+in years                近几年 /几年内
+a unique approach       独特的方法
+pharmacy                药店；（医院的）药房，配药室
+the main cause of       ...的主要原因
+the studies showed      研究表明
+studies show            研究表明
+temperature             温度，气温；体温；发烧
+the wildlife population 野生动物的数量
+took one year off       休了一年假
+work on                 从事 /从事于 /继续工作 /忙于
+next term               下一个学期
+transcend               超出，超越；胜过（某人），超过（某项成就）
+boundary                分界线，边界；界限，范围
+national boundaries     国界
+still have a few places left    还剩下几个地方
+massive                 大而重的，结实的；非常严重的；大量的，大规模的
+massive accumulation of 大量积累的
+converted into          转变成
+communicable            可传达的
+communicable argument   广为传播的论点
+assessment              评估，评价；估价，估计
+the kind of assessment  评估的类型
+was driven by           被驱动，受驱使
+gallery                 美术馆，画廊；（大厅的）楼座
+anonymous               匿名的，不知名的；不记名的
+donation                捐赠 /捐赠物，捐赠，赠送
+proportion              部分，份额；比例；正确的比例，均衡；大小，程度
+a higher-than-normal proportion of  高于正常比例的
+portion                 某物的一部分；（尤指餐馆中食物的）一份，一客
+apportion               分配，分派；分摊
+postgraduate students   研究生
+cafeteria               自助食堂，自助餐馆
+features                n. 产品特点，特征；容貌 v. 是……的特色，使突出
+fellow                  n. 小伙子，家伙；同伴，同事，同学；研究员；男朋友 adj.同类的，同伴的
+fellow students         各位同学 /同学们
+stress                  n. 精神压力，紧张；压力，应力；强调，重要性 v. 强调，着重；重读；焦虑，紧张；使受压力，使受重压
+cannot be stressed enough   再怎么强调也不为过
+correlation             n. 相互关系，关联；相关量
+positive correlation    正相关
+variable                adj. 易变的，多变的；时好时坏的；可变的，可调节的; n. 可变性，可变因素；（数学中的）变量，变元
+accommodation           n. <美>住宿，膳宿；<英>住处，办公处，停留处
+college residence       大学宿舍
+be encouraged to        被鼓励去做某事
+monitor                 n. 显示器，监控器；监视仪，监护仪；监督员，监察员; v. 监视；监听
+attendance              n. 出席人数；出席，出勤；考勤情况；提供帮助
+in attendance           在场，出席
+strangely               adv. 奇怪地；奇妙地；不可思议地
+simultaneously          adv. 同时地
+impressed by            对……印象深刻
+skeptical               adj. 不相信的，持怀疑态度的；（哲）怀疑论的，不可知论的
+regard                  v. 认为，把……看作；<正式>（尤指以某种方式）注视，凝视; n. <正式> 尊重，敬佩；<正式> 关心，关注；注视，凝视
+reform                  v. 改革，革新；改邪归正，改造; n. 改革，改良
+zeal                    n. 热情，热忱
+reforming zeal          改革的热情
+Industrial Revolution   工业革命
+recklessness            n. 鲁莽；轻率；不顾一切，不顾后果
+regard it as            把它看作
+candidate               n. 候选人，申请者；有望体验（得到）……的人（物）；投考者，考生；攻读学位者
+qualify                 v. （使）有权去做；取得资格，达到标准；获得参赛资格；使合格，胜任；符合，可算作
+be qualified as         被认定为，被视为，符合资格
+of all time             有史以来的 /一直
 prestigious     有威望的/ 有声望的
 election        选举/ 当选
 elective course 选修课
