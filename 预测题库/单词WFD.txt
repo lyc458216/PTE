@@ -69,65 +69,86 @@ elective course                 选修课 /选修课程 /选修科目
 ample                           adj. 充足的，充裕的；丰满的；宽敞的，巨大的
 calorie                         n. 卡（路里）（热量单位）
 nutritional value               营养价值
-a range of              一些 /一套 /许多的
-stationery              文具 /信笺 /信纸 /文具用品
-seminar                 n. 研讨会，培训会；（大学的）专题讨论课，研讨班
-semester                学期
-due                     到期 /预期的 /所致
-be due by               截止日期
-a great deal of         大量的
-debate                  辩论 /争论 /讨论 /议论
-scientific              科学的 /科学化 /科学报告 /科学美国人
-scientific papers       科学论文
-comprehensive           全面 /综合的 /广泛的 /综合性
-comprising              包含/ 由……组成 /包括 /组成 /构成
-simplified              简易 /简化的 /简体中文 /简单
-advised                 建议 /忠告 /通知
-despite                 尽管如此 /尽管 /不管 /不顾
-all forms of            ……的所有形式
-characteristics         特征 /特性 /特色 /特点
+a range of                      一系列；一批；一组：指一系列不同的事物或选择
+stationery                      n. （通常有配套信封的）信纸，信笺；文具
+seminar                         n. 研讨会，培训会；（大学的）专题讨论课，研讨班
+semester                        n. 学期，半学年
+due                             adj. 到期的，预期的；应有的，应得的；应付的，应给的；适当的
+                                adv. 正对着
+                                n. 应得，所得；会费
+be due by                       截止日期
+a great deal of                 大量的：表示数量很多或程度很高
+debate                          n. 讨论，辩论
+                                v. 反复思考，斟酌；讨论，辩论
+scientific                      adj. 科学的，与科学有关的；细致严谨的，使用科学方法的
+scientific papers               科学论文
+comprehensive                   adj. 综合性的，全面的；有理解力的
+                                n. 综合中学；专业综合测验
+comprising                      vt. 包含，由……组成（comprise 的现在分词）
+simplify                        v. 使简易，简化
+advise                          v. 通知，告知；劝告，建议
+despite                         prep. 尽管，即使；不由自主地，忍不住地
+                                n. <古>亵渎；<古>轻蔑，鄙视
+                                v. <古>蔑视；<古>激怒
+all forms of                    ……的所有形式
+characteristic                  n. 特征，特点，特色
+                                adj. 独特的，典型的
 share certain characteristics   具有某些共同特征：指两个或多个事物之间存在某些相似之处或共同点。
-stages                  v.计划；表演；分阶段进行 n.舞台；戏剧表演
-elaborated              详尽的  /复杂的 /精心的 /精美的
-perspectives            透视 /观点/ 看法 /视角
-failure                 失败 /失效 /故障 /未考好
-organization failure    组织失灵
-literature              文学 /文献 /文学 /印刷品 /著述；印刷品，宣传品
-statistical             统计的 /统计学的
-statistic               n. 统计数字，统计资料；统计学（statistics）；（一项）统计数据; adj. 统计的，统计学的
-circumstance            环境 /情况 /境遇 /条件
-antibiotics             抗生素 /抗菌素 /抗菌药物
-training course         培训班 /培训课程 /实习课
-inflation               通货膨胀
-rising inflation rate   通货膨胀率上升
-indicate                表明，标示；象征，暗示；间接提及，示意；指示，指出
-indicates a decrease    表示减少
-permit                  许可证 /允许 /许可 /准许
-is not permitted        是不允许的
-demand for              对 ...的需求 /要求 /需求量
-faculty board           教务委员会 
-faculty office          教职员工办公室
-lecture outlines        讲义
-open to new idea        接受新思想
-effective               有效 /有影响的 /起作用的 /生预期结果的，有效的；实际的，事实上的
-happens with            发生在……身上
-fails                   衰退/ 出现问题 /失败 /未通过 /名字 /爽约
-foliage suffers         树叶受损 /叶子会受到影响
-abstract                摘要 /抽象的 /文摘 /抽象派
-structure               结构 /构造 /建筑物 /鞋型
-highlight               强调 /加精 /重头戏
-involve                 涉及 /使卷入 /牵涉 /包含
-applied mathematics     应用数学
-have advantages over    比……更有优势：在某些方面比另一个人或事物更具优势
-traditional             传统的 /惯例的 /爱守成规 /繁体
-classical               古典的 /古典音乐 /经典 /传统的
-new media               新媒体 /新媒介 /新传媒 /网络传播
-journalism              新闻 /新闻业 /报刊 /新闻专业
-marine                  海军陆战队 /海的 /海产的 /机枪兵
-marine environments     海洋环境 /洋环境 /海洋
-pollution               污染 /公害 /玷污 /环境污染    
-unsustainable           不可持续的
-once                    曾经 /一次 /一旦 /过去
+stage                           n. 阶段，时期；旅程（或赛跑中）的一段；舞台；戏剧，戏剧表演
+                                vt. 上演，演出；主办，举行；使发生；成功做成（某事）；（医）把（疾病，病人）诊断（或归类）为疾病的特定期
+elaborated                      详尽的 /复杂的 /精心的 /精美的
+                                v. 详细地说明
+perspective                     n. （观察问题的）视角，观点；透视（画）法；（几何）透视关系，投影比例；洞察力，判断力；景观，远景；角度；（声音）立体效果
+                                adj. 透视的
+failure                         n. 失败；失败的人（或企业、事物）；未做到；缺乏，不足；故障，衰退；公司倒闭
+organization failure            组织失败
+literature                      n. 文学，文学作品；（某一学科的）文献，著述；印刷品，宣传品
+statistical                     adj. 统计的，统计学的
+statistic                       n. 统计数字，统计资料；统计学（statistics）；（一项）统计数据
+                                adj. 统计的，统计学的
+circumstance                    n. 条件，情况，环境；境况，经济状况；详情，原委；命运，境遇
+                                v. 处于某种情况
+antibiotics                     n. [药] 抗生素；抗生学
+training course                 培训课程
+inflation                       n. 通货膨胀，通胀率；充气，膨胀，增大；（宇宙论某些理论）暴涨；夸张，自命不凡
+rising inflation rate           不断上升的通货膨胀率
+indicate                        v. 表明，标示；象征，暗示；间接提及，示意；指示，指出
+indicates a decrease            表示减少
+permit                          v. 批准，许可；（使）成为可能；破例做，放纵
+                                n. 执照，许可证
+is not permitted                不被允许
+demand for                      对……的需求：指对某种产品、服务或资源的需求量
+faculty board                   教务委员会 
+faculty office                  教职员工办公室
+lecture outlines                讲义
+open to new idea                接受新思想
+effective                       adj. 产生预期结果的，有效的；实际的，事实上的；（法律、规则等）生效的，起作用的；给人深刻印象的
+                                n. 实际可作战的士兵
+happens with                    发生在……身上：指某种情况或事件发生在某人或某物身上
+fails                           衰退/ 出现问题 /失败 /未通过 /名字 /爽约
+foliage suffers                 树叶受损 /叶子会受到影响
+abstract                        adj. 抽象的，纯概念的；（艺术）抽象派的；理论上的，不切实际的
+                                n. 摘要，梗概；抽象画，抽象派艺术作品；抽象的概念
+                                v. 抽象化，从理论上（或孤立地）考虑；提取，使分离；写……的摘要；偷走，窃取；退出
+structure                       n. 结构，构造；结构体，（尤指）大型建筑物；周密安排，精心组织；机构，组织，体系
+                                v. 计划，组织，安排
+highlight                       v. 突出，强调；用亮色突出；挑染
+                                n. 最好（或最精彩、最激动人心）的部分；挑染的头发；强光部分
+involve                         v. 牵涉，涉及；包含，需要；使陷入，使卷入；（使）参加，加入；使承担，使面对
+applied mathematics             应用数学
+have advantages over            比……更有优势：在某些方面比另一个人或事物更具优势
+traditional                     adj. 传统的；根据传统而制造（或使用）的；因袭的，守旧的；（活动）惯例的，经常从事的；典型的
+classical                       adj. 经典的，传统的；和古希腊与古罗马文化相关的；（音乐）古典的；文科的，人文科学的；典型的，有代表性的
+new media                       新媒体 /新媒介 /新传媒 /网络传播
+journalism                      n. 新闻业，新闻工作；报刊杂志，新闻报道
+marine                          adj. 海洋的，海产的；海运的，海事的
+                                n. 水兵，海军陆战队士兵；（一个国家的）船舶
+marine environments             海洋环境
+pollution                       n. 污染；污染物；噪音污染，（夜间扰人的）强烈灯光
+unsustainable                   adj. 无法持续的；（生态）破坏生态平衡的，不可持续的；不能支持的，不能主张的
+once                            adv. 一次， 一回；曾经，一度；任何一次，从来；乘以一
+                                conj. 一.....就， 一旦
+                                n. 一次
 diseases                疾病
 eradicate               根除 /连根拔除 /铲除 /扑灭
 destroyed               破坏 /毁掉 /毁于一旦 /摧垮 /毁坏
