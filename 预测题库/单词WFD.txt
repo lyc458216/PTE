@@ -305,83 +305,93 @@ recklessness                    n. 鲁莽；轻率；不顾一切，不顾后果
 regard it as                    把它看作 /视为：把某事物看作是另一件事物或具有某种特定的性质或特征
 candidate                       n. 候选人，申请者；有望体验（得到）……的人（物）；投考者，考生；攻读学位者
 qualify                         v. （使）有权去做；取得资格，达到标准；获得参赛资格；使合格，胜任；符合，可算作；具体说明，使语气缓和；修饰，限定
-be qualified as         被认定为，被视为，符合资格
-of all time             有史以来的 /一直
-prestigious             adj. 有威望的，有声望的
-election                n. 选举；当选；选举权；上帝的选拔
-election of stewardship 管理工作的选举
-election promises       选举承诺
-stewardship             n. 管理工作；管事人的职位及职责
-strict                  adj. 要求严格的，严厉的；（命令或规则）必须严格遵守的；严谨的，精确的，严密的；恪守教规的，严格的；完全的，彻底的，绝对的
-eligibility criteria    资格标准
-preparation             n. 准备（指动作或过程）；准备工作，筹备工作
-privilege               n. 特权，特殊待遇；荣幸，光荣；（富人或上层阶级的）权势; v. <正式> 给予特权，特别优待；特免，免除
-protective clothing     防护服
-mishap                  n. 灾祸；不幸事故；晦气
-business development    商业拓展
-conference              n. （大型、正式的）会议，研讨会；（小型正式的）商讨，讨论
-independent             adj. 自治的，独立的；自立的，自力更生的；公正的; n. 独立自主者，独立团体；无党派政治家
-independent learning skills 自主学习技能
-threaten                v. 威胁，恐吓；危及，对……构成威胁；预示凶兆，有……危险
-definitive              adj. 最终的，确定的；最好的，最权威的
-definitive conclusions  明确的结论
-can be drawn            可以被绘制 /可以得出
-mature                  adj. 成熟的，理智的；成年的，发育完全的；发酵成熟的，酿成的；中老年的；技艺精湛的; v.（使）成熟，（使）长成；变理智，（举止）变成熟；酿成，制成；到期
-adapt to                适应
-extremely               adv. 极度，非常
-extremely well          极好地
-be missing in           在…失踪
-divided into            划分为 /被整除 /分开 /分为 /分成
-it may not be possible to   这可能是不可能的 
-generally               adv. 笼统地，大概；通常，普遍地
-farming methods         农业种植方法  
-have greatly developed  有很大的发展
-forecast                v. 预测，预报; n. 预测，预报
-period                  n. 一段时间，时期; adj. 具有某个时代特征的
-over much longer periods在更长的时间段内
-labor force             劳动力
-strength                n. 体力，力量；实力，影响力；长处，优势；意志力，毅力
-the economic strength of经济实力
-examine                 v. 检查，调查；考核，测验；（医生）诊察；
-build confidence        增强自信心
-consumer confidence     消费者信心
-a direct influence on   对…有直接影响
-collaboration           n. 合作，协作；勾结，通敌；合作成果
-a feature of            ……的一个特征/特点
-principle               n. （行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律
-certain  scientific  principles 某些科学原理
-verbally                adv. 口头上地
-deduction               n. 演绎，推论；扣除，扣除额
-logical deduction       逻辑推理
-can be achieved overnight   可以在一夜之间实现
-by post                 通过邮寄方式
-in person               亲自，当面
-affordable housing      经济适用房
-all members of society  所有社会成员
-be related to           与……有关
-associate               v. 联想，联系；支持，同意；交往，（尤指）混在一起; n. 同事，伙伴；副学士，准学士；副职，副手; adj. 副的，准的，非正式的；联合的，有关连的
-be associated with      与某个事物或行为有关联，可能会导致问题或危险
-durable                 adj. 持久的，耐用的；<非正式>（人）有耐力的，坚韧不拔的; n. 耐用品
-landed a job            获得一份工作
-firm                    n. 公司，商行；（以顾问医师为首的）医务小组; 
-                        adj. 结实的，坚硬的；牢固的，稳固的；坚定的，坚决的；强有力的；牢牢掌控的；坚挺的；确切的，可靠的；严厉的，强硬的; 
-                        v. 使强壮，使坚实；坚挺，稳步上涨；敲定; 
-                        adv. 坚定地，坚决地
-law firm                律师事务所
-local firm              本土企业
-business policy         经营政策
-internship              n. 实习生；实习期；实习医师的职位
-authority               n. 专家，权威人士；行政管理机构；权力，权限；权威，威信；许可，授权；当局，官方
-mechanic                n. 机械工，机修工
-                        adj. 手工的
-mechanics               n. 机械学，力学；机制，运作方式；机械部件，运转部件；结构，构成
-classical mechanics     经典力学
-a branch of             ……的一个分支
-keep up with            跟上：保持与某人或某事物的同步或紧跟; 
-                        保持联系：继续与某人保持交流; 
-                        跟进：持续了解最新信息;
-social trends           社会趋势
-application processes   申请流程
-material                n. 衣料，布料；材料，原料；素材；节目，剧目
-                        adj. 物质的，非精神上的；重要的，需予以考虑的
-take longer than expected   花的时间比预期的长
+be qualified as                 被认定为，被视为，符合资格
+of all time                     有史以来的：形容某个人、事物或事件在整个历史上都是最杰出、最重要或最有影响力的
+prestigious                     adj. 有威望的，有声望的
+election                        n. 选举；当选；选举权；上帝的选拔
+election of stewardship         管理工作的选举
+election promises               选举承诺
+stewardship                     n. 管理工作；管事人的职位及职责
+strict                          adj. 要求严格的，严厉的；（命令或规则）必须严格遵守的；严谨的，精确的，严密的；恪守教规的，严格的；完全的，彻底的，绝对的
+eligibility criteria            资格标准
+preparation                     n. 准备（指动作或过程）；准备工作，筹备工作
+privilege                       n. 特权，特殊待遇；荣幸，光荣；（富人或上层阶级的）权势；（律师、医生及其他专业人士的）保密权；言行免责权（尤指议员的权利）；<史>（授予个人，公司，某地的）特许经营权；（生活）优越
+                                v. <正式> 给予特权，特别优待；特免，免除（某人）
+protective clothing             防护服
+mishap                          n. 灾祸；不幸事故；晦气
+business development            商业拓展
+conference                      n. （大型、正式的）会议，研讨会；（小型正式的）商讨，讨论；体育协会
+independent                     adj. 自治的，独立的；自立的，自力更生的；公正的，不受他人影响的；分离的，单独的；私营的；无党派的；有主见的，有独立见解的
+                                n. 独立自主者，独立团体；无党派政治家；公理会教友
+independent learning skills     自主学习技能
+threaten                        v. 威胁，恐吓；危及，对……构成威胁；预示凶兆，有……危险
+definitive                      adj. 最终的，确定的；最好的，最权威的；（邮票）普通标准型的
+                                n. 普通邮票；限定词
+definitive conclusions          明确的结论
+can be drawn                    可以被绘制 /可以得出
+mature                          adj. 成熟的，理智的；成年的，发育完全的；发酵成熟的，酿成的；中老年的；技艺精湛的，技巧娴熟的；审慎考虑的，深思熟虑的；到期（应该支付）的；（某些食品或饮料）可立即食用的；（经济，行业，市场）成熟的，发展余地不大的
+                                v. （使）成熟，（使）长成；变理智，（举止）变成熟；酿成，制成；到期
+adapt to                        适应
+extremely                       adv. 极度，非常
+extremely well                  极好地
+be missing in                   在…失踪
+divided into                    划分为 /被整除 /分开 /分为 /分成
+it may not be possible to       这可能是不可能的 
+generally                       adv. 笼统地，大概；通常，普遍地
+farming methods                 农业种植方法  
+have greatly developed          有很大的发展
+forecast                        v. 预测，预报
+                                n. 预测，预报
+period                          n. 一段时间，时期；（人生或国家历史的）阶段，时代；（地质年代划分的）纪；课时，节；（练习、训练或学习的）时段；（妇女的）月经，经期
+                                adj. 具有某个时代特征的
+                                adv. <美>到此为止，不再说了
+over much longer periods        在更长的时间段内
+labor force                     劳动力
+strength                        n. 体力，力量；实力，影响力；长处，优势；意志力，毅力；（情感或意见的）强烈程度；（物体或物质的）强度；（食物、药等的）浓度，（酒的）烈度；（风等的）速度，力度；人数，人力；（货币的）价值，坚挺程度
+the economic strength of        经济实力
+examine                         v. 检查，调查；考核，测验；（医生）诊察；（尤指在法庭上）审问，查问
+build confidence                增强自信心
+consumer confidence             消费者信心：人们对经济的良好感觉，指人们对经济状况的信心和乐观情绪
+a direct influence on           对…有直接影响
+collaboration                   n. 合作，协作；勾结，通敌；合作成果
+a feature of                    ……的一个特征/特点
+principle                       n. （行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律；（宗教或政治的）主义，信条；起源，本原；本质，实质
+certain scientific principles   某些科学原理
+verbally                        adv. 口头上地（而非书面地或行动上地）；用动词地；用言辞地
+deduction                       n. 演绎，推论；扣除，扣除额
+logical deduction               逻辑推理
+can be achieved overnight       可以在一夜之间实现 /一蹴而就
+by post                         通过邮寄方式
+in person                       亲自，当面
+affordable housing              经济适用房
+all members of society          所有社会成员
+be related to                   与……有关
+associate                       v. 联想，联系；支持，同意；交往，（尤指）混在一起
+                                n. 同事，伙伴；副学士，准学士；副职，副手；准会员；联想
+                                adj. 副的，准的，非正式的；联合的，有关连的
+be associated with              与某个事物或行为有关联，可能会导致问题或危险：指与某个特定的事物或行为有联系或关联，可能会引起问题或危险
+durable                         adj. 持久的，耐用的；<非正式>（人）有耐力的，坚韧不拔的
+                                n. 耐用品
+landed a job                    获得一份工作：成功找到并得到一份工作
+firm                            n. 公司，商行；（以顾问医师为首的）医务小组; 
+                                adj. 结实的，坚硬的；牢固的，稳固的；坚定的，坚决的；强有力的；牢牢掌控的；坚挺的；确切的，可靠的；严厉的，强硬的; 
+                                v. 使强壮，使坚实；坚挺，稳步上涨；敲定; 
+                                adv. 坚定地，坚决地
+law firm                        律师事务所
+local firm                      本土企业
+business policy                 经营政策
+internship                      n. 实习生；实习期；实习医师的职位
+authority                       n. 专家，权威人士；行政管理机构；权力，权限；权威，威信；许可，授权；当局，官方
+mechanic                        n. 机械工，机修工
+                                adj. 手工的
+mechanics                       n. 机械学，力学；机制，运作方式；机械部件，运转部件；结构，构成
+classical mechanics             经典力学
+a branch of                     ……的一个分支
+keep up with                    跟上：保持与某人或某事物的同步或紧跟; 
+                                保持联系：继续与某人保持交流; 
+                                跟进：持续了解最新信息;
+social trends                   社会趋势
+application processes           申请流程
+material                        n. 衣料，布料；材料，原料；素材；节目，剧目
+                                adj. 物质的，非精神上的；重要的，需予以考虑的
+take longer than expected       花的时间比预期的长
