@@ -6,9 +6,11 @@ architectural structure         建筑结构：指建筑物的组成部分，包
 auditorium                      n. 观众席；礼堂，会堂
 aspect                          n. 方面，特色；朝向，方位；外表，外观；（动词的）体；
                                 v. （行星与另一天体）形成角度关系
+incorporates the best aspects   结合了最好的方面
 a/ the combination of           一种组合，由两个或更多的元素或部分组成 /相结合 /两者结合起来
 philosophy                      n. 哲学；哲学体系，思想体系；人生哲学，生活（工作）准则；（某一知识或经验领域的）理论基础研究，基本原理
 experimental procedures         实验步骤：指进行科学实验时所遵循的一系列步骤和方法
+field experiments               田间实验
 chemically                      adv. 用化学；以化学方法
 chemical reactions              化学反应：指物质之间发生的化学变化，通常伴随着能量的释放或吸收
 laboratory manual               实验室手册 /实验规程
@@ -401,3 +403,12 @@ material                        n. 衣料，布料；材料，原料；素材；
 take longer than expected       花的时间比预期的长
 optimization                    n. 最佳化，最优化
 optimize                        v. 优化，充分利用（形势，机会，资源）；使（数据、软件等）优化
+polar regions                   极地地区
+be ideal for                    非常适合
+astrophysicist                  n. 天体物理学家
+meteorologist                   n. 气象学者
+neuroscience                    n. 神经科学
+completely separate parts       完全分开的部分
+article                         n. 文章，论文；物品；条款，条文；冠词；见习契约，见习期
+                                v. 见习，签约做实习生；进行控告；使……受协议条款的约束
+affected by                     受到...影响
