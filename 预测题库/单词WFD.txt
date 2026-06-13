@@ -13,6 +13,7 @@ experimental procedures         实验步骤：指进行科学实验时所遵循
 field experiments               田间实验
 chemically                      adv. 用化学；以化学方法
 chemical reactions              化学反应：指物质之间发生的化学变化，通常伴随着能量的释放或吸收
+substance                       n. 物质，材料；主旨，主要内容；重要性；真实性，可信性；毒品；财富，财产；实质，（实在的）东西；<哲> 实体；可靠，稳定；（哲）实体
 laboratory manual               实验室手册 /实验规程
 lounge                          n. （机场等的）等候室；（旅馆、俱乐部等的）休息室；（私宅中的）起居室，客厅；
                                 v. 懒洋洋地站（或坐、躺）着
