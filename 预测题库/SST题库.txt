@@ -47,7 +47,7 @@ the universe [started with] [a Big Bang] [about 13.7 billion years ago].
 非洲[渔业]
 wildlife [is the source of food] and [the source of income]. 
 野生动物既是食物来源，也是收入来源
-[the management of fish resources] [influences health].
+[the management of] [fish resources] [influences health].
 渔业资源管理对健康具有重要影响
 [the wildlife tourism industry] [is important].
 野生动物旅游业的重要性
@@ -70,15 +70,15 @@ a brand [is essential to] [smart consumers].
 [the Second Moment of Truth] [is important], 
 and [the product] [must have great quality]. 
 "第二次真相时刻"的重要性——产品必须具备卓越品质
-there are [engineering contradictions[矛盾] for] [the products] [to be both strong and soft].
-同时兼具硬核与柔性特质，存在根本性的工程矛盾
+there are [engineering challenges] in making the products both strong and soft.
+同时兼具硬核与柔性特质，存在工程上的挑战
 
 8.Dangers of Keeping Drugs at Home #18720
 [the dangers of] [keeping drugs at home].
 家中存放药品的危险性
 [children may] [ingest the drugs].
 儿童可能误服药品
-the drugs [may be taken for] [the wrong reasons].
+the drugs [may be taken] [for the wrong reasons].
 药品可能被用于不当用途
 doctors [should give] [the correct amount of drugs].
 医生应开具正确的药品剂量
@@ -106,7 +106,7 @@ people [communicate with] [sign language and movement].
 11.Global Warming and Climate Change #18737
 [global warming] and [climate change].
 全球变暖与气候变化问题
-[climate change] [is becoming] [a severe problem]. 
+[climate change] [is becoming] [a serious problem]. 
 气候变化正演变为严峻的社会问题
 [national governments] [should take action].
 [各国政府][应当采取行动]
@@ -128,7 +128,7 @@ and [it is a clever thing] that [you can recognize] [different types of informat
 baby smiles. 
 babies [hope that] [the people] [they interact with] [will give them a smile] [in return]. 
 婴儿希望[与之互动的]对象能给予回笑
-[the researchers] [defined four categories] [between mothers and infants]. 
+[the researchers] [defined four categories] [of mother-infant relationships]. 
 研究人员将[母亲与婴儿之间]的互动[划分为四类]
 mothers [want the interaction], while babies [just want to smile]. 
 母亲渴望建立[互动关系]，而婴儿则仅仅希望获得微笑回应
@@ -136,7 +136,7 @@ mothers [want the interaction], while babies [just want to smile].
 14.Managers #18743
 managers.
 管理者
-managers [should have a] [broad perspective] [by reading more books],
+managers [should have a broad perspective by] [reading more books],
 and [going back to the university to] [improve themselves]. 
 管理者应通过多读书、重返校园等方式提升自我，以[拓宽视野]
 [management knowledge and skills] [are more important than experience].
@@ -147,11 +147,11 @@ and [going back to the university to] [improve themselves].
 15.Industrialization #18752
 [industrialization].
 工业化 
-the [Industrial Revolution] [had a] [very negative effect on] people.
+[The Industrial Revolution] [had a very negative effect on] people.
 工业革命对人们产生了极其负面的影响
 [we should] [pass the law on] [working conditions].
 我们应当制定关于工作条件的法律
-[we need] [regulations for] [better environmental conditions].
+[we need to] [formulate regulations to] [improve the environmental conditions].
 我们需要制定法规以改善环境状况
 
 16.The decline of bees #18755
@@ -159,7 +159,7 @@ the [Industrial Revolution] [had a] [very negative effect on] people.
 蜜蜂数量的减少问题
 [these declines] [are supported by] [strong scientific evidence].
 这些减少现象有强有力的科学证据支持
-[the drives to decline] are different.
+[the drives of decline] are different.
 [导致减少][的驱动因素]各不相同
 [we are aware of] [the problem], and [people are taking action].
 [我们已意识到]这个问题，人们[正在采取行动]
@@ -169,31 +169,31 @@ the [Industrial Revolution] [had a] [very negative effect on] people.
 黑猩猩
 First, they [wished to] [release a chimpanzee] that [had been kept in captivity] [for many years] [for research purposes].
 希望将一只因研究目的而被圈养多年的黑猩猩放归自然
-After that, [the court] [had dismissed the appeal] [because chimpanzees are not 'persons'].
+After that, [the court] [dismissed the appeal] [because chimpanzees are not 'persons'].
 法院驳回了上诉，理由是黑猩猩不属于“人”
-Finally, [they would continue their efforts] [this year] [to secure legal rights] [for animals].
+Finally, [they will continue their efforts] [this year] [to secure legal rights] [for animals].
 今年将[继续努力]，争取为动物[争取法律权利]
 
 18.Automated Driving #18758
 [automated driving].
 自动驾驶
-[automated driving] [involves systems] [at levels three and four].
+[automated driving] [involves Level 3 and Level 4 systems].
 自动驾驶[涉及] L3 和 L4 级别[的系统]
 [level three] [is the full-automatic mode].
 三级自动驾驶属于全自动驾驶模式
-[level four automation] [can save fuel], 
-[making it more efficient than] [level three].
+[Level 4 automation] [can save fuel], 
+[making it more efficient than] [Level 3].
 四级[自动驾驶]能够[节省燃料]，因此比三级自动驾驶[更具效率]
 
 19.Globalization And De-Traditionalization #18759
-[Globalization] and [De-Traditionalization].
+[Globalization] and [Detraditionalization].
 [全球化]与[去传统化] 
 [we all live in] [a global village]. 
 [我们都生活在]一个地球村中
-[globalization] means [we can share ideas] [all over the world].
+globalization [enables us to] [share ideas across the world].
 全球化意味着我们能够[在全球范围内][共享思想]
-[de-traditionalization] [leads to] [the destruction of traditional cultures].
-去传统化[导致了][传统文化的损毁]
+[detraditionalization] [can lead to] [the decline of] traditional cultures.
+去传统化[导致了][传统文化的减少]
 
 20.Internet and Journalism #18764
 Internet and journalism.
@@ -202,7 +202,7 @@ people [become enthusiastic about] [such changes],
 [and they think] [the internet] [can improve the spreading of news] and [help people] [gain information].
 人们对于这种改变很[热情]，
 并且他们认为互联网可以[提升新闻的传播]并帮助人们[获得信息]
-[journalism] [now becomes a] [collaborative process].
+[journalism] [is becoming] [a cooperative process].
 新闻业[现已成为一个][协作过程]
 
 21.Absolutism #18772
@@ -261,7 +261,7 @@ and [create unignorable signals].
 水循环利用问题
 [water recycling] [is needed].
 水循环利用[具有必要性]
-[there is technology available] for [industrial use], 
+[there is] [technology available for] [industrial use], 
 but [there is little technology available] for [home use].
 [工业领域]已有[相关技术可用]，但[家庭应用]的[技术尚不成熟]
 [on the local level], [water recycling at home] [is important]. (69 words)
@@ -292,7 +292,7 @@ a great idea should [be productive]. (56 words)
 食物危机
 people [suffered from] [a serious food crisis].
 人们[遭受][严重的粮食危机]
-people must [double the production].
+[people must] [double the production].
 我们必须[将产量翻番]
 [it is urgent to] [increase the production]. (57 words)
 增加产量[是当务之急]
@@ -309,42 +309,42 @@ but [we are also] [learning about history]. (60 words)
 当今我们不仅在学习语言，更是在学习历史
 
 31.Online Research #18792
-[the advantages and drawbacks of] online research.
+[the advantages and drawbacks of] [online research].
 在线调研[的优缺点]
-online research [is quicker than] [conventional methods], 
-and there [are no gaps between] [quantities] and [qualities]. 
+[online research] [is quicker than] [conventional methods], 
+and [there are no gaps between] [quantities] and [qualities]. 
 在线调研比[传统方法][更快捷]，且数量与质量之间[不存在差距]
-the [drawback] is that we [can not communicate face-to-face]. 
+[the drawback is that] [we can not communicate face-to-face]. 
 其[缺点]在于无法进行面对面交流
-we can not [get information through] reactions such as [body language], 
-which means we don’t know [who is on the other side]. (64 words)
+[we can not] [get information through reactions] [such as body language], 
+[which means] [we don’t know] [who is on the other side]. (64 words)
 我们无法[通过][肢体语言]等反应[获取信息]，这意味着我们[无从知晓对方真实身份]
 
 32.Canned Food During the Great Depression #18793
-[canned foods] during the [Great Depression].
+[canned foods] [during the Great Depression].
 [大萧条时期][罐头食品]的发展历程
 [canned foods] [became popular].
 [罐头食品][开始流行起来]
-people could buy [fridges].
+[people could] [buy fridges].
 人们能够购买[冰箱]
 supermarkets [became a new fashion]. (56 words)
 超市[成为了一种新的潮流]
 
 33.Credit Card Experiment #18795
-a credit card [experiment].
+a [credit card] [experiment].
 一项信用卡[实验]
-some [inactive credit card users] received a message,
-and they could [gain benefits] by using their cards.
+some [inactive credit card users] [received a message],
+and [they could gain benefits] [by using their cards].
 演讲者提到部分[闲置信用卡用户]收到了一条信息，提示他们使用信用卡可[获得优惠]
-other users would [face a penalty] if they did not use their cards.
+[other users] [would face a fine] [if they did not use their cards].
 其他用户若不使用信用卡将[面临处罚]
-customers [are more likely to] [be driven by] [potential loss]. (68 words)
+[customers] [are more likely to be driven by] [potential loss]. (68 words)
 客户更容易受到潜在损失的驱动
 
 34.Mars and the earth #18796
 Mars.
 火星
-Mars is close to the Earth.
+Mars [is close to the Earth].
 火星距离地球较近
 Mars has hills, seasons and weather.
 火星存在丘陵、季节变化和天气现象
@@ -354,56 +354,56 @@ Mars has [rare gases]. (54 words)
 35.Application in biology #18797
 applications in biology.
 生物学领域的应用
-scientists can [engineer nature].
+scientists [can engineer nature].
 科学家能够改造自然
-scientists could [write DNA] and [create new cells] 40 years ago.
+scientists could [write DNA] and [create new cells] [40 years ago].
 四十年前科学家已能编写 DNA 序列并创造新细胞
-scientists use [micro-scale] tools [in experiments] [in the labs] and get [bacteria] [the next day]. (67 words)
+scientists use [micro-scale tools] [in experiments] [in the labs] and [get bacteria] [the next day]. (67 words)
 科学家在实验室进行细菌实验时使用微尺度工具，次日即可获得细菌
 
 36.The History of Software #18798
-the history of software.
+[the history of] software.
 软件的发展历程
-the history of software is very new, and the [progression] is a [stampede].
+[the history of software] [is very new], and the [progression] is a [stampede].
 软件历史极为短暂，其[发展进程]犹如一场[狂奔]
-the [rapid expansion] of [computing power] and the [rapid decline] in cost.
+the [rapid expansion of computing power] and [the rapid decline in cost].
 [计算能力]的[迅猛扩张]与成本的[急剧下降]
-this made the [information technology] to [move into] [all areas of life]. (62 words)
+[this made the information technology] to [move into] [all areas of life]. (62 words)
 正是这些因素使得信息技术得以[渗透到]生活的方方面面
 
 37.Roman city #18799
 the city of Rome.
 罗马城
-[the city grew] in a [fairly casual] way.
+[the city grew] [in a fairly casual way].
 该[城市]是以[相当随意的]方式[发展]起来的
-Romans [structured the city] in a very [methodical way].
+Romans [structured the city] [in a very organized way].
 罗马人以非常[有条理的方式][规划了城市结构]
-when the Romans built their ideal Roman city, 
-they [turned to] [military camp] design. (67 words)
+when [the Romans] built [their ideal Roman city], 
+they [turned to] [military camp design]. (67 words)
 当罗马人建造他们理想中的罗马城市时，他们[借鉴了][军事营地]的设计理念
 
 38.Why Read Plato's “The Republic”? #18827
-the reasons to read the Republic. 
+[the reasons to] [read the Republic]. 
 阅读《共和国》的理由
 the book is very readable. 
 该书极具可读性
-the book includes [living conversation] and important ideas.
+[the book includes] [living conversation] and [important ideas].
 书中包含[生动的对话]与重要的思想
-[thoughts and content] are the other reasons to read the book. (67 words)
+[thoughts and content] are [the other reasons to read the book]. (67 words)
 [思想内涵与内容价值]是阅读此书的其他理由
 
 39.The Industrial Revolution #18834
 the [Industrial Revolution]. 
 工业革命
-the [Industrial Revolution] [was measured by] more than [large factories and machines]. 
+the [Industrial Revolution] [was measured by] [more than] [large factories and machines]. 
 工业革命不仅是以[大型工厂和机器][来衡量]的
-the Industrial Revolution was an [intensification of production]. 
+[the Industrial Revolution] [was an intensification of production]. 
 工业革命是[生产的集约化]
 the [rapid rise of production] [was tied to] [traditional forms of production]. (70 words)
 [生产的迅速增长]是与[传统的生产形式][联系在一起]的
 
 40.Globalization definitions #20394
-the [definitions] of [globalization].
+the [definitions of globalization].
 全球化的定义
 globalization [increases] [international communications].
 全球化[促进了][国际交流]
