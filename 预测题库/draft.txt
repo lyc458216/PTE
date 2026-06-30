@@ -1,6 +1,6 @@
 In recent years, the topic of __ has sparked widespread debate.
 There has been a heated debate on whether __.
-From my perspective, I tend to be the advocate/opponent of __ regrading this issue.
+From my perspective, I tend to be the advocate/opponent of __ regarding this issue.
 
 It is evidently reasonable for me to believe that (this is good).
 This is because __.
@@ -12,4 +12,4 @@ Nevertheless, this argument does not hold water.
 It should be pointed out that __.
 That is to say, __.
 
-In a nutshell, due to the mentioned reasons, we may safely reach out the conclusion that __.
+In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that __.
