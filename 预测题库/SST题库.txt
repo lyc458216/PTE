@@ -3,6 +3,8 @@ In the first part of the lecture(First), the speaker stated that [].
 In the second part of the lecture(After that), the speaker mentioned that [] 
 In the last part of the lecture(Finally), the speaker highlighted that [].
 
+同时浏览所有RL, SGD, SST题库
+
 1.Marketing #18671
 marketing.
 市场营销 
@@ -208,7 +210,7 @@ people [become enthusiastic about] [such changes],
 21.Absolutism #18772
 [moral objectivism] and [moral absolutism].
 [道德客观主义]与[道德绝对主义]
-in [moral objectivism], [certain universal] [moral principles] [apply to all actions].
+[in moral objectivism], [certain universal] [moral principles] [apply to all actions].
 在[道德客观主义]中，某些[普遍的道德原则][适用于所有行为]
 [in moral absolutism], [a clear boundary exists between] [right and wrong].
 [在道德绝对主义中]，是非[之间存在明确的界限]
@@ -218,11 +220,11 @@ these [principles] [must be followed].
 22.Need #18776
 the need.
 需求
-[the need] [is a strong desire] and [an essential thing].
+[the need] [is a strong desire] and [an essential requirement].
 需求是[一种强烈渴望]且[不可或缺的事物]
-[in a social environment], [it is a multifunctional word].
+the need [is a multifunctional concept] [in social environments].
 在社会环境中，需求是一个具有多重功能的词汇
-[it means] [an innate need] [in terms].
+[in terms of psychology], it means an innate need.
 [从心理学的角度]指出，它指的是一种内在需求
 
 23.Newspaper #18777
