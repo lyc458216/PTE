@@ -1,4 +1,4 @@
-absolutely  ad.完全地；绝对地
+absolutely  adv.完全地；绝对地
 compile     vt.编辑，编制，搜集
 compel      vt.强迫,迫使
 statics     静力学 

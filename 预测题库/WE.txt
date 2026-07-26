@@ -5,7 +5,7 @@
 4.总结重申:总结原因+ 重申你的选择.
 
 第一段:重述背景与题目+表明观点(31)
-In recent years, the topic of ____ has sparked widespread debate.(背景)
+In recent years, the topic of [whether] ____ has sparked widespread debate.(背景)
 There has been a heated debate on whether ____.(题目)
 关于是否……有一场激烈的争论
 From my perspective, I tend to be the advocate/opponent of ____ regarding this issue.
@@ -53,7 +53,7 @@ From my perspective, I tend to be an advocate of [支持城市生活]
 [urban life] regarding this issue.
 第二段：观点1论述与解释
 It is evidently reasonable for me to believe that [都市生活提供了极大的便利和高效率]
-[urban life offers immense convenience and high efficiency].
+[urban life offers convenience and high efficiency].
 This is because [城市提供了无缝衔接的交通、医疗和商业服务]
 [cities provide seamless transportation, healthcare, and commercial services].
 To illustrate this, my personal experience [在上海的生活]
@@ -62,7 +62,7 @@ As a result, [城市生活的便利性节省了时间和精力，促成了一种
 [the convenience of urban living saves time and energy, contributing to a more productive lifestyle].
 第三段：让步反驳段
 In contrast, it is commonly believed as a fact that [乡村的自然环境能减轻压力并带来更可负担的生活成本]
-[the natural rural environment can alleviate stress and provide affordable living costs].
+[the natural rural environment can relieve pressure and provide affordable living costs].
 Nevertheless, this argument does not hold water.
 It should be pointed out that [城市为个人和职业成长提供了不可替代的优势，尤其对年轻人而言]
 [cities offer irreplaceable advantages for personal and professional growth, especially for young adults].

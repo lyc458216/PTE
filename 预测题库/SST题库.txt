@@ -1,9 +1,26 @@
+SST模板:
 This lecture mainly discussed []. 
 In the first part of the lecture(First), the speaker stated that []. 
 In the second part of the lecture(After that), the speaker mentioned that [] 
 In the last part of the lecture(Finally), the speaker highlighted that [].
 
-同时浏览所有RL, SGD, SST题库
+SGD模板:
+The three speakers were talking about (topic).
+
+The first speaker talked about (main problem 短句+短句).
+He/She seemed quite (concerned/ interested/ stressed 短句 +短句)
+And the first speaker mentioned that (短句+短句).
+
+The second speaker agreed with that/ some ideas (短句+短句).
+Then, He/She had different opinions about (短句+短句).
+He/she also pointed out (短句+短句).
+
+The third speaker focused on (短句+短句).
+Furthermore, he/She suggested (短句+短句).
+Then, the third speaker said that (短句+短句).
+
+RL模板:
+
 
 1.Marketing #18671
 marketing.
