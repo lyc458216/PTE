@@ -37,17 +37,26 @@ commute, book, reserve, cancel, pay, recharge, log in, contract, shop, eat
 形容词
 daily, routine
 
-5.
+5.健康医疗
 名词
+medical center, hospital, pharmacy, doctor appointment, illness, infection, allergy, patient, immune system, operation, surgery, insurance, diet, vegan, vegetarian, organic food, symptom, treatment, prescription
 动词
+suffer, infect, recover, treat, prescribe, exercise, examine, check up, vaccinate
 形容词
+sick, healthy, infected, allergic, medical, emergency, immune, herbal, traditional
 
-6.
+6.人文社科
 名词
+economics, business, globalization, urbanization, psychology, geography, sustainable development, population growth, law, constitution, democracy, philosophy, literature, language, historical context
 动词
+globalize, urbanize, develop, trade, vote, legislate, govern, analyze, theorize
 形容词
+economic, social, political, legal, historical, contemporary, literary, global, sustainable
 
 7.
 名词
+environment, agriculture, farmer, fungi, mammal, animal behavior, climate, atmosphere, black hole, geography, ecosystem, pollution, conservation, species, habitat, weather, temperature, season, biology lab
 动词
+farm, cultivate, decompose, protect, conserve, pollute, recycle, adapt, observe, forecast
 形容词
+natural, environmental, agricultural, fertile，wild, endangered, sustainable, renewable, global, seasonal
