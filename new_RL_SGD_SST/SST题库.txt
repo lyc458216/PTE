@@ -77,7 +77,7 @@ an experiment about female body fat.
 女性体脂的实验
 31 fat women joined the experiment.
 31 名肥胖女性参与了实验
-they needed to exercise every day.
+they need to exercise every day.
 她们需要每天坚持锻炼
 some people ate more, or they exercised less.
 有些人吃得更多，或是运动较少
@@ -88,7 +88,6 @@ smart consumers and the brand.
 a brand is very important to smart consumers.
 品牌对聪明的消费者非常重要
 the Second Moment of Truth is important, and the product must have good quality.
-
 “第二次真相时刻”很重要，产品必须具备良好的品质
 there are hard problems in making the products both strong and soft.
 在让产品兼具硬核与柔性方面存在困难的问题
@@ -138,7 +137,8 @@ recognizing faces.
 人脸识别
 humans are good at face recognition.
 人类擅长人脸识别
-face recognition is a hard problem, and it is a clever thing that you can recognize different types of information.
+face recognition is a hard problem, 
+and it is a clever thing that you can recognize different types of information.
 人脸识别是一个难题，能够识别不同类型的信息是一件聪明的事情
 people need to like face recognition.
 人们需要喜爱人脸识别
