@@ -156,7 +156,8 @@ mothers want to talk, while babies just want to smile.
 14.Managers #18743
 managers.
 管理者
-managers should learn more by reading more books, and going back to the university to make themselves better.
+managers should learn more by reading more books, 
+and going back to the university to make themselves better.
 管理者应通过多读书和重返校园来提升自我
 management knowledge and skills are more important than experience.
 管理知识与技能比经验更为重要
@@ -166,9 +167,9 @@ the best manager should be a teacher of management.
 15.Industrialization #18752
 industrialization.
 工业化
-The Industrial Revolution had a very bad effect on people.
+The Industrial Revolution had a very [bad effect on] people.
 工业革命对人们产生了非常坏的影响
-we should make laws on working conditions.
+we should [make laws] on [working conditions].
 我们应当制定关于工作条件的法律
 we need to make rules to change the environmental conditions.
 我们需要制定规则来改变环境状况
@@ -176,7 +177,7 @@ we need to make rules to change the environmental conditions.
 16.The decline of bees #18755
 the decline of bees.
 蜜蜂数量的减少问题
-these declines are shown by strong science evidence.
+these declines [are shown by] strong science evidence.
 这些减少现象有强有力的科学证据所表明
 the reasons of decline are different.
 减少的原因各不相同
@@ -188,19 +189,19 @@ chimpanzees.
 黑猩猩
 First, they wanted to free a chimpanzee that had been kept for many years for research.
 首先，他们希望释放一只因研究而被关押多年的黑猩猩
-After that, the court said no because chimpanzees are not persons.
+After that, [the court said no] because chimpanzees are not persons.
 之后，法院驳回了请求，因为黑猩猩不是“人”
-Finally, they will keep trying this year to get legal rights for animals.
+Finally, they will [keep trying] this year to [get legal rights for] animals.
 最后，他们今年将继续努力为动物争取法律权利
 
 18.Automated Driving #18758
 automated driving.
 自动驾驶
-automated driving has Level 3 and Level 4 systems.
+automated driving has level three and level four systems.
 自动驾驶包含 3 级和 4 级系统
 level three is the auto mode.
 3 级自动驾驶属于自动模式
-Level 4 automation can save power, making it better than Level 3.
+level four automation can save power, making it better than level three.
 4 级自动驾驶能够节省能源，使其比 3 级更好
 
 19.Globalization And De-Traditionalization #18759
@@ -208,23 +209,24 @@ globalization and detraditionalization.
 全球化与去传统化
 we all live in a global village.
 我们都生活在一个地球村中
-globalization helps us to share ideas across the world.
+globalization [helps us to share ideas] [across the world].
 全球化帮助我们在全球范围内共享思想
-detraditionalization can cause the loss of traditional cultures.
+detraditionalization can cause [the loss of] traditional cultures.
 去传统化会导致传统文化的丧失
 
 20.Internet and Journalism #18764
 Internet and journalism.
 网络和新闻
-people like such changes, and they think the internet can help pass news and help people get information.
+people like such changes, 
+and they think the internet can help [pass news] and help people [get information].
 人们喜欢这种改变，并且他们认为互联网可以帮助传递新闻并帮助人们获得信息
-journalism is becoming a team process.
+journalism is becoming a [team process].
 新闻业正在成为一个团队合作的过程
 
 21.Absolutism #18772
 moral objectivism and moral absolutism.
 道德客观主义与道德绝对主义
-in moral objectivism, some moral rules apply to all actions.
+in moral objectivism, some moral rules [apply to] all actions.
 在道德客观主义中，一些道德规则适用于所有行为
 in moral absolutism, a clear line exists between right and wrong.
 在道德绝对主义中，是非之间存在明确的界限
