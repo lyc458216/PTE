@@ -4,6 +4,11 @@ In the first part of the lecture(First), the speaker stated that [].
 In the second part of the lecture(After that), the speaker mentioned that [] 
 In the last part of the lecture(Finally), the speaker highlighted that [].
 
+关键短语：
+hard problems in
+ensure a return on capital
+joined the experiment
+------
 SGD模板:
 The three speakers were talking about (topic).
 
@@ -37,7 +42,7 @@ vitamin D.
 维生素 D
 vitamin D is called the sunshine vitamin.
 维生素 D 被称为阳光维生素
-if you get enough sunshine, there is no [food need for] vitamin D.
+if you [get enough sunshine], there is no [food need for] vitamin D.
 如果你得到足够的阳光，就不需要维生素D
 vitamin D is not a vitamin.
 维生素 D 不是一种维生素
@@ -49,7 +54,7 @@ she has tens of thousands of student loan.
 她欠了几万的学生贷款
 she could not find a good job.
 她找不到好的工作
-her children are facing the problem of [borrowing money for] school, and she felt stressed.
+her children are [facing the problem of] [borrowing money for] school, and she felt stressed.
 她的孩子们面临着借钱上学的问题，她感到压力很大
 
 4.The Big Bang theory #18710
@@ -73,7 +78,7 @@ the wildlife tourism industry is important.
 野生动物旅游业很重要
 
 6.An experiment about female body fat #18717
-an experiment about female body fat.
+[an experiment about] female body fat.
 女性体脂的实验
 31 fat women [joined the experiment].
 31 名肥胖女性参与了实验
@@ -95,18 +100,18 @@ there are [hard problems in] [making the products] both strong and soft.
 8.Dangers of Keeping Drugs at Home #18720
 the dangers of keeping medicine at home.
 家中存放药品的危险性
-children may eat the medicine.
+children may [ingest the drugs].
 儿童可能会误食药品
-the medicine may be taken for the wrong reasons.
+the medicine may [be taken for] [the wrong reasons].
 药品可能被用于不当的原因
-doctors should give the right amount of medicine.
+doctors should [give the right amount of] medicine.
 医生应该开具正确数量的药品
 
 9.A Survey on Social Well-Being and Happiness #18721
-a survey on social life and happiness.
+[a survey on] social life and happiness.
 社会生活与幸福感的调查
-one thing is the same patterns.
-一个方面是相同的模式
+[one factor is] [the consistent patterns].
+一个因素是稳定的模式
 it includes basic things like money and health.
 这包括资金和健康等基本要素
 other things include the living environment and the quality of life.
@@ -115,9 +120,9 @@ other things include the living environment and the quality of life.
 10.Symbolic Systems #18731
 symbolic systems.
 符号系统
-language is a main symbolic system.
+language is a classic symbolic system.
 语言是一个主要的符号系统
-people talk with sign language and movement.
+people communicate with sign language and movement.
 人们通过手语和肢体动作进行交流
 it is a good idea to do something with your hands and talk at the same time.
 边动手操作边交流是个好主意
@@ -125,11 +130,11 @@ it is a good idea to do something with your hands and talk at the same time.
 11.Global Warming and Climate Change #18737
 global warming and climate change.
 全球变暖与气候变化问题
-climate change is becoming a bad problem.
+climate change is becoming a serious problem.
 气候变化正在变成一个糟糕的问题
-governments should do something.
+national governments should take action.
 各国政府应当采取行动
-some big changes are happening globally.
+some major changes are taking place/ happening globally.
 全球范围内正在发生一些重大变化
 
 12.Face Recognition #18738
@@ -140,8 +145,8 @@ humans are good at face recognition.
 face recognition is a hard problem, 
 and it is a clever thing that you can recognize different types of information.
 人脸识别是一个难题，能够识别不同类型的信息是一件聪明的事情
-people need to like face recognition.
-人们需要喜爱人脸识别
+people need to appreciate face recognition.
+人们需要欣赏人脸识别
 
 13.Baby Smile #18742
 baby smiles.
