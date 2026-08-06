@@ -27,9 +27,9 @@ marketing.
 市场营销
 marketing is the process of moving goods and services from suppliers to customers.
 市场营销是将商品和服务从供应商转移到客户的过程。
-profit models can keep a return on capital.
+profit models can ensure a return on capital.
 盈利模式可以确保资本回报
-marketing is directly linked to sales growth.
+marketing is [directly linked to] [sales growth].
 市场营销与销售增长直接相关
 
 2.Vitamin D #18683
@@ -37,27 +37,27 @@ vitamin D.
 维生素 D
 vitamin D is called the sunshine vitamin.
 维生素 D 被称为阳光维生素
-if you get enough sunshine, there is no food need for vitamin D.
+if you get enough sunshine, there is no [food need for] vitamin D.
 如果你得到足够的阳光，就不需要维生素D
 vitamin D is not a vitamin.
 维生素 D 不是一种维生素
 
 3.A woman in student loan #18690
-a woman in student loan.
+a woman [in student loan].
 背负助学贷款的女性
 she has tens of thousands of student loan.
 她欠了几万的学生贷款
 she could not find a good job.
 她找不到好的工作
-her children are facing the problem of borrowing money for school, and she felt stressed.
+her children are facing the problem of [borrowing money for] school, and she felt stressed.
 她的孩子们面临着借钱上学的问题，她感到压力很大
 
 4.The Big Bang theory #18710
 the Big Bang theory.
 大爆炸理论
-the universe began with a Big Bang.
+the universe [began with] a Big Bang.
 宇宙始于一次大爆炸
-the universe started with a Big Bang about 13.7 billion years ago.
+the universe [started with] a Big Bang about 13.7 billion years ago.
 宇宙在大约 137 亿年前的一次大爆炸中诞生
 if everything is right, we can understand the universe.
 如果一切都是正确的，我们就能理解宇宙
@@ -67,7 +67,7 @@ the fishing industry in Africa.
 非洲渔业
 wildlife is the source of food and the source of money.
 野生动物既是食物来源，也是资金来源
-the control of fish resources affects health.
+[the management of] fish resources influences health.
 渔业资源的管理对健康产生影响
 the wildlife tourism industry is important.
 野生动物旅游业很重要
@@ -75,21 +75,21 @@ the wildlife tourism industry is important.
 6.An experiment about female body fat #18717
 an experiment about female body fat.
 女性体脂的实验
-31 fat women joined the experiment.
+31 fat women [joined the experiment].
 31 名肥胖女性参与了实验
-they need to exercise every day.
+they [need to] exercise every day.
 她们需要每天坚持锻炼
 some people ate more, or they exercised less.
 有些人吃得更多，或是运动较少
 
 7.Smart consumers #18719
-smart consumers and the brand.
+relationship between smart consumers and brands.
 聪明消费者与品牌的关系
 a brand is very important to smart consumers.
 品牌对聪明的消费者非常重要
-the Second Moment of Truth is important, and the product must have good quality.
+the Second Moment of Truth is important, and the product [must have good quality].
 “第二次真相时刻”很重要，产品必须具备良好的品质
-there are hard problems in making the products both strong and soft.
+there are [hard problems in] [making the products] both strong and soft.
 在让产品兼具硬核与柔性方面存在困难的问题
 
 8.Dangers of Keeping Drugs at Home #18720
@@ -236,11 +236,11 @@ these rules must be used.
 22.Need #18776
 the need.
 需求
-the need is a strong want and a main requirement.
+the need is a strong desire and [an essential] requirement.
 需求是一种强烈的渴望和主要的要求
 the need is a useful concept in social environments.
 在社会环境中，需求是一个有用的概念
-in terms of psychology, it means an inner need.
+[in terms of psychology], it means an inner need.
 从心理学的角度来看，它指的是一种内在需求
 
 23.Newspaper #18777
