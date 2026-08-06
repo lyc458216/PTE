@@ -164,7 +164,7 @@ managers.
 managers should learn more by reading more books, 
 and going back to the university to make themselves better.
 管理者应通过多读书和重返校园来提升自我
-management knowledge and skills are more important than experience.
+management knowledge and skills are [more important than] experience.
 管理知识与技能比经验更为重要
 the best manager should be a teacher of management.
 最优秀的管理者应当是管理学的老师
@@ -182,40 +182,40 @@ we need to make rules to change the environmental conditions.
 16.The decline of bees #18755
 the decline of bees.
 蜜蜂数量的减少问题
-these declines [are shown by] strong science evidence.
-这些减少现象有强有力的科学证据所表明
+these declines [are supported by] strong scientific evidence.
+这些减少现象有强有力的科学证据支持
 the reasons of decline are different.
 减少的原因各不相同
-we know the problem, and people are doing something.
+we are aware of the problem, and people are doing something.
 我们知道这个问题，并且人们正在采取行动
 
 17.Chimpanzee #18757
 chimpanzees.
 黑猩猩
-First, they wanted to free a chimpanzee that had been kept for many years for research.
+First, they wished to release a chimpanzee that had been kept for many years for research.
 首先，他们希望释放一只因研究而被关押多年的黑猩猩
-After that, [the court said no] because chimpanzees are not persons.
+After that, [the court] [dismissed the appeal] because chimpanzees are not persons.
 之后，法院驳回了请求，因为黑猩猩不是“人”
-Finally, they will [keep trying] this year to [get legal rights for] animals.
+Finally, they will [keep trying] this year [to] [get legal rights for] animals.
 最后，他们今年将继续努力为动物争取法律权利
 
 18.Automated Driving #18758
 automated driving.
 自动驾驶
-automated driving has level three and level four systems.
-自动驾驶包含 3 级和 4 级系统
-level three is the auto mode.
-3 级自动驾驶属于自动模式
-level four automation can save power, making it better than level three.
-4 级自动驾驶能够节省能源，使其比 3 级更好
+automated driving involves level three and level four systems.
+自动驾驶涉及 3 级和 4 级系统
+level three is the full-automatic mode.
+3 级自动驾驶属于全自动驾驶模式
+level four automation can save power, making it more efficient than level three.
+4 级自动驾驶能够节省能源，使其比 3 级更具效率
 
 19.Globalization And De-Traditionalization #18759
 globalization and detraditionalization.
 全球化与去传统化
 we all live in a global village.
 我们都生活在一个地球村中
-globalization [helps us to share ideas] [across the world].
-全球化帮助我们在全球范围内共享思想
+globalization [enables us to share ideas] [across the world].
+全球化意味着我们能够在全球范围内共享思想
 detraditionalization can cause [the loss of] traditional cultures.
 去传统化会导致传统文化的丧失
 
@@ -223,8 +223,8 @@ detraditionalization can cause [the loss of] traditional cultures.
 Internet and journalism.
 网络和新闻
 people like such changes, 
-and they think the internet can help [pass news] and help people [get information].
-人们喜欢这种改变，并且他们认为互联网可以帮助传递新闻并帮助人们获得信息
+and they think the internet [can improve the spreading of news] and [help people] [gain information].
+人们喜欢这种改变，并且他们认为互联网可以[提升新闻的传播]并帮助人们[获得信息]
 journalism is becoming a [team process].
 新闻业正在成为一个团队合作的过程
 
