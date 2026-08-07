@@ -273,9 +273,9 @@ the separation of powers.
 三权分立原则
 the separation of powers means dividing government power into 3 parts.
 三权分立意味着将政府权力划分为三个部分
-one is to make the laws, and the second is to enforce the laws.
+one is to [make the laws], and the second is to [enforce the laws].
 其中一部分负责制定法律，第二部分负责执行法律
-the third is to explain the laws.
+the third is to [explain the laws].
 第三部分则负责解释法律
 
 26.Water recycling #18787
@@ -283,59 +283,59 @@ water recycling.
 水循环利用问题
 water recycling is needed.
 水循环利用是有需要的
-there is technology available for factory use, but there is little technology available for home use.
+there is technology available for industrial use, but there is little technology available for home use.
 工业领域已有相关技术可用，但家庭使用的技术却很少
-on the local level, water recycling at home is important.
+on the local level, water recycling [at home] is important.
 地方层面，家庭水循环利用具有重要意义
 
 27.The Design of Buildings #18788
 the design of buildings.
 建筑设计
-design is important to a building.
+design [is important to] a building.
 设计对建筑至关重要
 there are some bad buildings and some great buildings.
 存在一些劣质建筑和一些杰出建筑
-many buildings were broken down because of their use.
-许多建筑因其用途而被拆除
+many buildings were broken down because of their nature and function.
+许多建筑因其性质和功能而被拆除
 
 28.Great Ideas #18789
 great ideas.
 伟大思想
 a great idea should be new.
 伟大思想应当具有新颖性
-a great idea should be special.
+a great idea should be unique.
 伟大思想应当独具特色
-a great idea should work well.
-伟大思想应当成效良好
+a great idea should be productive.
+伟大思想应当富有成效
 
 29.Food Crisis #18790
 food crisis.
 食物危机
-people had a serious food crisis.
+people [suffered from] [a serious food crisis].
 人们遭受了严重的粮食危机
-people must make double food.
+people must [double the production].
 我们必须生产双倍的食物
-it is important to increase the production.
+it is urgent to increase the production.
 增加产量是重要的
 
 30.The history of English #18791
-the history of English.
+[the history of] English.
 英语的历史
 English is not a pure language.
 英语并非纯粹的语言
-English took words from over 350 languages.
+English borrowed words from [over 350 languages].
 英语从超过 350 种语言中获取了词汇
-today we are not only learning about language, but we are also learning about history.
+today we are [not only] [learning about language], [but we are also] learning about history.
 当今我们不仅在学习语言，更是在学习历史
 
 31.Online Research #18792
-the good and bad of online research.
+[the advantages and drawbacks of] [online research].
 在线调研的优缺点
-online research is faster than old methods, and there is no distance between quantity and quality.
+online research is [quicker than] [conventional methods], and there is no gap between quantity and quality.
 在线调研比旧方法更快速，且数量与质量之间没有距离
-the bad thing is that we cannot talk face-to-face.
+the drawback is that we cannot communicate face-to-face.
 其缺点在于我们无法面对面交流
-we cannot get information through reactions like body language, which means we don’t know who is on the other side.
+we cannot get information through reactions like/ such as body language, which means we don’t know who is on the other side.
 我们无法通过肢体语言等反应获取信息，这意味着我们无从知晓对方是谁
 
 32.Canned Food During the Great Depression #18793
@@ -345,17 +345,17 @@ canned foods became popular.
 罐头食品开始流行起来
 people could buy fridges.
 人们能够购买冰箱
-supermarkets became a new thing.
+supermarkets became a new fashion.
 超市成为了一种新的事物
 
 33.Credit Card Experiment #18795
 a credit card experiment.
 一项信用卡实验
-some old credit card users got a message, and they could get money by using their cards.
+some old credit card users received a message, and they could gain benefits by using their cards.
 部分闲置信用卡用户收到了一条信息，提示他们使用信用卡可获得奖励
-other users would pay money if they did not use their cards.
+other users would [pay money/ face a fine] if they did not use their cards.
 其他用户若不使用信用卡将需要付出费用
-customers are more likely to be moved by loss.
+customers are more likely to be driven by potential loss.
 客户更容易被损失所驱动
 
 34.Mars and the earth #18796
@@ -365,25 +365,27 @@ Mars is close to the Earth.
 火星距离地球较近
 Mars has hills, seasons and weather.
 火星有丘陵、季节和天气
-Mars has special gases.
+Mars has rare gases.
 火星有特殊的气体
 
 35.Application in biology #18797
 applications in biology.
 生物学领域的应用
-scientists can change nature.
-科学家能够改变自然
-scientists could make DNA and create new cells 40 years ago.
+scientists can engineer nature.
+科学家能够改造自然
+scientists could write DNA and create new cells 40 years ago.
 四十年前科学家已能制作 DNA 并创造新细胞
-scientists use small tools in experiments in the labs and get bacteria the next day.
+scientists [use] micro-scale tools [in experiments] in the labs, and get bacteria [the next day].
 科学家在实验室的实验中使用微小工具，次日即可获得细菌
 
 36.The History of Software #18798
 the history of software.
 软件的发展历程
-the history of software is very new, and the growth is fast.
+the [history] of software [is very new], and the growth is fast.
 软件历史极为短暂，且增长迅速
-the fast growth of computer power and the fast fall in cost made information technology to move into all areas of life.
+the rapid expansion of computing power] and the rapid [decline in cost].
+[计算能力]的[迅猛扩张]与成本的[急剧下降]
+[this made the information technology] to [move into] [all areas of life].
 计算机能力的快速增长与成本的急剧下降使得信息技术得以进入生活的方方面面
 
 37.Roman city #18799
@@ -391,8 +393,8 @@ the city of Rome.
 罗马城
 the city grew in an easy way.
 该城市是以简单随意的模式发展起来的
-Romans built the city in a good way.
-罗马人以良好的方式建造了城市
+Romans structured the city in a very organized way.
+罗马人以非常[有条理的方式][规划了城市结构]
 when the Romans built their ideal Roman city, they used army camp design.
 当罗马人建造他们理想中的罗马城市时，他们使用了军营的设计
 
@@ -401,27 +403,27 @@ the reasons to read the Republic.
 阅读《理想国》的理由
 the book is very easy to read.
 该书非常易读
-the book includes real conversation and important ideas.
-书中包含真实的对话与重要的思想
+the book includes living conversation and important ideas.
+书中包含生动的对话与重要的思想
 thoughts and content are the other reasons to read the book.
 思想与内容是阅读此书的其他理由
 
 39.The Industrial Revolution #18834
 the Industrial Revolution.
 工业革命
-the Industrial Revolution was more than large factories and machines.
-工业革命不仅是关于大型工厂和机器
-the Industrial Revolution was a fast growth of production.
+the Industrial Revolution was measured by more than large factories and machines.
+工业革命不仅是以[大型工厂和机器][来衡量]的
+the Industrial Revolution was a [fast growth of production].
 工业革命是生产的快速增长
-the fast rise of production was linked to old forms of production.
+the rapid rise of production was linked to traditional forms of production.
 生产的快速增长是与旧的生产形式联系在一起的
 
 40.Globalization definitions #20394
 the definitions of globalization.
 全球化的定义
-globalization helps international talk.
-全球化有助于国际交流
-countries get together in the system.
+globalization increases international talk.
+全球化促进了国际交流
+countries become integrated in the system.
 国家在这个体系中结合在一起
 globalization shows a new area of economic growth.
 全球化展示了一个新的经济增长领域
@@ -429,7 +431,7 @@ globalization shows a new area of economic growth.
 41.Albert Einstein’s theory of Universe 20496
 Einstein's theory of the universe.
 爱因斯坦的宇宙理论
-people thought the space was not moving for thousands of years.
+people thought the space was fixed for thousands of years.
 人们曾认为空间是静止不动的，这种观念延续了数千年
 the view of the universe was changed because of Einstein.
 对宇宙的看法因为爱因斯坦而改变
@@ -439,11 +441,11 @@ the space itself is changing.
 42.Luxury brands #21110
 luxury brands.
 奢侈品牌
-how we tell luxury brands is a hard question.
+how we distinguish luxury brands is a difficult question.
 我们如何区分奢侈品牌是一个难题
 the answer is different for people.
 答案因人而异
-the answer is hard.
+the answer is complicated.
 答案很困难
 
 43.Migration history in Australia #21113
@@ -451,7 +453,7 @@ migration history in Australia.
 澳大利亚的移民历史
 the first people of Australia were the Indigenous Australians.
 澳大利亚最早的居民是澳大利亚原住民
-when Australia and its nearby parts formed a single land, the indigenous peoples lived there.
+when Australia and its nearby parts [formed a single land], the indigenous peoples lived there.
 当澳大利亚及其周边地区形成单一陆地时，原住民便在此定居
 Australia used the multicultural policy.
 澳大利亚采纳了多元文化政策
@@ -459,7 +461,7 @@ Australia used the multicultural policy.
 44.Stock market and modern business #21115
 the stock market and modern business.
 股票市场与现代商业
-the factory companies came in.
+the manufacturing companies came in.
 制造工厂公司纷纷进入市场
 big modern companies include Apple, Google and Microsoft.
 大型现代企业包括苹果、谷歌和微软
@@ -471,9 +473,9 @@ mood.
 情绪问题
 mood may be different among different people.
 不同人的情绪可能会有所不同
-the secret of happiness is control.
-幸福的秘诀在于控制
-we should keep a balance between strong and soft emotions.
+the secret of happiness is control/ mild containment.
+幸福的秘诀在于控制/适度克制
+we should keep a balance between intense and loose emotions.
 我们应当在强烈与温和的情绪之间保持平衡
 
 46.The development of machine #21119
