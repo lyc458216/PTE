@@ -481,19 +481,19 @@ we should keep a balance between intense and loose emotions.
 46.The development of machine #21119
 the development of machine.
 机器的发展历程
-machines should do things better than most people.
+machines ought to do things better than most people.
 机器应当比大多数人更擅长做事
-machines took many jobs and became better and better.
-机器取代了许多工作，并且变得越来越好
-when there are no new jobs, humans will have nowhere to go.
+machines had replaced many industries and became better and better.
+机器已取代众多行业，并且变得越来越好
+when there are no new jobs, humans will [have nowhere to go].
 当没有新岗位时，人类将无处可去
 
 47.Bees waggle dance and communication #21307
-how bees talk.
+how bees communicate.
 蜜蜂如何交流
-it is interesting how bees talk with each other.
+it is interesting how bees communicate with each other.
 蜜蜂彼此间的交流方式很有趣
-bees do waggle dance to show the distance and direction of the food.
+bees do waggle dance to indicate the distance and direction of the food resource.
 蜜蜂通过摆尾舞来展示食物的距离和方向
 it is a special communication system.
 这是一种特殊的交流系统
@@ -501,11 +501,11 @@ it is a special communication system.
 48.Paper rejection #21450
 paper rejection.
 论文被拒的问题
-he was giving some tips on publishing a paper.
+he was giving some advice on publishing a paper.
 他正在就发表论文提供一些建议
-rejection would bring a better result and would be good for the job path.
+rejection would lead to a better result, and would [be good for] the career path.
 被拒会带来更好的结果，对职业发展有好处
-it is important to get young researchers and keep them working.
+it is important to attract young researchers and keep them engaged.
 吸引年轻研究者并保持他们的参与至关重要
 
 49.Society diversity #21466
@@ -513,19 +513,21 @@ societal diversity.
 社会的多样性问题
 all societies have diversity, bringing multiculturalism.
 所有社会都存在多样性，从而带来多元文化主义
-what causes diversity and how diversity would happen. These questions are hard to answer. Simply counting the number is not that important.
+what causes diversity and how diversity would happen. 
+These questions are hard to answer. 
+Simply counting the number [is not that important].
 什么导致了多样性以及多样性如何发生。这些问题很难回答。单纯统计数量并不重要
-most societies have diversity in some way.
+most societies have diversity to some extent.
 大多数社会在某种程度上都存在多样性
 
 50.Negative bias #21621
 negative bias.
 负面偏见
-we feel bad emotions more to help us live.
-我们更多地感受负面情绪以帮助我们生存
-the good emotions we feel are less.
+we are [more likely to] [sense negative emotions] to help us [survive].
+[我们更容易][感知负面情绪]，这有助于人类[生存]
+the positive emotions we experience are more limited.
 我们体验到的积极情绪较少
-bad emotions happen less but are stronger.
+bad emotions are less frequent but more intense.
 负面情绪发生得较少，但强度更强
 
 51.Darwin and Bees #21655
