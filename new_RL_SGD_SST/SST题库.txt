@@ -535,57 +535,59 @@ bee genes and Darwin’s theory.
 蜜蜂基因与达尔文理论
 worker bees will give their lives to help the queen bee pass genes to the next generation.
 工蜂会献出生命来帮助蜂后将基因传递给下一代
-the worker bees do not have babies and help the queen reproduce, and the worker bees will die if needed to do so.
+the worker bees [give up reproduction] and help the queen reproduce, 
+and the worker bees [will die] [if needed to do so].
 工蜂不生育并协助蜂后繁衍，必要时工蜂会为此献出生命
 
 52.Inequality in Children #21902
-the inequality in children.
+the [inequality in] children.
 儿童群体中的不平等现象
-smart parents can give their children good educational resources and support.
-聪明的父母能够为子女提供良好的教育资源与支持
-children's life chances are mostly set by the age of five.
+well-educated parents [can provide] their children [with] [ample educational resources and support].
+受过良好教育的父母能够为子女提供良好的教育资源与支持
+children's life opportunities are [largely determined by] by the age of five.
 儿童的人生机遇在很大程度上由五岁时决定
-there are still no good ways to fix this inequality in society.
+there are [still no particularly effective solutions to] this [deeply entrenched inequality in society].
 对于这种社会不平等现象，至今仍缺乏好的解决办法
 
 53.Motivation #21919
 two types of motivation.
 两种动机类型
-motivation can be divided into approach motivation and avoidance motivation.
-动机可分为趋近动机与回避动机
-approach motivation is about good things, while avoidance motivation relates to bad things.
-趋近动机关于积极事物，而回避动机则关联消极事物
-avoidance motivation is much stronger.
+motivation can be [categorized into] [approach motivation] and [avoidance motivation].
+动机可分为[趋近动机]与[回避动机]
+approach motivation [pertains to] positive things, while avoidance motivation relates to negative things.
+趋近动机[关联]积极事物，而回避动机则关联消极事物
+avoidance motivation [tends to be] [significantly stronger].
 回避动机要强得多
 
 54.Leadership #21945
 leadership.
 领导力
-great leaders is a hard word to define.
+great leaders is a difficult concept to define.
 “伟大领导者”是一个难以定义的词
-people need to learn more skills, such as planning for the future and helping new people join the team.
-人们需要学习更多技能，例如规划未来以及帮助新人融入团队
-the team structure around people is also very important.
+people need to master more skills, such as planning for the future and helping newcomers [integrate into] the team.
+人们需要掌握更多技能，例如规划未来以及帮助新人融入团队
+the team structure surrounding individuals is also very important.
 围绕个人的团队结构也具有重要意义
 
 55.Symmetry in mathematics #22451
 symmetry in mathematics.
 数学中的对称性
-old objects in museums can have lots of mathematical meaning.
+old objects in museums can have lots of mathematical significance.
 博物馆中的古老物件往往蕴含丰富的数学意义
-the stones found in Scotland 5000 years ago are the first examples of humans looking at the idea of symmetry.
+the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry.
 在苏格兰发现的五千年前石器，是人类探索对称概念的最早实例
-we don’t know what these stones are for. Maybe they were math objects for fun and beauty.
+we don’t know [what these stones are for]. 
+Maybe they were mathematical objects for joy and beauty.
 我们不知道这些石器是干什么用的。或许它们只是为了乐趣与美感而存在的数学物件
 
 56.Bees waggle dance #22519
-how bees use a waggle dance as their communication system.
+how bees [use] a waggle dance [as] their communication system.
 蜜蜂如何运用摆尾舞作为其通讯系统
 when bees find a good food source, they will do a waggle dance to tell other bees.
 当蜜蜂发现优质食物来源时，会通过摆尾舞告诉其他蜜蜂
-a study on bees’ dancing behaviors.
+[a study] [regarding bees’ dancing behaviors]
 一项关于蜜蜂舞蹈行为的研究
-bees can use their dance and the sounds to show different flowers and the environment.
+bees can use their dance and the sounds to describe different flowers and the environment.
 蜜蜂能够通过舞蹈和声音来展示不同花卉及环境特征
 
 57.Population growth #22723
