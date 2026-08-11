@@ -1,4 +1,5 @@
-SST模板:
+[SST]
+模板:
 This lecture mainly discussed []. 
 In the first part of the lecture(First), the speaker stated that []. 
 In the second part of the lecture(After that), the speaker mentioned that [] 
@@ -9,7 +10,8 @@ hard problems in
 ensure a return on capital
 joined the experiment
 ------
-SGD模板:
+[SGD]
+模板:
 The three speakers were talking about (topic).
 
 The first speaker talked about (main problem 短句+短句).
@@ -23,8 +25,9 @@ He/she also pointed out (短句+短句).
 The third speaker focused on (短句+短句).
 Furthermore, he/She suggested (短句+短句).
 Then, the third speaker said that (短句+短句).
-
-RL模板:
+-------
+[RL]
+模板:
 
 
 1.Marketing #18671
@@ -32,7 +35,7 @@ marketing.
 市场营销
 marketing is the process of moving goods and services from suppliers to customers.
 市场营销是将商品和服务从供应商转移到客户的过程。
-profit models can ensure a return on capital.
+[profit models] [can ensure a return on capital].
 盈利模式可以确保资本回报
 marketing is [directly linked to] [sales growth].
 市场营销与销售增长直接相关
