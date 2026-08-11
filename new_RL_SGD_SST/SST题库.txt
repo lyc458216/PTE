@@ -45,7 +45,7 @@ vitamin D.
 维生素 D
 vitamin D is called the sunshine vitamin.
 维生素 D 被称为阳光维生素
-if you [get enough sunshine], there is no [food need for] vitamin D.
+if you [get enough sunshine], there is no [dietary need for] vitamin D.
 如果你得到足够的阳光，就不需要维生素D
 vitamin D is not a vitamin.
 维生素 D 不是一种维生素
@@ -53,10 +53,10 @@ vitamin D is not a vitamin.
 3.A woman in student loan #18690
 a woman [in student loan].
 背负助学贷款的女性
-she has tens of thousands of student loan.
+she owes tens of thousands of student loan.
 她欠了几万的学生贷款
-she could not find a good job.
-她找不到好的工作
+she could not find a decent job.
+她找不到体面的工作
 her children are [facing the problem of] [borrowing money for] school, and she felt stressed.
 她的孩子们面临着借钱上学的问题，她感到压力很大
 
@@ -77,7 +77,7 @@ wildlife is the source of food and the source of money.
 野生动物既是食物来源，也是资金来源
 [the management of] fish resources influences health.
 渔业资源的管理对健康产生影响
-the wildlife tourism industry is important.
+[the wildlife tourism industry] is important.
 野生动物旅游业很重要
 
 6.An experiment about female body fat #18717
