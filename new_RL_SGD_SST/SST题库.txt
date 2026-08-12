@@ -12,18 +12,18 @@ joined the experiment
 ------
 [SGD]
 模板:
-The three speakers were talking about (topic).
+The three speakers are talking about (topic).
 
 The first speaker talked about (main problem 短句+短句).
-He/She seemed quite (concerned/ interested/ stressed 短句 +短句)
-And the first speaker mentioned that (短句+短句).
+He/She seemed quite (concerned/ interested/ stressed 短句 +短句).
+The first speaker also mentioned that (短句+短句).
 
-The second speaker agreed with that/ some ideas (短句+短句).
-Then, He/She had different opinions about (短句+短句).
+The second speaker agreed with that/some ideas (短句+短句).
+Then, he/she had different opinions about (短句+短句).
 He/she also pointed out (短句+短句).
 
 The third speaker focused on (短句+短句).
-Furthermore, he/She suggested (短句+短句).
+Furthermore, he/she suggested (短句+短句).
 Then, the third speaker said that (短句+短句).
 -------
 [RL]
@@ -33,143 +33,142 @@ Then, the third speaker said that (短句+短句).
 1.Marketing #18671
 marketing.
 市场营销
-marketing is the process of moving goods and services from suppliers to customers.
+Marketing is the process of moving goods and services from suppliers to customers.
 市场营销是将商品和服务从供应商转移到客户的过程。
-[profit models] [can ensure a return on capital].
+[Profit models] [can ensure a return on capital].
 盈利模式可以确保资本回报
-marketing is [directly linked to] [sales growth].
+Marketing is [directly linked to] [sales growth].
 市场营销与销售增长直接相关
 
 2.Vitamin D #18683
 vitamin D.
 维生素 D
-vitamin D is called the sunshine vitamin.
+Vitamin D is called the sunshine vitamin.
 维生素 D 被称为阳光维生素
-if you [get enough sunshine], there is no [dietary need for] vitamin D.
+If you [get enough sunshine], there is no [dietary need for] vitamin D.
 如果你得到足够的阳光，就不需要维生素D
-vitamin D is not a vitamin.
+Vitamin D is not a vitamin.
 维生素 D 不是一种维生素
 
-3.A woman in student loan #18690
-a woman [in student loan].
+3.A woman with student loans #18690
+a woman [with student loans].
 背负助学贷款的女性
-she owes tens of thousands of student loan.
+She owes tens of thousands of dollars in student loans.
 她欠了几万的学生贷款
-she could not find a decent job.
+She could not find a decent job.
 她找不到体面的工作
-her children are [facing the problem of] [borrowing money for] school, and she felt stressed.
+Her children are [facing the problem of] [borrowing money for] school, and she feels stressed.
 她的孩子们面临着借钱上学的问题，她感到压力很大
 
 4.The Big Bang theory #18710
 the Big Bang theory.
 大爆炸理论
-the universe [began with] a Big Bang.
+The universe [began with] a Big Bang.
 宇宙始于一次大爆炸
-the universe [started with] a Big Bang about 13.7 billion years ago.
+The universe [started with] a Big Bang about 13.7 billion years ago.
 宇宙在大约 137 亿年前的一次大爆炸中诞生
-if everything is right, we can understand the universe.
+If everything is correct, we can understand the universe.
 如果一切都是正确的，我们就能理解宇宙
 
 5.Fishing Industry In Africa #18713
 the fishing industry in Africa.
 非洲渔业
-wildlife is the source of food and the source of money.
+Wildlife is a source of food and income.
 野生动物既是食物来源，也是资金来源
-[the management of] fish resources influences health.
+The [management of] fish resources influences health.
 渔业资源的管理对健康产生影响
-[the wildlife tourism industry] is important.
+The [wildlife tourism industry] is important.
 野生动物旅游业很重要
 
 6.An experiment about female body fat #18717
 [an experiment about] female body fat.
 女性体脂的实验
-31 fat women [joined the experiment].
+Thirty-one overweight women [joined the experiment].
 31 名肥胖女性参与了实验
-they [need to] exercise every day.
+They [need to] exercise every day.
 她们需要每天坚持锻炼
-some people ate more, or they exercised less.
+Some people ate more or exercised less.
 有些人吃得更多，或是运动较少
 
 7.Smart consumers #18719
 relationship between smart consumers and brands.
 聪明消费者与品牌的关系
-a brand is very important to smart consumers.
+A brand is very important to smart consumers.
 品牌对聪明的消费者非常重要
-the Second Moment of Truth is important, and the product [must have good quality].
+The Second Moment of Truth is important, and the product [must have good quality].
 “第二次真相时刻”很重要，产品必须具备良好的品质
-there are [hard problems in] [making the products] both strong and soft.
+There are [hard problems in] [making the products] both strong and soft.
 在让产品兼具硬核与柔性方面存在困难的问题
 
 8.Dangers of Keeping Drugs at Home #18720
 the dangers of keeping medicine at home.
 家中存放药品的危险性
-children may [ingest the drugs].
+Children may [ingest the drugs].
 儿童可能会误食药品
-the medicine may [be taken for] [the wrong reasons].
+The medicine may [be taken for] [the wrong reasons].
 药品可能被用于不当的原因
-doctors should [give the right amount of] medicine.
+Doctors should [give the right amount of] medicine.
 医生应该开具正确数量的药品
 
 9.A Survey on Social Well-Being and Happiness #18721
 [a survey on] social life and happiness.
 社会生活与幸福感的调查
-[one factor is] [the consistent patterns].
+[One factor is] [consistent patterns].
 一个因素是稳定的模式
-it includes basic things like money and health.
+It includes basic things like money and health.
 这包括资金和健康等基本要素
-other things include the living environment and the quality of life.
+Other factors include the living environment and the quality of life.
 其他方面还包括生活环境和生活质量
 
 10.Symbolic Systems #18731
 symbolic systems.
 符号系统
-language is a classic symbolic system.
+Language is a classic symbolic system.
 语言是一个主要的符号系统
-people communicate with sign language and movement.
+People communicate with sign language and movement.
 人们通过手语和肢体动作进行交流
-it is a good idea to do something with your hands and talk at the same time.
+It is a good idea to do something with your hands and talk at the same time.
 边动手操作边交流是个好主意
 
 11.Global Warming and Climate Change #18737
 global warming and climate change.
 全球变暖与气候变化问题
-climate change is becoming a serious problem.
+Climate change is becoming a serious problem.
 气候变化正在变成一个糟糕的问题
-national governments should take action.
+National governments should take action.
 各国政府应当采取行动
-some major changes are taking place/ happening globally.
+Some major changes are taking place/ happening globally.
 全球范围内正在发生一些重大变化
 
 12.Face Recognition #18738
 recognizing faces.
 人脸识别
-humans are good at face recognition.
+Humans are good at face recognition.
 人类擅长人脸识别
-face recognition is a hard problem, 
-and it is a clever thing that you can recognize different types of information.
+Face recognition is a hard problem, 
+and it is impressive that we can recognize different types of information.
 人脸识别是一个难题，能够识别不同类型的信息是一件聪明的事情
-people need to appreciate face recognition.
+People need to appreciate face recognition.
 人们需要欣赏人脸识别
 
 13.Baby Smile #18742
 baby smiles.
 婴儿的微笑
-babies want the people they talk with to give them a smile in return.
+Babies want the people they talk with to give them a smile in return.
 婴儿希望与之互动的人能给予他们微笑回应
-the researchers found four ways of mother-infant relationships.
+The researchers found four types of mother-infant relationships.
 研究人员发现了母婴关系的四种方式
-mothers want to talk, while babies just want to smile.
+Mothers want to talk, while babies just want to smile.
 母亲想要交流，而婴儿只是想要微笑
 
 14.Managers #18743
 managers.
 管理者
-managers should learn more by reading more books, 
-and going back to the university to make themselves better.
+Managers should learn more by reading more books and going back to university to improve themselves.
 管理者应通过多读书和重返校园来提升自我
-management knowledge and skills are [more important than] experience.
+Management knowledge and skills are [more important than] experience.
 管理知识与技能比经验更为重要
-the best manager should be a teacher of management.
+The best managers should be teachers of management.
 最优秀的管理者应当是管理学的老师
 
 15.Industrialization #18752
@@ -177,25 +176,25 @@ industrialization.
 工业化
 The Industrial Revolution had a very [bad effect on] people.
 工业革命对人们产生了非常坏的影响
-we should [make laws] on [working conditions].
+We should [make laws] about [working conditions].
 我们应当制定关于工作条件的法律
-we need to make rules to change the environmental conditions.
+We need to make rules to change environmental conditions.
 我们需要制定规则来改变环境状况
 
 16.The decline of bees #18755
 the decline of bees.
 蜜蜂数量的减少问题
-these declines [are supported by] strong scientific evidence.
+These declines [are supported by] strong scientific evidence.
 这些减少现象有强有力的科学证据支持
-the reasons of decline are different.
+The reasons for decline are different.
 减少的原因各不相同
-we are aware of the problem, and people are doing something.
+We are aware of the problem, and people are taking action.
 我们知道这个问题，并且人们正在采取行动
 
 17.Chimpanzee #18757
 chimpanzees.
 黑猩猩
-First, they wished to release a chimpanzee that had been kept for many years for research.
+First, they wanted to release a chimpanzee that had been kept for many years for research.
 首先，他们希望释放一只因研究而被关押多年的黑猩猩
 After that, [the court] [dismissed the appeal] because chimpanzees are not persons.
 之后，法院驳回了请求，因为黑猩猩不是“人”
@@ -205,120 +204,120 @@ Finally, they will [keep trying] this year [to] [get legal rights for] animals.
 18.Automated Driving #18758
 automated driving.
 自动驾驶
-automated driving involves level three and level four systems.
+Automated driving involves level three and level four systems.
 自动驾驶涉及 3 级和 4 级系统
-level three is the full-automatic mode.
+Level three is the fully automated mode.
 3 级自动驾驶属于全自动驾驶模式
-level four automation can save power, making it more efficient than level three.
+Level four automation can save power, making it more efficient than level three.
 4 级自动驾驶能够节省能源，使其比 3 级更具效率
 
 19.Globalization And De-Traditionalization #18759
 globalization and detraditionalization.
 全球化与去传统化
-we all live in a global village.
+We all live in a global village.
 我们都生活在一个地球村中
-globalization [enables us to share ideas] [across the world].
+Globalization [enables us to share ideas] [across the world].
 全球化意味着我们能够在全球范围内共享思想
-detraditionalization can cause [the loss of] traditional cultures.
+Detraditionalization can cause [the loss of] traditional cultures.
 去传统化会导致传统文化的丧失
 
 20.Internet and Journalism #18764
 Internet and journalism.
 网络和新闻
-people like such changes, 
-and they think the internet [can improve the spreading of news] and [help people] [gain information].
+People like such changes, 
+and they think the internet [can improve the spread of news] and [help people] [gain information].
 人们喜欢这种改变，并且他们认为互联网可以[提升新闻的传播]并帮助人们[获得信息]
-journalism is becoming a [team process].
+Journalism is becoming a [team process].
 新闻业正在成为一个团队合作的过程
 
 21.Absolutism #18772
 moral objectivism and moral absolutism.
 道德客观主义与道德绝对主义
-in moral objectivism, some moral principles [apply to] all actions.
+In moral objectivism, some moral principles [apply to] all actions.
 在道德客观主义中，一些道德规则适用于所有行为
-in moral absolutism, a clear boundary exists between right and wrong.
+In moral absolutism, a clear boundary exists between right and wrong.
 在道德绝对主义中，是非之间存在明确的界限
-these principles [must be followed].
+These principles [must be followed].
 必须使用这些规则
 
 22.Need #18776
 the need.
 需要
-the need is a strong desire and [an essential] requirement.
+Need is a strong desire and [an essential] requirement.
 需要是一种强烈的渴望和不可或缺的需求
-the need is a multifunctional concept in social environments.
+Need is a multifunctional concept in social environments.
 在社会环境中，需求是一个有用的概念
-[in terms of psychology], it means an inner need.
+[In terms of psychology], it means an inner need.
 从心理学的角度来看，它指的是一种内在需求
 
 23.Newspaper #18777
 newspapers.
 报纸行业
-in some American states, the newspaper industry is shrinking.
+In some American states, the newspaper industry is shrinking.
 在美国某些州，报纸行业正在萎缩
-business models are changing.
+Business models are changing.
 商业模式正在发生变化
-the small newspapers decided to go online, and some newspapers disappeared/ were gone.
+Some small newspapers decided to go online, and some newspapers disappeared.
 小型报纸决定转向线上，而一些报纸则消失了
 
 24.Fight-or-Flight Response #18778
 [the stress response] and emotions.
 应激反应和情绪的关系
-emotions have a purpose.
+Emotions have a purpose.
 情绪是有目的的
-basic emotions are key messengers.
+Basic emotions are key messengers.
 基本的情绪是关键的信使
-the brain [uses information to] control [fast responses], and create strong signals.
+The brain [uses information to] control [fast responses] and create strong signals.
 大脑使用信息来控制快速的反应，并产生强烈的信号
 
 25.The Separation of powers #18781
 the separation of powers.
 三权分立原则
-the separation of powers means dividing government power into 3 parts.
+The separation of powers means dividing government power into three parts.
 三权分立意味着将政府权力划分为三个部分
-one is to [make the laws], and the second is to [enforce the laws].
+One is to [make the laws], and the second is to [enforce the laws].
 其中一部分负责制定法律，第二部分负责执行法律
-the third is to [explain the laws].
+The third is to [explain the laws].
 第三部分则负责解释法律
 
 26.Water recycling #18787
 water recycling.
 水循环利用问题
-water recycling is needed.
+Water recycling is necessary.
 水循环利用是有需要的
-there is technology available for industrial use, but there is little technology available for home use.
+There is technology available for industrial use, but there is little technology available for home use.
 工业领域已有相关技术可用，但家庭使用的技术却很少
-on the local level, water recycling [at home] is important.
+On the local level, water recycling [at home] is important.
 地方层面，家庭水循环利用具有重要意义
 
 27.The Design of Buildings #18788
 the design of buildings.
 建筑设计
-design [is important to] a building.
+Design [is important to] a building.
 设计对建筑至关重要
-there are some bad buildings and some great buildings.
+There are some bad buildings and some great buildings.
 存在一些劣质建筑和一些杰出建筑
-many buildings were broken down because of their nature and function.
+Many buildings were broken down because of their nature and function.
 许多建筑因其性质和功能而被拆除
 
 28.Great Ideas #18789
 great ideas.
 伟大思想
-a great idea should be new.
+A great idea should be new.
 伟大思想应当具有新颖性
-a great idea should be unique.
+A great idea should be unique.
 伟大思想应当独具特色
-a great idea should be productive.
+A great idea should be productive.
 伟大思想应当富有成效
 
 29.Food Crisis #18790
 food crisis.
 食物危机
-people [suffered from] [a serious food crisis].
+People [suffered from] [a serious food crisis].
 人们遭受了严重的粮食危机
-people must [double the production].
+People must [double food production].
 我们必须生产双倍的食物
-it is urgent to increase the production.
+It is urgent to increase production.
 增加产量是重要的
 
 30.The history of English #18791
@@ -328,40 +327,40 @@ English is not a pure language.
 英语并非纯粹的语言
 English borrowed words from [over 350 languages].
 英语从超过 350 种语言中获取了词汇
-today we are [not only] [learning about language], [but we are also] learning about history.
+Today, we are [not only] [learning about language], [but we are also] learning about history.
 当今我们不仅在学习语言，更是在学习历史
 
 31.Online Research #18792
 [the advantages and drawbacks of] [online research].
 在线调研的优缺点
-online research is [quicker than] [conventional methods], and there is no gap between quantity and quality.
+Online research is [quicker than] [conventional methods], and there is no gap between quantity and quality.
 在线调研比旧方法更快速，且数量与质量之间没有距离
-the drawback is that we cannot communicate face-to-face.
+The drawback is that we cannot communicate face-to-face.
 其缺点在于我们无法面对面交流
-we cannot get information through reactions like/ such as body language, which means we don’t know who is on the other side.
+We cannot pick up cues such as body language, which means we don't know who is on the other side.
 我们无法通过肢体语言等反应获取信息，这意味着我们无从知晓对方是谁
 
 32.Canned Food During the Great Depression #18793
 canned foods during the Great Depression.
 大萧条时期的罐头食品
-canned foods became popular.
+Canned foods became popular.
 罐头食品开始流行起来
-people could buy fridges.
+People could buy refrigerators.
 人们能够购买冰箱
-supermarkets became a new fashion.
+Supermarkets became fashionable.
 超市成为了一种新的事物
 
 33.Credit Card Experiment #18795
 a credit card experiment.
 一项信用卡实验
-some old credit card users received a message, and they could gain benefits by using their cards.
+Some inactive credit card users received a message, and they could gain benefits by using their cards.
 部分闲置信用卡用户收到了一条信息，提示他们使用信用卡可获得奖励
-other users would [pay money/ face a fine] if they did not use their cards.
+Other users would [pay money / face a fine] if they did not use their cards.
 其他用户若不使用信用卡将需要付出费用
-customers are more likely to be driven by potential loss.
+Customers are more likely to be driven by potential losses.
 客户更容易被损失所驱动
 
-34.Mars and the earth #18796
+34.Mars and the Earth #18796
 Mars.
 火星
 Mars is close to the Earth.
@@ -371,236 +370,232 @@ Mars has hills, seasons and weather.
 Mars has rare gases.
 火星有特殊的气体
 
-35.Application in biology #18797
+35.Applications in biology #18797
 applications in biology.
 生物学领域的应用
-scientists can engineer nature.
+Scientists can engineer nature.
 科学家能够改造自然
-scientists could write DNA and create new cells 40 years ago.
+Scientists could write DNA and create new cells 40 years ago.
 四十年前科学家已能制作 DNA 并创造新细胞
-scientists [use] micro-scale tools [in experiments] in the labs, and get bacteria [the next day].
+Scientists [use] microscale tools [in experiments] in the lab and can get bacteria [the next day].
 科学家在实验室的实验中使用微小工具，次日即可获得细菌
 
 36.The History of Software #18798
 the history of software.
 软件的发展历程
-the [history] of software [is very new], and the growth is fast.
+The [history] of software [is very new], and its growth has been rapid.
 软件历史极为短暂，且增长迅速
-the rapid expansion of computing power] and the rapid [decline in cost].
+The [rapid expansion of computing power] and the rapid [decline in cost] have driven this.
 [计算能力]的[迅猛扩张]与成本的[急剧下降]
-[this made the information technology] to [move into] [all areas of life].
+This enabled information technology to [move into] [all areas of life].
 计算机能力的快速增长与成本的急剧下降使得信息技术得以进入生活的方方面面
 
 37.Roman city #18799
 the city of Rome.
 罗马城
-the city grew in an easy way.
+The city grew in a relatively unplanned way.
 该城市是以简单随意的模式发展起来的
 Romans structured the city in a very organized way.
 罗马人以非常[有条理的方式][规划了城市结构]
-when the Romans built their ideal Roman city, they used army camp design.
+When the Romans built their ideal city, they used an army-camp design.
 当罗马人建造他们理想中的罗马城市时，他们使用了军营的设计
 
 38.Why Read Plato's “The Republic”? #18827
 the reasons to read the Republic.
 阅读《理想国》的理由
-the book is very easy to read.
+The book is very easy to read.
 该书非常易读
-the book includes living conversation and important ideas.
+The book includes lively conversations and important ideas.
 书中包含生动的对话与重要的思想
-thoughts and content are the other reasons to read the book.
+Its thoughts and content are other reasons to read the book.
 思想与内容是阅读此书的其他理由
 
 39.The Industrial Revolution #18834
 the Industrial Revolution.
 工业革命
-the Industrial Revolution was measured by more than large factories and machines.
+The Industrial Revolution was more than large factories and machines.
 工业革命不仅是以[大型工厂和机器][来衡量]的
-the Industrial Revolution was a [fast growth of production].
+The Industrial Revolution was a period of [fast growth of production].
 工业革命是生产的快速增长
-the rapid rise of production was linked to traditional forms of production.
+The rapid rise of production was linked to traditional forms of production.
 生产的快速增长是与旧的生产形式联系在一起的
 
 40.Globalization definitions #20394
 the definitions of globalization.
 全球化的定义
-globalization increases international talk.
+Globalization increases international communication.
 全球化促进了国际交流
-countries become integrated in the system.
+Countries become integrated into the system.
 国家在这个体系中结合在一起
-globalization shows a new area of economic growth.
+Globalization creates new areas of economic growth.
 全球化展示了一个新的经济增长领域
 
 41.Albert Einstein’s theory of Universe 20496
 Einstein's theory of the universe.
 爱因斯坦的宇宙理论
-people thought the space was fixed for thousands of years.
+For thousands of years, people thought space was fixed.
 人们曾认为空间是静止不动的，这种观念延续了数千年
-the view of the universe was changed because of Einstein.
+Einstein changed our view of the universe.
 对宇宙的看法因为爱因斯坦而改变
-the space itself is changing.
+Space itself is changing.
 空间本身正在发生变化
 
 42.Luxury brands #21110
 luxury brands.
 奢侈品牌
-how we distinguish luxury brands is a difficult question.
+Distinguishing luxury brands is a difficult question.
 我们如何区分奢侈品牌是一个难题
-the answer is different for people.
+The answer is different for different people.
 答案因人而异
-the answer is complicated.
+The answer is complicated.
 答案很困难
 
 43.Migration history in Australia #21113
 migration history in Australia.
 澳大利亚的移民历史
-the first people of Australia were the Indigenous Australians.
+The first people of Australia were Indigenous Australians.
 澳大利亚最早的居民是澳大利亚原住民
-when Australia and its nearby parts [formed a single land], the indigenous peoples lived there.
+When Australia and nearby regions [formed a single land], Indigenous peoples lived there.
 当澳大利亚及其周边地区形成单一陆地时，原住民便在此定居
-Australia used the multicultural policy.
+Australia adopted a multicultural policy.
 澳大利亚采纳了多元文化政策
 
 44.Stock market and modern business #21115
 the stock market and modern business.
 股票市场与现代商业
-the manufacturing companies came in.
+Manufacturing companies entered the market.
 制造工厂公司纷纷进入市场
-big modern companies include Apple, Google and Microsoft.
+Big modern companies include Apple, Google, and Microsoft.
 大型现代企业包括苹果、谷歌和微软
-there are some differences between them.
+There are differences between them.
 它们之间存在一些差异
 
 45.Mood #21117
 mood.
 情绪问题
-mood may be different among different people.
+Mood can differ among different people.
 不同人的情绪可能会有所不同
-the secret of happiness is control/ mild containment.
+The secret to happiness is control and mild restraint.
 幸福的秘诀在于控制/适度克制
-we should keep a balance between intense and loose emotions.
+We should keep a balance between intense and mild emotions.
 我们应当在强烈与温和的情绪之间保持平衡
 
-46.The development of machine #21119
-the development of machine.
+46.The development of machines #21119
+the development of machines.
 机器的发展历程
-machines ought to do things better than most people.
+Machines ought to do things better than most people.
 机器应当比大多数人更擅长做事
-machines had replaced many industries and became better and better.
+Machines have replaced many jobs and are becoming better and better.
 机器已取代众多行业，并且变得越来越好
-when there are no new jobs, humans will [have nowhere to go].
+When there are no new jobs, humans will [have nowhere to go].
 当没有新岗位时，人类将无处可去
 
 47.Bees waggle dance and communication #21307
 how bees communicate.
 蜜蜂如何交流
-it is interesting how bees communicate with each other.
+It is interesting how bees communicate with each other.
 蜜蜂彼此间的交流方式很有趣
-bees do waggle dance to indicate the distance and direction of the food resource.
+Bees do a waggle dance to indicate the distance and direction of a food source.
 蜜蜂通过摆尾舞来展示食物的距离和方向
-it is a special communication system.
+It is a special communication system.
 这是一种特殊的交流系统
 
 48.Paper rejection #21450
 paper rejection.
 论文被拒的问题
-he was giving some advice on publishing a paper.
+The speaker gave some advice on publishing a paper.
 他正在就发表论文提供一些建议
-rejection would lead to a better result, and would [be good for] the career path.
+Rejection can lead to better results and can [be good for] a career path.
 被拒会带来更好的结果，对职业发展有好处
-it is important to attract young researchers and keep them engaged.
+It is important to attract young researchers and keep them engaged.
 吸引年轻研究者并保持他们的参与至关重要
 
-49.Society diversity #21466
+49.Societal diversity #21466
 societal diversity.
 社会的多样性问题
-all societies have diversity, bringing multiculturalism.
+All societies have diversity, which brings multiculturalism.
 所有社会都存在多样性，从而带来多元文化主义
-what causes diversity and how diversity would happen. 
-These questions are hard to answer. 
-Simply counting the number [is not that important].
+What causes diversity and how it happens are hard questions to answer. Simply counting the number [is not that important].
 什么导致了多样性以及多样性如何发生。这些问题很难回答。单纯统计数量并不重要
-most societies have diversity to some extent.
+Most societies have diversity to some extent.
 大多数社会在某种程度上都存在多样性
 
 50.Negative bias #21621
 negative bias.
 负面偏见
-we are [more likely to] [sense negative emotions] to help us [survive].
+We are [more likely to] [sense negative emotions] to help us [survive].
 [我们更容易][感知负面情绪]，这有助于人类[生存]
-the positive emotions we experience are more limited.
+The positive emotions we experience are more limited.
 我们体验到的积极情绪较少
-bad emotions are less frequent but more intense.
+Bad emotions are less frequent but more intense.
 负面情绪发生得较少，但强度更强
 
 51.Darwin and Bees #21655
 bee genes and Darwin’s theory.
 蜜蜂基因与达尔文理论
-worker bees will give their lives to help the queen bee pass genes to the next generation.
+Worker bees will give their lives to help the queen pass her genes to the next generation.
 工蜂会献出生命来帮助蜂后将基因传递给下一代
-the worker bees [give up reproduction] and help the queen reproduce, 
-and the worker bees [will die] [if needed to do so].
+The worker bees [give up reproduction] and help the queen reproduce, and they [will die] [if needed].
 工蜂不生育并协助蜂后繁衍，必要时工蜂会为此献出生命
 
 52.Inequality in Children #21902
 the [inequality in] children.
 儿童群体中的不平等现象
-well-educated parents [can provide] their children [with] [ample educational resources and support].
+Well-educated parents [can provide] their children [with] [ample educational resources and support].
 受过良好教育的父母能够为子女提供良好的教育资源与支持
-children's life opportunities are [largely determined by] by the age of five.
+Children's life opportunities are [largely determined by] the age of five.
 儿童的人生机遇在很大程度上由五岁时决定
-there are [still no particularly effective solutions to] this [deeply entrenched inequality in society].
+There are [still no particularly effective solutions to] this [deeply entrenched inequality in society].
 对于这种社会不平等现象，至今仍缺乏好的解决办法
 
 53.Motivation #21919
 two types of motivation.
 两种动机类型
-motivation can be [categorized into] [approach motivation] and [avoidance motivation].
+Motivation can be [categorized into] [approach motivation] and [avoidance motivation].
 动机可分为[趋近动机]与[回避动机]
-approach motivation [pertains to] positive things, while avoidance motivation relates to negative things.
+Approach motivation [pertains to] positive things, while avoidance motivation relates to negative things.
 趋近动机[关联]积极事物，而回避动机则关联消极事物
-avoidance motivation [tends to be] [significantly stronger].
+Avoidance motivation [tends to be] [significantly stronger].
 回避动机要强得多
 
 54.Leadership #21945
 leadership.
 领导力
-great leaders is a difficult concept to define.
+Great leadership is a difficult concept to define.
 “伟大领导者”是一个难以定义的词
-people need to master more skills, such as planning for the future and helping newcomers [integrate into] the team.
+People need to master more skills, such as planning for the future and helping newcomers [integrate into] the team.
 人们需要掌握更多技能，例如规划未来以及帮助新人融入团队
-the team structure surrounding individuals is also very important.
+The team structure surrounding individuals is also very important.
 围绕个人的团队结构也具有重要意义
 
 55.Symmetry in mathematics #22451
 symmetry in mathematics.
 数学中的对称性
-old objects in museums can have lots of mathematical significance.
+Old objects in museums can have great mathematical significance.
 博物馆中的古老物件往往蕴含丰富的数学意义
-the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry.
+The stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry.
 在苏格兰发现的五千年前石器，是人类探索对称概念的最早实例
-we don’t know [what these stones are for]. 
-Maybe they were mathematical objects for joy and beauty.
+We don't know [what these stones are for]. Maybe they were mathematical objects for joy and beauty.
 我们不知道这些石器是干什么用的。或许它们只是为了乐趣与美感而存在的数学物件
 
 56.Bees waggle dance #22519
 how bees [use] a waggle dance [as] their communication system.
 蜜蜂如何运用摆尾舞作为其通讯系统
-when bees find a good food source, they will do a waggle dance to tell other bees.
+When bees find a good food source, they do a waggle dance to tell other bees.
 当蜜蜂发现优质食物来源时，会通过摆尾舞告诉其他蜜蜂
-[a study] [regarding bees’ dancing behaviors]
+There was [a study] [regarding bees' dancing behaviors].
 一项关于蜜蜂舞蹈行为的研究
-bees can use their dance and the sounds to describe different flowers and the environment.
+Bees can use their dance and sounds to describe different flowers and the environment.
 蜜蜂能够通过舞蹈和声音来展示不同花卉及环境特征
 
 57.Population growth #22723
 the significance of population issues.
 人口问题的重要性
-resource pressure is a key factor.
+Resource pressure is a key factor.
 资源压力是一个关键因素
-population growth is not the same everywhere.
+Population growth is not the same everywhere.
 人口增长并非到处都一样
-city setups may [begin to collapse] when big cities get larger.
+City infrastructure may [begin to collapse] as big cities get larger.
 随着特大城市的扩张，城市设施可能会开始崩溃
 
 58.The Origin of Species #22868
@@ -616,61 +611,59 @@ Mendel later discovered that living things pass traits through genes.
 59.Modern Poetry #22983
 modern poetry.
 现代诗歌
-the works of several poets.
+The works of several poets.
 多位诗人的作品
-modernism is [one of the most fruitful areas] in English literature.
+Modernism is [one of the most fruitful areas] in English literature.
 现代主义是英语文学中非常伟大的部分
-one can attempt to [derive pleasure / get fun], experience confusion, and get help from poetry.
+People can [derive pleasure / have fun], experience confusion, and find help in poetry.
 人们可以尝试从诗歌中获得乐趣、感受困惑并汲取养分
 
 60.Social skills #23227
 the importance of social skills.
 社交技能的重要性
-how social skills and understanding help build positive interpersonal relationships and reduce conflict risks.
+Social skills and understanding help build positive interpersonal relationships and reduce the risk of conflict.
 社交技能与理解能力如何帮助建立良好的关系并减少冲突
-a team film project with students.
+A team film project with students.
 涉及学生的协作式电影制作项目
-how this approach enhances [students' self-regulation] and [critical thinking abilities].
+This approach enhances [students' self-regulation] and [critical thinking abilities].
 这种方法如何帮助学生思考和自我控制
 
 61.Washing Fruit #23239
 proper methods for washing fruits and vegetables.
 清洗果蔬的好方法
-thorough washing can effectively prevent bacteria and diseases.
+Thorough washing can effectively prevent bacteria and diseases.
 彻底清洗能有效预防细菌和疾病
-the importance of reading pack tips.
+It is important to read package instructions.
 关注包装说明的重要性
-using running cold water combined with scrubbing is the [best way/ most effective approach].
+Using running cold water combined with scrubbing is the [best way / most effective approach].
 使用冷水配合刷洗是最有效的方式
 
 62.Globalization gap between goods and services #23240
 the differences between goods and services in the globalization process.
 商品与服务在全球化进程中的差异
-services are more difficult to globalize.
+Services are more difficult to globalize.
 服务更难实现全球化
-how these factors stop the development of service trade.
+These factors hinder the development of service trade.
 这些因素如何制约服务贸易的发展
-how digital technology can remove rules and [reshape the global service landscape].
+Digital technology can remove barriers and [reshape the global service landscape].
 数字技术如何消除壁垒并改变全球服务
 
 63.Multiculturalism #23241
 multiculturalism in modern society.
 现代社会中的多元文化主义
-the [main point/ essence] of multiculturalism.
+The [main point / essence] of multiculturalism.
 多元文化主义的核心要点
-multiculturalism with the melting pot theory.
+Multiculturalism using the melting-pot theory.
 结合熔炉理论阐释了多元文化主义
-[celebrating] diversity helps build a good society.
+[Celebrating] diversity helps build a good society.
 展示多样性有助于构建良好的社会
 
 64.Melatonin #23357
 melatonin.
 褪黑素
-melatonin is generated by the brain.
+Melatonin is generated by the brain.
 褪黑素由大脑产生
-melatonin is different from cortisol.
-/ melatonin [follows a rhythm opposite to that of] cortisol.
+Melatonin is different from cortisol, and it [follows a rhythm opposite to that of] cortisol.
 褪黑素与皮质醇不同
-melatonin helps humans and animals get ready for night life.
-/ melatonin [plays a role in helping] humans and animals [prepare for] [nighttime activity].
+Melatonin [plays a role in helping] humans and animals [prepare for] [nighttime activity].
 褪黑素有助于人类和动物为夜间活动做好准备
