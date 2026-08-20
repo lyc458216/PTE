@@ -78,3 +78,66 @@ facial expressions                  面部表情
 appear to                           似乎，好像
 cultures                            文化
 it is quite clear that              很显然                      #1311256
+chemical reactions                  化学反应                    #1311188  
+substances combine or change form   物质结合或改变形态              #1311184
+throughout all years                贯穿所有年份
+across the year                     贯穿全年
+at the university                   at the university
+foundation                          n. 地基，基础
+carefully                           adv. 小心地，仔细地
+in the lecture                      在讲座中
+medical laboratory                  医学实验室
+a combination of                    一种组合
+pure and applied mathematics        纯数学与应用数学
+involves                            v. 包含；牵涉
+a range of stationery               一系列文具
+stages                              n. 阶段                     #131929
+                                    v. 计划；表演
+elaborate                           adj. 复杂的，详尽的；精心制作的
+                                    v. 详细说明
+performances                        n. 表演，演出
+each semester                       每个学期  
+something that can be achieved overnight    一些可以在一夜之间实现的事情
+pharmacy on campus                  校园药房   
+they lend to customers              他们贷款给客户
+be encouraged to                    被鼓励
+dormitory                           宿舍
+accommodation needs                 住宿需求            
+facility                            设施 
+scientific papers                   科学论文
+poetry                              诗歌
+philosophy                          n. 哲学；哲学体系  
+analyze human behaviors             分析人类行为
+an effective business manager       高效的业务经理                  #131580
+open to new ideas                   愿意接受新思想                  #131580
+geographical research               地理研究
+critical thinking                   批判性思维
+independent learning skills         自主学习技能
+election promises                   选举承诺
+the economic status                 经济状况
+will be examined                    将会被考查
+the academic/economic strength of   学术/经济实力
+attending a job interview           参加工作面试                    #1311169
+punctuality                         n. 准时性
+punctuality is the key              守时是关键  
+inputs,processes,outputs,feedback   注意单复数                      #131012     
+manufacturing                       n. 制造，制造业
+                                    v. （用机器）大量生产，成批制造 
+all industries consist of           所有行业都包括
+advised                             adj. 深思熟虑的
+                                    v. 通知，告知；
+students are advised that           学生们被告知
+the student advisor was aware that  学生顾问被告知
+strangely,                          奇怪的是
+impressed by                        对……印象深刻
+skeptical about statistics          对统计数据持怀疑态度
+tutorial                            adj. 导师的，辅导的
+                                    n. 导师辅导课；学习指南，教程
+optional tutorials                  选修教程
+traditional national boundaries     传统的国界
+transcended                         v. 超出，超越；胜过
+have greatly developed recently     最近有很大的发展                #131335
+statistical results                 统计结果
+should be expressed in different ways   应该用不同的方式表达
+depending on circumstances          根据情况而定
+
