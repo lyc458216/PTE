@@ -44,7 +44,7 @@ However, that view was then changed because of Einstein's work.
 There was not an absolutely fixed stage of space. 
 Instead, space was in a state of continuous dynamic change. 
 
-2.Roman city planning 罗马城市规划 #111122
+2.Roman city planning 罗马城市规划(roman building) #111122
 The lecture mainly discussed the city of Rome. 
 First, the speaker stated that the city grew in a relatively unplanned way. 
 In the second part, the speaker mentioned that romans structured the city in a very organized way. 
@@ -79,7 +79,7 @@ The other one is the probability or chance of it.
 Thus, safety usually means that we are free from harm or risk, or secure from danger or harm. 
 It can also refer to the condition of being safe.
 
-5.Organizational Study 组织研究 #111147
+5.Organizational Study 组织研究(organizational study) #111147
 Organization studies seem to draw on the whole family of social sciences. 
 It requires you to have broad familiarization. 
 Other than that, what studying organizations teaches us is actually the artificiality of those academic subdivisions. 
@@ -160,7 +160,7 @@ In the final part of the lecture, the speaker highlighted that the best managers
 在讲座的第二部分，演讲者提到，管理知识与技能比经验更为重要。
 在讲座的最后部分，演讲者强调，最优秀的管理者应当是管理学的老师。
 
-11.The history of software 软件发展史
+11.The history of software 软件发展史(IT development)
 The lecture first mentions that the history of software is very new. 
 This is because the whole IT industry is a major new technology and discipline. 
 Therefore, the progression has not been so much. 
@@ -175,13 +175,14 @@ Finally, the speaker highlighted that this enabled information technology to mov
 在讲座的第二部分，演讲者提到，计算能力的迅猛扩张与成本的急剧下降。
 在讲座的最后部分，演讲者强调，计算机能力的快速增长与成本的急剧下降使得信息技术得以进入生活的方方面面。
 
-12.social difficulties in children(Social skills) #23227
+12.social difficulties in children 儿童的社交困难(Children directors) #23227
 Social skills are vital for us when it comes to maintaining positive interactions with others. 
 Many of them are especially crucial in making and sustaining friendships. 
 It is also important for individuals to have empathy. 
 This is because it allows them to respond in an understanding way. 
 Besides, it can also improve self-regulation and critical thinking skills.
 ---
+Social skills
 The lecture mainly discussed the importance of social skills. 
 First, the speaker stated that social skills and understanding help build positive interpersonal relationships and reduce the risk of conflict. 
 In the second part, the speaker mentioned that a team film project involving students was used as an example. 
@@ -206,7 +207,7 @@ In the final part, the speaker highlighted that we are aware of the problem, and
 在讲座的第二部分，演讲者提到，减少的原因各不相同。
 在讲座的最后部分，演讲者强调，我们知道这个问题，并且人们正在采取行动。
 
-14.An experiment about female body fat #18717
+14.An experiment about female body fat(change of body fat)(obese women) #18717
 An experiment found out that some volunteers experienced a body fat change, while there were others who did not lose fat at all. 
 There are two explanations for this. 
 The first one is that those who did not lose weight must have eaten more. 
@@ -236,7 +237,7 @@ Finally, the speaker highlighted that the third is to explain the laws. (62 word
 在讲座的第二部分，演讲者提到，其中一部分负责制定法律，第二部分负责执行法律。
 在讲座的最后部分，演讲者强调，第三部分则负责解释法律。
 
-16.Symmetry in mathematics #22451
+16.Symmetry in mathematics数学中的对称性(stone balls) #22451
 The lecturer went to a museum and saw some stones. 
 These Neolithic stones are probably the first examples of humans exploring the concept of symmetry. 
 One of the intriguing things about these stones is that we don't actually know what they're for. 
@@ -297,7 +298,7 @@ In the final part of the lecture, the speaker highlighted that doctors should gi
 在讲座的第二部分，演讲者提到，药品可能被用于不当的原因。
 在讲座的最后部分，演讲者强调，医生应该开具正确数量的药品。
 
-19.Globalization And Detraditionalization #18759
+20.Globalization And Detraditionalization 全球化导致文化丧失 #18759
 Globalization is the idea that we all live in a global village. 
 With instant communications, we can share ideas and access cultural artifacts from countries all over the world. 
 However, it also leads to the disappearance or erosion of traditional values. 
@@ -312,17 +313,34 @@ In the final part of the lecture, the speaker highlighted that detraditionalizat
 在讲座的第二部分，演讲者提到，全球化意味着我们能够在全球范围内共享思想。
 在讲座的最后部分，演讲者强调，去传统化会导致传统文化的丧失。
 
-20.Genetic Impact(Genes affect human behaviors)
+21.Genetic Impact(Genes affect human behaviors 基因影响人类行为)
 At first, people believed that genes have an impact only on people's physical structure. 
 Then research has found that there is also a genetic responsibility for humans' psychological behavior. 
 As a result, now we have a better understanding of the role of genetic influences on behavior. 
 However, behavioral genetics is an ungovernable field where there is lots of controversy.
 
-21.Water recycling #18787
+22.Water recycling #18787
 We need to recycle water because we don't generate much new water. 
 Generating water is not a process that happens a lot anymore. 
 However, when we use water at home, there is very little recycling at a local level. 
 This is because it’s not a closed loop in the home.
+---
+The water we use today has been around for a long long time. 
+That is because water can recycle itself in the water cycle, which is also called the hydrologic cycle. 
+Let's start the cycle with the evaporation of water from the surface of the ocean. 
+As this moist air is lifted, it cools and water vapour condenses. 
+It may form clouds. In fact, clouds are made up of tiny water droplets and ice crystals that are so small they can float in the air. 
+This moisture in the atmosphere may be transported around the globe until it returns to the surface as precipitation. 
+Precipitation may take the form of rain, snow, sleet or hail. 
+Now once this water reaches the ground, one or two processes may occur. 
+Some of the water may evaporate back into the atmosphere, or the water may penetrate the surface and become groundwater. 
+The groundwater may take several different paths. 
+The groundwater may seep in its way into the oceans river or streams, 
+or it may go into an aquifer, which is a body of saturated walk rock through which water can easily move, 
+or it may be released back into the atmosphere through transpiration. 
+Transpiration occurs when leaves from trees and other vegetation give off water vapor through pores in their leaves. 
+Some water on the Earth's surface is not absorbed by plants or become ground water, and it becomes surface runoff. 
+This runoff may empty into lakes, rivers, and streams and then is carried back to the ocean where the cycle may begin.
 ---
 The lecture mainly discussed water recycling. 
 In the first part of the lecture, the speaker stated that water recycling is necessary. 
@@ -333,7 +351,7 @@ In the final part, the speaker highlighted that on the local level, water recycl
 在讲座的第二部分，演讲者提到，工业领域已有相关技术可用，但家庭使用的技术却很少。
 在讲座的最后部分，演讲者强调，地方层面，家庭水循环利用具有重要意义。
 
-22.Negative bias #21621
+23.Negative bias(Negative Emotions) #21621
 Negativity bias means humans usually pay more attention to negative emotions such as fears rather than positive emotions. 
 We feel content and pleasant more frequently, but these positive emotions are lighter, which means they cannot be easily recalled or stay in our minds. 
 However, negative emotions happen less frequently, but they are strong and intense. 
@@ -348,7 +366,7 @@ Finally, the speaker highlighted that bad emotions are less frequent but more in
 在讲座的第二部分，演讲者提到，我们体验到的积极情绪较少。
 在讲座的最后部分，演讲者强调，负面情绪发生得较少，但强度更强。
 
-23.Baby Smile #18742
+24.Baby Smile(smile of mother)(babies just want to be smiled at) #18742
 Babies' smiles are strategic. 
 When babies smile, they want whoever they’re interacting with to smile back. 
 They also time it, which is called sophisticated timing. 
@@ -364,7 +382,7 @@ In the final part of the lecture, the speaker highlighted that mothers want to t
 在讲座的第二部分，演讲者提到，研究人员发现了母婴关系的四种方式。
 在讲座的最后部分，演讲者强调，母亲想要交流，而婴儿只是想要微笑。
 
-24.Canned Food During the Great Depression #18793
+25.Canned Food During the Great Depression(canned food) #18793
 The Great Depression was the beginning of modern food technology, when canned foods entered the market. 
 Meanwhile, refrigerators were very popular in urban and rural areas. 
 Moreover, the Rural Electrification Administration enabled farmers to purchase appliances, meaning frozen foods were experiencing rapid growth. 
@@ -379,7 +397,7 @@ In the final part of the lecture, the speaker highlighted that supermarkets beca
 在讲座的第二部分，演讲者提到，人们能够购买冰箱。
 在讲座的最后部分，演讲者强调，超市成为了一种新的事物。
 
-25.Credit Card Experiment #18795
+26.Credit Card Experiment(credit card) #18795
 In an experiment on customers’ behaviors, one group of inactive credit card users received a message offering benefits that they could gain by using the cards. 
 The other group received a message implying a penalty if it is not used. 
 The result shows that customers are more motivated by a potential loss when not using this card, rather than by the benefit they could gain by using the card.
@@ -393,14 +411,14 @@ Finally, the speaker highlighted that customers are more likely to be driven by 
 在讲座的第二部分，演讲者提到，其他用户若不使用信用卡将需要付出费用。
 在讲座的最后部分，演讲者强调，客户更容易被损失所驱动。
 
-26.Hook Sentence(议论文开篇)
+27.Hook Sentence(议论文开篇)
 As a writer, you first need to collect many materials, then write an essay. 
 You are also suggested to build an emotional connection with your reader right from the start. 
 This can be achieved by a hook in the essay, which is a catchy sentence or paragraph. 
 It serves as an attention element, and should be engaging and interesting. 
 It often appears in the first sentence. 
 
-27.Stock market and modern business #21115
+28.Stock market and modern business #21115
 The stock market is where investors connect to buy and sell investments, which anyone can access with an account. 
 The term 'stock market' often refers to one of the major stock market indexes. 
 However, there are some different uses of the stock market before and after. 
@@ -415,7 +433,7 @@ Finally, the speaker highlighted that there are differences between them. (56 wo
 在讲座的第二部分，演讲者提到，大型现代企业包括苹果、谷歌和微软。
 在讲座的最后部分，演讲者强调，它们之间存在一些差异。
 
-28.Great Ideas #18789
+29.Great Ideas #18789
 To be successful, you should have great ideas. 
 A great idea should have three features. 
 Firstly, it should be various and novel. 
@@ -433,12 +451,13 @@ In the final part of the lecture, the speaker highlighted that a great idea shou
 在讲座的第二部分，演讲者提到，伟大思想应当独具特色。
 在讲座的最后部分，演讲者强调，伟大思想应当富有成效。
 
-29.Applications in biology #18797
+30.DNA pieces(Synthetic biology & genetic engineering 合成生物学与基因工程) #18797
 Life has evolved, and now we have the ability and the power to engineer and design it. 
 Thus, synthetic biology is the next level of genetic engineering. 
 Moreover, we are no longer limited to the pieces, and we can even create new organisms. 
 For example, a cell that's programmed to make a useful compound is called a cellular factory. 
 ---
+Applications in biology
 The lecture mainly discussed applications in biology. 
 First, the speaker stated that scientists can engineer nature. 
 In the second part, the speaker mentioned that scientists could write DNA and create new cells 40 years ago. 
@@ -448,7 +467,7 @@ In the final part of the lecture, the speaker highlighted that scientists use mi
 在讲座的第二部分，演讲者提到，四十年前科学家已能制作 DNA 并创造新细胞。
 在讲座的最后部分，演讲者强调，科学家在实验室的实验中使用微小工具，次日即可获得细菌。
 
-30.Darwin and Bees #21655
+31.Darwin and Bees(Bee's genes and Darwin 蜜蜂基因与达尔文) #21655
 This lecture discusses the genes of bees and their evolution. 
 In order to protect the next generation in the hive, the worker bees attack intruders and then die. 
 Worker bees sacrifice their lives to protect the next generation. 
@@ -463,7 +482,7 @@ Finally, the speaker highlighted that these behaviors help explain Darwin's evol
 在讲座的第二部分，演讲者提到，工蜂不生育并协助蜂后繁衍，必要时工蜂会为此献出生命。
 在讲座的最后部分，演讲者强调，这些现象为理解达尔文的进化理论提供了启示。
 
-31.Globalization definitions #20394
+32.Globalization definitions(definition of globalization 全球化的定义) #20394
 Globalization has a few different definitions. 
 The first one is a way to describe a country's increase in international communications. 
 In other words, it is the source of growth in communication across borders. 
@@ -479,7 +498,7 @@ In the final part, the speaker highlighted that globalization creates new areas 
 在讲座的第二部分，演讲者提到，国家在这个体系中结合在一起。
 在讲座的最后部分，演讲者强调，全球化展示了一个新的经济增长领域。
 
-32.Fight-or-Flight Response #18778
+33.Fight-or-Flight Response 迎战或逃跑反应(fight or flight) #18778
 Emotions have a purpose, since our most basic emotions are vital messengers. 
 They have evolved as signals to help us meet our basic needs. 
 It is dangerous to be indecisive about a threat to our survival, so the brain runs information from our senses. 
@@ -494,7 +513,7 @@ In the final part, the speaker highlighted that the brain uses information to co
 在讲座的第二部分，演讲者提到，基本的情绪是关键的信使。
 在讲座的最后部分，演讲者强调，大脑使用信息来控制快速的反应，并产生强烈的信号。
 
-33.Modern Poetry #22983
+34.Modern Poetry现代诗歌(literature in poem)(english language in poem诗歌语言) #22983
 This course is an introduction to the literature of modern poetry. 
 Several poets will be studied in detail, and they also demand a certain amount of close reading. 
 Meanwhile, some sense of the period in which they're writing will be given. 
@@ -510,7 +529,7 @@ Finally, the speaker highlighted that people can derive pleasure or have fun, ex
 在讲座的第二部分，演讲者提到，现代主义是英语文学中非常伟大的部分。
 在讲座的最后部分，演讲者强调，人们可以尝试从诗歌中获得乐趣、感受困惑并汲取养分。
 
-34.Online Research #18792
+35.Online Research(internet growth) #18792
 The rapid expansion of the Internet has revolutionized our lives. 
 One significant change is in the realm of research. 
 To be more specific, online research enables researchers to gather vast amounts of information quickly. 
@@ -527,7 +546,7 @@ Finally, the speaker highlighted that we cannot pick up cues such as body langua
 在讲座的第二部分，演讲者提到，其缺点在于我们无法面对面交流。
 在讲座的最后部分，演讲者强调，我们无法通过肢体语言等反应获取信息，这意味着我们无从知晓对方是谁。
 
-35.Food Crisis #18790
+36.Food Crisis 粮食危机(food production)#18790
 The speaker mentions that people are going to suffer from a serious food crisis. 
 He also says that the global food emergency could impact children and adults, so we must double the yield. 
 Although there will be an increase of the cost of the production, there is also an opportunity for developing countries.
@@ -541,7 +560,7 @@ In the final part of the lecture, the speaker highlighted that it is urgent to i
 在讲座的第二部分，演讲者提到，我们必须生产双倍的食物。
 在讲座的最后部分，演讲者强调，增加产量是重要的。
 
-36.Internet and Journalism(what happened to journalism) #18764
+37.Internet and Journalism(what happened to journalism 网络影响传媒) #18764
 Recently, journalism has been faced with challenges. 
 This is because the rise of the Internet has a great impact on journalism, as it enables ordinary people to get involved in journalism. 
 Moreover, the Internet not only speeds up the spread of news, but also helps people gain information in various ways. 
@@ -555,7 +574,7 @@ Finally, the speaker highlighted that the internet is reshaping how news is prod
 在讲座的第二部分，演讲者提到，新闻业正在成为一个团队合作的过程。
 在讲座的最后部分，演讲者强调，互联网正在重塑新闻的生产与传播方式。
 
-37.The Industrial Revolution #18834
+38.The Industrial Revolution 工业革命 #18834
 The industrial revolution was the work of inventors who created mechanism machines. 
 Thus, everybody was crowded into factories and the new brave world opened up. 
 Moreover, the industrial revolution first occurred in England due to the location of resources. 
@@ -569,7 +588,7 @@ In the final part, the speaker highlighted that the rapid rise of production was
 在讲座的第二部分，演讲者提到，工业革命是生产的快速增长。
 在讲座的最后部分，演讲者强调，生产的快速增长是与旧的生产形式联系在一起的。
 
-38.Smart consumers(smart consumers and brand) #18719
+39.Smart consumers and brand 品牌与顾客需求(smart consumers and brand) #18719
 Consumers are incredibly smart, because they are able to combine a lifetime of experience with a brand. 
 As a result, brands are essential to our business to allow us to deliver the increased consumer value. 
 This is where the science starts. 
@@ -584,7 +603,7 @@ Finally, the speaker highlighted that there are hard problems in making the prod
 在讲座的第二部分，演讲者提到，“第二次真相时刻”很重要，产品必须具备良好的品质。
 在讲座的最后部分，演讲者强调，在让产品兼具硬核与柔性方面存在困难的问题。
 
-39.Melatonin #23357
+40.Melatonin 褪黑素 #23357
 The synthesis of melatonin is in the pineal gland, which is very small. 
 People call this gland "the seat of the soul". 
 Melatonin also has a rhythm, which peaks at night. 
@@ -600,7 +619,7 @@ Finally, the speaker highlighted that melatonin plays a role in helping humans a
 在讲座的第二部分，演讲者提到，褪黑素与皮质醇不同。
 在讲座的最后部分，演讲者强调，褪黑素有助于人类和动物为夜间活动做好准备。
 
-40.Fishing Industry In Africa(Wildlife as Food) #18713
+41.Fishing Industry In Africa (Wildlife as Food)(wildlife as food and income)野生动物作为食物与经济来源 #18713
 All humans rely on wildlife as the source of food, and also the source of income. 
 For example, we consider fish as the single most important source of protein. 
 Therefore, the management of wild fish resources is very important to livelihoods and health. 
@@ -615,7 +634,22 @@ In the final part of the lecture, the speaker highlighted that the [wildlife tou
 在讲座的第二部分，演讲者提到，渔业资源的管理对健康产生影响。
 在讲座的最后部分，演讲者强调，野生动物旅游业很重要。
 
-41.Chimpanzee #18757
+42.Face Recognition 面部识别(facial recognition)#18738
+We're experts at recognizing faces. 
+We take the visual information and transform it, so that we can put a name to a face. 
+Face recognition is a hard problem, yet it's a clever thing we can do. 
+We can recognize different types of faces, and get different types of information from them.
+---
+The lecture mainly discussed recognizing faces. 
+In the first part of the lecture, the speaker stated that humans are good at face recognition. 
+In the second part of the lecture, the speaker mentioned that face recognition is a hard problem, and it is impressive that we can recognize different types of information. 
+In the final part, the speaker highlighted that people need to appreciate face recognition. (66 words)
+本次讲座主要探讨了人脸识别。
+在讲座的第一部分，演讲者指出，人类擅长人脸识别。
+在讲座的第二部分，演讲者提到，人脸识别是一个难题，能够识别不同类型的信息是一件聪明的事情。
+在讲座的最后部分，演讲者强调，人们需要欣赏人脸识别。
+
+43.Chimpanzee 拯救黑猩猩 #18757
 Our organization is called Nonhuman Rights Project. 
 We fight for the legal rights of non-human animals, and we decided upon chimpanzees. 
 After we found our chimpanzee, we filed three suits. 
@@ -630,7 +664,7 @@ Finally, the speaker highlighted that they will keep trying this year to get leg
 在讲座的第二部分，演讲者提到，之后，法院驳回了请求，因为黑猩猩不是“人”。
 在讲座的最后部分，演讲者强调，最后，他们今年将继续努力为动物争取法律权利。
 
-42.The Big Bang theory #18710
+44.The Big Bang theory 宇宙大爆炸 #18710
 We used to believe that the universe was about ten or twenty billion years old. 
 We now know that it started in a big bang 13.8 billion years ago. 
 What happened in the big bang can be explained by the laws of physics, which have proved that the universe is older than the stars. 
@@ -645,13 +679,14 @@ In the final part, the speaker highlighted that if everything is correct, we can
 在讲座的第二部分，演讲者提到，宇宙在大约 137 亿年前的一次大爆炸中诞生。
 在讲座的最后部分，演讲者强调，如果一切都是正确的，我们就能理解宇宙。
 
-43.The Design of Buildings(Architecture Design) #18788
+45.Architecture Design (demolition of buildings拆除建筑) #18788
 Architecture is more than just the built environment, but also a part of our culture. 
 It stands as a representation of how we see ourselves. 
 In the 20th century, many old buildings with design flaws were demolished. 
 This is an application of Darwin's theory of natural selection. 
 It is unfair to criticize the demolition, because there is an importance in honoring the cultural nuances in the built environment. 
 ---
+The Design of Buildings
 The lecture mainly discussed the design of buildings. 
 In the first part of the lecture, the speaker stated that design is important to a building. 
 In the second part of the lecture, the speaker mentioned that there are some bad buildings and some great buildings. 
@@ -661,13 +696,14 @@ Finally, the speaker highlighted that many buildings were broken down because of
 在讲座的第二部分，演讲者提到，存在一些劣质建筑和一些杰出建筑。
 在讲座的最后部分，演讲者强调，许多建筑因其性质和功能而被拆除。
 
-44.Leadership(Women in Positions of Power) #21945
+46.Leadership #21945
 A leader can define or clarify goals and can also mobilize people's energies in different ways. 
 To better understand it, we can think of leadership as a spectrum. 
 On one end, top leaders have been quite visible in their exercise of power. 
 At the opposite end, women have provided casual and low-key leadership behind the scenes. 
 However, this pattern has been changing.
 ---
+Women in Positions of Power
 Gender diversity in leadership advances equity, innovation and progress. 
 The importance of women in leadership is that they bring diverse perspectives. 
 Besides, they serve as role models and mentors for the next generation. 
@@ -682,12 +718,13 @@ Finally, the speaker highlighted that the team structure surrounding individuals
 在讲座的第二部分，演讲者提到，人们需要掌握更多技能，例如规划未来以及帮助新人融入团队。
 在讲座的最后部分，演讲者强调，围绕个人的团队结构也具有重要意义。
 
-45.Migration history in Australia(Australian Culture) #21113
+47.Australian Culture(cultural diversity in Australia 澳大利亚多元化) #21113
 Australia is a vibrant and multicultural country, which is home to the world's oldest continuous culture. 
 It also has the oldest culture of residents, while migrants make an enormous contribution to Australia's economy too. 
 However, many people in Australia experience unfair treatment, yet most new migrants say they feel a strong sense of belonging. 
 Overall, this rich and cultural diversity is one of the Australian greatest strengths.
 ---
+Migration history in Australia
 The lecture mainly discussed migration history in Australia. 
 First, the speaker stated that the first people of Australia were Indigenous Australians. 
 In the second part of the lecture, the speaker mentioned that when Australia and nearby regions formed a single land, Indigenous peoples lived there. 
@@ -697,13 +734,14 @@ Finally, the speaker highlighted that Australia adopted a multicultural policy. 
 在讲座的第二部分，演讲者提到，当澳大利亚及其周边地区形成单一陆地时，原住民便在此定居。
 在讲座的最后部分，演讲者强调，澳大利亚采纳了多元文化政策。
 
-46.The development of machines(Development of Machines) #21119
+48.Development of Machines(machines increase unemployment 机器增加失业率) #21119
 The development of machines is a sign of the development of the country. 
 Machines are getting more advanced with face recognition or language processing techniques. 
 Now our life is dependent on machines from which people also make a profit. 
 However, as machines continue to improve, unemployment and redundancies will rise. 
 Therefore, we need to create more jobs, or more people will lose jobs and the unemployment rate will increase.
 ---
+The development of machines
 The lecture mainly discussed the development of machines. 
 First, the speaker stated that machines ought to do things better than most people. 
 Second, the speaker mentioned that machines have replaced many jobs and are becoming better and better. 
@@ -713,22 +751,13 @@ Finally, the speaker highlighted that when there are no new jobs, humans will ha
 在讲座的第二部分，演讲者提到，机器已取代众多行业，并且变得越来越好。
 在讲座的最后部分，演讲者强调，当没有新岗位时，人类将无处可去。
 
-47.Symbolic Systems #18731
+49.English language
 To begin with, a man with a moderate speech rate says he is not from an English-speaking country, but he is going to discuss the English language. 
 Secondly, he also mentions that language is an organic system in nature. 
 Lastly, the speaker believes that the discussion connects language with human needs, development, and the environment.
 Key words: America, organic system, live of nature, designer, water, specific, basic needs, human being, development, environment.
----
-The lecture mainly discussed symbolic systems. 
-In the first part of the lecture, the speaker stated that language is a classic symbolic system. 
-In the second part of the lecture, the speaker mentioned that people communicate with sign language and movement. 
-In the final part, the speaker highlighted that it is a good idea to do something with your hands and talk at the same time. (66 words)
-本次讲座主要探讨了符号系统。
-在讲座的第一部分，演讲者指出，语言是一个主要的符号系统。
-在讲座的第二部分，演讲者提到，人们通过手语和肢体动作进行交流。
-在讲座的最后部分，演讲者强调，边动手操作边交流是个好主意。
 
-48.The history of English(English Language) #18791
+50.The history of English(History of English 英语语言发展史) #18791
 The speaker first mentions that English is not a pure language. 
 This is because it has borrowed from over 350 languages in its history, which makes English a variety of many languages. 
 Therefore, we are not only learning about language, but we are learning about history. 
@@ -743,7 +772,7 @@ In the final part, the speaker highlighted that today we are not only learning a
 在讲座的第二部分，演讲者提到，英语从超过 350 种语言中获取了词汇。
 在讲座的最后部分，演讲者强调，当今我们不仅在学习语言，更是在学习历史。
 
-49.Globalization gap between goods and services #23240
+51.Globalization gap between goods and services 对全球化的误解 #23240
 Globalization is an overused and often misunderstood concept. 
 First of all, it is industries and markets that globalize. 
 It is also known as the integration of economic activities across borders. 
@@ -758,7 +787,7 @@ Finally, the speaker highlighted that digital technology can remove barriers and
 在讲座的第二部分，演讲者提到，这些因素如何制约服务贸易的发展。
 在讲座的最后部分，演讲者强调，数字技术如何消除壁垒并改变全球服务。
 
-50.Need #18776
+52.Need 需求和需求 #18776
 The term 'need' has different meanings, whose interpretation depends entirely on the context. 
 We use it to express a strong personal desire. 
 Sometimes we use it as an objective statement, which is its more factual application. 
@@ -775,7 +804,30 @@ In the final part of the lecture, the speaker highlighted that in terms of psych
 在讲座的第二部分，演讲者提到，在社会环境中，需求是一个有用的概念。
 在讲座的最后部分，演讲者强调，从心理学的角度来看，它指的是一种内在需求。
 
+53.Patients' Recovery (Therapeutic environment 治疗环境)
+We have a long history of research on hospital design and patient recovery. 
+It’s been found that fresh air and sunlight have positive impacts, and architecture also plays an important part. 
+Besides, being visited by friends or family members can help patients feel better. 
+It is also believed that the well-designed hospital environment links to recovery rates. 
 
+54.Inequality in Children (children's life quality 儿童成长的不平等) #21902
+Well-educated parents can always promise their children a prosperous future. 
+This is because these children have sufficient educational capacity and support since they were born. 
+Besides, a compelling and disturbing fact is that the life chance of a child has been set by five years old. 
+However, currently there is no obvious way to address this deep root of inequality in our society.
+---
+The lecture mainly discussed the inequality in children. 
+First, the speaker stated that well-educated parents can provide their children with ample educational resources and support. 
+In the second part of the lecture, the speaker mentioned that children's life opportunities are largely determined by the age of five. 
+Finally, the speaker highlighted that there are still no particularly effective solutions to this deeply entrenched inequality in society. (66 words)
+本次讲座主要探讨了儿童群体中的不平等现象。
+在讲座的第一部分，演讲者指出，受过良好教育的父母能够为子女提供良好的教育资源与支持。
+在讲座的第二部分，演讲者提到，儿童的人生机遇在很大程度上由五岁时决定。
+在讲座的最后部分，演讲者强调，对于这种社会不平等现象，至今仍缺乏好的解决办法。
+
+55.Hand in hand
+The first sentence: Sorry, hand in hand ...
+Key words: significant opportunities, performance, study overseas, money.
 
 
 
@@ -808,16 +860,6 @@ In the final part, the speaker highlighted that some major changes are taking pl
 在讲座的第一部分，演讲者指出，气候变化正在变成一个糟糕的问题。
 在讲座的第二部分，演讲者提到，各国政府应当采取行动。
 在讲座的最后部分，演讲者强调，全球范围内正在发生一些重大变化。
-
-12.Face Recognition #18738
-The lecture mainly discussed recognizing faces. 
-In the first part of the lecture, the speaker stated that humans are good at face recognition. 
-In the second part of the lecture, the speaker mentioned that face recognition is a hard problem, and it is impressive that we can recognize different types of information. 
-In the final part, the speaker highlighted that people need to appreciate face recognition. (66 words)
-本次讲座主要探讨了人脸识别。
-在讲座的第一部分，演讲者指出，人类擅长人脸识别。
-在讲座的第二部分，演讲者提到，人脸识别是一个难题，能够识别不同类型的信息是一件聪明的事情。
-在讲座的最后部分，演讲者强调，人们需要欣赏人脸识别。
 
 15.Industrialization #18752
 The lecture mainly discussed industrialization. 
@@ -879,16 +921,6 @@ Finally, the speaker highlighted that most societies have diversity to some exte
 在讲座的第二部分，演讲者提到，什么导致了多样性以及多样性如何发生。这些问题很难回答。单纯统计数量并不重要。
 在讲座的最后部分，演讲者强调，大多数社会在某种程度上都存在多样性。
 
-52.Inequality in Children #21902
-The lecture mainly discussed the inequality in children. 
-First, the speaker stated that well-educated parents can provide their children with ample educational resources and support. 
-In the second part of the lecture, the speaker mentioned that children's life opportunities are largely determined by the age of five. 
-Finally, the speaker highlighted that there are still no particularly effective solutions to this deeply entrenched inequality in society. (66 words)
-本次讲座主要探讨了儿童群体中的不平等现象。
-在讲座的第一部分，演讲者指出，受过良好教育的父母能够为子女提供良好的教育资源与支持。
-在讲座的第二部分，演讲者提到，儿童的人生机遇在很大程度上由五岁时决定。
-在讲座的最后部分，演讲者强调，对于这种社会不平等现象，至今仍缺乏好的解决办法。
-
 53.Motivation #21919
 The lecture mainly discussed two types of motivation. 
 First, the speaker stated that motivation can be categorized into approach motivation and avoidance motivation. 
@@ -948,3 +980,13 @@ Finally, the speaker highlighted that celebrating diversity helps build a good s
 在讲座的第一部分，演讲者指出，多元文化主义有其核心要义。
 在讲座的第二部分，演讲者提到，可通过熔炉理论来阐释多元文化主义。
 在讲座的最后部分，演讲者强调，庆祝多样性有助于构建良好的社会。
+
+Symbolic Systems
+The lecture mainly discussed symbolic systems. 
+In the first part of the lecture, the speaker stated that language is a classic symbolic system. 
+In the second part of the lecture, the speaker mentioned that people communicate with sign language and movement. 
+In the final part, the speaker highlighted that it is a good idea to do something with your hands and talk at the same time. (66 words)
+本次讲座主要探讨了符号系统。
+在讲座的第一部分，演讲者指出，语言是一个主要的符号系统。
+在讲座的第二部分，演讲者提到，人们通过手语和肢体动作进行交流。
+在讲座的最后部分，演讲者强调，边动手操作边交流是个好主意。
