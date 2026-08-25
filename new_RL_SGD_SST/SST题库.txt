@@ -5,30 +5,6 @@ In the first part of the lecture(First), the speaker stated that [].
 In the second part of the lecture(After that), the speaker mentioned that [] 
 In the last part of the lecture(Finally), the speaker highlighted that [].
 
-关键短语：
-hard problems in
-ensure a return on capital
-joined the experiment
-------
-[SGD]
-模板:
-The three speakers are talking about (topic).
-
-The first speaker talked about (main problem 短句+短句).
-He/She seemed quite (concerned/ interested/ stressed 短句 +短句).
-The first speaker also mentioned that (短句+短句).
-
-The second speaker agreed with that/some ideas (短句+短句).
-Then, he/she had different opinions about (短句+短句).
-He/she also pointed out (短句+短句).
-
-The third speaker focused on (短句+短句).
-Furthermore, he/she suggested (短句+短句).
-Then, the third speaker said that (短句+短句).
--------
-[RL]
-模板:
-
 1.Einstein’s theory of Universe 爱因斯坦的宇宙理论 #111026
 The lecture mainly discussed Einstein's theory of the universe. 
 In the first part of the lecture, the speaker stated that for thousands of years, people thought space was fixed. 
