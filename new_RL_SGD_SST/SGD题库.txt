@@ -2184,123 +2184,141 @@ laundry and chores for the weekends. And I often go to my friends' parties on Sa
 
 43.Eco-friendly University
 Narration: Three students are discussing how to make their university more eco-friendly.
-Speaker1: Hey fellas, I think there is still room for improvement when it comes to making our campus more eco-friendly. The staff should install
-recycling stations on key spots around the university, making it convenient for us to recycle plastic bottles, which can reduce landfill waste.
-Speaker2: Actually, we should reduce waste from the source, namely, reduce the amount of waste produced by us instead of having more bins.
-Just the campus cafe alone uses hundreds of paper cups every day. People should use fewer single-use coffee cups at the cafe and bring their
-own reusable cups.
-Speaker3: You are right. It is good for the cafeteria to use recycled paper, but they give out too many napkins at one time. Also, some packaging
-is too excessive, such as five layers of packaging for an apple.
-Speaker1: Yes, and students can also play a role here. We should take only what we actually need and avoid wasting food, paper, and other
-resources, by which we would also save money in the long run.
-Speaker3: If students bring their own bottles and cups, the university could reduce the amount of waste while students could develop more
-environmentally friendly habits. Another thing is more sustainable transportation. The university should build better bike paths, and provide more
-bike parking spaces, in order to encourage students to ride bikes with dual benefits, which is eco-friendly and great for their physical health.
-Speaker2: For students rushing between lectures, bicycles can cut their travel time. But there would be limited impact because few students own
-bikes. The university should establish a shared bicycle station.
-Speaker3: That sounds practical because students would not need to buy or maintain their own bicycles. They could simply rent a bike when they
-need one and return it after class.
-Speaker1: The university should also encourage carpooling, like having cheap parking to reward carpooling students or even free parking. It can
-also reduce the number of cars on campus and lower traffic congestion, especially during busy hours in the morning and afternoon.
-Speaker2: Yes, carpooling allows students to get together. Anyway, better public transport should also be considered, like buses or trains. If public
-transport is more convenient and reliable, students may be less dependent on private cars. This could make a bigger difference in the long term.
-Speaker1: We are a part of this green community, and should join in the eco-friendly movement. There are a lot of things to do, but we should
-start from small ones by ourselves, like bringing our own cups to the cafeteria, and carpooling.
-
-旁白：三位学生正在讨论如何让他们的大学更加环保。
-
-发言者1：嘿，伙计们，我觉得我们在校园环保方面还有提升空间。学校应该在校园各处的关键位置安装
-
-回收站，方便我们回收塑料瓶，这样可以减少垃圾填埋场的垃圾量。
-
-发言者2：其实我们应该从源头减少垃圾，也就是说，与其增加垃圾桶，不如减少我们自身产生的垃圾量。
-
-光是校园咖啡馆每天就要用掉几百个纸杯。大家应该在咖啡馆少用一次性咖啡杯，自带
-可重复使用的杯子。
-
-发言者3：你说得对。食堂用再生纸是好事，但是他们一次给的餐巾纸太多了。而且，有些包装
-也太过度了，比如一个苹果居然用了五层包装。
-
-发言者1：是的，学生也可以在这方面发挥作用。我们应该只取所需，避免浪费食物、纸张和其他资源，这样从长远来看也能省钱。
-
-发言者3：如果学生自带水瓶和杯子，学校就能减少垃圾量，学生也能养成更环保的习惯。此外，学校还应该推广更可持续的交通方式。学校应该修建更好的自行车道，并提供更多自行车停车位，鼓励学生骑自行车，这样既环保又有益于身心健康。
-
-发言者2：对于赶着上课的学生来说，骑自行车可以节省时间。但由于拥有自行车的学生不多，效果有限。学校应该设立共享自行车站。
-
-发言者3：这听起来很实用，因为学生无需购买或维护自己的自行车。他们可以在需要时租一辆，下课后归还即可。
-
-发言者1：学校还应该鼓励拼车，例如提供低价停车位来奖励拼车学生，甚至提供免费停车位。它还可以
-
-减少校园内的车辆数量，缓解交通拥堵，尤其是在早晚高峰时段。
-
-发言者2：是的，拼车可以让学生们聚在一起。不过，也应该考虑改善公共交通，比如公交车或火车。如果公共交通
-
-更便捷可靠，学生们对私家车的依赖就会减少。从长远来看，这可能会产生更大的影响。
-
-发言者1：我们是绿色社区的一份子，应该加入环保运动。有很多事情可以做，但我们应该
-
-从我们自身的小事做起，比如自带杯子去食堂，以及拼车。
+旁白：三个学生正在讨论如何使他们的大学更环保。
+Speaker1: Hey fellas, I think there is still room for improvement when it comes to making our campus more eco-friendly. 
+讲者1：嘿，伙计们，我认为在使我们的校园更环保方面还有改进的余地。
+The staff should installl recycling stations on key spots around the university, making it convenient for us to recycle plastic bottles, which can reduce landfill waste.
+工作人员应该在学校周围的重点地点设置回收站，方便我们回收塑料瓶，减少垃圾填埋。
+lSpeaker2: Actually, we should reduce waste from the source, namely, reduce the amount of waste produced by us instead of having more bins.
+提话者2：实际上，我们应该从源头上减少浪费，也就是说，减少我们产生的废物量，而不是增加垃圾箱。
+l Just the campus cafe alone uses hundreds of paper cups every day. 
+l仅校园咖啡馆每天就要使用数百个纸杯。
+People should use fewer single-use coffee cups at the cafe and bring theirl own reusable cups.
+人们应该在咖啡馆少用一次性咖啡杯，自带可重复使用的杯子。
+Speaker3: You are right. 
+提问者3：你说得对。
+It is good for the cafeteria to use recycled paper, but they give out too many napkins at one time. 
+自助餐厅使用再生纸是好的，但是他们一次发的餐巾纸太多了。
+Also, some packaging is too excessive, such as five layers of packaging for an apple.
+此外，有些包装过于过度，比如一个苹果有五层包装。
+Speakerl: Yes, and students can also play a role here. 
+是的，学生也可以在这里发挥作用。
+We should take only what we actually need and avoid wasting food, paper, and other resources, by which we would also save money in the long run.
+我们应该只拿我们真正需要的东西，避免浪费食物、纸张和其他资源，这样从长远来看我们也会省钱。
+Speaker3: If students bring their own bottles and cups, the university could reduce the amount of waste while students could develop more environmentally friendly habits. 
+演讲者3：如果学生自带瓶子和杯子，学校可以减少浪费，同时学生可以养成更环保的习惯。
+Another thing is more sustainable transportation. 
+另一件事是更可持续的交通。
+The university should build better bike paths, and provide morel bike parking spaces, in order to encourage students to ride bikes with dual benefits, which is eco-friendly and great for their physical health.
+大学应该修建更好的自行车道，并提供更多的自行车停车位，以鼓励学生骑自行车，这有双重好处，既环保又有利于他们的身体健康。
+Speaker2: For students rushing between lectures, bicycles can cut their travel time. 
+发言者2：对于赶着去上课的学生来说，自行车可以缩短他们的旅行时间。
+But there would be limited impact because few students own bikes. 
+但影响有限，因为很少有学生拥有自行车。
+The university should establish a shared bicycle station.
+这所大学应该建立一个共享单车站。
+Speaker3: That sounds practical because students would not need to buy or maintain their own bicycles. 
+主讲人3：这听起来很实用，因为学生不需要购买或维护自己的自行车。
+They could simply rent a bike when they need one and return it after class.
+他们可以在需要的时候租一辆自行车，下课后还回来。
+Speaker1: The university should also encourage carpooling, like having cheap parking to reward carpooling students or even free parking. 
+演讲者1：大学也应该鼓励拼车，比如提供便宜的停车位来奖励拼车的学生，甚至免费停车。
+It canl also reduce the number of cars on campus and lower traffic congestion, especially during busy hours in the morning and afternoon.
+它还可以减少校园内的汽车数量，缓解交通拥堵，特别是在繁忙的上午和下午。
+Speaker2: Yes, carpooling allows students to get together. 
+发言者2：是的，拼车可以让学生聚在一起。
+Anyway, better public transport should also be considered, like buses or trains. 
+无论如何，也应该考虑更好的公共交通，比如公共汽车或火车。
+If public transport is more convenient and reliable, students may be less dependent on private cars. 
+如果公共交通更方便、更可靠，学生可能会减少对私家车的依赖。
+This could make a bigger difference in the long term.
+从长远来看，这可能会产生更大的影响。
+Speakerl: We are a part of this green community, and should join in the eco-friendly movement. 
+主讲人：我们是这个绿色社区的一部分，应该加入到环保运动中来。
+There are a lot of things to do, but we shouldl start from small ones by ourselves, like bringing our own cups to the cafeteria, and carpooling.
+有很多事情要做，但我们应该从自己的小事开始，比如带自己的杯子去自助餐厅，拼车。
 
 44.Choices of Lunch(student cafeteria)
 Narration: three students are discussing what to have for lunch after study.
-Speaker1: Hey, guys! We've been working on our assignment in front of the computer for almost three hours. I don't know about you, but I'm
-absolutely starving right now! How about we head to the school cafeteria? It has nice coffee and some food, and it's the only nearby place if we
-want to get something to eat as soon as possible. We really need a quick meal to recharge our energy.
-Speaker2: Honestly, I'm very hungry as well, and I don't mind what we eat. I'm fine with anything as long as I can fill my stomach. I just want to
-take a break from studying and relax for a little while.
-Speaker3: Oh, I really don't want to go to the campus cafeteria. The food there always tastes terrible. Lots of students have complained that the
-food in the university restaurant never changed. The menu mainly consists of unhealthy options such as pizza and hamburgers, and boring
-sandwich and salad. Most of the cafeteria staff work part-time. How about going to a shop just outside campus instead? It's not too far away,
-and the food there is pretty tasty. Many students prefer that small shop for their daily lunch.
-Speaker2: I don't really mind how the food tastes, but that store you mentioned is about a 15-minute walk away. I'm just really hungry and I want
-to eat as soon as possible. Walking back and forth will definitely waste our limited lunch break time.
-Speakerl: I'm sorry but I definitely won't go there! I tried their coffee before, and it was really awful. I ordered a cup there last week, and I only
-took one sip before giving up on it. Good coffee is essential for me to stay focused in the afternoon.
-Speaker3: Alright then. Let's just go to the school cafeteria. I know the food isn't the best, but at least they have turkey sandwiches, so I can just
-order one for lunch. It is simple, light and suitable for a quick study break meal.
-Speaker1: Even though the food in the school cafeteria isn't great, after all, they make really good coffee, which is exactly what I need right now.
-A warm cup of coffee can help me shake off this tiredness after long hours sitting in front of the screen.
-Speaker2: That makes sense for me. Quick service is my top priority at the moment. I just hope the cafeteria won't be too crowded right now. If
-we hit a long queue, we will still end up waiting for ages. That would be really frustrating when we are extremely hungry.
-Speaker3: Yeah, that is my only worry too. It is normally busy around noon. Still, compared with the long walk off campus, waiting for a short time
-inside the building is much better. Let's pack up our laptops and notes and head over right away.
 旁白：三个学生正在讨论学习后午饭吃什么。
-
-发言者1：嘿，伙计们！我们已经在电脑前做作业快三个小时了。不知道你们怎么样，反正我现在
-
-饿死了！要不我们去学校食堂吧？那里的咖啡不错，也有些吃的，而且如果我们想尽快吃点东西，那是附近唯一的地方。
-
-我们真的需要快速吃点东西补充能量。
-
-发言者2：说实话，我也很饿，吃什么我都无所谓。只要能填饱肚子就行。我只是想
-
-休息一下，放松放松。
-
-发言者3：哦，我真的不想去学校食堂。那里的饭菜总是很难吃。很多学生都抱怨过
-
-学校食堂的饭菜从来没变过。菜单上主要是一些不健康的选择，比如披萨和汉堡，还有乏味的
-
-三明治和沙拉。食堂的大部分员工都是兼职的。要不去校外的那家店吃点东西？离学校不远，
-
-而且那里的食物相当美味。很多学生都喜欢去那家小店吃午饭。
-
-发言者2：我其实不太在意食物的味道，但是你说的那家店离学校大概要走15分钟。我真的饿了，想尽快吃点东西。
-
+Speaker1: Hey, guys! 
+提问者1：嘿，伙计们！
+We've been working on our assignment in front of the computer for almost three hours. 
+我们在电脑前做作业已经快三个小时了。
+I don't know about you, but I'ml absolutely starving right now! 
+我不知道你怎么样，但我现在真的很饿！
+How about we head to the school cafeteria? 
+我们去学校食堂怎么样？
+It has nice coffee and some food, and it's the only nearby place if we want to get something to eat as soon as possible. 
+它有很好的咖啡和一些食物，如果我们想尽快吃点东西，这是附近唯一的地方。
+We really need a quick meal to recharge our energy.
+我们真的需要一顿快餐来补充能量。
+Speaker2: Honestly, I'm very hungry as well, and I don't mind what we eat. 
+发言人2：老实说，我也很饿，我不介意我们吃什么。
+I'm fine with anything as long as I can fill my stomach. 
+只要能填饱肚子，我什么都可以。
+I just want tol take a break from studying and relax for a little while.
+我只是想从学习中休息一下，放松一下。
+Speaker3: Oh, I really don't want to go to the campus cafeteria. 
+提问者3：哦，我真的不想去学校的自助餐厅。
+The food there always tastes terrible. 
+那里的食物总是很难吃。
+Lots of students have complained that the food in the university restaurant never changed. 
+许多学生抱怨学校餐厅的食物从来都没变过。
+The menu mainly consists of unhealthy options such as pizza and hamburgers, and boringl sandwich and salad. 
+菜单主要包括不健康的选择，如披萨和汉堡，以及无聊的三明治和沙拉。
+Most of the cafeteria staff work part-time. 
+大多数自助餐厅的员工都是兼职工作。
+How about going to a shop just outside campus instead? 
+去校园外的商店怎么样？
+It's not too far away,land the food there is pretty tasty. 
+它不太远，而且那里的食物很好吃。
+Many students prefer that small shop for their daily lunch.
+许多学生喜欢在那家小卖部吃午餐。
+Speaker2: I don't really mind how the food tastes, but that store you mentioned is about a 15-minute walk away. 
+提话者2：我真的不介意食物的味道，但是你提到的那家商店离这里大约有15分钟的步行路程。
+I'm just really hungry and I want to eat as soon as possible. 
+我真的很饿，我想尽快吃东西。
+Walking back and forth will definitely waste our limited lunch break time.
 来回走肯定会浪费我们有限的午休时间。
-
-发言者1：对不起，我绝对不会去那里！我以前喝过他们家的咖啡，真的很难喝。我上周在那里点了一杯，
-
-只喝了一口就放弃了。一杯好咖啡对我来说下午保持专注至关重要。
-
-发言者3：好吧。那我们就去学校食堂吧。我知道食堂的饭菜不算最好，但至少有火鸡三明治，所以我可以点一个当午餐。它简单、清淡，适合学习间隙快速解决一餐。
-
-发言者1：虽然学校食堂的饭菜不怎么样，但他们的咖啡真的很好喝，这正是我现在需要的。
-
-长时间坐在电脑屏幕前，一杯热咖啡能帮我驱散疲惫。
-
-发言者2：你说得对。我现在最看重的是快速服务。我只希望食堂现在不要太拥挤。如果排长队，我们可能还要等很久。饿得不行的时候，那样真的会很让人抓狂。
-
-发言者3：是啊，这也是我唯一的顾虑。通常中午前后会很忙。不过，比起从校外走很远的路，在食堂里等一会儿要好得多。我们收拾好笔记本电脑和笔记，马上过去吧。
+Speaker1: I'm sorry but I definitely won't go there! 
+提问者1：对不起，我绝对不会去那里！
+I tried their coffee before, and it was really awful. 
+我以前喝过他们的咖啡，真的很难喝。
+I ordered a cup there last week, and I onlyl took one sip before giving up on it. 
+上周我在那里点了一杯，我只喝了一口就放弃了。
+Good coffee is essential for me to stay focused in the afternoon.
+好咖啡对我下午保持专注是必不可少的。
+Speaker3: Alright then. 
+提问者3：好吧。
+Let's just go to the school cafeteria. 
+我们去学校食堂吧。
+I know the food isn't the best, but at least they have turkey sandwiches, so I can just order one for lunch. 
+我知道食物不是最好的，但至少他们有火鸡三明治，所以我可以点一个当午餐。
+It is simple, light and suitable for a quick study break meal.
+它简单，轻巧，适合作为快速学习的休息餐。
+Speaker1: Even though the food in the school cafeteria isn't great, after all, they make really good coffee, which is exactly what I need right now. 
+演讲者1：虽然学校自助餐厅的食物不是很好，但毕竟他们煮的咖啡真的很好，这正是我现在需要的。
+A warm cup of coffee can help me shake off this tiredness after long hours sitting in front of the screen.
+在长时间坐在屏幕前后，一杯热咖啡可以帮助我摆脱这种疲劳。
+Speaker2: That makes sense for me. 
+提问者2：我觉得有道理。
+Quick service is my top priority at the moment. 
+快速服务是我目前的首要任务。
+I just hope the cafeteria won't be too crowded right now. 
+我只希望现在自助餐厅不要太拥挤。
+Ifl we hit a long queue, we will still end up waiting for ages. 
+如果我们排了很长的队，我们最终还是要等很长时间。
+That would be really frustrating when we are extremely hungry.
+当我们极度饥饿时，这真的很令人沮丧。
+Speaker3: Yeah, that is my only worry too. 
+提问者3：是的，这也是我唯一担心的。
+It is normally busy around noon. 
+中午左右通常是繁忙的。
+Still, compared with the long walk off campus, waiting for a short time inside the building is much better. 
+尽管如此，与在校外走很长一段路相比，在大楼里等上很短的时间要好得多。
+Let's pack up our laptops and notes and head over right away.
+让我们收拾好笔记本电脑和笔记，马上出发吧。
 
 45.Sports
 Narration: three students are discussing how to keep active at university.
@@ -2479,13 +2497,78 @@ Speaker3: No problem, Professor! I think these changes would really help a lot. 
 发言者3：不客气，教授！我觉得这些改进真的很有帮助。我们非常感谢您对我们的想法如此开放，并且愿意让我们的辅导课变得更好。感觉我们说的话真的很重要，这太好了。
 
 49.Iceland
-关于冰岛之旅。
-
-在国家公园里，人们可以看到两大洲的交界处，还有火山、天然温泉……
-
-人们可以驾车从悬崖下穿过。
-
-游泳池是由以前的工业遗址改造而成，但看起来却像是天然形成的。
+Narration: three students are discussing their upcoming trip to Iceland.
+旁白：三个学生正在讨论即将到来的冰岛之旅。
+Speaker1: I'm really delighted about our trip to Iceland. 
+主讲人1：我对我们的冰岛之行感到非常高兴。
+There are so many things I want to see, especially the volcanoes and the beautiful beachesl nearby. 
+我想看的东西太多了，尤其是附近的火山和美丽的海滩。
+We're also going to visit a national park where you can actually see where two continents connect. 
+我们还将参观一个国家公园，在那里你可以看到两个大陆连接在一起的地方。
+But I think diving is probably thel activity I'm looking forward to the most.
+但我认为潜水可能是我最期待的活动。
+Speaker2: I'm really happy with the activities we've planned as well. 
+主讲人2：我对我们计划的活动也很满意。
+The volcano scenery should be amazing, and I'd definitely like to spend somel time at the beach. 
+火山的景色应该很迷人，我绝对想在海滩上呆上一段时间。
+I like diving too, although sometimes the water can be too cold for me. 
+我也喜欢潜水，虽然有时水对我来说太冷了。
+Personally, I think Iceland would be even better in winterl because I really like hot springs. 
+就我个人而言，我认为冬天去冰岛会更好，因为我非常喜欢温泉。
+There are lots of natural hot springs there, so that's something I'd really like to experience.
+那里有很多天然温泉，所以我非常想去体验一下。
+Speaker3: I'm really looking forward to the trip too. 
+提问者3：我也很期待这次旅行。
+I've been to both Europe and North America before, but Iceland sounds completely different and amazing. 
+我以前去过欧洲和北美，但冰岛听起来完全不同，令人惊叹。
+I'm especially interested in the natural landscape and the black sun phenomenon. 
+我对自然景观和黑太阳现象特别感兴趣。
+I think it'll be great just to walk around the campsite and enjoy the nature around us.
+我想绕着露营地走走，欣赏周围的大自然会很棒的。
+Speaker1: There are some other unusual places we can visit as well. 
+提问者1：我们还可以参观其他一些不寻常的地方。
+Apparently, there's a road where you can drive under the cliffs and enjoy thel scenery along the way. 
+显然，有一条路，你可以在悬崖下开车，欣赏沿途的风景。
+And apart from the volcanoes, there are natural hot springs in several areas. 
+除了火山外，一些地区还有天然温泉。
+I think we'll have plenty of opportunities to walk around and enjoy nature.
+我想我们会有很多机会四处走走，享受大自然。
+Speaker2: I also heard about some interesting swimming pools there. 
+提问者2：我还听说那里有一些有趣的游泳池。
+They're actually former industrial sites, but now they look as if they were naturally formed. 
+它们实际上是以前的工业基地，但现在看起来像是自然形成的。
+That sounds really interesting to me, especially because I enjoy swimming and hot springs. 
+听起来我很感兴趣，尤其是因为我喜欢游泳和泡温泉。
+It could be nice to relax there after spending the day outdoors.
+在户外度过一天后，在那里放松一下会很好。
+Speaker3: Yeah, I think we'll have a good mix of activities on this trip. 
+发言者3：是的，我想这次旅行我们会有很好的活动组合。
+We can see the volcanoes and beaches, visit the national park, and spendl some time walking around the campsite. 
+我们可以看到火山和海滩，参观国家公园，花点时间在营地周围散步。
+We just need to make sure we follow the schedule because we're returning on Friday afternoon. 
+我们只需要确保我们按照时间表行事，因为我们周五下午就回来了。
+I'm surel it's going to be an amazing trip. 
+我相信这将是一次奇妙的旅行。
+Speakerl: Good point about sticking to the schedule. 
+关于遵守时间表的观点很好。
+I just hope the weather won't ruin our plans. 
+我只希望天气不会破坏我们的计划。
+Iceland's weather can change really rapidly, sol we'd better pack some warm waterproof clothing in case of sudden rain or strong winds.
+冰岛的天气变化很快，所以我们最好带些保暖的防水衣服，以防突然下雨或刮大风。
+Speaker2: That makes total sense. 
+提问者2：完全有道理。
+I also wonder whether we should book the hot-spring tickets ahead of time. 
+我还想知道我们是否应该提前预定温泉的票。
+Those popular sites tend to get crowded with tourists, and we do not want to waste precious waiting time.
+那些热门景点往往挤满了游客，我们不想浪费宝贵的等待时间。
+Speaker3: I agree with both of you. 
+提问者3：我同意你们俩的看法。
+Besides practical preparations, I am curious about local food. 
+除了实际的准备，我对当地的食物也很好奇。
+Maybe we can try some traditional Icelandicl dishes for dinner one night. 
+也许哪天晚上我们可以尝尝传统的冰岛菜。
+It would be a nice way to learn more about the local culture.
+这将是了解更多当地文化的好方法。
 
 50.The Number of Campus Club Activities
 Narration: Three students are sitting on the campus lawn, talking about whether the school should reduce the number of campus club activities.
@@ -2528,24 +2611,20 @@ Speaker3: That sounds fair! I just don’t want to have to quit the drama club b
 
 发言者3：听起来很公平！我只是不想因为戏剧社占据了我太多时间而不得不退出。如果排练时间从每周四次减少到两次，我就可以兼顾表演和学习了。
 
-51.Discussion about Essay
-Studentlmale: When you see an essay topic, you should try to understand it. I usually want classmates to give me some feedback about my ideas
-on the essay.
-Student2female: That's not a good idea because it makes it easier for others to copy your work, and then everyone could get into trouble. I
-usually discuss it with my classmates first, then go to the tutor for feedback.
+51.Discussion about Essay(论文讨论)
+Student1male: When you see an essay topic, you should try to understand it. 
+I usually want classmates to give me some feedback about my ideas on the essay.
 学生1（男）：看到作文题目时，你应该努力理解它。我通常希望同学们能就我的作文思路给我一些反馈。
+Student2female: That's not a good idea because it makes it easier for others to copy your work, and then everyone could get into trouble. 
+学生2（女）：这不太好，因为这会让别人更容易抄袭你的作品，那样大家都会惹上麻烦。
+I usually discuss it with my classmates first, then go to the tutor for feedback.
+我通常先和同学讨论，然后再去找导师寻求反馈。
 
-学生2（女）：这不太好，因为这会让别人更容易抄袭你的作品，那样大家都会惹上麻烦。我
-
-通常先和同学讨论，然后再去找导师寻求反馈。
-
-52. Management Course
-Speakerlfemale: Next semester, the management course will be online.
+52.Management Course(管理课程)
+Speaker1female: Next semester, the management course will be online.
+女发言者：下学期管理课程将在线进行。
 Speaker2male: I'm comfortable with the technology, but I don't like using the live chat box because it's too slow to type word by word. Anyway,
 will probably select this course.
-Speaker3male: I don't have any technical issues either, but I like face-to-face better. I am afraid that my question won't be replied in time.
-女发言者：下学期管理课程将在线进行。
-
 男发言者2：我对技术并不陌生，但我不喜欢使用在线聊天框，因为逐字输入太慢了。不过，我可能还是会选这门课。
-
+Speaker3male: I don't have any technical issues either, but I like face-to-face better. I am afraid that my question won't be replied in time.
 男发言者3：我也没有技术方面的问题，但我更喜欢面对面交流。我担心我的问题得不到及时回复。
