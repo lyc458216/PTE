@@ -711,63 +711,44 @@ Speaker3: Exactly. The most important thing is that we are clear about our own g
 
 13.Online Course
 The discussion involves three people talking about pros and cons of online classes.
-The speaker one first mentioned she can't stand online classes.
-And then, the speaker has explained that the Wi-Fi cuts out randomly; getting distracted by phone.
-Followed by that, in the discussion, they mentioned professor sees chat questions next day.
-From her, we know that she prefers raising hand to get answers.
-So basically, according to her , group discussions are a major concern.
-In the end, the speaker said a hybrid system would be better.
-
-The second speaker is mainly about preferring online learning.
-Firstly, the speaker emphasized that no 8 am bus rush, no cafeteria costs, and he can attend classes in pajamas.
-He also mentioned that he can rewatch difficult parts anytime.
-Lastly, the speaker believed that he can participate more online.
-In addition, he suggested that hybrid system is a good compromise.
-
-As for the third speaker, she agreed with opposing fully online classes
-What's more, she shared the opinion about wanting campus experience.
-Next, she had faith in that she can’t make friends or network.
-After that, she claimed that she can learn better through face-to-face interactions
-Besides, she highlighted the point of taking hybrid over fully online any day.
-So, she came to an conclusion that education should be primarily in-person.
-Overall, they focused on the main topic of pros and cons of online classes.
-
 讨论涉及三个人，他们探讨了在线课程的优缺点。
-
+The speaker one first mentioned she can't stand online classes.
 第一位发言者首先提到她无法忍受在线课程。
-
+And then, the speaker has explained that the Wi-Fi cuts out randomly; getting distracted by phone.
 然后，她解释说Wi-Fi会随机断线，而且她还经常被手机分散注意力。
-
+Followed by that, in the discussion, they mentioned professor sees chat questions next day.
 接着，在讨论中，他们提到教授要到第二天才能看到聊天记录里的问题。
-
+From her, we know that she prefers raising hand to get answers.
 从她的发言中我们得知，她更喜欢举手提问。
-
+So basically, according to her , group discussions are a major concern.
 所以，基本上，在她看来，小组讨论是一个主要问题。
-
+In the end, the speaker said a hybrid system would be better.
 最后，这位发言者认为混合式教学模式会更好。
 
+The second speaker is mainly about preferring online learning.
 第二位发言者主要表达了他对在线学习的偏好。
-
+Firstly, the speaker emphasized that no 8 am bus rush, no cafeteria costs, and he can attend classes in pajamas.
 首先，他强调不用早上8点挤公交车，不用支付食堂费用，而且可以穿着睡衣上课。
-
+He also mentioned that he can rewatch difficult parts anytime.
 他还提到，他可以随时重看难懂的部分。
-
+Lastly, the speaker believed that he can participate more online.
 最后，他认为他可以更积极地参与在线课堂。
-
+In addition, he suggested that hybrid system is a good compromise.
 此外，他还建议混合式教学模式是一个不错的折中方案。
 
+As for the third speaker, she agreed with opposing fully online classes.
 至于第三位发言者，她同意反对完全线上授课。
-
+What's more, she shared the opinion about wanting campus experience.
 此外，她也表达了想要体验校园生活的观点。
-
+Next, she had faith in that she can’t make friends or network.
 接下来，她认为自己无法结交朋友或建立人脉。
-
+After that, she claimed that she can learn better through face-to-face interactions.
 之后，她声称自己能通过面对面的交流更好地学习。
-
+Besides, she highlighted the point of taking hybrid over fully online any day.
 此外，她强调自己宁愿选择混合式教学，也不愿选择完全线上教学。
-
+So, she came to an conclusion that education should be primarily in-person.
 因此，她得出结论：教育应该以面授为主。
-
+Overall, they focused on the main topic of pros and cons of online classes.
 总而言之，他们主要讨论了线上课程的利弊。
 
 参考答案
@@ -788,49 +769,66 @@ lack financial consequences.
 
 14.Group Discussion
 Narration: Three speakers are discussing the pros and cons of group discussions.
-Speaker1: Hey, guys. I don't know if you think group discussions are helpful. For me, I don't really enjoy group discussions—'m shy and always
-get nervous when talking in front of classmates. Even when I have good ideas in my head, I struggle to speak up openly in front of the whole
-group.
-Speaker2: I totally get you! I don't like group discussions either—especially when someone in the group is really dominant; it makes the whole
-discussion super annoying. Some people take over the whole conversation and leave quieter members almost no chance to express their real
-thoughts.
-Speaker3: Well, I actually quite like group discussions. I will have a chance to learn from my peers, hear new ways of thinking, and sometimes
-even get help from partners when there is a problem. The group discussion can make the whole learning process more collaborative and less
-stressful. We can pick up practical skills that we would hardly gain when studying all by ourselves.
-Speakerl: I totally get what you mean about helping each other—that's really valuable. I think it's fine to discuss ideas and share perspectives. But
-I'm not comfortable actually creating the work as a group, because when too many people try to write or build something together, it often
-becomes messy or unproductive. Different personal standards make it hard to produce satisfying work together.
-Speaker2: Agreed! Finding the right partners and dividing group tasks properly can be quite challenging, yet it's essential for a productive group
-discussion. Poor coordination in these areas often leads to misunderstandings or even conflict. It is really difficult to match everyone's study pace
-and personal timetable.
-Speaker3: That makes sense. I have run into those troubles many times in past group projects. Still, I believe its advantages can outweigh the
-disadvantages if we manage everything from the very start.
-Speaker1: Exactly. I'm okay with exchanging opinions, but joint creation tends to cause disagreements and nobody's idea gets shown clearly. Too
-many conflicting suggestions will slow down our progress significantly.
-Speaker2: Right. Balancing different opinions and personal schedules really wastes plenty of our study time. Sometimes small disagreements can
-turn into unnecessary arguments among teammates.
-Speaker3: True. If everyone respects others and sets clear responsibilities at the beginning, group discussion can still bring us fresh viewpoints we
-cannot get alone. When rules are clear, both outgoing and shy members can get something useful out of the activity.
-
 旁白：三位发言者正在讨论小组讨论的利与弊。
-演讲者1：嘿，各位。我不知道你们是否认为小组讨论有帮助。就我而言，我其实并不太喜欢参与小组讨论——我比较害
-羞，在同学面前发言时总是感到紧张。即便我脑子里有不错的想法，我也难以在众人面前畅所欲言。
-演讲者2：我完全能理解你的感受！我也不喜欢参与小组讨论——尤其是当小组中有人表现得格外强势时；这会让整个讨
-论过程变得极其令人厌烦。有些人会主导整场对话，几乎不给较为沉默的成员任何表达真实想法的机会。
-演讲者3：嗯，我其实挺喜欢参与小组讨论的。这样我就能有机会向同侪学习，聆听不同的思维方式，有时甚至在遇到问题时还能
-从伙伴那里获得帮助。小组讨论能使整个学习过程更具协作性，同时也能减轻学习压力。我们还能习得一些仅凭独自学习难以获得
-的实用技能。
-演讲者 1：我完全理解你所说的相互帮助的意义—一这确实非常宝贵。我认为讨论想法并分享观点是件好事。但我并不太适应以团队形
-式实际开展创作工作，因为当有太多人试图共同撰写或构建某项内容时，往往容易变得混乱或效率低下。不同的个人标准使得共同创作
-出令人满意的作品变得颇为困难。
-发言者2：同意！找到合适的伙伴并合理分配小组任务可能相当具有挑战性，但这对富有成效的小组讨论至关重要
-。在这些方面协调不力往往会导致误解甚至冲突。要匹配每个人的学习进度和个人时间安排确实非常困难。
-发言者3：这很有道理。我在过去的小组项目中多次遇到过这些问题。不过，我认为如果我们从一开始就妥善管理一切，其优点可
-以超过缺点。
-演讲者1：没错。我乐于交换意见，但共同创作往往会导致分歧，而且每个人的想法都未能得到清晰展现。过多的相互冲突的建议会显著延缓我们的
-发言者2：没错。平衡不同意见和个人日程真的浪费了我们大量的学习时间。有时小分歧会演变成队友之间不必要的争论。
-演讲者3：没错。如果每个人都能相互尊重并在一开始就明确各自的职责，那幺小组讨论仍有可能为我们带来仅凭个人之力无法获得的
-全新视角。当规则明确时，无论是外向型还是内向型的成员都能从这项活动中有所收获。
+Speaker1: Hey, guys. I don't know if you think group discussions are helpful. 
+For me, I don't really enjoy group discussions—'m shy and always get nervous when talking in front of classmates. 
+Even when I have good ideas in my head, I struggle to speak up openly in front of the whole group.
+演讲者1：嘿，各位。我不知道你们是否认为小组讨论有帮助。
+就我而言，我其实并不太喜欢参与小组讨论——我比较害羞，在同学面前发言时总是感到紧张。
+即便我脑子里有不错的想法，我也难以在众人面前畅所欲言。
+
+Speaker2: I totally get you! 
+I don't like group discussions either—especially when someone in the group is really dominant; it makes the whole discussion super annoying. 
+Some people take over the whole conversation and leave quieter members almost no chance to express their real thoughts.
+演讲者2：我完全能理解你的感受！
+我也不喜欢参与小组讨论——尤其是当小组中有人表现得格外强势时；这会让整个讨论过程变得极其令人厌烦。
+有些人会主导整场对话，几乎不给较为沉默的成员任何表达真实想法的机会。
+
+Speaker3: Well, I actually quite like group discussions. 
+I will have a chance to learn from my peers, hear new ways of thinking, and sometimes even get help from partners when there is a problem. 
+The group discussion can make the whole learning process more collaborative and less stressful. 
+We can pick up practical skills that we would hardly gain when studying all by ourselves.
+演讲者3：嗯，我其实挺喜欢参与小组讨论的。
+这样我就能有机会向同侪学习，聆听不同的思维方式，有时甚至在遇到问题时还能从伙伴那里获得帮助。
+小组讨论能使整个学习过程更具协作性，同时也能减轻学习压力。
+我们还能习得一些仅凭独自学习难以获得的实用技能。
+
+Speaker1: I totally get what you mean about helping each other—that's really valuable. 
+I think it's fine to discuss ideas and share perspectives. 
+But I'm not comfortable actually creating the work as a group, because when too many people try to write or build something together, it often becomes messy or unproductive. 
+Different personal standards make it hard to produce satisfying work together.
+演讲者 1：我完全理解你所说的相互帮助的意义—一这确实非常宝贵。
+我认为讨论想法并分享观点是件好事。
+但我并不太适应以团队形式实际开展创作工作，因为当有太多人试图共同撰写或构建某项内容时，往往容易变得混乱或效率低下。
+不同的个人标准使得共同创作出令人满意的作品变得颇为困难。
+
+Speaker2: Agreed! Finding the right partners and dividing group tasks properly can be quite challenging, yet it's essential for a productive group discussion. 
+Poor coordination in these areas often leads to misunderstandings or even conflict. 
+It is really difficult to match everyone's study pace and personal timetable.
+发言者2：同意！找到合适的伙伴并合理分配小组任务可能相当具有挑战性，但这对富有成效的小组讨论至关重要。
+在这些方面协调不力往往会导致误解甚至冲突。
+要匹配每个人的学习进度和个人时间安排确实非常困难。
+
+Speaker3: That makes sense. 
+I have run into those troubles many times in past group projects. 
+Still, I believe its advantages can outweigh the disadvantages if we manage everything from the very start.
+发言者3：这很有道理。我在过去的小组项目中多次遇到过这些问题。
+不过，我认为如果我们从一开始就妥善管理一切，其优点可以超过缺点。
+
+Speaker1: Exactly. I'm okay with exchanging opinions, but joint creation tends to cause disagreements and nobody's idea gets shown clearly. 
+Too many conflicting suggestions will slow down our progress significantly.
+演讲者1：没错。我乐于交换意见，但共同创作往往会导致分歧，而且每个人的想法都未能得到清晰展现。
+过多的相互冲突的建议会显著延缓我们的。
+
+Speaker2: Right. Balancing different opinions and personal schedules really wastes plenty of our study time. 
+Sometimes small disagreements can turn into unnecessary arguments among teammates.
+发言者2：没错。平衡不同意见和个人日程真的浪费了我们大量的学习时间。
+有时小分歧会演变成队友之间不必要的争论。
+
+Speaker3: True. If everyone respects others and sets clear responsibilities at the beginning, group discussion can still bring us fresh viewpoints we cannot get alone. 
+When rules are clear, both outgoing and shy members can get something useful out of the activity.
+演讲者3：没错。如果每个人都能相互尊重并在一开始就明确各自的职责，那幺小组讨论仍有可能为我们带来仅凭个人之力无法获得的全新视角。
+当规则明确时，无论是外向型还是内向型的成员都能从这项活动中有所收获。
 
 15.Campus Accommodation
 Speaker1: Living in a school dormitory is great because I can make a lot of friends. 
@@ -923,285 +921,231 @@ That gives you a chance to feel the atmosphere without making long-term promises
 
 17.AI Proofreading
 Narration: three students are discussing using artificial intelligence as a proofreading tool.
-Speaker: Hey guys, have you ever thought about using Al for proofreading? I just got feedback on my essay from my tutor, and she said I need to
-proofread it. Al can check grammar for me and provide me some ideas, but I don't know if I should use Al tools because I don't want to be
-suspected of plagiarism.
-Speaker2: There is indeed a significant risk of being accused of plagiarism if you use Al. Many universities are now implementing strict policies
-about Al-generated content. If the Al suggests substantial changes to your sentence structures or replaces too many of your original words, the
-final work might not truly be yours anymore.
-Speaker3: Well, I don't mind using Al as long as it is for educational purposes and is used responsibly. Al can be used because students often use
-some computer software to check grammar, and are supposed to use others' words to improve their own vocabulary when learning linguistic
-expressions. In the past, we used dictionaries to check grammar, and it's really no different from using Al.
-Speaker1: Well, I get your point. I think the line when it comes to using Al for proofreading can get really blurry. I definitely don't want to be
-suspected of plagiarism, so is there another way I can improve my assignments next time without using Al?
-Speaker2: I'm not sure. I still think this needs to be considered carefully. For example, when Word marks mistakes with red and green underlines,
-is that considered Al-assisted proofreading? Different institutions and even different professors may have different standards for what counts as
-acceptable Al use. I'd be especially careful with major assignments or final papers.
-Speaker3: Actually, I've already been using Al on my tablet for proofreading for a while now. But, I still get asked by my teacher to do another
-proofread myself. I think the key thing is, you won't get any new ideas from Al. Al will only make your existing ideas clearer and more correct. It's
-really just an advanced tool that helps polish your work, not something that creates content for you. The fundamental thinking and ideas still need
-to come from you.
-Speakerl: Okay, I see. Thanks. I think I'll go back and ask for advice from my tutor about it first. I really don't want to be accused of plagiarism,
-especially since I'm not clear on where the line is drawn. It's better to be safe and get proper guidance rather than risk any academic
-consequences.
-Speaker2: That makes total sense. Since acceptance standards vary widely among teachers and universities, relying on your own judgement can
-be risky. It is wise to get clear instructions directly from your tutor.
-Speaker3: I agree. No matter whether you end up using Al tools or not, your own original ideas should always stay at the core of your writing.
-
 旁白：三个学生正在讨论使用人工智能作为校对工具。
+Speaker1: Hey guys, have you ever thought about using AI for proofreading? 
+I just got feedback on my essay from my tutor, and she said I need to proofread it. 
+AI can check grammar for me and provide me some ideas, but I don't know if I should use AI tools because I don't want to be suspected of plagiarism.
+发言者1：嘿，你们有没有想过用人工智能来校对？
+我刚收到导师对我论文的反馈，她说我需要校对一下。
+人工智能可以帮我检查语法，还能给我一些建议，但我不知道该不该用人工智能工具，因为我不想被怀疑抄袭。
 
-发言者2：嘿，你们有没有想过用人工智能来校对？我刚收到导师对我论文的反馈，她说我需要
+Speaker2: There is indeed a significant risk of being accused of plagiarism if you use AI. 
+Many universities are now implementing strict policies about AI-generated content. 
+If the AI suggests substantial changes to your sentence structures or replaces too many of your original words, the final work might not truly be yours anymore.
+发言者2：使用人工智能确实存在被指控抄袭的巨大风险。
+很多大学现在都对人工智能生成的内容实施了严格的政策。
+如果人工智能对你的句子结构提出了大幅修改建议，或者替换了你原文中太多的词语，那么最终的作品可能就不是你的原创作品了。
 
-校对一下。人工智能可以帮我检查语法，还能给我一些建议，但我不知道该不该用人工智能工具，因为我不想被
-
-怀疑抄袭。
-
-发言者3：使用人工智能确实存在被指控抄袭的巨大风险。很多大学现在都对人工智能生成的内容实施了严格的政策。
-
-如果人工智能对你的句子结构提出了大幅修改建议，或者替换了你原文中太多的词语，那么
-
-最终的作品可能就不是你的原创作品了。
-
-发言者4：嗯，只要是用于教育目的，并且使用得当，我不介意使用人工智能。之所以可以使用人工智能，是因为学生经常使用
-一些电脑软件来检查语法，而且在学习语言表达时，他们应该借助他人的词汇来提升自己的词汇量。
-
+Speaker3: Well, I don't mind using AI as long as it is for educational purposes and is used responsibly. 
+AI can be used because students often use some computer software to check grammar, and are supposed to use others' words to improve their own vocabulary when learning linguistic expressions. 
+In the past, we used dictionaries to check grammar, and it's really no different from using AI.
+发言者3：嗯，只要是用于教育目的，并且使用得当，我不介意使用人工智能。
+之所以可以使用人工智能，是因为学生经常使用一些电脑软件来检查语法，而且在学习语言表达时，他们应该借助他人的词汇来提升自己的词汇量。
 过去，我们用字典来检查语法，这和使用人工智能其实没什么区别。
 
-发言者1：嗯，我明白你的意思。我觉得用人工智能进行校对的界限确实很模糊。我绝对不想
+Speaker1: Well, I get your point. I think the line when it comes to using AI for proofreading can get really blurry. 
+I definitely don't want to be suspected of plagiarism, so is there another way I can improve my assignments next time without using AI?
+发言者1：嗯，我明白你的意思。我觉得用人工智能进行校对的界限确实很模糊。
+我绝对不想被怀疑抄袭，所以下次除了使用人工智能，还有其他方法可以改进我的作业吗？
 
-被怀疑抄袭，所以下次除了使用人工智能，还有其他方法可以改进我的作业吗？
-
-发言者2：我不确定。我仍然认为这需要仔细考虑。例如，当Word用红绿下划线标记错误时，
-
-这算不算人工智能辅助校对？不同的机构甚至不同的教授对于什么是可接受的人工智能使用可能有不同的标准。
-
+Speaker2: I'm not sure. 
+I still think this needs to be considered carefully. 
+For example, when Word marks mistakes with red and green underlines, is that considered AI-assisted proofreading? 
+Different institutions and even different professors may have different standards for what counts as acceptable AI use. 
+I'd be especially careful with major assignments or final papers.
+发言者2：我不确定。我仍然认为这需要仔细考虑。
+例如，当Word用红绿下划线标记错误时，这算不算人工智能辅助校对？
+不同的机构甚至不同的教授对于什么是可接受的人工智能使用可能有不同的标准。
 对于重要的作业或期末论文，我尤其要谨慎。
 
-发言者3：实际上，我已经在平板电脑上使用人工智能进行校对一段时间了。但是，我的老师还是要求我再自己校对一遍。
+Speaker3: Actually, I've already been using AI on my tablet for proofreading for a while now. 
+But, I still get asked by my teacher to do another proofread myself. 
+I think the key thing is, you won't get any new ideas from AI. 
+AI will only make your existing ideas clearer and more correct. 
+It's really just an advanced tool that helps polish your work, not something that creates content for you. 
+The fundamental thinking and ideas still need to come from you.
+发言者3：实际上，我已经在平板电脑上使用人工智能进行校对一段时间了。
+但是，我的老师还是要求我再自己校对一遍。
+我觉得关键在于，你不会从人工智能那里得到任何新的想法。
+人工智能只会让你的现有想法更清晰、更正确。
+它真的只是一个帮助你润色作品的高级工具，而不是帮你创作内容的工具。
+基本的思考和想法仍然需要来自你自己。
 
-我觉得关键在于，你不会从人工智能那里得到任何新的想法。人工智能只会让你的现有想法更清晰、更正确。它真的只是一个帮助你润色作品的高级工具，而不是帮你创作内容的工具。基本的思考和想法仍然需要来自你自己。
+Speaker1: Okay, I see. Thanks. I think I'll go back and ask for advice from my tutor about it first. 
+I really don't want to be accused of plagiarism, especially since I'm not clear on where the line is drawn. 
+It's better to be safe and get proper guidance rather than risk any academic consequences.
+发言者1：好的，我明白了。谢谢。我想我会先回去问问我的导师。
+我真的不想被指控抄袭，尤其是我不清楚抄袭的界限在哪里。
+最好还是谨慎一些，寻求专业的指导，而不是冒任何学术上的后果。
 
-发言者1：好的，我明白了。谢谢。我想我会先回去问问我的导师。我真的不想被指控抄袭，
-
-尤其是我不清楚抄袭的界限在哪里。最好还是谨慎一些，寻求专业的指导，而不是冒任何学术上的
-
-后果。
-
-发言者2：完全有道理。由于不同老师和大学的接受标准差异很大，依靠自己的判断可能会有风险。
-
+Speaker2: That makes total sense. 
+Since acceptance standards vary widely among teachers and universities, relying on your own judgement can be risky. 
+It is wise to get clear instructions directly from your tutor.
+发言者2：完全有道理。
+由于不同老师和大学的接受标准差异很大，依靠自己的判断可能会有风险。
 最好直接从你的导师那里获得明确的指导。
 
+Speaker3: I agree. No matter whether you end up using AI tools or not, your own original ideas should always stay at the core of your writing.
 发言者3：我同意。无论你最终是否使用人工智能工具，你自己的原创想法都应该始终是你写作的核心。
 
 18.Future Job
 Narration: Three students are discussing finding a job after graduation.
-Speakerl: Hey guys, have you thought about what you want to do after graduation? I've been researching job opportunities, and I'm leaning
-toward joining a big company. The structured training programs they offer seem really valuable for professional development, not to mention the
-clear promotion paths. I think starting in a well-established organization could really set the foundation for a successful career.
-Speaker2: That's interesting! I've actually been volunteering at a small charity organization, and I've really enjoyed the experience. For me, success
-isn't about climbing the corporate ladder or earning a high salary. I find the work meaningful, and the environment is so supportive. I might even
-consider staying in the non-profit sector after graduation. After I start working, I plan to live with my parents, and they're happy to live with me as
-well.
-Speaker3: Wow, you both already have such clear plans! I'm still figuring things out. To be honest, I'm thinking about staying here to pursue a
-postgraduate degree in psychology. I feel like I have time to explore my options, and further study might help me narrow down what I really want
-to do.
-Speaker: That's fair, but it's still good to start planning early. Maybe you could try out different jobs or internships while you're studying? That
-way, you can get a sense of what you enjoy or what you're good at before committing to a specific path.
-Speaker2: I agree! Keeping an open mind and gaining diverse experiences can be really helpful. What you do now doesn't have to define your
-future career-it's more about exploring and learning about yourself. Plus, you might discover unexpected passions along the way.
-Speaker3: You've both given me a lot to think about. I think I'll start doing some research tonight and maybe look into part-time work or
-internships. It's nice to know I don't have to figure this all out alone.
-Speaker1: No problem at all! If you need help sifting through internship postings, just let me know. I've got a folder full of resources for different
-industries—tech, finance, even some creative fields. And hey, if you find something that sparks your interest, we can brainstorm how to tailor your
-application to stand out.
-Speaker2: That's a great offer! I can chime in too-nonprofits have unique application quirks, like emphasizing passion over past experience. I've
-learned a lot about writing cover letters that connect personal stories to an organization's mission. Plus, if you want to dip a toe into the nonprofit
-world, I can introduce you to the team at my charity-they're always looking for extra help on weekends.
-Speaker3: You guys are the best. Having a starting point and people to bounce ideas off of makes this feel way less overwhelming. Let me start
-with research for part-time jobs tonight. Thanks for the advice!
-
 旁白：三个学生正在讨论毕业后找工作的事。
+Speaker1: Hey guys, have you thought about what you want to do after graduation? 
+I've been researching job opportunities, and I'm leaning toward joining a big company. 
+The structured training programs they offer seem really valuable for professional development, not to mention the clear promotion paths. 
+I think starting in a well-established organization could really set the foundation for a successful career.
+发言者1：嘿，你们有没有想过毕业后要做什么？
+我一直在研究工作机会，我倾向于加入一家大公司。
+他们提供的结构化培训项目对职业发展真的很有价值，更不用说清晰的晋升路径了。
+我觉得从一家成熟的机构开始，真的能为成功的职业生涯打下坚实的基础。
 
-发言者1：嘿，你们有没有想过毕业后要做什么？我一直在研究工作机会，我倾向于
+Speaker2: That's interesting! I've actually been volunteering at a small charity organization, and I've really enjoyed the experience. 
+For me, success isn't about climbing the corporate ladder or earning a high salary. 
+I find the work meaningful, and the environment is so supportive. 
+I might even consider staying in the non-profit sector after graduation. 
+After I start working, I plan to live with my parents, and they're happy to live with me as well.
+发言者2：真有意思！我其实一直在一家小型慈善机构做志愿者，我很喜欢这段经历。
+对我来说，成功不在于爬上职场的阶梯或者赚高薪。
+我觉得这份工作很有意义，而且工作环境也很支持我。
+我甚至可能会考虑毕业后继续留在非营利领域。
+开始工作后，我打算和父母住在一起，他们也很乐意和我一起住。
 
-加入一家大公司。他们提供的结构化培训项目对职业发展真的很有价值，更不用说
+Speaker3: Wow, you both already have such clear plans! 
+I'm still figuring things out. 
+To be honest, I'm thinking about staying here to pursue a postgraduate degree in psychology. 
+I feel like I have time to explore my options, and further study might help me narrow down what I really want to do.
+发言者3：哇，你们俩的计划都这么清晰！
+我还在摸索中。
+说实话，我正在考虑留在这里攻读心理学研究生学位。
+我觉得我有时间去探索各种可能性，继续深造或许能帮我缩小范围，找到自己真正想做的事情。
 
-清晰的晋升路径了。我觉得从一家成熟的机构开始，真的能为成功的职业生涯打下坚实的基础。
+Speaker1: That's fair, but it's still good to start planning early. 
+Maybe you could try out different jobs or internships while you're studying? 
+That way, you can get a sense of what you enjoy or what you're good at before committing to a specific path.
+发言者1：这很合理，但早点开始规划总是好的。
+也许你可以在学习期间尝试不同的工作或实习？
+这样，你就能在确定具体方向之前，了解自己喜欢什么或擅长什么。
 
-发言者2：真有意思！我其实一直在一家小型慈善机构做志愿者，我很喜欢这段经历。对我来说，成功
+Speaker2: I agree! Keeping an open mind and gaining diverse experiences can be really helpful. 
+What you do now doesn't have to define your future career-it's more about exploring and learning about yourself. 
+Plus, you might discover unexpected passions along the way.
+发言者2：我同意！保持开放的心态，积累多元化的经验真的很有帮助。
+你现在做的事情不必决定你未来的职业道路——它更多的是关于探索和了解自己。
+而且，你可能会在这个过程中发现意想不到的热情所在。
 
-不在于爬上职场的阶梯或者赚高薪。我觉得这份工作很有意义，而且工作环境也很支持我。我甚至可能会
+Speaker3: You've both given me a lot to think about. 
+I think I'll start doing some research tonight and maybe look into part-time work or internships. 
+It's nice to know I don't have to figure this all out alone.
+发言者3：你们俩给了我很多思考的空间。
+我想我今晚就开始做一些调查，也许会找一些兼职工作或实习机会。
+很高兴知道我不用独自摸索这一切。
 
-考虑毕业后继续留在非营利领域。开始工作后，我打算和父母住在一起，他们也很乐意和我一起住。
+Speaker1: No problem at all! 
+If you need help sifting through internship postings, just let me know. 
+I've got a folder full of resources for different industries—tech, finance, even some creative fields. 
+And hey, if you find something that sparks your interest, we can brainstorm how to tailor your application to stand out.
+发言人1：没问题！
+如果你需要帮忙筛选实习信息，尽管告诉我。
+我有一个文件夹，里面全是不同行业的资源——科技、金融，甚至一些创意领域。
+而且，如果你找到感兴趣的，我们可以一起探讨如何让你的申请脱颖而出。
 
-发言者3：哇，你们俩的计划都这么清晰！我还在摸索中。说实话，我正在考虑留在这里攻读
+Speaker2: That's a great offer! 
+I can chime in too-nonprofits have unique application quirks, like emphasizing passion over past experience. 
+I've learned a lot about writing cover letters that connect personal stories to an organization's mission. 
+Plus, if you want to dip a toe into the nonprofit world, I can introduce you to the team at my charity-they're always looking for extra help on weekends.
+发言人2：太好了！
+我也可以帮帮忙——非营利组织的申请流程有一些特殊之处，比如他们更看重热情而不是过往经验。
+我学到了很多关于如何撰写求职信的知识，能够将个人经历与组织的使命联系起来。
+另外，如果你想尝试一下非营利组织，我可以介绍你认识我们慈善机构的团队——他们周​​末总是需要人手帮忙。
 
-心理学研究生学位。我觉得我有时间去探索各种可能性，继续深造或许能帮我缩小范围，找到自己真正想做的事情。
-
-发言者：这很合理，但早点开始规划总是好的。也许你可以在学习期间尝试不同的工作或实习？这样，
-
-你就能在确定具体方向之前，了解自己喜欢什么或擅长什么。
-
-发言者2：我同意！保持开放的心态，积累多元化的经验真的很有帮助。你现在做的事情不必决定你未来的职业道路——
-
-它更多的是关于探索和了解自己。而且，你可能会在这个过程中发现意想不到的热情所在。
-
-发言者3：你们俩给了我很多思考的空间。我想我今晚就开始做一些调查，也许会找一些兼职工作或
-
-实习机会。很高兴知道我不用独自摸索这一切。
-
-发言人1：没问题！如果你需要帮忙筛选实习信息，尽管告诉我。我有一个文件夹，里面全是不同行业的资源——科技、金融，甚至一些创意领域。而且，如果你找到感兴趣的，我们可以一起探讨如何让你的申请脱颖而出。
-
-发言人2：太好了！我也可以帮帮忙——非营利组织的申请流程有一些特殊之处，比如他们更看重热情而不是过往经验。我学到了很多关于如何撰写求职信的知识，能够将个人经历与组织的使命联系起来。另外，如果你想尝试一下非营利组织，我可以介绍你认识我们慈善机构的团队——他们周​​末总是需要人手帮忙。
-
-发言人3：你们真是太棒了！有了起点，又能和大家一起讨论想法，感觉压力小了很多。我今晚就开始找兼职工作。谢谢你们的建议！
+Speaker3: You guys are the best. 
+Having a starting point and people to bounce ideas off of makes this feel way less overwhelming. 
+Let me start with research for part-time jobs tonight. 
+Thanks for the advice!
+发言人3：你们真是太棒了！
+有了起点，又能和大家一起讨论想法，感觉压力小了很多。
+我今晚就开始找兼职工作。
+谢谢你们的建议！
 
 19.University Bookshop
 The discussion involves three people talking about the university bookshop.
-
-The first speaker firstly mentioned that the university bookshop had closed down and he was heartbroken.
-
-And then, the speaker explained that he used to stop by the bookshop regularly after morning classes.
-
-Followed by that, in the discussion, he mentioned e-books are convenient but strain the eyes after reading for a long time.
-
-Besides, we know that he regretted not having bought more books.
-
-In the end, the speaker said the bookshop should have sold practical items.
-
-The second speaker is not as sad about the bookstore closing.
-
-Firstly, the speaker said that online materials could replace books sold by the bookshop.
-
-She also mentioned that the closure of physical bookstores was an inevitable trend.
-
-In addition, she said that the other two speakers should have bought more books.
-
-Lastly, the speaker believed that the bookstore missed the opportunity of selling more student essentials.
-
-As for the third speaker, he agreed with the other two that the bookshop's closure was disappointing.
-
-What's more, he shared the view that e-books are handy but that physical books are unbeatable for deep reading.
-
-Next, he said that the staff were kind and helped students find textbooks and recommend reference books.
-
-Besides, he pointed out that the bookshop focused too narrowly on selling only books.
-
-So, he came to a conclusion that the bookshop's failure to adapt in time was a pity.
-
-Overall, they focused on the main topic of the closure of the university bookshop.
 这段讨论涉及三个人，他们都在谈论大学书店。
-
+The first speaker firstly mentioned that the university bookshop had closed down and he was heartbroken.
 第一位发言者首先提到大学书店关门了，他为此感到非常难过。
-
+And then, the speaker explained that he used to stop by the bookshop regularly after morning classes.
 然后，他解释说，以前他经常在上午的课后去书店逛逛。
-
+Followed by that, in the discussion, he mentioned e-books are convenient but strain the eyes after reading for a long time.
 接着，在讨论中，他提到电子书虽然方便，但长时间阅读会伤眼睛。
-
+Besides, we know that he regretted not having bought more books.
 此外，我们知道他后悔当初没多买些书。
-
+In the end, the speaker said the bookshop should have sold practical items.
 最后，这位发言者认为书店应该多卖一些实用物品。
 
+The second speaker is not as sad about the bookstore closing.
 第二位发言者对书店的关闭并没有那么难过。
-
+Firstly, the speaker said that online materials could replace books sold by the bookshop.
 首先，她认为在线资源可以替代书店出售的书籍。
-
+She also mentioned that the closure of physical bookstores was an inevitable trend.
 她还提到，实体书店的关闭是不可避免的趋势。
-
+In addition, she said that the other two speakers should have bought more books.
 此外，她认为前两位发言者应该多买些书。
-
+Lastly, the speaker believed that the bookstore missed the opportunity of selling more student essentials.
 最后，这位发言者认为书店错失了销售更多学生必需品的机会。
 
+As for the third speaker, he agreed with the other two that the bookshop's closure was disappointing.
 第三位发言者也同意前两位的观点，认为书店的关闭令人惋惜。
-
+What's more, he shared the view that e-books are handy but that physical books are unbeatable for deep reading.
 此外，他还认为电子书虽然方便，但纸质书对于深度阅读而言是无可替代的。
-
+Next, he said that the staff were kind and helped students find textbooks and recommend reference books.
 接着，他提到书店员工非常友善，会帮助学生查找教材并推荐参考书。
-
+Besides, he pointed out that the bookshop focused too narrowly on selling only books.
 此外，他还指出书店过于狭隘，只专注于销售书籍。
-
+So, he came to a conclusion that the bookshop's failure to adapt in time was a pity.
 因此，他总结道，书店未能及时转型令人遗憾。
-
+Overall, they focused on the main topic of the closure of the university bookshop.
 总而言之，他们的讨论主要围绕大学书店关闭这一主题展开。
 
 20.Management of Assignment
 The discussion involves three people talking about managing written assignments.
-
-The speaker one first mentioned he finds it hard to organize assignments.
-
-And then, the speaker has explained that he feels pressure and cannot stick to his writing goal.
-
-Following that, in the discussion, he mentioned he tried breaking assignments into smaller ones but not consistently.
-
-From him, we know that he loses momentum halfway or gets sidetracked, and the plan falls apart.
-
-So basically, according to him, lacking external structure or immediate accountability is a major concern.
-
-In the end, the speaker said the most important thing is to have a work buddy.
-
-The second speaker is mainly about ways to manage written assignments.
-
-Firstly, the speaker emphasized that breaking lengthy assignments into smaller ones helped her.
-
-She also mentioned that she makes a plan, creates an outline, and schedules everything step by step.
-
-Lastly, the speaker believed that one needs to avoid distractions to focus.
-
-In addition, she suggested they do the next assignment together, plan together, and set weekly check-ins.
-
-As a result, she finally concluded that having a work buddy adds responsibility and support.
-
-As for the third speaker, he agreed with breaking assignments into smaller ones.
-
-What's more, he shared the opinion about allocating time to different assignments by urgency or difficulty.
-
-Next, he had faith in studying when one feels most productive.
-
-After that, he claimed that he works best at night and writes essays in the evening.
-
-Besides, he highlighted the point of a study group keeping them accountable and allowing sharing ideas and feedback.
-
-So, he came to a conclusion that collaborating early avoids last-minute stress and improves work quality.
-
-Overall, they focused on the main topic of managing written assignments.
 讨论涉及三位参与者，他们都在探讨如何管理书面作业。
-
+The speaker one first mentioned he finds it hard to organize assignments.
 第一位发言者首先提到，他觉得组织作业很困难。
-
+And then, the speaker has explained that he feels pressure and cannot stick to his writing goal.
 然后，这位发言者解释说，他感到压力很大，无法坚持完成写作目标。
-
+Following that, in the discussion, he mentioned he tried breaking assignments into smaller ones but not consistently.
 接下来，在讨论中，他提到他尝试过将作业拆分成更小的部分，但并没有坚持下去。
-
+From him, we know that he loses momentum halfway or gets sidetracked, and the plan falls apart.
 从他的发言中我们可以看出，他经常半途而废或被其他事情分散注意力，导致计划失败。
-
+So basically, according to him, lacking external structure or immediate accountability is a major concern.
 因此，他认为，缺乏外部指导或及时的监督是主要问题。
-
+In the end, the speaker said the most important thing is to have a work buddy.
 最后，这位发言者表示，最重要的是找到一个写作伙伴。
-
+The second speaker is mainly about ways to manage written assignments.
 第二位发言者主要讨论了如何管理书面作业。
-
+Firstly, the speaker emphasized that breaking lengthy assignments into smaller ones helped her.
 首先，这位发言者强调，将冗长的作业拆分成更小的部分对她很有帮助。
-
+She also mentioned that she makes a plan, creates an outline, and schedules everything step by step.
 她还提到，她会制定计划、创建提纲，并按步骤安排所有事项。
-
+Lastly, the speaker believed that one needs to avoid distractions to focus.
 最后，这位发言者认为，要集中精力，就需要避免分心。
-
+In addition, she suggested they do the next assignment together, plan together, and set weekly check-ins.
 此外，她建议他们一起完成下一个作业，共同制定计划，并每周进行进度检查。
-
+As a result, she finally concluded that having a work buddy adds responsibility and support.
 最终，她得出结论：拥有一个学习伙伴可以增加责任感和支持。
-
+As for the third speaker, he agreed with breaking assignments into smaller ones.
 第三位发言者同意将作业分解成更小的部分。
-
+What's more, he shared the opinion about allocating time to different assignments by urgency or difficulty.
 此外，他还分享了根据作业的紧急程度或难度分配时间的观点。
-
+Next, he had faith in studying when one feels most productive.
 接下来，他认为应该在自己感觉效率最高的时候学习。
-
+After that, he claimed that he works best at night and writes essays in the evening.
 之后，他表示自己晚上工作效率最高，会在晚上写论文。
-
+Besides, he highlighted the point of a study group keeping them accountable and allowing sharing ideas and feedback.
 此外，他还强调了学习小组的重要性，它可以帮助成员互相监督，并促进想法的分享和反馈。
-
+So, he came to a conclusion that collaborating early avoids last-minute stress and improves work quality.
 因此，他得出结论：尽早合作可以避免最后一刻的压力，并提高工作质量。
-
+Overall, they focused on the main topic of managing written assignments.
 总而言之，他们主要讨论了如何管理书面作业这一主题。
 
 21. Essay Writing
