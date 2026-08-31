@@ -2355,56 +2355,99 @@ Let's pack up our laptops and notes and head over right away.
 
 45.Sports
 Narration: three students are discussing how to keep active at university.
-
-Speaker1: I’ve spent so much time studying that I barely have energy for exercise. Besides, I want to stay active on campus, but club membership fees and parking costs are really high. I’m looking for low‑cost ways to keep fit and social. Do you two have any practical ideas?
-
-Speaker2: That’s a great question. I really enjoy sports. I run and work out with fitness equipment daily, and I prefer swimming pools over open water. Our university actually provides lots of free student‑only facilities, such as the campus swimming pool. And sometimes, the simplest choice is just going for a walk around campus. I think these activities are relaxing and budget-friendly choices that don't put pressure on your finances.
-
-Speaker3: I get it. My schoolwork is also really heavy this semester. I like watching Olympic games, yet swimming does not suit me. I find gym workouts too repetitive, so I would recommend walking as a cheap and easy way to relax. Sometimes I also read in libraries or cafes to unwind.
-
-Speaker1: I’m not keen on intense outdoor sports either, but I love walking in the park or around the playground. Breathing fresh grass and enjoying sunshine calms me down, and it is much cheaper than going to the gym. I also like doing simple stretches. After your suggestions, I’m thinking about trying our Olympic‑standard campus swimming pool.
-
-Speaker2: That is a fantastic choice. Exercising right after classes can be really relaxing. If you go swimming, you can bring your own snacks or use student discounts at the campus café for a coffee afterwards. It makes the whole experience nicer without spending much money.
-
-Speaker3: Walking is still my favourite option. It needs no special equipment and fits any busy study schedule. Short walks in green areas clear my mind. Apart from walking, cooking simple meals at home also helps me recover energy from heavy assignments.
-
-Speaker1: That makes sense. Walking can be my backup plan when I don’t feel like swimming. It is important for me to balance my study pressure with physical activity, and I’m glad there are so many free campus choices available.
-
-Speaker2: Exactly. Expensive club memberships are not necessary for us to stay active. We can take good advantage of campus resources. Maybe we can try some of these activities together sometime.
-
-Speaker3: I’d like that. Whether we take a walk in green spaces or get an affordable drink later, these low-cost activities can keep us physically and mentally refreshed through the whole semester. Additionally, I also enjoy cooking in the kitchen, as preparing simple meals helps me take a break from academic work and restore energy for the next day's study. These activities help me manage the workload without adding financial stress.
 旁白：三位学生正在讨论如何在大学保持活力。
 
-发言者1：我花了太多时间学习，几乎没有精力锻炼。而且，我想在校园里保持活跃，但是社团会员费和停车费太贵了。我正在寻找既能保持健康又能社交的低成本方法。你们两位有什么实用建议吗？
+Speaker1: I’ve spent so much time studying that I barely have energy for exercise. 
+Besides, I want to stay active on campus, but club membership fees and parking costs are really high. 
+I’m looking for low‑cost ways to keep fit and social. 
+Do you two have any practical ideas?
+发言者1：我花了太多时间学习，几乎没有精力锻炼。
+而且，我想在校园里保持活跃，但是社团会员费和停车费太贵了。
+我正在寻找既能保持健康又能社交的低成本方法。
+你们两位有什么实用建议吗？
 
-发言者2：问得好。我真的很喜欢运动。我每天都跑步，也会用健身器材锻炼，而且我更喜欢游泳池而不是开放水域。我们学校其实提供了很多免费的学生专属设施，比如校园游泳池。有时候，最简单的选择就是在校园里散步。我觉得这些活动既轻松又省钱，不会给你的经济造成压力。
+Speaker2: That’s a great question. I really enjoy sports. 
+I run and work out with fitness equipment daily, and I prefer swimming pools over open water. 
+Our university actually provides lots of free student‑only facilities, such as the campus swimming pool. 
+And sometimes, the simplest choice is just going for a walk around campus. 
+I think these activities are relaxing and budget-friendly choices that don't put pressure on your finances.
+发言者2：问得好。我真的很喜欢运动。
+我每天都跑步，也会用健身器材锻炼，而且我更喜欢游泳池而不是开放水域。
+我们学校其实提供了很多免费的学生专属设施，比如校园游泳池。
+有时候，最简单的选择就是在校园里散步。
+我觉得这些活动既轻松又省钱，不会给你的经济造成压力。
 
-发言者3：我明白。这学期我的课业也很繁重。我喜欢看奥运会，但是游泳不适合我。我觉得健身房锻炼太单调了，所以我推荐散步，这是一种既便宜又轻松的放松方式。有时候我也会去图书馆或咖啡馆看书放松一下。发言者1：我也不太喜欢剧烈的户外运动，但我喜欢在公园或操场附近散步。呼吸着新鲜的草香，沐浴着阳光，能让我平静下来，而且比去健身房便宜得多。我也喜欢做一些简单的拉伸运动。听了你的建议，我正在考虑去试试我们学校的奥林匹克标准游泳池。
+Speaker3: I get it. My schoolwork is also really heavy this semester. 
+I like watching Olympic games, yet swimming does not suit me. 
+I find gym workouts too repetitive, so I would recommend walking as a cheap and easy way to relax. 
+Sometimes I also read in libraries or cafes to unwind.
+发言者3：我明白。这学期我的课业也很繁重。
+我喜欢看奥运会，但是游泳不适合我。
+我觉得健身房锻炼太单调了，所以我推荐散步，这是一种既便宜又轻松的放松方式。
+有时候我也会去图书馆或咖啡馆看书放松一下。
 
-发言者2：这真是个绝妙的选择。课后锻炼真的很放松。如果你去游泳，可以自带零食，或者之后用学生折扣在校园咖啡馆买杯咖啡。这样既能享受运动的乐趣，又不用花太多钱。
+Speaker1: I’m not keen on intense outdoor sports either, but I love walking in the park or around the playground. 
+Breathing fresh grass and enjoying sunshine calms me down, and it is much cheaper than going to the gym. 
+I also like doing simple stretches. 
+After your suggestions, I’m thinking about trying our Olympic‑standard campus swimming pool.
+发言者1：我也不太喜欢剧烈的户外运动，但我喜欢在公园或操场附近散步。
+呼吸着新鲜的草香，沐浴着阳光，能让我平静下来，而且比去健身房便宜得多。
+我也喜欢做一些简单的拉伸运动。
+听了你的建议，我正在考虑去试试我们学校的奥林匹克标准游泳池。
 
-发言者3：散步仍然是我的首选。它不需要任何特殊装备，而且适合任何繁忙的学习安排。在绿地里散步能让我头脑清醒。除了散步，在家做些简单的饭菜也能帮助我从繁重的作业中恢复精力。
+Speaker2: That is a fantastic choice. Exercising right after classes can be really relaxing. 
+If you go swimming, you can bring your own snacks or use student discounts at the campus café for a coffee afterwards. 
+It makes the whole experience nicer without spending much money.
+发言者2：这真是个绝妙的选择。课后锻炼真的很放松。
+如果你去游泳，可以自带零食，或者之后用学生折扣在校园咖啡馆买杯咖啡。
+这样既能享受运动的乐趣，又不用花太多钱。
 
-发言者1：这很有道理。如果我不想游泳，散步可以作为我的备选方案。对我来说，平衡学习压力和体育锻炼非常重要，我很庆幸校园里有这么多免费的活动选择。
+Speaker3: Walking is still my favorite option. 
+It needs no special equipment and fits any busy study schedule. 
+Short walks in green areas clear my mind. 
+Apart from walking, cooking simple meals at home also helps me recover energy from heavy assignments.
+发言者3：散步仍然是我的首选。
+它不需要任何特殊装备，而且适合任何繁忙的学习安排。
+在绿地里散步能让我头脑清醒。
+除了散步，在家做些简单的饭菜也能帮助我从繁重的作业中恢复精力。
 
-发言者2：没错。我们不需要花大价钱办社团会员卡就能保持活力。我们可以充分利用校园资源。也许我们可以找个时间一起尝试一下这些活动。
+Speaker1: That makes sense. Walking can be my backup plan when I don’t feel like swimming. 
+It is important for me to balance my study pressure with physical activity, and I’m glad there are so many free campus choices available.
+发言者1：这很有道理。如果我不想游泳，散步可以作为我的备选方案。
+对我来说，平衡学习压力和体育锻炼非常重要，我很庆幸校园里有这么多免费的活动选择。
 
-发言者3：我很乐意。无论是去绿地散步，还是之后去喝杯价格实惠的饮品，这些低成本的活动都能让我们在整个学期保持身心愉悦。此外，我也喜欢在厨房做饭，因为准备简单的饭菜能让我从繁重的学业中放松下来，为第二天的学习恢复精力。这些活动帮助我更好地应对学习压力，而不会增加经济负担。
+Speaker2: Exactly. Expensive club memberships are not necessary for us to stay active. 
+We can take good advantage of campus resources. 
+Maybe we can try some of these activities together sometime.
+发言者2：没错。我们不需要花大价钱办社团会员卡就能保持活力。
+我们可以充分利用校园资源。
+也许我们可以找个时间一起尝试一下这些活动。
 
-46.Academic Essay
+Speaker3: I’d like that. Whether we take a walk in green spaces or get an affordable drink later, these low-cost activities can keep us physically and mentally refreshed through the whole semester. 
+Additionally, I also enjoy cooking in the kitchen, as preparing simple meals helps me take a break from academic work and restore energy for the next day's study. 
+These activities help me manage the workload without adding financial stress.
+发言者3：我很乐意。无论是去绿地散步，还是之后去喝杯价格实惠的饮品，这些低成本的活动都能让我们在整个学期保持身心愉悦。
+此外，我也喜欢在厨房做饭，因为准备简单的饭菜能让我从繁重的学业中放松下来，为第二天的学习恢复精力。
+这些活动帮助我更好地应对学习压力，而不会增加经济负担。
+
+46.Academic Essay(学术论文)
 A tutor and two students.
-Student1: I've learned a lot from others' comments.
-Student2: How can I write a formal academic essay?
-Tutor: The most important thing is to make it understandable. Another main point is that academic writing should avoid using overly certain
-language. A strong or assertive tone is a very common problem, so it is recommended to use words such as "may" and "might". Try to make the
-writing more objective.
 一位导师和两位学生。
 
+Student1: I've learned a lot from others' comments.
 学生1：我从其他人的评论中学到了很多。
 
+Student2: How can I write a formal academic essay?
 学生2：我该如何写一篇正式的学术论文？
 
-导师：最重要的是要让文章通俗易懂。另一点是，学术写作应该避免使用过于肯定的语言。语气强硬或武断是很常见的问题，所以建议使用“可能”、“也许”之类的词语。尽量让文章更加客观。
+Tutor: The most important thing is to make it understandable. 
+Another main point is that academic writing should avoid using overly certain language. 
+A strong or assertive tone is a very common problem, so it is recommended to use words such as "may" and "might". 
+Try to make the writing more objective.
+导师：最重要的是要让文章通俗易懂。
+另一点是，学术写作应该避免使用过于肯定的语言。
+语气强硬或武断是很常见的问题，所以建议使用“可能”、“也许”之类的词语。
+尽量让文章更加客观。
 
 47. Housing Plans
 
