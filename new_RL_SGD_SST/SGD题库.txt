@@ -282,7 +282,7 @@ The second speaker also said something about using keywords and accepting mistak
 The last speaker talked about reducing nerves and staying calm.
 The last speaker also said something about rescue phrases and clear message.
 
-6.Anniversary Party (How to celebrate the Department's 10th Anniversary party)
+6.Anniversary Party (How to celebrate the Department's 10th Anniversary party) 周年晚会（如何庆祝系十周年晚会）
 The discussion involves three people talking about how to celebrate the mathematics department's ten-year anniversary.
 这场讨论涉及三位人士，他们正在探讨如何庆祝数学系成立十周年。
 
@@ -335,7 +335,7 @@ The second speaker also said something about on campus party and easy travel.
 The last speaker talked about Business Building event room and better space.
 The last speaker also said something about inviting staff and alumni and final plans.
 
-7.Phone in Class(Use of mobile phones in lectures)
+7.Phone in Class(Use of mobile phones in lectures) 课堂上使用手机（在课堂上使用手机）
 The discussion involves three people talking about whether students are allowed to use smartphones in class.
 这场讨论涉及三位发言者，他们探讨学生是否应该在课堂上使用智能手机。
 
@@ -385,7 +385,7 @@ The second speaker also said something about recording lectures and internationa
 The last speaker talked about both sides and no full ban.
 The last speaker also said something about balance and fair rules.
 
-8.Time Management
+8.Time Management 时间管理
 Narration: Three students are discussing time management at university.
 旁白：三个学生正在大学里讨论时间管理。
 
@@ -474,7 +474,7 @@ I think the university offers a seminar on time management.
 Maybe we should all go.
 也许我们都该走了。
 
-9.Different Ways to University (Commuting to the university)通勤到大学
+9.Different Ways to University (Commuting to the university) 不同的上大学方式（上下班通勤方式）
 The discussion involves three people talking about the best ways to get to university.
 这个讨论涉及三个人谈论进入大学的最佳途径。
 
@@ -528,7 +528,7 @@ The second speaker also said something about reading on the bus and carpooling.
 The last speaker talked about biking and low cost.
 The last speaker also said something about being healthy and using public transport.
 
-10.New Lecturer (patient lecturer)
+10.New Lecturer (patient lecturer) 新讲师（耐心讲师）
 Narration: three students are talking about a new lecturer.
 旁白：三个学生正在谈论一位新老师。
 
@@ -613,7 +613,7 @@ The second speaker also said something about patience and professional attitude.
 The last speaker talked about good class experience and personal growth.
 The last speaker also said something about feeling shy and gaining confidence.
 
-11.Free Online Courses
+11.Free Online Courses(免费的网上资源)
 The discussion involves three people talking about free online courses.
 这场讨论由三位发言者共同进行，主题是免费在线课程。
 
@@ -662,7 +662,7 @@ So, he came to a conclusion that developers need to design with the learner’s 
 Overall, they focused on the main topic of free online courses.
 总而言之，他们主要讨论了免费在线课程这一主题。
 
-12.Choice of Subjects
+12.Choice of Subjects(科目选择)
 Narration: three students are discussing which course to take next semester.
 旁白：三位学生正在讨论下学期选修哪门课程。
 
@@ -735,7 +735,7 @@ There is no one-size-fits-all answer for course selection.
 Speaker3: Exactly. The most important thing is that we are clear about our own goals, no matter which subject we end up enrolling in.
 发言者3：没错。最重要的是，无论最终选哪门课，我们都清楚自己的目标。
 
-13.Online Course
+13.Online Course(在线课程)
 The discussion involves three people talking about pros and cons of online classes.
 讨论涉及三个人，他们探讨了在线课程的优缺点。
 
@@ -794,7 +794,7 @@ Suggests rescheduling courses to attract more learners.
 Thinks low completion rates are due to heavy workloads and the fact that free courses
 lack financial consequences.
 
-14.Group Discussion
+14.Group Discussion 小组讨论
 Narration: Three speakers are discussing the pros and cons of group discussions.
 旁白：三位发言者正在讨论小组讨论的利与弊。
 
@@ -876,7 +876,7 @@ Speaker3: One reason I don't like student dormitories is that I find the kitchen
 However, I can't live with my parentsI because their apartment is too small, and I have to share a room with my brother, which means I have no privacy.
 然而，我不能和我的父母住在一起，因为他们的公寓太小了，我不得不和我的哥哥共用一个房间，这意味着我没有隐私。
 
-16.Joining or Starting a Club
+16.Joining or Starting a Club 学生社团
 Narration: three students are discussing which student club to join next semester.
 旁白：三个学生正在讨论下学期参加哪个学生社团。
 
@@ -957,7 +957,7 @@ Most clubs have trial sessions, so you can seel what suits you best before commi
 That gives you a chance to feel the atmosphere without making long-term promises.
 这让你有机会感受气氛，而不用做出长期承诺。
 
-17.AI Proofreading
+17.AI Proofreading 人工智能校对工具
 Narration: three students are discussing using artificial intelligence as a proofreading tool.
 旁白：三个学生正在讨论使用人工智能作为校对工具。
 
@@ -2449,86 +2449,48 @@ Try to make the writing more objective.
 语气强硬或武断是很常见的问题，所以建议使用“可能”、“也许”之类的词语。
 尽量让文章更加客观。
 
-47. Housing Plans
-
+47. Housing Plans(住宿计划)
 The discussion involves three people talking about housing plan for the upcoming academic year.
-
-The speaker one first mentioned information from accommodation office.
-
-And then, the speaker has explained that she is torn between living on campus and off-campus.
-
-Followed by that, in the discussion, they mentioned assigning rooms on a first-come basis.
-
-From her, we know that she will finalize housing choice by Friday.
-
-The second speaker is mainly about deciding to come back next year.
-
-Firstly, the speaker emphasized that he requested single room yesterday.
-
-He also mentioned on-campus accommodation is better for studying.
-
-Lastly, the speaker believed that he hates commuting.
-
-In addition, he suggested that list of pros for on-campus is longer
-
-So, he referred to repetitive cafeteria food.
-
-As a result, he finally concluded that he pops by to study sometimes.
-
-As for the third speaker, she agreed with considering living outside.
-
-What's more, she shared the opinion about preferring more independence.
-
-Next, she had faith in finding an affordable place.
-
-After that, she claimed that she can experience more of the city.
-
-Besides, she highlighted the point of making a list of pros and cons.
-
-Finally, she accepted the solution of flipping a coin.
-
-So, she came to an conclusion that they should consider the cost, travel time, studies, and distraction.
-
-Overall, they focused on the main topic of housing plan for the upcoming academic year.
-
 讨论涉及三位同学，他们正在讨论下学年的住宿计划。
-
+The speaker one first mentioned information from accommodation office.
 第一位发言者首先提到了住宿办公室提供的信息。
-
+And then, the speaker has explained that she is torn between living on campus and off-campus.
 然后，她解释说自己在选择校内住宿还是校外住宿之间犹豫不决。
-
+Followed by that, in the discussion, they mentioned assigning rooms on a first-come basis.
 接着，讨论中提到房间将按照先到先得的原则分配。
-
+From her, we know that she will finalize housing choice by Friday.
 据她所说，她将在周五之前最终确定住宿选择。
 
+The second speaker is mainly about deciding to come back next year.
 第二位发言者主要讨论的是明年是否继续就读。
-
+Firstly, the speaker emphasized that he requested single room yesterday.
 首先，他强调自己昨天已经申请了单人间。
-
+He also mentioned on-campus accommodation is better for studying.
 他还提到校内住宿更有利于学习。
-
+Lastly, the speaker believed that he hates commuting.
 最后，他表示自己讨厌通勤。
-
+In addition, he suggested that list of pros for on-campus is longer
 此外，他还列举了校内住宿的优点。
-
+So, he referred to repetitive cafeteria food.
 例如，他提到了食堂饭菜比较单调。
-
+As a result, he finally concluded that he pops by to study sometimes.
 因此，他最终总结说自己偶尔会去食堂学习。
 
+As for the third speaker, she agreed with considering living outside.
 至于第三位发言者，她同意考虑住在校外。
-
+What's more, she shared the opinion about preferring more independence.
 此外，她还表达了自己更倾向于独立生活的观点。
-
+Next, she had faith in finding an affordable place.
 接下来，她相信自己能找到价格合适的住处。
-
+After that, she claimed that she can experience more of the city.
 之后，她表示这样可以更好地体验这座城市。
-
+Besides, she highlighted the point of making a list of pros and cons.
 此外，她还强调了列出优缺点清单的重要性。
-
+Finally, she accepted the solution of flipping a coin.
 最后，她接受了抛硬币的方案。
-
+So, she came to an conclusion that they should consider the cost, travel time, studies, and distraction.
 因此，她得出结论，他们应该综合考虑成本、通勤时间、学习以及可能受到的干扰等因素。
-
+Overall, they focused on the main topic of housing plan for the upcoming academic year.
 总而言之，他们围绕着即将到来的学年的住房计划展开了讨论。
 
 48.A Tutorial Discussion
