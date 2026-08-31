@@ -80,6 +80,7 @@ We can turn to the tutor for help.
 3.Campus Accommodation 学校宿舍/校外住宿
 The discussion involves three people talking about accommodation options next academic year.
 这场讨论涉及三位同学，他们正在探讨下学年的住宿选择。
+
 The speaker one first mentioned that she likes dormitory living.
 第一位发言者首先提到她喜欢宿舍生活。
 And then, the speaker has explained that she can learn cooking from other students, share food, and make friend.
@@ -127,6 +128,7 @@ The last speaker also said something about low cost and travel time.
 4.Oral Presentation 口头报告
 Narration: Three students are discussing preparing for an oral presentation at university.
 旁白：三位学生正在讨论如何准备大学的口头报告。
+
 Speaker1: Okay, so we're all set for our presentation next week, right? 
 发言者1：好的，我们下周的报告都准备好了，对吧？
 I'm feeling a bit overwhelmed, to be honest. 
@@ -231,6 +233,7 @@ Let’s try to meet up again before the presentation to go over everything one l
 5.Improve presentation skills 提高表达能力
 The discussion involves three people talking about how to improve presentation skills.
 讨论涉及三个人，主题是如何提升演讲技巧。
+
 The speaker one first mentioned he feels overwhelmed about the ten-minute presentation next week.
 发言者一首先提到，他感到下周的十分钟演讲压力很大。
 And then, the speaker has explained that he finished the presentation but wants to improve.
@@ -282,6 +285,7 @@ The last speaker also said something about rescue phrases and clear message.
 6.Anniversary Party (How to celebrate the Department's 10th Anniversary party)
 The discussion involves three people talking about how to celebrate the mathematics department's ten-year anniversary.
 这场讨论涉及三位人士，他们正在探讨如何庆祝数学系成立十周年。
+
 The speaker one first mentioned the Greek restaurant downtown is a good option.
 第一位发言者首先提到市中心的希腊餐厅是个不错的选择。
 And then, the speaker has explained that the Greek restaurant is recommended and has enjoyable atmosphere.
@@ -334,6 +338,7 @@ The last speaker also said something about inviting staff and alumni and final p
 7.Phone in Class(Use of mobile phones in lectures)
 The discussion involves three people talking about whether students are allowed to use smartphones in class.
 这场讨论涉及三位发言者，他们探讨学生是否应该在课堂上使用智能手机。
+
 The speaker one first mentioned smartphones in class should be prohibited.
 第一位发言者首先提出应该禁止学生在课堂上使用智能手机。
 And then, the speaker has explained that students are disturbed by texts from friends.
@@ -383,14 +388,16 @@ The last speaker also said something about balance and fair rules.
 8.Time Management
 Narration: Three students are discussing time management at university.
 旁白：三个学生正在大学里讨论时间管理。
+
 Speaker1: There are a lot of challenges for us at university. 
 提问者1：我们在大学里面临很多挑战。
 It's not just doing well in the courses; 
 不仅仅是在课程上表现好；
-we have to be able to balance the academicl work with a personal life and also find time to join some extracurricular activities. 
+we have to be able to balance the academic work with a personal life and also find time to join some extracurricular activities. 
 我们必须能够平衡学术工作和个人生活，也找时间参加一些课外活动。
 I mean I don't want my years at university to be only studying and writing papers.
 我的意思是，我不希望我的大学时光只是学习和写论文。
+
 Speaker2: I know. 
 提问者2：我知道。
 There's just so much to do. 
@@ -399,6 +406,7 @@ I have to get to the lectures, do all the readings and assignments, complete sev
 我必须去上课，做所有的阅读和作业，完成几个项目，准备考试。
 I hardly have time to breathe.
 我几乎没有时间呼吸。
+
 Speaker3: You know, it's true. 
 提问者3：你知道，这是真的。
 My biggest challenge since I started university is managing my time. 
@@ -407,6 +415,7 @@ I can't seem to get myself organized and Il always feel stressed and exhausted.
 我似乎不能让自己有条理，我总是感到压力和疲惫。
 And the worst thing is that I just seem to get organized and the term ends and I have to get used to a whole new schedule.
 最糟糕的是，当学期结束的时候，我似乎要开始有条理了，我不得不适应一个全新的时间表。
+
 Speaker1: I agree. 
 提问者1：我同意。
 That is really difficult. 
@@ -417,13 +426,15 @@ It's so difficult to create a consistent routine so I can allocate my time effec
 要想有效地分配时间，制定一个一致的日程是很困难的。
 And everything seems to take longer than I thought.
 一切都比我想象的要长。
+
 Speaker2: The worst part is that I often procrastinate and put off tasks until the last minute. 
 演讲者2：最糟糕的是，我经常拖延，把任务推迟到最后一刻。
 I think to myself, oh I have lots of time for that, I have a whole week before it's due. 
 我对自己说，哦，我有很多时间，离截止日期还有整整一个星期。
 Then all of a sudden, the due date is in two days and I'm rushed and don't do a very good job.
 然后突然间，预产期就在两天了，我很着急，做得不太好。
-lSpeaker3: That's happened to me so many times. 
+
+Speaker3: That's happened to me so many times. 
 提问者3：这种事在我身上发生过很多次。
 The deadlines are weeks or months away and I have trouble with long-term planning. 
 截止日期还有几周或几个月，我很难制定长期计划。
@@ -437,10 +448,12 @@ But that's impossible when all the projects and essays are due at the same time 
 但这是不可能的，因为所有的项目和论文都要在学期末同时交。
 You really have to be able to multi-task at university, you have to be able to jump from one topic to another and one type of assignment tol another. 
 在大学里，你必须能够同时处理多项任务，你必须能够从一个主题跳到另一个主题，从一种类型的作业跳到另一种类型的作业。
+
 Speaker1: All these tight deadlines, diverse course requirements and multi-tasking pressures make university time management far more difficult than I expected. 
 演讲者1：所有这些紧迫的截止日期，多样的课程要求和多重任务的压力使得大学时间管理比我想象的要困难得多。
 It's really hard to stay stable and efficient when so many different tasks pile up at the same time.
 当这么多不同的任务同时堆积在一起时，很难保持稳定和高效。
+
 Speaker2: If I could manage my time better, I probably wouldn't be so stressed and exhausted. 
 演讲者2：如果我能更好地管理我的时间，我可能不会这么紧张和疲惫。
 I've never had to discipline myself like this before.
@@ -451,9 +464,10 @@ If you just did what they said, you were fine.
 如果你照他们说的做，你就没事了。
 But in university, it's up to you to prioritize what tasks are the most important and should be done first. 
 但在大学里，什么任务是最重要的，应该首先完成，这取决于你自己。
-It seems I spend too much time on less important tasks because I like theml or they are easier, then I don't have time for the more important ones.
+It seems I spend too much time on less important tasks because I like them or they are easier, then I don't have time for the more important ones.
 似乎我花了太多时间在不太重要的任务上，因为我喜欢它们或者它们更容易，然后我没有时间做更重要的事情。
-Speaker3: I guess not managing your time effectively means that you end up working more than you really need to and you feel so tired and sortl of burnt out. 
+
+Speaker3: I guess not managing your time effectively means that you end up working more than you really need to and you feel so tired and sort of burnt out. 
 演讲者3：我想没有有效地管理你的时间意味着你最终会比你真正需要的工作更多，你会感到很累，有点筋疲力尽。
 I think the university offers a seminar on time management. 
 我想这所大学开设了一个关于时间管理的研讨会。
@@ -463,6 +477,7 @@ Maybe we should all go.
 9.Different Ways to University (Commuting to the university)通勤到大学
 The discussion involves three people talking about the best ways to get to university.
 这个讨论涉及三个人谈论进入大学的最佳途径。
+
 The speaker one first mentioned he hates taking the train to university.
 第一个发言者首先提到他讨厌乘火车去大学。
 And then, the speaker has explained that he was late three times even taking the first train.
@@ -475,6 +490,7 @@ So basically, according to her, being late to university is a major concern.
 所以基本上，根据她的说法，上学迟到是一个主要问题。
 aIn the end, the speaker said he will start with the first bus and buy a second-hand bicycle if it doesn't work.
 最后，演讲者说他将从第一辆公共汽车开始，如果它不起作用，他将买一辆二手自行车。
+
 The second speaker is mainly about commuting by bus.
 第二个说话者主要是关于乘公交车上下班的。
 Firstly, the speaker emphasized that he takes the first bus and gets to campus on time.
@@ -487,6 +503,7 @@ So, he referred to even if the bus is slow, there is time to grab a coffee.
 所以，他指的是即使公共汽车很慢，也有时间喝杯咖啡。
 As a result, he finally concluded that she might run into Speaker1 on the 6 a.m. bus.
 结果，他最后得出结论，她可能会在早上6点的公共汽车上遇到Speaker1。
+
 As for the third speaker, she agreed with buses being better than cars.
 至于第三位发言者，她同意公共汽车比汽车好。
 What's more, she shared the opinion about parking on campus being a nightmare and gas costs adding up.
@@ -514,6 +531,7 @@ The last speaker also said something about being healthy and using public transp
 10.New Lecturer (patient lecturer)
 Narration: three students are talking about a new lecturer.
 旁白：三个学生正在谈论一位新老师。
+
 Speaker1: What do you guys think about the new lecturer? 
 提问者1：你们觉得这位新讲师怎么样？
 We've had around four classes with him already, and honestly, I really enjoy his teaching style. 
@@ -524,6 +542,7 @@ In the last class I was afraid to speak on class because I might embarrass mysel
 在最后一节课上，我害怕在课堂上发言，因为我可能会让自己难堪。
 However, surprisingly, the new lecturer was very nice and gentle, and he did not criticize me at all.
 然而，令人惊讶的是，新讲师非常友好和温和，他没有批评我。
+
 Speaker2: Yeah, I feel the same way. 
 提问者2：是的，我也有同感。
 The lecturer is very professional and genuine. 
@@ -534,6 +553,7 @@ Even when facing these challenging questions, the lecturer never got annoyed or 
 即使面对这些具有挑战性的问题，讲师也从不生气或不耐烦。
 Instead, he listened carefully and patiently provided clear, detailed and logical answers to every single question from students.
 相反，他认真倾听，耐心地为学生提出的每一个问题提供清晰，详细和合乎逻辑的答案。
+
 Speaker1: I have noticed that he even praises students who raise creative or challenging questions. 
 提问者1：我注意到他甚至表扬那些提出创造性或挑战性问题的学生。
 He never feels offended or defensive even when students push back on his original ideas or hold different opinions. 
@@ -542,6 +562,7 @@ His teaching atmosphere is very inclusive and supportive.
 他的教学氛围非常包容和支持。
 No one will judge you whether you perform well or make mistakes in his class.
 没有人会评判你在他的课上表现好还是犯了错误。
+
 Speaker2: Exactly, I couldn't agree more. 
 提问者2：没错，我完全同意。
 Besides, his academic background is absolutely outstanding and impressive. 
@@ -550,6 +571,7 @@ Whenever students raise questions in class, he always responds quickly and gives
 每当学生在课堂上提出问题时，他总是反应迅速，给出准确清晰的答案。
 Even when students continuously push back or challenge his viewpoints, he always replies in a very calm, patient and professional manner, which is really admirable.
 即使学生不断地反驳或挑战他的观点，他也总是以一种非常冷静、耐心和专业的态度来回答，这真的令人钦佩。
+
 Speaker3: I really like attending his lectures very much, through which I can constantly grow and improve myself both academically and mentally. 
 Speaker3：我非常喜欢听他的讲座，通过他的讲座，我可以在学术和精神上不断成长和提高自己。
 To be honest, I used to feel really intimidated and stressed in academic lectures. 
@@ -562,21 +584,24 @@ I was really afraid of making mistakes and losing face in front of other classma
 我真的很害怕犯错误，在其他同学面前丢脸。
 Do you guys think I should try my best to become more confident in his future classes? 
 你们觉得我应该在他以后的课上尽我最大的努力变得更自信吗？
+
 Speaker1: Honestly, his class is the perfect place to do that. 
 提问者1：老实说，他的课是做这件事的最佳场所。
 You can both succeed and fail without anyone judging you. 
 你可以成功，也可以失败，而不会有人评判你。
-We should all try to keepl a growth mindset—that's the only way to really benefit.
+We should all try to keep a growth mindset—that's the only way to really benefit.
 我们都应该努力保持一种成长的心态——这是真正受益的唯一途径。
+
 Speaker2: True. 
 Speaker2:没错。
 In fact, in his classes I feel like I'm learning not only academically, but also gaining a lot in terms of personal growth and attitude.
 事实上，在他的课堂上，我觉得我不仅在学术上有所收获，而且在个人成长和态度上也收获了很多。
+
 Speaker3: I totally believe that and I'm deeply encouraged. 
 提问者3：我完全相信这一点，而且深受鼓舞。
 From now on, I will try my best to participate more in classroom interaction. 
 从现在开始，我将尽我最大的努力更多地参与课堂互动。
-I plan tostep out of my comfort zone gradually, speak up bravely and actively improve myself in his future classes.
+I plan to step out of my comfort zone gradually, speak up bravely and actively improve myself in his future classes.
 我打算在以后的课堂上逐步走出自己的舒适区，勇敢地说出来，积极地提高自己。
 
 零基础参考答案
@@ -591,6 +616,7 @@ The last speaker also said something about feeling shy and gaining confidence.
 11.Free Online Courses
 The discussion involves three people talking about free online courses.
 这场讨论由三位发言者共同进行，主题是免费在线课程。
+
 The speaker one first mentioned he has been looking into the growth of free online courses.
 第一位发言者首先提到，他一直在关注免费在线课程的发展。
 And then, the speaker has explained that many people cannot attend traditional school, so these courses can be a lifeline.
@@ -712,6 +738,7 @@ Speaker3: Exactly. The most important thing is that we are clear about our own g
 13.Online Course
 The discussion involves three people talking about pros and cons of online classes.
 讨论涉及三个人，他们探讨了在线课程的优缺点。
+
 The speaker one first mentioned she can't stand online classes.
 第一位发言者首先提到她无法忍受在线课程。
 And then, the speaker has explained that the Wi-Fi cuts out randomly; getting distracted by phone.
@@ -729,7 +756,7 @@ The second speaker is mainly about preferring online learning.
 第二位发言者主要表达了他对在线学习的偏好。
 Firstly, the speaker emphasized that no 8 am bus rush, no cafeteria costs, and he can attend classes in pajamas.
 首先，他强调不用早上8点挤公交车，不用支付食堂费用，而且可以穿着睡衣上课。
-He also mentioned that he can rewatch difficult parts anytime.
+He also mentioned that he can review difficult parts anytime.
 他还提到，他可以随时重看难懂的部分。
 Lastly, the speaker believed that he can participate more online.
 最后，他认为他可以更积极地参与在线课堂。
@@ -770,6 +797,7 @@ lack financial consequences.
 14.Group Discussion
 Narration: Three speakers are discussing the pros and cons of group discussions.
 旁白：三位发言者正在讨论小组讨论的利与弊。
+
 Speaker1: Hey, guys. I don't know if you think group discussions are helpful. 
 For me, I don't really enjoy group discussions—'m shy and always get nervous when talking in front of classmates. 
 Even when I have good ideas in my head, I struggle to speak up openly in front of the whole group.
@@ -837,10 +865,12 @@ The university provides many facilities to support freshmen,l like the library c
 学校为新生提供了很多设施，比如图书馆咖啡厅....
 But I still want to move to the town.
 但我还是想搬到镇上去。
+
 Speaker2: The school dormitories are extremely noisy, and many students like to throw parties, talking and laughing next door, which keeps me from sleeping. 
 发言人2：学校的宿舍非常吵，很多学生喜欢在隔壁开派对，有说有笑，这让我睡不着觉。
 So I decided to live with my parents instead.
 所以我决定和父母住在一起。
+
 Speaker3: One reason I don't like student dormitories is that I find the kitchens very dirty and messy. 
 主讲人3：我不喜欢学生宿舍的一个原因是我发现厨房又脏又乱。
 However, I can't live with my parentsI because their apartment is too small, and I have to share a room with my brother, which means I have no privacy.
@@ -849,30 +879,34 @@ However, I can't live with my parentsI because their apartment is too small, and
 16.Joining or Starting a Club
 Narration: three students are discussing which student club to join next semester.
 旁白：三个学生正在讨论下学期参加哪个学生社团。
+
 Speaker1: Hey, l've been thinking about joining a club next semester, but l'm not really sure which one to choose. 
 主讲人1：嘿，我一直在考虑下学期参加一个社团，但是我不确定该选哪个。
 My coursework is fairly heavy, so I don't want to waste my spare time on something meaningless. 
 我的课业相当繁重，所以我不想把业余时间浪费在无意义的事情上。
 Do you guys have any suggestions on what I should join? 
 你们对我应该加入什么有什么建议吗？
-I want somethingl interesting, but also something that's actually worth my time.
+I want something interesting, but also something that's actually worth my time.
 我想要一些有趣的，但也值得我花时间的。
+
 Speaker2: Honestly, I think it really depends on your interests. 
 说话者2：老实说，我认为这取决于你的兴趣。
-You should choose something you genuinely enjoy, otherwise it's hard to stayl committed especially when schoolwork gets busy. 
+You should choose something you genuinely enjoy, otherwise it's hard to stay committed especially when schoolwork gets busy. 
 你应该选择你真正喜欢的东西，否则你很难坚持下去，尤其是当功课很忙的时候。
 And you know, if you can't find a club that fits you, you could even start your own club. 
 你知道，如果你找不到一个适合你的俱乐部，你甚至可以自己开一个俱乐部。
 That way, you can shape it exactly the way you want.
 这样，你就可以把它塑造成你想要的样子。
+
 Speaker3: Actually, I joined the debate club last year, and it's been a great experience. 
 演讲者3：事实上，我去年加入了辩论俱乐部，那是一次很棒的经历。
-But I have to say, running a club—or even being activelyl involved—does require quite a lot of organization. 
+But I have to say, running a club—or even being actively involved—does require quite a lot of organization. 
 但我不得不说，经营一个俱乐部——甚至是积极参与——确实需要相当多的组织。
-There are usually different roles, like a president, a vice president, event coordinators, andl people responsible for promotion and logistics. 
+There are usually different roles, like a president, a vice president, event coordinators, and people responsible for promotion and logistics. 
 通常会有不同的角色，比如总裁，副总裁，活动协调员，以及负责推广和后勤的人。
 Everyone has their own responsibilities to keep things running smoothly.
 每个人都有自己的责任来保持事情的顺利进行。
+
 Speaker1: Start my own club? 
 开办我自己的俱乐部？
 That sounds a bit challenging. 
@@ -881,36 +915,41 @@ I've never really thought about that before.
 我以前从没想过这个问题。
 I already have plenty of school assignments to deal with, so taking charge of a whole new club would probably burn me out.
 我已经有很多学校作业要处理，所以负责一个全新的俱乐部可能会让我筋疲力尽。
+
 Speaker2: Exactly. 
 Speaker2:没错。
 That's why starting your own club can be rewarding, but it also comes with a lot of responsibility. 
 这就是为什么创办你自己的扶轮社是有益的，但它也伴随着许多责任。
-You need people to managel different aspects, and it takes time to build everything from scratch. 
+You need people to manage different aspects, and it takes time to build everything from scratch. 
 您需要人来管理不同的方面，并且从头开始构建一切都需要时间。
-Recruiting members and preparing activities can take up lots of your freel hours.
+Recruiting members and preparing activities can take up lots of your free hours.
 招募成员和准备活动会占用你大量的空闲时间。
+
 Speaker3: Yeah, in the debate club, we also have regular training sessions, internal competitions, and even external tournaments. 
 演讲者3：是的，在辩论俱乐部，我们也有定期的训练课程，内部比赛，甚至外部比赛。
-Some peoplel focus on preparing arguments, while others help organize events or manage the team. 
+Some people focus on preparing arguments, while others help organize events or manage the team. 
 有些人专注于准备论点，而其他人则帮助组织活动或管理团队。
 It's quite structured, and that's why it works so well. 
 它很有条理，这就是为什么它运行得这么好。
-I canl tell how much effort goes into keeping all these activities going.
+I can tell how much effort goes into keeping all these activities going.
 我可以告诉你，为了让所有这些活动继续下去，我付出了多少努力。
+
 Speaker1: Hmm, hearing all that, I think starting my own club might be too much for me. 
 发言者1：嗯，听了这么多，我想创办我自己的俱乐部对我来说可能太困难了。
 I'm not really prepared to take on that kind of responsibility. 
 我还没准备好承担那种责任。
 I guess I'd rather just join an existing club instead of creating one from scratch. 
 我想我宁愿加入一个现有的俱乐部，而不是从头开始创建一个。
-I hope I can find one that balances fun andl personal growth.
+I hope I can find one that balances fun and personal growth.
 我希望我能找到一份平衡乐趣和个人成长的工作。
+
 Speaker2: That's totally fine. 
 提问者2：完全可以。
-Joining an established club is definitely easier, and you can still gain a lot from it without the pressure of managingl everything. 
+Joining an established club is definitely easier, and you can still gain a lot from it without the pressure of managing everything. 
 加入一个成熟的俱乐部肯定更容易，你仍然可以从中获得很多，而没有管理一切的压力。
 You can make new friends and pick up practical skills at the same time.
 你可以结交新朋友，同时学习实用技能。
+
 Speaker3: Yeah, and you can always try a few different clubs at the beginning of the semester. 
 演讲者3：是的，你可以在学期开始的时候尝试一些不同的俱乐部。
 Most clubs have trial sessions, so you can seel what suits you best before committing. 
@@ -918,10 +957,10 @@ Most clubs have trial sessions, so you can seel what suits you best before commi
 That gives you a chance to feel the atmosphere without making long-term promises.
 这让你有机会感受气氛，而不用做出长期承诺。
 
-
 17.AI Proofreading
 Narration: three students are discussing using artificial intelligence as a proofreading tool.
 旁白：三个学生正在讨论使用人工智能作为校对工具。
+
 Speaker1: Hey guys, have you ever thought about using AI for proofreading? 
 I just got feedback on my essay from my tutor, and she said I need to proofread it. 
 AI can check grammar for me and provide me some ideas, but I don't know if I should use AI tools because I don't want to be suspected of plagiarism.
@@ -1071,6 +1110,7 @@ Thanks for the advice!
 19.University Bookshop
 The discussion involves three people talking about the university bookshop.
 这段讨论涉及三个人，他们都在谈论大学书店。
+
 The first speaker firstly mentioned that the university bookshop had closed down and he was heartbroken.
 第一位发言者首先提到大学书店关门了，他为此感到非常难过。
 And then, the speaker explained that he used to stop by the bookshop regularly after morning classes.
@@ -1109,6 +1149,7 @@ Overall, they focused on the main topic of the closure of the university booksho
 20.Management of Assignment
 The discussion involves three people talking about managing written assignments.
 讨论涉及三位参与者，他们都在探讨如何管理书面作业。
+
 The speaker one first mentioned he finds it hard to organize assignments.
 第一位发言者首先提到，他觉得组织作业很困难。
 And then, the speaker has explained that he feels pressure and cannot stick to his writing goal.
@@ -1121,6 +1162,7 @@ So basically, according to him, lacking external structure or immediate accounta
 因此，他认为，缺乏外部指导或及时的监督是主要问题。
 In the end, the speaker said the most important thing is to have a work buddy.
 最后，这位发言者表示，最重要的是找到一个写作伙伴。
+
 The second speaker is mainly about ways to manage written assignments.
 第二位发言者主要讨论了如何管理书面作业。
 Firstly, the speaker emphasized that breaking lengthy assignments into smaller ones helped her.
@@ -1133,6 +1175,7 @@ In addition, she suggested they do the next assignment together, plan together, 
 此外，她建议他们一起完成下一个作业，共同制定计划，并每周进行进度检查。
 As a result, she finally concluded that having a work buddy adds responsibility and support.
 最终，她得出结论：拥有一个学习伙伴可以增加责任感和支持。
+
 As for the third speaker, he agreed with breaking assignments into smaller ones.
 第三位发言者同意将作业分解成更小的部分。
 What's more, he shared the opinion about allocating time to different assignments by urgency or difficulty.
@@ -1150,77 +1193,43 @@ Overall, they focused on the main topic of managing written assignments.
 
 21. Essay Writing
 The discussion involves three people talking about how to write essays.
-
-
-The speaker one first mentioned starting by jotting down any ideas.
-
-And then, the speaker has explained that the key is to get thoughts down on paper.
-
-Followed by that, in the discussion, they mentioned proposing a small group session for her.
-
-From her, we know that she will help polish, brainstorm, and shape points.
-
-
-The second speaker is mainly about usually writing in a café.
-
-Firstly, the speaker emphasized that we don’t put too much stress.
-
-He also mentioned that he uses paper and a pen to jot down notes.
-
-Lastly, the speaker believed letting ideas flow naturally.
-
-In addition, he suggested starting by writing the main body of the article
-
-As a result, he finally concluded that it is the same approach as writing a summary.
-
-
-As for the third speaker, she agreed with feeling like this essay is too hard.
-
-What's more, she shared the opinion about having no idea how to start.
-
-Next, she had faith in being terrified of getting a terrible score.
-
-After that, she claimed that she has zero clue to start the intro.
-
-Besides, she highlighted the point of feeling less stressed.
-
-Finally, she accepted the solution of wanting to get more specific, detailed tips.
-
-Overall, they focused on the main topic of how to write essays.
 这场讨论涉及三个人，他们正在探讨如何写文章。
 
+The speaker one first mentioned starting by jotting down any ideas.
 第一位发言者首先提到，可以先把所有想法都记下来。
-
+And then, the speaker has explained that the key is to get thoughts down on paper.
 然后，这位发言者解释说，关键在于把想法写下来。
-
+Followed by that, in the discussion, they mentioned proposing a small group session for her.
 接着，在讨论中，他们提到建议为她安排一个小组讨论。
-
+From her, we know that she will help polish, brainstorm, and shape points.
 从她的发言中我们可以看出，小组讨论可以帮助她润色文章、集思广益并理清思路。
 
+The second speaker is mainly about usually writing in a café.
 第二位发言者主要谈到了在咖啡馆写作的习惯。
-
+Firstly, the speaker emphasized that we don’t put too much stress.
 首先，这位发言者强调不要给自己太大压力。
-
+He also mentioned that he uses paper and a pen to jot down notes.
 他还提到，他会用纸笔记笔记。
-
+Lastly, the speaker believed letting ideas flow naturally.
 最后，这位发言者认为应该让思路自然流动。
-
+In addition, he suggested starting by writing the main body of the article
 此外，他还建议先写文章的主体部分。
-
+As a result, he finally concluded that it is the same approach as writing a summary.
 最终，他总结说，这和写摘要的方法是一样的。
 
+As for the third speaker, she agreed with feeling like this essay is too hard.
 至于第三位发言者，她也觉得这篇文章太难了。
-
+What's more, she shared the opinion about having no idea how to start.
 此外，她还表示自己不知道该如何下手。
-
+Next, she had faith in being terrified of getting a terrible score.
 接下来，她坦言自己非常害怕考得很差。
-
+After that, she claimed that she has zero clue to start the intro.
 之后，她声称自己完全不知道该如何写引言。
-
+Besides, she highlighted the point of feeling less stressed.
 此外，她还强调了减轻压力的重要性。
-
+Finally, she accepted the solution of wanting to get more specific, detailed tips.
 最后，她接受了希望获得更具体、更详细写作技巧的建议。
-
+Overall, they focused on the main topic of how to write essays.
 总而言之，他们主要讨论了如何写论文这个主题。
 
 22.New Timetable
@@ -1240,7 +1249,7 @@ Speaker2: I totally agree with you. Morning classes are such a struggle for me. 
 early to wash up, have breakfast and walk to the teaching building. I basically rely on coffee to stay awake for my whole morning study.
 Speaker3: I'm really lucky in comparison. Having all my classes in the afternoon allows me to sleep longer in the morning and prepare well for my
 study. I can finish my revision, preview my courses and organize my notes calmly before heading to class.
-Speakerl: I wish I could adjust my timetable a little bit. A fully packed schedule with non-stop morning classes makes my semester feel extremely
+Speaker1: I wish I could adjust my timetable a little bit. A fully packed schedule with non-stop morning classes makes my semester feel extremely
 busy and stressful. I barely have time to relax or do extra reading in the morning.
 Speaker2: Same here. I hope I can gradually get used to this early class routine later. Drinking coffee every morning is not a long-term solution,
 but for now, it's the only way for me to keep up with my study progress.
