@@ -237,32 +237,83 @@ It is quite clear that facial expressions are similar across different cultures.
 facial expressions                  面部表情
 appear to                           似乎，好像
 cultures                            文化
-it is quite clear that              很显然                     
+it is quite clear that              很显然
+
+45. #1156
+Chemical reactions occur when substances combine or change (form).
 chemical reactions                  化学反应                     
-substances combine or change form   物质结合或改变形态             
+substances combine or change form   物质结合或改变形态    
+
+46. #686
+A library plays an important role in student's lives.
+Libraries play an important part in student's lives.
+
+47. #1026
+Football is played [throughout all years/ across the year] at the university.
 throughout all years                贯穿所有年份
 across the year                     贯穿全年
-at the university                   at the university
+at the university                   on the campus
+
+48. #1022
+Mathematics provides a foundation for understanding and analyzing data.
 foundation                          n. 地基，基础
+
+49. #3278
+It is important to plan your study time carefully.
 carefully                           adv. 小心地，仔细地
+
+50. #580
+You can use your laptop(s) [in/ during] the lecture.
 in the lecture                      在讲座中
+
+51. #495
+Students must wear protective clothing that is provided in the medical laboratory.
+Students must wear protective clothing in the medical laboratory.
+Students must wear protective clothing provided in the medical laboratory.
 medical laboratory                  医学实验室
+
+52. #933
+The course [includes/ involves] a combination of pure and applied mathematics.
 a combination of                    一种组合
 pure and applied mathematics        纯数学与应用数学
 involves                            v. 包含；牵涉
+
+53. #738
+The students shop sells a range of stationery.
 a range of stationery               一系列文具
-stages                              n. 阶段                     #131929
+
+54. #375
+The dance department stages elaborated performances each semester.
+stages                              n. 阶段      
                                     v. 计划；表演
 elaborate                           adj. 复杂的，详尽的；精心制作的
                                     v. 详细说明
 performances                        n. 表演，演出
 each semester                       每个学期  
+
+55. #76
+Building trust is not something that can be achieved overnight.
 something that can be achieved overnight    一些可以在一夜之间实现的事情
+
+56. #507
+There [is/ was] a pharmacy on campus near the bookstore.
 pharmacy on campus                  校园药房   
+
+57. #737
+Banks charge interest on the money they [lend/ lent] to customers.
 they lend to customers              他们贷款给客户
+
+58. #303
+Students are encouraged to think carefully about their accommodation needs.
 be encouraged to                    被鼓励
 dormitory                           宿舍
-accommodation needs                 住宿需求            
+accommodation needs                 住宿需求      
+
+59. #1238
+He wrote poetry and plays as well as scientific papers.
+
+60. #1059
+Philosophy uses logic and reason(s) to analyze human [experience/ behaviors].
 facility                            设施 
 scientific papers                   科学论文
 poetry                              诗歌
