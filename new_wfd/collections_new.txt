@@ -311,56 +311,123 @@ accommodation needs                 住宿需求
 
 59. #1238
 He wrote poetry and plays as well as scientific papers.
+scientific papers                   科学论文
+poetry                              诗歌
 
 60. #1059
 Philosophy uses logic and reason(s) to analyze human [experience/ behaviors].
-facility                            设施 
-scientific papers                   科学论文
-poetry                              诗歌
 philosophy                          n. 哲学；哲学体系  
 analyze human behaviors             分析人类行为
-an effective business manager       高效的业务经理                  #131580
-open to new ideas                   愿意接受新思想                  #131580
+
+61. #1065
+An effective business manager is always open to new ideas.
+an effective business manager       高效的业务经理
+open to new ideas                   愿意接受新思想
+
+62. #999
+Photography can be very useful [to/ in] geographical research.
 geographical research               地理研究
+
+63. #416
+The lecture [tomorrow/ today] will discuss the educational policy of the United States.
+
+64. #845
+We (will) have a lecture in the morning on [Thursday(s)/ Wednesday(s)].
+
+65. #624
+Our courses help (to) [improve/ develop] critical thinking and independent learning skills.
 critical thinking                   批判性思维
 independent learning skills         自主学习技能
+
+66. #218
+One of the election promises is to decrease (the) income tax(es).
 election promises                   选举承诺
+
+67. #598
+Check the website if you are looking for discounted textbooks.
+
+68. #105
+The economic status of the early Roman Republic will be examined.
+The [academic/ economic] strength of (the) early Roman Republic will be examined.
 the economic status                 经济状况
 will be examined                    将会被考查
-the academic/economic strength of   学术/经济实力
-attending a job interview           参加工作面试                    #1311169
+the academic/ economic strength of  学术/经济实力
+
+69. #1429
+When attending a job interview, punctuality is the key.
+When you attend a job interview, punctuality is the key.
+attending a job interview           参加工作面试                   
 punctuality                         n. 准时性
 punctuality is the key              守时是关键  
-inputs,processes,outputs,feedback   注意单复数                      #131012     
+
+70. #1359
+All industries are a system of inputs, processes, outputs and feedback (manufacturing).
+All industries consist of systems of inputs, processes, outputs and feedback. 
+inputs,processes,outputs,feedback   注意单复数                         
 manufacturing                       n. 制造，制造业
                                     v. （用机器）大量生产，成批制造 
 all industries consist of           所有行业都包括
+
+71. #638 #1438
+Students are advised that the lecture today has been canceled.
+The student advisor was aware that the lecture today has been canceled.
+Students are advised that all the lecture today have been canceled.
 advised                             adj. 深思熟虑的
                                     v. 通知，告知；
 students are advised that           学生们被告知
 the student advisor was aware that  学生顾问被告知
+
+72. #637
+Strangely, people are simultaneously impressed by and skeptical [about/ of] statistics.
 strangely,                          奇怪的是
 impressed by                        对……印象深刻
 skeptical about statistics          对统计数据持怀疑态度
+
+73. #2463
+Optional tutorials are offered in the final week of [the/ a] term.
 tutorial                            adj. 导师的，辅导的
                                     n. 导师辅导课；学习指南，教程
 optional tutorials                  选修教程
+
+74. #885
+(The) New media have transcended(transformed) traditional national boundaries.
 traditional national boundaries     传统的国界
 transcended                         v. 超出，超越；胜过
-have greatly developed recently     最近有很大的发展                #131335
+
+75. #943
+Farming methods across the world have greatly developed recently.
+have greatly developed recently     最近有很大的发展
 farming methods                     耕作方法
+
+76. #297
+Statistical results should be expressed in different ways depending on the circumstances.
 statistical results                 统计结果
 should be expressed in different ways   应该用不同的方式表达
 depending on circumstances          根据情况而定
+
+77. #1411
+Food that contains antibiotics [provides/ supplies] little or no nutritional value.
+Food containing [ample/ overabundant] calories provides little or no nutritional value.
 antibiotics                         抗生素
 nutritional value                   营养价值
 ample                               adj. 充足的，充裕的
 ample calories                      充足的热量
+
+78. #698
+Despite their differences, all forms of life share [certain/ the same] characteristics.
 despite their differences           尽管他们有所不同
 share certain characteristics       具有某些共同特征
+
+79. #707
+Human beings compete with other [living things/ species] for resources and space. 
 compete with                        与……竞争
+
+80. #646
+The Industrial Revolution in Europe was driven by steam technology.
 Industrial Revolution               工业革命
 steam technology                    蒸汽技术
+
+81. #760
 prize for the best student presentation 最佳学生演讲奖
 a unique approach                   独特的方法
 the kind of assessment              评估的类型
@@ -494,3 +561,4 @@ a compound of completely separate parts 混合物：由完全分离的部分组�
 
 
 a feature of                        ……的一个特征/特点  
+facility                            设施 
