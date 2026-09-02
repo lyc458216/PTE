@@ -528,34 +528,107 @@ have now been eradicated            现在已经被根除
 eradicate                           v. 根除，消灭
 
 101. #654
-The studies showed the Hong kong(HongKong) people are the most active in Asia.
+The studies showed the Hong kong(Hongkong) people are the most active in Asia.
 the studies showed                  研究表明
+
+102. #49
+Our view is that (all the) educational reforms have been inadequately implemented.
 reforms have been inadequately implemented  改革没有得到充分实施
 inadequately                        adv. 不适当地；不够好地
 implement                           v. 执行，贯彻；为……提供工具
                                     n. 工具，器具；
+
+103. #1986 #25
+A good academic paper should present a clear argument.
+A good academic essay should have a clear argument.
+A good scientific paper should have clear arguments.
+
+104. #951
+Honey can be used as food and (a) health product.
+Honey can be used as food and a valuable health product.
+
+105. #1105
+Many university lectures can now be viewed on the internet.
 can now be viewed on the internet   现在可以在网上观看了
+
+106. #3282
+Computers used to be larger than they are now.
 used to be large than they are now  过去比现在大
+
+107. #835
+We can't consider [any/ an] increase in our price at this stage.
+
+108. #1094
+The use of mobile phones is not permitted in the library.
 the use of ... is not permitted     使用……是不允许的
+
+109. #3285
+The population has risen sharply over the past twenty years.
+The population will shrink drastically over the next twenty years.
+Population has a sharp rise in the recent twenty years.
+The population has risen sharply [during/ over] the recent twenty years.
+Population has sharply risen in the twenty years.
+The population 
+
+110. #293
+Some people believe that education should be free to everyone.
+Some people believe that education should be free [of/ for] all.
 be available on                     在…可用
-faculty board                       教务委员会
-internal website                    内部网站
+
+111. #620
+Mature students usually adapt to university life extremely well.
 mature student                      成熟学生：指在大学或学院开始学习的年龄比通常晚的学生，通常是指年龄在25岁以上的学生。
 extremely well                      极好地
 extremely                           adv. 极度，非常
+
+112. #650
+The office hours will change next term.
+The office hours will be changed from next term.
+
+113. #904
+Academic libraries across the world are steadily incorporating social media.
 steadily incorporating social media 逐渐整合社交媒体
 steadily                            adv. 逐渐地，稳步地；不变地，稳定地
 incorporate                         v. 包含，合并；组成公司
                                     adj. 合成一体的，合并的；具体化的
+
+114. #1422
+We are looking for new ways to engage learners.
+We are looking for a new way of introducing learners.
+We are looking at new ways to engage learners.
+
+115. #1010
+Request for late applications will not be accepted under any circumstances.
+Requests for late submissions will not be accepted under any circumstances.
+
+116. #3942
+Her design incorporates the best aspects of architecture.
+Her design incorporates the best aspects of vernacular architecture.
 the best aspects of                 最好的方面
 architecture                        建筑
 vernacular architecture             本土建筑
 vernacular                          n. 本地话，方言
                                     adj. 方言的，本地语的
+
+117. #819
+Plants are able to continue growing throughout their lives.
 throughout their lives              在他们的一生中/ 终其一生
+
+118. #221
+Organizational failure is considered from various [perspectives/ aspects] in academic literature.
 organizational failure              组织层面的失败
 academic literature                 学术文献
 various perspectives                不同的观点：指来自不同角度或立场的看法和观点
+
+119. #971
+Dealing with the growing population is a challenge for many governments.
+
+120. #1052
+The commissioner will apportion the funds among all the [authorities/ sovereignties].
+The commissioner will allocate the funds among other authorities.
+
+121. #1345
+
 commissioner                        n. （政府部门的）首长，长官
 apportion the funds among all the authorities 把资金分配给所有当局
 apportion A among B                 在B之间分配A/ 把A分配给B
@@ -627,3 +700,5 @@ a compound of completely separate parts 混合物：由完全分离的部分组�
 
 a feature of                        ……的一个特征/特点  
 facility                            设施 
+faculty board                       教务委员会
+internal website                    内部网站
