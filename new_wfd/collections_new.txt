@@ -626,49 +626,141 @@ Dealing with the growing population is a challenge for many governments.
 120. #1052
 The commissioner will apportion the funds among all the [authorities/ sovereignties].
 The commissioner will allocate the funds among other authorities.
-
-121. #1345
-
 commissioner                        n. （政府部门的）首长，长官
 apportion the funds among all the authorities 把资金分配给所有当局
 apportion A among B                 在B之间分配A/ 把A分配给B
 allocate  A among B                 在B中分配A
 sovereignty                         n. 主权，最高统治权，最高权威；独立自主；主权国家，自治州
+
+121. #1345
+Class participation is an important part of your final grade.
+Class participation is a very important part of your final grade.
 class participation                 课堂参与度
+
+122. #426
+The museum is closed on the third Monday of every month.
+
+123. #170
+It is really a comprehensive program covering both theory and practice.
+It really is a comprehensive program covering both theory and practice. 
 comprehensive program               综合项目
 covering both theory and practice   涵盖理论和实践
+
+124. #636
+Several candidates [would/ will] be qualified as the greatest scientists of all time.
+Several candidates are qualified as the greatest scientists of all time.
 several candidates                  数名候选人
 be qualified as                     被认定为，被视为，符合资格
+
+125. #292
+Some people argue that education is not that important.
+
+126. #299
+Student representatives will be visiting the classes with voting forms.
 student representatives             学生代表
 representative                      adj. 典型的，有代表性的；代表各类人（或事物）的
                                     n. 代表，代理人；代表他人者
+
+127. #419
+The marketing budget has (been) doubled since the beginning of the year.
 since the beginning of the year     自年初以来
+
+128. #676
+Universities need to secure research funds for projects.
+Universities need to secure the [grants/ funds] for research projects.
 secure research founds for ...      确保研究经费…
 secure                              adj. 稳固的，可靠的；严密把守的，牢固的；安全的，稳妥的
                                     v. （尤指经过努力而）获得，得到
 grants                              n. 补助金；津贴
                                     v. [专利]授予；同意；承认
+
+129. #3943
+The professor will have a lecture in the class.
+
+130. #360
+The chemistry building is located near the entrance [to/ of] the campus.
+
+131. #316
+Students wil focus on reporting news on changing the media world.
+Students wil focus on reporting news on the changing media world.
+
+132. #674
+Unemployment rate has fallen to its lowest level in years.
 unemployment rate has fallen to     失业率已降至
+
+133. #446
+The railway makes long-distance travel possible for everyone.
+
+134. #1499
+There is probably life in the other planets in the universe.
+There is probably life on other planets in the universe.
+
+135. #900
+The rising of the sea level indicates climate change.
+The rise in sea level indicates climate change.
+The rising of the sea level is a sign of climate change.
+
+136. #1413
+Please close the door behind you when you leave the room.
+
+137. #980
+Your ideas [have been/ are] discussed and debated in seminars and tutorials.
 seminars and tutorials              研讨会和教程
+
+138. #680
+[Without doubt/ Undoubtedly], this theory has a number of limitations.
 without doubt                       无疑地；确实地
 has a number of limitations         有一些限制
+
+139. #1032
+The digital camera has some advantages over traditional film.
 digital camera                      数码相机
+
+140. #332
+The application process may take longer than expected.
 application process                 申请流程
 process                             n. 步骤，程序
                                     v. 处理，加工；审核，受理
 progress                            n. 进步，进展；前进，行进；（社会的）进步
                                     v. 进步，进展；使（任务，事业）取得持续进展
 take longer than expected           花的时间比预期的长
+
+141. #554
+You must be able to work in a team.
+
+142. #3275 #2763
+Muscles bring parts of the body close together.
+Muscle cells bring parts of the body closer together.
+Muscles function to bring parts of the body closer together.
 muscles                             肌肉
+
+143. #655
+The teacher training (course) [includes/ requires] observing the classes.
 observing the classes               观摩课堂
+
+144. #301 #302
+Students are encouraged to monitor (their) studies by themselves.
+Students are encouraged to monitor their own attendance.
+We encouraged students to monitor their studies by themselves.
 monitor their studies by themselves 自己监督他们的学习
 monitor their own attendance        监督自己的出勤情况
+
+145. #3944
+Polar regions' islands are ideal for astrophysicists and meteorologists to carry out field experiments.
+Polar regions' islands are ideal for meteorologists and astrophysicists.
 polar regions' island               极地地区的岛屿
 be ideal for                        非常适合
 carry out field experiments         进行实地试验
 astrophysicists and meteorologists  天体物理学家和气象学家
+
+146. #317
+Studies showed there is a positive correlation between the two variables.
+Studies show that there is a positive correlation between the two variables.
+Studies have shown there are positive connections between the two variables.
 positive correlation between the two variables 两个变量正相关
 positive connection                 积极联系
+
+147. 
 complaint form                      投诉表格
 complex form                        复杂的表格
 tack is the knack of making a point without making an enemy                             
