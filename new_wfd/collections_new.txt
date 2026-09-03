@@ -760,29 +760,66 @@ Studies have shown there are positive connections between the two variables.
 positive correlation between the two variables 两个变量正相关
 positive connection                 积极联系
 
-147. 
+147. #2436
+We encourage students to complete their applications before the deadline.
+
+148. #964 #629
+You should provide examples to support your ideas and arguments.
+Please provide the reports to support your idea of these arguments.
+Please provide [examples/ evidence] to support your ideas and arguments.
+
+149 #1465
+You can find the [complaint/ complex] form on the website.
 complaint form                      投诉表格
 complex form                        复杂的表格
-tack is the knack of making a point without making an enemy                             
+
+150. #3946
+Tact is the knack of making a point without making an enemy                             
 策略是在不树敌的情况下表达观点的技巧
 the knack of                        ...的诀窍
+
+151. #3948
+We are encouraged to write on each page.
+
+152. #1427
+I want to make an appointment with the manager.
+
+153. #1401
+You can keep your bags in the [back room/ backroom].
+
+154. #1436
+The teacher explained the homework to the class.
+
+155. #1517
+In this class, the teacher will teach you the planning of your essays.
+This class teaches you the importance of planning your essays.
 prepare the essay                   准备论文
-posed a challenge to many governments   对许多政府构成挑战
+
+156. #675
+Universities should invest in new technologies designed for learning.
 invest in                           v. 投资于；买进；寄希望于
-clear need for                      明确需要...
-there is a clearly need for         显然有必要
-further research in this field      该领域的进一步研究
-until further notice                直到另行通知
-tutorials are scheduled             课程被安排      
-tutorial                            adj. 导师的，辅导的
-                                    n. 导师辅导课；学习指南，教程
-give information on finances        提供财务信息
+
+157. #864
+Many university lectures can now be viewed on the internet.
+Many universities' lectures can now be reviewed on the internet.
+
+158. #1415
+You must call your doctor to make an appointment.
+
+159. #314
+Students who are successful have good strategies for learning.
+Students who are successful have a good strategy fro learning.
 have good strategies for learning   有好的学习策略   
-chronic                             慢性的
+
+160. #552
+Upgrading manufacturing systems can increase efficiency.
 upgrading manufacturing systems     升级制造系统
 manufacturing                       n. 制造，制造业
                                     v. （用机器）大量生产，成批制造
 can increase efficiency             可提高效率
+
+161. #81
+
 certain scientific principles       某些科学原理
 be learned verbally or by a logical deduction  通过口头或逻辑推理来学习
 logical deduction                   逻辑推理
@@ -794,3 +831,13 @@ a feature of                        ……的一个特征/特点
 facility                            设施 
 faculty board                       教务委员会
 internal website                    内部网站
+posed a challenge to many governments   对许多政府构成挑战
+clear need for                      明确需要...
+there is a clearly need for         显然有必要
+further research in this field      该领域的进一步研究
+until further notice                直到另行通知
+tutorials are scheduled             课程被安排      
+tutorial                            adj. 导师的，辅导的
+                                    n. 导师辅导课；学习指南，教程
+give information on finances        提供财务信息
+chronic                             慢性的
