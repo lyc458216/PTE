@@ -141,7 +141,8 @@ has now been canceled               现在已经取消了
 
 27. #87
 Collaboration between departments is a feature of successful companies.
-collaboration                       n. 合作，协作               
+collaboration                       n. 合作，协作
+a feature of                        ……的一个特征/特点                
 
 28. #913
 Designers need to keep up with (the) social trends.
@@ -819,25 +820,73 @@ manufacturing                       n. 制造，制造业
 can increase efficiency             可提高效率
 
 161. #81
-
+Certain scientific principles must be learned verbally or by a logical deduction.
 certain scientific principles       某些科学原理
 be learned verbally or by a logical deduction  通过口头或逻辑推理来学习
 logical deduction                   逻辑推理
+
+162. #860
+Neuroscience is a compound of completely separate parts.
 neuroscience                        n. 神经科学
 a compound of completely separate parts 混合物：由完全分离的部分组成的混合物
 
+163. #3949
+The conference will be held on Thursday morning.
 
-a feature of                        ……的一个特征/特点  
+164. #1393
+University graduates will work for a year in industries.
+
+165. #272
+The development has a great negative impact on the environment.
+
+166. #3164
+Journalists with qualifications often have many different job opportunities.
+
+167. #3950
+Canada has a long history of immigration from many different parts of the world.
+
+168. #
+A researcher post-graduated with a groundbreaking idea in the laboratory.
+
+169. #1481
+Lecture outlines are available on the faculty board and the internal website.
+Lecture outlines are available on the college internal website.
+Lecture outlines are available on the internal website.
 facility                            设施 
 faculty board                       教务委员会
 internal website                    内部网站
+
+170. #
+Your tutor will show you how to prepare the essay.
+
+171. #610
+Growing population has posed a challenge to many governments.
 posed a challenge to many governments   对许多政府构成挑战
+
+172. #505
+There is a clear need for further research in this field.
+There is clearly a need for further research in this field.
 clear need for                      明确需要...
 there is a clearly need for         显然有必要
 further research in this field      该领域的进一步研究
+
+173. #575
+You are required to submit your assignment by [Friday/ Monday].
+
+174. #2097
+The library for college students is closed until further notice.
 until further notice                直到另行通知
+
+175. #435
+The other book isn't through, but it's more insightful.
+
+176. #2467
+Tutorials are scheduled in the final week of the term.
 tutorials are scheduled             课程被安排      
 tutorial                            adj. 导师的，辅导的
                                     n. 导师辅导课；学习指南，教程
+
+177. #1498
+Annual reports can give important information on company finances.
 give information on finances        提供财务信息
 chronic                             慢性的
