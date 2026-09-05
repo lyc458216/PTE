@@ -180,58 +180,66 @@ business development conference     业务发展会议
 
 32. #1459
 All experimental procedures are outlined in the laboratory manual.
+所有的实验程序都在实验室手册中列出。
 experimental                        adj. 实验性的              
 experimental procedures             实验步骤                   
 experiment                          n. 实验                    
 laboratory manual                   实验室手册     
 
 33. #889
-While some people regard it as reforming zeal, others regard it as recklessness.
-While workers regard it as reforming zeal, others regarding it as recklessness.
+While [some people/ workers] regard it as reforming zeal, others regard it as recklessness.
+有些人认为这是改革的热情，有些人则认为这是鲁莽。
 regard it as                        视为                        
 reforming zeal                      改革热情                    
 recklessness                        n. 鲁莽；轻率     
 
 34. #866
 Air pollution is a serious problem all over the world.
+空气污染在全世界都是一个严重的问题。
 pollution                           n. 污染；污染物；噪音污染，（夜间扰人的）强烈灯光
 serious problem                     严重问题
 
 35. #1092
 When the root system of a plant fails, foliage suffers.
+当植物的根系衰竭时，叶子也会受损。
 foliage suffers                     树叶遭受
 
 36. #986
 The library will be closed for staff training tomorrow morning.
+图书馆将于明天上午闭馆进行员工培训。
 
 37. #1485
 [Course work/ Coursework] gives students the chances to thoroughly explore the subject.
-course work/ coursework             课程作业
+课程作业给学生提供了深入探索这门学科的机会。
 thoroughly explore                  彻底的探索
 thoroughly                          adv. 完全地，极度地
 thorough                            adj. 彻底的，全面的
 
 38. #201
 Most scientists believe that climate change threatens the lives on earth.
+大多数科学家认为气候变化威胁着地球上的生命。
 insightful                          adj. 富有洞察力的，有深刻见解的
 scientist                           n. 科学家
 threatens                           v. 威胁，恐吓
 
 39. #1013
 Social media is criticized for causing internet addiction.
+社交媒体因导致网瘾而受到批评。
 Social media is criticized as it can cause internet addiction.
+社交媒体因可能导致网瘾而受到批评。
 Social media is often ... criticized fro causing internet addiction.
+社交媒体通常……因导致网瘾而受到批评。
 internet addiction                  网络成瘾
 be criticized for                   因……而受到批评 
 
 40. #717
-Make sure you choose a course the provides great career opportunities.
-Please make sure you choose a course that provides good career opportunities.
+(Please) Make sure you choose a course that provides [great/ good] career opportunities.
+确保你选择的课程能提供很好的职业机会。
 career opportunities                职业机会                 
 
 41. #798
-Sugar is a compound including carbon, oxygen, and hydrogen atoms.
-Sugar is a compound including carbon, hydrogen and oxygen atoms.
+Sugar is a compound including carbon, [oxygen/ hydrogen], and [hydrogen/ oxygen] atoms.
+糖是一种由碳原子、氧原子/氢原子和氧原子组成的化合物。
 compound                            n. 混合物，化合物        
                                     adj. 复合的，混合的
                                     v. 使加重，使恶化    
@@ -240,19 +248,21 @@ atoms                               n. 原子
 
 42. #539
 Traffic is the main cause of air pollution in many cities.
+交通是许多城市空气污染的主要原因。
 
 43. #1127
-A university degree is required for entry into various professions.
-A university degree is a requirement to enter many professions. 
+A university degree is [required for/ a requirement for] entry into [various/ many] professions.
+大学学位是从事[各种/许多]职业的[必要条件]。
 be required for                     需要用于                    
 entry into                          进入
 various professions                 各种职业                    
 a university degree                 大学学位
 
 44. #2486
-It is quite clear that our facial expressions are [different/ similar] across the world.
+It is quite clear that (our) facial expressions are [different/ similar] across [the world/ different cultures].
+很明显，（我们的）面部表情在[世界各地/不同文化中]是[不同/相似的]。
 It is quite clear that facial expressions appear to be quite similar across different cultures.
-It is quite clear that facial expressions are similar across different cultures.
+很明显，不同文化的人的面部表情都很相似。
 facial expressions                  面部表情
 appear to                           似乎，好像
 cultures                            文化
@@ -260,35 +270,40 @@ it is quite clear that              很显然
 
 45. #1156
 Chemical reactions occur when substances combine or change (form).
+当物质结合或改变（形态）时，就会发生化学反应。
 chemical reactions                  化学反应                     
 substances combine or change form   物质结合或改变形态    
 
 46. #686
-A library plays an important role in student's lives.
-Libraries play an important part in student's lives.
+[A library/ Libraries] plays an important [role/ part] in student's lives.
+图书馆在学生的生活中起着重要的作用。
 
 47. #1026
 Football is played [throughout all years/ across the year] at the university.
+这所大学[全年/全年]都踢足球。
 throughout all years                贯穿所有年份
 across the year                     贯穿全年
-at the university                   on the campus
+at the university                   在大学期间   
+on the campus                       在校园内
 
 48. #1022
 Mathematics provides a foundation for understanding and analyzing data.
+数学为理解和分析数据提供了基础。
 foundation                          n. 地基，基础
 
 49. #3278
 It is important to plan your study time carefully.
+认真规划学习时间是很重要的。
 carefully                           adv. 小心地，仔细地
 
 50. #580
 You can use your laptop(s) [in/ during] the lecture.
+你可以在上课时使用笔记本电脑。
 in the lecture                      在讲座中
 
 51. #495
-Students must wear protective clothing that is provided in the medical laboratory.
-Students must wear protective clothing in the medical laboratory.
-Students must wear protective clothing provided in the medical laboratory.
+Students must wear protective clothing ((that is) provided) in the medical laboratory.
+学生在医学实验室必须穿防护服。
 medical laboratory                  医学实验室
 
 52. #933
