@@ -284,7 +284,7 @@ Football is played [throughout all years/ across the year] at the university.
 throughout all years                贯穿所有年份
 across the year                     贯穿全年
 at the university                   在大学期间   
-on the campus                       在校园内
+on campus                           在校园内
 
 48. #1022
 Mathematics provides a foundation for understanding and analyzing data.
@@ -308,16 +308,19 @@ medical laboratory                  医学实验室
 
 52. #933
 The course [includes/ involves] a combination of pure and applied mathematics.
+这门课程包括纯数学和应用数学的结合。
 a combination of                    一种组合
 pure and applied mathematics        纯数学与应用数学
 involves                            v. 包含；牵涉
 
 53. #738
 The students shop sells a range of stationery.
+学生商店出售各种文具。
 a range of stationery               一系列文具
 
 54. #375
 The dance department stages elaborated performances each semester.
+舞蹈系每学期都有精心设计的表演。
 stages                              n. 阶段      
                                     v. 计划；表演
 elaborate                           adj. 复杂的，详尽的；精心制作的
@@ -327,46 +330,56 @@ each semester                       每个学期
 
 55. #76
 Building trust is not something that can be achieved overnight.
+建立信任不是一朝一夕就能实现的。
 something that can be achieved overnight    一些可以在一夜之间实现的事情
 
 56. #507
 There [is/ was] a pharmacy on campus near the bookstore.
+校园里书店附近有一家药房。
 pharmacy on campus                  校园药房   
 
 57. #737
 Banks charge interest on the money they [lend/ lent] to customers.
+银行对借给客户的钱收取利息。
 they lend to customers              他们贷款给客户
 
 58. #303
 Students are encouraged to think carefully about their accommodation needs.
+鼓励学生仔细考虑他们的住宿需求。
 be encouraged to                    被鼓励
 dormitory                           宿舍
 accommodation needs                 住宿需求      
 
 59. #1238
 He wrote poetry and plays as well as scientific papers.
+他不仅写科学论文，还写诗歌和戏剧。
 scientific papers                   科学论文
 poetry                              诗歌
 
 60. #1059
 Philosophy uses logic and reason(s) to analyze human [experience/ behaviors].
+哲学运用逻辑和理性来分析人类的[经验/行为]。
 philosophy                          n. 哲学；哲学体系  
 analyze human behaviors             分析人类行为
 
 61. #1065
 An effective business manager is always open to new ideas.
+一个能干的业务经理总是乐于接受新想法。
 an effective business manager       高效的业务经理
 open to new ideas                   愿意接受新思想
 
 62. #999
 Photography can be very useful [to/ in] geographical research.
+摄影对地理研究很有用。
 geographical research               地理研究
 
 63. #416
 The lecture [tomorrow/ today] will discuss the educational policy of the United States.
+讲座[明天/今天]将讨论美国的教育政策。
 
 64. #845
-We (will) have a lecture in the morning on [Thursday(s)/ Wednesday(s)].
+We (will) have a lecture in the morning on [Thursday/ Wednesday].
+我们在[星期四/星期三]上午有一个讲座。
 
 65. #624
 Our courses help (to) [improve/ develop] critical thinking and independent learning skills.
