@@ -383,49 +383,60 @@ We (will) have a lecture in the morning on [Thursday/ Wednesday].
 
 65. #624
 Our courses help (to) [improve/ develop] critical thinking and independent learning skills.
+我们的课程有助于提升批判性思维和自主学习能力。
 critical thinking                   批判性思维
 independent learning skills         自主学习技能
 
 66. #218
 One of the election promises is to decrease (the) income tax(es).
+他的竞选承诺之一是降低所得税。
 election promises                   选举承诺
 
 67. #598
 Check the website if you are looking for discounted textbooks.
+如果你想买打折的教科书，就上网看看。
 
 68. #105
 The economic status of the early Roman Republic will be examined.
+我们将考察早期罗马共和国的经济状况。
 The [academic/ economic] strength of (the) early Roman Republic will be examined.
+我们将考察早期罗马共和国的[学术/经济]实力。
 the economic status                 经济状况
 will be examined                    将会被考查
 the academic/ economic strength of  学术/经济实力
 
 69. #1429
-When attending a job interview, punctuality is the key.
-When you attend a job interview, punctuality is the key.
+When [attending/ you attend] a job interview, punctuality is the key.
+当你参加面试时，守时是关键。
 attending a job interview           参加工作面试                   
 punctuality                         n. 准时性
 punctuality is the key              守时是关键  
 
 70. #1359
 All industries are a system of inputs, processes, outputs and feedback (manufacturing).
-All industries consist of systems of inputs, processes, outputs and feedback. 
+所有行业都是一个由输入、过程、输出和反馈（制造业）组成的系统。
+All industries consist of systems of inputs, processes, outputs, and feedback. 
+所有行业都由输入、过程、输出和反馈系统组成。
 inputs,processes,outputs,feedback   注意单复数                         
 manufacturing                       n. 制造，制造业
                                     v. （用机器）大量生产，成批制造 
 all industries consist of           所有行业都包括
+consist of                          v. 由……组成，包含：指由指定的事物、成员或成分构成
 
 71. #638 #1438
-Students are advised that the lecture today has been canceled.
+Students are advised that (all) the lecture today [have/ has] been canceled.
+学生们被告知今天的（所有）讲座都取消了。
 The student advisor was aware that the lecture today has been canceled.
-Students are advised that all the lecture today have been canceled.
+学生指导老师知道今天的讲座被取消了。
 advised                             adj. 深思熟虑的
                                     v. 通知，告知；
 students are advised that           学生们被告知
-the student advisor was aware that  学生顾问被告知
+the student advisor                 学生顾问
+was aware that                      被告知
 
 72. #637
 Strangely, people are simultaneously impressed by and skeptical [about/ of] statistics.
+奇怪的是，人们对统计数据既印象深刻，又持怀疑态度。
 strangely,                          奇怪的是
 impressed by                        对……印象深刻
 skeptical about statistics          对统计数据持怀疑态度
