@@ -677,6 +677,8 @@ The population has risen sharply [during/ over] the [recent/ past] twenty years.
 人口在[最近/过去]二十年中急剧增加。
 Population has [a sharp rise/ sharply risen] in the (recent) twenty years.
 （近）二十年来人口急剧增加。
+drastically                         adv. （动作或变化）猛烈地，力度大地 ；极其，非常
+shrink drastically                  大幅缩减
 
 110. #293
 Some people believe that education should be free [to everyone/ for all/ of all].
@@ -685,33 +687,38 @@ be available on                     在…可用
 
 111. #620
 Mature students usually adapt to university life extremely well.
+成熟的学生通常能很好地适应大学生活。
 mature student                      成熟学生：指在大学或学院开始学习的年龄比通常晚的学生，通常是指年龄在25岁以上的学生。
+adapt to                            v. 适应（新的环境、条件或变化）；
+                                    使…适应，调整…以适应（新的用途或要求）
 extremely well                      极好地
 extremely                           adv. 极度，非常
 
 112. #650
-The office hours will change next term.
-The office hours will be changed from next term.
+The office hours will [change/ be changed from] next term.
+从下学期起办公时间将有所改变。
 
 113. #904
 Academic libraries across the world are steadily incorporating social media.
+世界各地的学术图书馆都在稳步整合社交媒体。
 steadily incorporating social media 逐渐整合社交媒体
 steadily                            adv. 逐渐地，稳步地；不变地，稳定地
 incorporate                         v. 包含，合并；组成公司
                                     adj. 合成一体的，合并的；具体化的
 
 114. #1422
-We are looking for new ways to engage learners.
+We are looking [for/ at] new ways to engage learners.
+我们正在寻找吸引学习者的新方法。
 We are looking for a new way of introducing learners.
-We are looking at new ways to engage learners.
+我们正在寻找一种介绍学习者的新方法
 
 115. #1010
-Request for late applications will not be accepted under any circumstances.
-Requests for late submissions will not be accepted under any circumstances.
+Request(s) for late [submissions/ applications] will not be accepted under any circumstances.
+在任何情况下，逾期递交的申请将不获接纳。
 
 116. #3942
-Her design incorporates the best aspects of architecture.
-Her design incorporates the best aspects of vernacular architecture.
+Her design incorporates the best aspects of (vernacular) architecture.
+她的设计融合了（本土）建筑的最佳方面。
 the best aspects of                 最好的方面
 architecture                        建筑
 vernacular architecture             本土建筑
@@ -720,62 +727,72 @@ vernacular                          n. 本地话，方言
 
 117. #819
 Plants are able to continue growing throughout their lives.
+植物一生都能继续生长。
 throughout their lives              在他们的一生中/ 终其一生
 
 118. #221
 Organizational failure is considered from various [perspectives/ aspects] in academic literature.
+学术文献从不同的[角度/方面]考虑组织失败。
 organizational failure              组织层面的失败
 academic literature                 学术文献
 various perspectives                不同的观点：指来自不同角度或立场的看法和观点
 
 119. #971
 Dealing with the growing population is a challenge for many governments.
+应对不断增长的人口是许多政府面临的挑战。
 
 120. #1052
-The commissioner will apportion the funds among all the [authorities/ sovereignties].
-The commissioner will allocate the funds among other authorities.
+The commissioner will [apportion/ allocate] the funds among [all the/ other] [authorities/ sovereignties].
+专员将在[所有/其他][当局/主权国家]中[分配]这笔资金。
 commissioner                        n. （政府部门的）首长，长官
-apportion the funds among all the authorities 把资金分配给所有当局
+authority                           n. 专家，权威人士；行政管理机构；
+                                    权力，权限；权威，威信；许可，授权；当局，官方
+sovereignty                         n. 主权，最高统治权，最高权威；独立自主；主权国家，自治州
 apportion A among B                 在B之间分配A/ 把A分配给B
 allocate  A among B                 在B中分配A
-sovereignty                         n. 主权，最高统治权，最高权威；独立自主；主权国家，自治州
 
 121. #1345
-Class participation is an important part of your final grade.
-Class participation is a very important part of your final grade.
+Class participation is [an/ a very] important part of your final grade.
+课堂参与度是你期末成绩的重要组成部分。
 class participation                 课堂参与度
 
 122. #426
 The museum is closed on the third Monday of every month.
+博物馆每个月的第三个星期一闭馆。
 
 123. #170
-It is really a comprehensive program covering both theory and practice.
-It really is a comprehensive program covering both theory and practice. 
+It [is really/ really is] a comprehensive program covering both theory and practice.
+它确实是一个涵盖理论和实践的综合性课程。
 comprehensive program               综合项目
 covering both theory and practice   涵盖理论和实践
 
 124. #636
-Several candidates [would/ will] be qualified as the greatest scientists of all time.
-Several candidates are qualified as the greatest scientists of all time.
+Several candidates [would be/ will be/ are] qualified as the greatest scientists of all time.
+有几个候选人有资格成为有史以来最伟大的科学家。
 several candidates                  数名候选人
 be qualified as                     被认定为，被视为，符合资格
 
 125. #292
 Some people argue that education is not that important.
+有些人认为教育并没有那么重要。
 
 126. #299
 Student representatives will be visiting the classes with voting forms.
+学生代表将带着投票表格到班级参观。
 student representatives             学生代表
 representative                      adj. 典型的，有代表性的；代表各类人（或事物）的
                                     n. 代表，代理人；代表他人者
 
 127. #419
 The marketing budget has (been) doubled since the beginning of the year.
+自年初以来，市场营销预算增加了一倍。
 since the beginning of the year     自年初以来
 
 128. #676
 Universities need to secure research funds for projects.
+大学需要确保项目的研究经费。
 Universities need to secure the [grants/ funds] for research projects.
+大学需要为研究项目争取[拨款/资金]。
 secure research founds for ...      确保研究经费…
 secure                              adj. 稳固的，可靠的；严密把守的，牢固的；安全的，稳妥的
                                     v. （尤指经过努力而）获得，得到
@@ -784,35 +801,44 @@ grants                              n. 补助金；津贴
 
 129. #3943
 The professor will have a lecture in the class.
+教授将在班上讲课。
 
 130. #360
 The chemistry building is located near the entrance [to/ of] the campus.
+化学大楼位于校园入口附近。
+chemistry                           n. 化学；化学成分，化学反应；（彼此间的）吸引
+chemically                          adv. 用化学，以化学方法；在化学上，从化学角度
 
 131. #316
-Students wil focus on reporting news on changing the media world.
-Students wil focus on reporting news on the changing media world.
+Students wil focus on reporting news on [changing the/ the changing] media world.
+学生们将专注于报道改变媒体世界的新闻。
 
 132. #674
 Unemployment rate has fallen to its lowest level in years.
+失业率已降至多年来的最低水平。
 unemployment rate has fallen to     失业率已降至
 
 133. #446
 The railway makes long-distance travel possible for everyone.
+铁路使每个人都能进行长途旅行。
 
 134. #1499
-There is probably life in the other planets in the universe.
-There is probably life on other planets in the universe.
+There is probably life [in the /on] other planets in the universe.
+宇宙中的其他行星上可能有生命。
 
 135. #900
-The rising of the sea level indicates climate change.
+The rising of the sea level [indicates/ is a sign of] climate change.
+海平面的上升是气候变化的征兆。
 The rise in sea level indicates climate change.
-The rising of the sea level is a sign of climate change.
+海平面的上升表明气候在变化。
 
 136. #1413
 Please close the door behind you when you leave the room.
+离开房间时请随手关门。
 
 137. #980
 Your ideas [have been/ are] discussed and debated in seminars and tutorials.
+你的想法已经在研讨会和辅导课上讨论过了。
 seminars and tutorials              研讨会和教程
 
 138. #680
