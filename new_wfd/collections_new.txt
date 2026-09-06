@@ -843,15 +843,18 @@ seminars and tutorials              研讨会和教程
 
 138. #680
 [Without doubt/ Undoubtedly], this theory has a number of limitations.
+毫无疑问，这个理论有一些局限性。
 without doubt                       无疑地；确实地
 has a number of limitations         有一些限制
 
 139. #1032
 The digital camera has some advantages over traditional film.
+数码相机比传统胶卷有一些优点。
 digital camera                      数码相机
 
 140. #332
 The application process may take longer than expected.
+申请过程可能比预期的要长。
 application process                 申请流程
 process                             n. 步骤，程序
                                     v. 处理，加工；审核，受理
@@ -861,92 +864,113 @@ take longer than expected           花的时间比预期的长
 
 141. #554
 You must be able to work in a team.
+你必须能够在团队中工作。
 
 142. #3275 #2763
-Muscles bring parts of the body close together.
-Muscle cells bring parts of the body closer together.
+[Muscles/ Muscle cells] bring parts of the body [close/ closer] together.
+[肌肉/肌肉细胞]使身体的各个部分[靠得更近]。
 Muscles function to bring parts of the body closer together.
+肌肉的作用是使身体各部分更紧密地联系在一起。
 muscles                             肌肉
 
 143. #655
 The teacher training (course) [includes/ requires] observing the classes.
+教师培训（课程）[包括/要求]观摩课堂。
 observing the classes               观摩课堂
 
 144. #301 #302
 Students are encouraged to monitor (their) studies by themselves.
+鼓励学生自己监督学习。
 Students are encouraged to monitor their own attendance.
+鼓励学生监督自己的出勤情况。
 We encouraged students to monitor their studies by themselves.
+我们鼓励学生自己监督学习。
 monitor their studies by themselves 自己监督他们的学习
 monitor their own attendance        监督自己的出勤情况
 
 145. #3944
-Polar regions' islands are ideal for astrophysicists and meteorologists to carry out field experiments.
-Polar regions' islands are ideal for meteorologists and astrophysicists.
+Polar regions' islands are ideal for astrophysicists and meteorologists (to carry out field experiments).
+极地地区的岛屿是天体物理学家和气象学家（进行实地实验）的理想场所。
 polar regions' island               极地地区的岛屿
 be ideal for                        非常适合
 carry out field experiments         进行实地试验
 astrophysicists and meteorologists  天体物理学家和气象学家
 
 146. #317
-Studies showed there is a positive correlation between the two variables.
-Studies show that there is a positive correlation between the two variables.
+Studies [showed/ show] (that) there is a positive correlation between the two variables.
+研究表明，这两个变量之间存在正相关关系。
 Studies have shown there are positive connections between the two variables.
+研究表明，这两个变量之间存在正相关关系。
 positive correlation between the two variables 两个变量正相关
 positive connection                 积极联系
 
 147. #2436
 We encourage students to complete their applications before the deadline.
+我们鼓励学生在截止日期前完成申请。
 
 148. #964 #629
 You should provide examples to support your ideas and arguments.
-Please provide the reports to support your idea of these arguments.
+你应该提供例子来支持你的观点和论点。
+Please provide the reports to support your ideas of these arguments.
+请提供报告来支持你对这些论点的观点。
 Please provide [examples/ evidence] to support your ideas and arguments.
+请提供[例子/证据]来支持你的观点和论点。
 
 149 #1465
 You can find the [complaint/ complex] form on the website.
+你可以在网站上找到[投诉/复杂]表格。
 complaint form                      投诉表格
 complex form                        复杂的表格
 
 150. #3946
-Tact is the knack of making a point without making an enemy                             
+Tact is the knack of making a point without making an enemy.                            
 策略是在不树敌的情况下表达观点的技巧
 the knack of                        ...的诀窍
 
 151. #3948
 We are encouraged to write on each page.
+我们被鼓励在每页上写字。
 
 152. #1427
 I want to make an appointment with the manager.
+我想和经理约个时间见面。
 
 153. #1401
 You can keep your bags in the [back room/ backroom].
+您可以把包放在[后屋]。
 
 154. #1436
 The teacher explained the homework to the class.
+老师向全班同学解释家庭作业。
 
 155. #1517
 In this class, the teacher will teach you the planning of your essays.
+在这节课上，老师会教你们如何规划你的论文。
 This class teaches you the importance of planning your essays.
+这门课教你计划作文的重要性。
 prepare the essay                   准备论文
 
 156. #675
 Universities should invest in new technologies designed for learning.
+大学应该投资于为学习而设计的新技术。
 invest in                           v. 投资于；买进；寄希望于
 
 157. #864
-Many university lectures can now be viewed on the internet.
-Many universities' lectures can now be reviewed on the internet.
+Many [university/ universities'] lectures can now be [viewed/ reviewed] on the internet.
+许多[大学]的讲座现在可以在因特网上[观看/回顾]。
 
 158. #1415
 You must call your doctor to make an appointment.
+你必须打电话给你的医生预约。
 
 159. #314
-Students who are successful have good strategies for learning.
-Students who are successful have a good strategy fro learning.
+Students who are successful have [good strategies/ a good strategy] for learning.
+成功的学生有很好的学习策略。
 have good strategies for learning   有好的学习策略   
 
 160. #552
 Upgrading manufacturing systems can increase efficiency.
+升级制造系统可以提高效率。
 upgrading manufacturing systems     升级制造系统
 manufacturing                       n. 制造，制造业
                                     v. （用机器）大量生产，成批制造
