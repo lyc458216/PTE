@@ -443,45 +443,56 @@ skeptical about statistics          对统计数据持怀疑态度
 
 73. #2463
 Optional tutorials are offered in the final week of [the/ a] term.
+可选的教程在学期的最后一周提供。
 tutorial                            adj. 导师的，辅导的
                                     n. 导师辅导课；学习指南，教程
 optional tutorials                  选修教程
 
 74. #885
-(The) New media have transcended(transformed) traditional national boundaries.
+(The) New media have [transcended/ transformed] traditional national boundaries.
+新媒体已经超越了传统的国界。
 traditional national boundaries     传统的国界
 transcended                         v. 超出，超越；胜过
 
 75. #943
 Farming methods across the world have greatly developed recently.
+最近世界各地的耕作方法都有了很大的发展。
 have greatly developed recently     最近有很大的发展
 farming methods                     耕作方法
 
 76. #297
 Statistical results should be expressed in different ways depending on the circumstances.
+统计结果应根据具体情况以不同的方式表示。
 statistical results                 统计结果
 should be expressed in different ways   应该用不同的方式表达
 depending on circumstances          根据情况而定
 
 77. #1411
 Food that contains antibiotics [provides/ supplies] little or no nutritional value.
+含有抗生素的食物几乎没有营养价值。
 Food containing [ample/ overabundant] calories provides little or no nutritional value.
+含有[充足/过量]卡路里的食物几乎没有营养价值。
 antibiotics                         抗生素
 nutritional value                   营养价值
 ample                               adj. 充足的，充裕的
+abundant                            adj. 大量的，丰富的，充足的
+overabundant                        adj. 太充足的；过多的
 ample calories                      充足的热量
 
 78. #698
 Despite their differences, all forms of life share [certain/ the same] characteristics.
+尽管存在差异，所有形式的生命都有[某些相同的]特征。
 despite their differences           尽管他们有所不同
 share certain characteristics       具有某些共同特征
 
 79. #707
 Human beings compete with other [living things/ species] for resources and space. 
+人类与其他[生物/物种]争夺资源和空间。
 compete with                        与……竞争
 
 80. #646
 The Industrial Revolution in Europe was driven by steam technology.
+欧洲的工业革命是由蒸汽技术推动的。
 Industrial Revolution               工业革命
 steam technology                    蒸汽技术
 
@@ -491,57 +502,70 @@ You need to put [these/ those] books on the table over there.
 
 82. #511
 There was a prize for the best student (of the) presentation.
+（这次）演讲最好的学生有一个奖。
 prize for the best student presentation 最佳学生演讲奖
 
 83. #173
 It may not be possible to solve the problem easily.
+这个问题可能不太容易解决。
 
 84. #941
 They developed a unique approach to training their employees.
+他们开发了一种独特的方法来培训员工。
 a unique approach                   独特的方法
 
 85. #412
 The key difference between courses is the kind of assessment.
+课程之间的主要区别在于评估的类型。
 the kind of assessment              评估的类型
 
 86. #328
 The [ability/ abilities] to work with fellow students cannot be stressed enough.
+与同学一起工作的能力怎么强调都不为过。
 fellow                              n. 小伙子，家伙；同伴，同事，同学
 the ability wo work with            与...一起工作的能力
 can not be stressed enough          再怎么强调也不为过
 
 87. #645 #377
 The department has a higher-than-normal proportion of postgraduate students.
+这个系的研究生比例高于正常水平。
 The department has a higher proportion of postgraduate students.
+该系研究生比例较高。
 proportion                          n. 份额；比例,大小，程度,部分
 a higher-than-normal proportion     高于正常的比例
 higher proportion                   更高的比例
 postgraduate students               研究生
 
 88. #2468
-A mixture is defined as a compound of chemically separate parts.
+[A mixture is/ Mixtures are] defined as a compound of chemically separate parts.
+[混合物]被定义为化学上不同部分的化合物。
 Mixtures are defined as (a) compound(s) contain(ed/s) chemically separate parts.
-Mixtures are defined as the compound of chemically separate parts.
+混合物被定义为含有化学分离部分的化合物。
 a mixture                           混合物
 is defined as                       被定义为
 a compound of chemically separate parts 化合物：化学上不同部分的化合物
 
 89. #2012
 There is a great deal of debate on [that/ this] topic.
+关于[那个/这个]话题有很多争论。
+a great deal of                     大量的：表示数量很多或程度很高
 there is a great deal of debate on  关于...有很多的争论
 
 90. #528
 Currently the growth of the economy is unpredictable.
+目前的经济增长是不可预测的。
 unpredictable                       adj. 无法预测的，不定的
                                     n. 不可预言的事
 
 91. #932
 Take the first step by applying for [a/ the] university scholarship(s) now.
+现在就开始申请大学奖学金吧。
 take the first step by doing something now  现在就开始行动，迈出第一步
 applying for university scholarship 申请大学奖学金
 
 92. #1484
 New materials and techniques are changing the [style(s)/ type(s)] of modern architecture.
+新材料和新技术正在改变现代建筑的[风格/类型]。
 new materials and techniques        新材料和新技术
 technique                           n. 技巧，工艺；（尤指体育或艺术方面的）技巧，技术
 technology                          n. 科技，技术；技术设备，先进机器
@@ -549,38 +573,51 @@ modern architecture                 现代建筑
 
 93. #118
 Experts are now able to forecast weather over much longer periods.
+专家们现在能够预测更长期的天气。
 be now able to forecast             现在可以预测了
 over much longer periods            在更长的时间段内
 
 94. #92
 Consumer confidence has a direct influence on sales.
+消费者信心对销售有直接影响。
 consumer confidence                 消费者信心
 has a direct influence on           对……有直接影响
 
 95. #424
 The most popular courses still have a few places left.
+最受欢迎的课程还有几个名额。
 
 96. #1523
 There is a widely believed perception that engineering is for boys.
+人们普遍认为工程学是男孩的专长。
 a widely believed perception        人们普遍认为
 perception                          n. 看法，认识；感觉，感知；洞察力
 
 97. #354
 The business policy seminar includes an internship with a local firm.
+商业政策研讨会包括在当地一家公司实习。
 business policy seminar             商业政策研讨会
 internship                          n. 实习生
 
 98. #635
 The science library is currently located on the ground floor of the library.
+科学图书馆目前位于图书馆的底层。
 science library                     科学图书馆
 
 99. #1034
 (The) Farmers need to adapt to the changes in (the) climate.
+农民需要适应气候的变化。
 need to adapt to                    需要适应
+adapt                               v. 适应；调整，使适合；改编；改造，改装
+adopt                               v. 收养；采取，采纳，接受；正式通过；
+                                    选定（名字），承袭（风俗）；
+                                    移居，定居；提名（某人）为候选人；
+                                    保持（姿势）
 the changes in climate              气候的变化
 
 100. #1069
 Many diseases that were once serious have now been eradicated.
+许多曾经严重的疾病现在已被根除。
 many diseases that were once serious许多曾经严重的疾病
 have now been eradicated            现在已经被根除
 eradicate                           v. 根除，消灭
