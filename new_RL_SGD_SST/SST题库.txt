@@ -1,9 +1,10 @@
 [SST]
 模板:
-This lecture mainly discussed []. 
-In the first part of the lecture(First), the speaker stated that []. 
-In the second part of the lecture(After that), the speaker mentioned that [] 
-In the last part of the lecture(Finally), the speaker highlighted that [].
+This lecture is mainly about <word/phrase>. 
+In the first part of the lecture(Firstly), the speaker [states/ emphasizes] that <sentence1>. 
+In the second part of the lecture(After that), he also mentions that <sentence2>(, and <sentence3>). 
+In the last part of the lecture(Finally/ Lastly), the speaker believes that <sentence4>(, and <sentence5>).
+In conclusion, <sentence6>.
 
 1.Einstein’s theory of Universe 爱因斯坦的宇宙理论 #111026
 The lecture mainly discussed Einstein's theory of the universe. 
