@@ -152,5 +152,9 @@ RO一般全称的句子靠前，缩写靠后，整段有多个概念的话同一
 
 ---
 Speaking: DI(S31)/ SGD(L20 S19)/ SWT(R23 W28)/ RS(L17 S16)/ WE(W31)/ RL(L13 S13)/ RTS(S13)/  
-Reading: FID-Dropdown(R25)/ FID-DragDrop(R20)/ RO(R9)
+Reading: FIB-Dropdown(R25)/ FIB-DragDrop(R20)/ RO(R9)
 Listening: WFD(L13 W23)/ SST(L10 W18)/ HIW(L8 R13)/ FIB-L(L8)
+
+第一阶段：WFD/ SGD/ SST/ WE/ SWT
+第二阶段：FIB-Dropdown/ FIB-DragDrop/ RO/ FIB-L/ HIW
+第三阶段：DI/ RS/ RL/ RTS
