@@ -6,9 +6,9 @@ In the second part of the lecture(After that), he also mentions that <sentence2>
 In the last part of the lecture(Finally/ Lastly), the speaker believes that <sentence4>(, and <sentence5>).
 In conclusion, <sentence6>.
 
-1.Einstein’s theory of Universe 爱因斯坦的宇宙理论 #111026
-The lecture mainly discussed Einstein's theory of the universe. 
-In the first part of the lecture, the speaker stated that for thousands of years, people thought space was fixed. 
+1.Einstein’s theory of universe 爱因斯坦的宇宙理论 #111026
+The lecture is mainly about Einstein's theory of the universe. 
+In the first part of the lecture, the speaker [states/ emphasizes] that for thousands of years, people thought space was fixed. 
 In the second part of the lecture, the speaker mentioned that Einstein changed our view of the universe. 
 In the final part, the speaker highlighted that space itself is changing. (59 words)
 本次讲座主要探讨了爱因斯坦的宇宙理论。
@@ -22,8 +22,8 @@ There was not an absolutely fixed stage of space.
 Instead, space was in a state of continuous dynamic change. 
 
 2.Roman city planning 罗马城市规划(roman building) #111122
-The lecture mainly discussed the city of Rome. 
-First, the speaker stated that the city grew in a relatively unplanned way. 
+The lecture is mainly about the city of Rome. 
+First, the speaker [states/ emphasizes] that the city grew in a relatively unplanned way. 
 In the second part, the speaker mentioned that romans structured the city in a very organized way. 
 Finally, the speaker highlighted that when the Romans built their ideal city, they used an army-camp design. (56 words)
 本次讲座主要探讨了罗马城。
@@ -35,9 +35,9 @@ This is because the city wasn't planned all at once, and it just grew up over ti
 At the very beginning, the Romans structured it in a methodical way, which was basically based on military strategy and planning. 
 As a result, the city has been built like a military camp.
 
-3.a luxury brand 奢侈品 #111184
-The lecture mainly discussed luxury brands. 
-In the first part of the lecture, the speaker stated that distinguishing luxury brands is a difficult question. 
+3.a luxury brand 奢侈品牌 #111184
+The lecture is mainly about luxury brands. 
+In the first part of the lecture, the speaker [states/ emphasizes] that distinguishing luxury brands is a difficult question. 
 In the second part of the lecture, the speaker mentioned that the answer is different for different people. 
 In the final part of the lecture, the speaker highlighted that the answer is complicated. (57 words)
 本次讲座主要探讨了奢侈品牌。
@@ -49,22 +49,22 @@ A brand is exclusive because of its high price and relatively small quantities o
 Despite the high price, luxury brands are still sold in millions. 
 Therefore, the long answer is a complicated one, and it depends on whom you talk to.
 
-4.The Definition of risk 定义风险 #111043
+4.The definition of risk 定义的风险 #111043
 The literal definition of risk mainly has two parts. 
 One is the consequence of particular danger or hazard loss. 
 The other one is the probability or chance of it. 
 Thus, safety usually means that we are free from harm or risk, or secure from danger or harm. 
 It can also refer to the condition of being safe.
 
-5.Organizational Study 组织研究(organizational study) #111147
+5.Organizational study 组织研究 #111147
 Organization studies seem to draw on the whole family of social sciences. 
 It requires you to have broad familiarization. 
 Other than that, what studying organizations teaches us is actually the artificiality of those academic subdivisions. 
 As a result, we can actually be free to imagine and think about the social world.
 
 6.Paper rejection 论文遭拒 #21450
-The lecture mainly discussed paper rejection. 
-First, the speaker stated that some advice was offered on publishing a paper. 
+The lecture is mainly about paper rejection. 
+First, the speaker [states/ emphasizes] that some advice was offered on publishing a paper. 
 Second, the speaker mentioned that rejection can lead to better results and can be good for a career path. 
 Finally, the speaker highlighted that it is important to attract young researchers and keep them engaged. (55 words)
 本次讲座主要探讨了论文被拒的问题。
@@ -76,9 +76,9 @@ He also says that the chance of getting paper published is becoming smaller.
 However, rejection will lead to a better result, because it may be good for the career path. 
 Therefore, you can use this feedback to improve your paper.
 
-7.the stability of mood 情绪稳定 #111185
-The lecture mainly discussed mood. 
-In the first part of the lecture, the speaker stated that mood can differ among different people. 
+7.the stability of mood 情绪的稳定性 #111185
+The lecture is mainly about mood. 
+In the first part of the lecture, the speaker [states/ emphasizes] that mood can differ among different people. 
 In the second part of the lecture, the speaker mentioned that the secret to happiness is control and mild restraint. 
 Finally, the speaker highlighted that we should keep a balance between intense and mild emotions. (57 words)
 本次讲座主要探讨了情绪问题。
@@ -90,15 +90,15 @@ Some people usually have nervous moods, while others have a small varying range.
 In fact, the secret of happiness is mild contentment. 
 Therefore, a very useful idea is to find a point of balance, and the ideal mood is moderate strain and contentment.
 
-8.Automated Vehicles
+8.Automated vehicles 自动化汽车
 Autonomous vehicles are split into six levels of automation. 
 Humans are responsible for monitoring the vehicle in "driver assistance" and "partial automation". 
 Conditional, high and full automation are considered highly automated, where the driver is less responsible for monitoring the vehicle. 
 Several systems work together to control an automated vehicle, which is how an automated vehicle works. 
 ---
-Automated Driving #18758
-The lecture mainly discussed automated driving. 
-First, the speaker stated that automated driving involves level three and level four systems. 
+Automated driving #18758
+The lecture is mainly about automated driving. 
+First, the speaker [states/ emphasizes] that automated driving involves level three and level four systems. 
 In the second part of the lecture, the speaker mentioned that level three is the conditional automated mode. 
 In the final part of the lecture, the speaker highlighted that level four automation can save power and is more efficient than level three. (62 words)
 本次讲座主要探讨了自动驾驶。
@@ -106,15 +106,15 @@ In the final part of the lecture, the speaker highlighted that level four automa
 在讲座的第二部分，演讲者提到，3 级自动驾驶属于半驾驶模式。
 在讲座的最后部分，演讲者强调，4 级自动驾驶能够节省能源，并且比 3 级更具效率。
 
-9.Market Economy 市场经济 #111064
+9.Market economy 市场经济 #111064
 Democracies have succeeded in tempering the market economy. 
 For example, the Industrial Revolution had a very negative effect on people. 
 In order to reverse the damage, we implemented regulations that led to better environmental conditions. 
 As a result, we have made the market economy work better than it did a hundred years ago. 
 ------
 Marketing #18671
-The lecture mainly discussed marketing. 
-In the first part of the lecture, the speaker stated that marketing is the process of moving goods and services from suppliers to customers. 
+The lecture is mainly about marketing. 
+In the first part of the lecture, the speaker [states/ emphasizes] that marketing is the process of moving goods and services from suppliers to customers. 
 In the second part of the lecture, the speaker mentioned that profit models can [ensure a return on capital]. 
 In the final part of the lecture, the speaker highlighted that marketing [is directly linked to] sales growth. (66 words)
 本次讲座主要探讨了市场营销。
@@ -128,8 +128,8 @@ because reading widely enables them to apply their skills in different circumsta
 Experience is not necessary, but management knowledge is much more important. 
 Thus, the best manager should not only know their organization better, but also be a professor of management.
 ---
-The lecture mainly discussed managers. 
-First, the speaker stated that managers should learn more by reading more books and going back to university to improve themselves.
+The lecture is mainly about managers. 
+First, the speaker [states/ emphasizes] that managers should learn more by reading more books and going back to university to improve themselves.
 In the second part, the speaker mentioned that management knowledge and skills are more important than experience. 
 In the final part of the lecture, the speaker highlighted that the best managers should be teachers of management. (62 words)
 本次讲座主要探讨了管理者。
@@ -143,8 +143,8 @@ This is because the whole IT industry is a major new technology and discipline.
 Therefore, the progression has not been so much. 
 Overall, the rapid expansion in the power of computing has guided the development of software and information technology.
 ---
-The lecture mainly discussed the history of software. 
-First, the speaker stated that the history of software is very new, and its growth has been rapid. 
+The lecture is mainly about the history of software. 
+First, the speaker [states/ emphasizes] that the history of software is very new, and its growth has been rapid. 
 In the second part, the speaker mentioned that the rapid expansion of computing power and the rapid decline in cost have driven this. 
 Finally, the speaker highlighted that this enabled information technology to move into all areas of life. (65 words)
 本次讲座主要探讨了软件的发展历程。
@@ -152,7 +152,7 @@ Finally, the speaker highlighted that this enabled information technology to mov
 在讲座的第二部分，演讲者提到，计算能力的迅猛扩张与成本的急剧下降。
 在讲座的最后部分，演讲者强调，计算机能力的快速增长与成本的急剧下降使得信息技术得以进入生活的方方面面。
 
-12.social difficulties in children 儿童的社交困难(Children directors) #23227
+12.social difficulties in children 儿童的社交困难 #23227
 Social skills are vital for us when it comes to maintaining positive interactions with others. 
 Many of them are especially crucial in making and sustaining friendships. 
 It is also important for individuals to have empathy. 
@@ -160,8 +160,8 @@ This is because it allows them to respond in an understanding way.
 Besides, it can also improve self-regulation and critical thinking skills.
 ---
 Social skills
-The lecture mainly discussed the importance of social skills. 
-First, the speaker stated that social skills and understanding help build positive interpersonal relationships and reduce the risk of conflict. 
+The lecture is mainly about the importance of social skills. 
+First, the speaker [states/ emphasizes] that social skills and understanding help build positive interpersonal relationships and reduce the risk of conflict. 
 In the second part, the speaker mentioned that a team film project involving students was used as an example. 
 Finally, the speaker highlighted that this approach enhances students' self-regulation and critical thinking abilities. (62 words)
 本次讲座主要探讨了社交技能的重要性。
@@ -170,13 +170,13 @@ Finally, the speaker highlighted that this approach enhances students' self-regu
 在讲座的最后部分，演讲者强调，这种方法能够提升学生的自我调节和批判性思维能力。
 
 13.The decline of bees #18755
-Bees are in decline. 
+Bees are in decline. 蜜蜂数量减少
 These declines are well-documented and real, as they are supported by good and strong scientific evidence. 
 The drivers of decline vary depending on species, and the effects of pollinator loss could be absolutely huge. 
 However, awareness is being raised all the time and people are taking action. 
 ---
-The lecture mainly discussed the decline of bees. 
-In the first part of the lecture, the speaker stated that these declines are supported by strong scientific evidence. 
+The lecture is mainly about the decline of bees. 
+In the first part of the lecture, the speaker [states/ emphasizes] that these declines are supported by strong scientific evidence. 
 In the second part of the lecture, the speaker mentioned that the reasons for decline are different. 
 In the final part, the speaker highlighted that we are aware of the problem, and people are taking action. (63 words)
 本次讲座主要探讨了蜜蜂数量的减少问题。
@@ -184,14 +184,14 @@ In the final part, the speaker highlighted that we are aware of the problem, and
 在讲座的第二部分，演讲者提到，减少的原因各不相同。
 在讲座的最后部分，演讲者强调，我们知道这个问题，并且人们正在采取行动。
 
-14.An experiment about female body fat(change of body fat)(obese women) #18717
+14.An experiment about female body fat/ change of body fat/ obese women 女性体脂实验 #18717
 An experiment found out that some volunteers experienced a body fat change, while there were others who did not lose fat at all. 
 There are two explanations for this. 
 The first one is that those who did not lose weight must have eaten more. 
 The other explanation is that there are psychological reasons, as these people do not believe in losing fat.
 ---
-The lecture mainly discussed an experiment about female body fat. 
-In the first part of the lecture, the speaker stated that thirty-one overweight women joined the experiment. 
+The lecture is mainly about an experiment about female body fat. 
+In the first part of the lecture, the speaker [states/ emphasizes] that thirty-one overweight women joined the experiment. 
 In the second part of the lecture, the speaker mentioned that they need to exercise every day. 
 In the final part of the lecture, the speaker highlighted that some people ate more or exercised less. (62 words)
 本次讲座主要探讨了女性体脂的实验。
@@ -199,14 +199,14 @@ In the final part of the lecture, the speaker highlighted that some people ate m
 在讲座的第二部分，演讲者提到，她们需要每天坚持锻炼。
 在讲座的最后部分，演讲者强调，有些人吃得更多，或是运动较少。
 
-15.The Separation of powers #18781
+15.The separation of powers 三权分立 #18781
 The separation of power maintains balance and protects freedom by dividing government authority. 
 Legislative power makes laws, executive power carries them out, and judicial power interprets them. 
 Once with blurry lines between the three, they are now clearly defined in the U.S. Constitution. 
 It prevents any single branch from growing too powerful and improves fairness and stability.
 ---
-The lecture mainly discussed the separation of powers. 
-First, the speaker stated that the separation of powers means dividing government power into three parts. 
+The lecture is mainly about the separation of powers. 
+First, the speaker [states/ emphasizes] that the separation of powers means dividing government power into three parts. 
 In the second part of the lecture, the speaker mentioned that one is to make the laws, and the second is to enforce the laws. 
 Finally, the speaker highlighted that the third is to explain the laws. (62 words)
 本次讲座主要探讨了三权分立原则。
@@ -220,8 +220,8 @@ These Neolithic stones are probably the first examples of humans exploring the c
 One of the intriguing things about these stones is that we don't actually know what they're for. 
 This is the reason why we like them. 
 ---
-The lecture mainly discussed symmetry in mathematics. 
-First, the speaker stated that old objects in museums can have great mathematical significance. 
+The lecture is mainly about symmetry in mathematics. 
+First, the speaker [states/ emphasizes] that old objects in museums can have great mathematical significance. 
 Second, the speaker mentioned that the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry. 
 Finally, the speaker highlighted that we don't know what these stones are for. Maybe they were mathematical objects for joy and beauty. (67 words)
 本次讲座主要探讨了数学中的对称性。
@@ -229,15 +229,15 @@ Finally, the speaker highlighted that we don't know what these stones are for. M
 在讲座的第二部分，演讲者提到，在苏格兰发现的五千年前石器，是人类探索对称概念的最早实例。
 在讲座的最后部分，演讲者强调，我们不知道这些石器是干什么用的。或许它们只是为了乐趣与美感而存在的数学物件。
 
-17.Vitamin D #18683
+17.Vitamin D 维他命D #18683
 Vitamin D is called the sunshine vitamin. 
 This is because if you get adequate sunshine, there is no dietary need for it. 
 Therefore, vitamin D is not actually a vitamin. 
 It is a pro-hormone. Human beings evolved in tropical climates where there was lots of sunlight. 
 As we migrated away, there was not adequate sunlight, so we created a need for vitamin D in food.
 ---
-The lecture mainly discussed vitamin D. 
-In the first part of the lecture, the speaker stated that vitamin D is called the sunshine vitamin. 
+The lecture is mainly about vitamin D. 
+In the first part of the lecture, the speaker [states/ emphasizes] that vitamin D is called the sunshine vitamin. 
 In the second part, the speaker mentioned that if you get enough sunshine, there is no dietary need for vitamin D. 
 In the final part of the lecture, the speaker highlighted that vitamin D is not a vitamin. (63 words)
 本次讲座主要探讨了维生素 D。
@@ -245,13 +245,13 @@ In the final part of the lecture, the speaker highlighted that vitamin D is not 
 在讲座的第二部分，演讲者提到，如果你得到足够的阳光，就不需要维生素D。
 在讲座的最后部分，演讲者强调，维生素 D 不是一种维生素。
 
-18.Newspaper industry #18777
+18.Newspaper industry 新闻业下滑 #18777
 Because of the economic model, the newspaper industry has been shrinking drastically, and newspapers have increased the cash flow. 
 However, there are still some newspaper industries losing money because of a decrease in advertising and buyers. 
 As a result, the staff working in the newspaper industry has decreased by more than 30%. 
 ---
-The lecture mainly discussed newspapers. 
-In the first part of the lecture, the speaker stated that in some American states, the newspaper industry is shrinking. 
+The lecture is mainly about newspapers. 
+In the first part of the lecture, the speaker [states/ emphasizes] that in some American states, the newspaper industry is shrinking. 
 In the second part of the lecture, the speaker mentioned that business models are changing. 
 In the final part of the lecture, the speaker highlighted that some small newspapers decided to go online, and some newspapers disappeared. (62 words)
 本次讲座主要探讨了报纸行业。
@@ -259,15 +259,15 @@ In the final part of the lecture, the speaker highlighted that some small newspa
 在讲座的第二部分，演讲者提到，商业模式正在发生变化。
 在讲座的最后部分，演讲者强调，小型报纸决定转向线上，而一些报纸则消失了。
 
-19.Dangers of Keeping Drugs at Home(Misuse of Drugs) #18720
+19.Dangers of keeping drugs at home/ Misuse of drugs 用药不当的危害/ 滥用药物 #18720
 There are a number of dangers of keeping drugs at home. 
 Firstly, they may be accidentally ingested by children. 
 Secondly, patients may use the drugs after their expiration date. 
 Thirdly, the leftover drugs may be taken for the wrong reasons. 
 To solve this problem, physicians should prescribe the drugs only when appropriate, and the full course of the drug must be taken.
 ---
-The lecture mainly discussed the dangers of keeping medicine at home. 
-In the first part of the lecture, the speaker stated that children may ingest the drugs. 
+The lecture is mainly about the dangers of keeping medicine at home. 
+In the first part of the lecture, the speaker [states/ emphasizes] that children may ingest the drugs. 
 In the second part of the lecture, the speaker mentioned that the medicine may be taken for the wrong reasons. 
 In the final part of the lecture, the speaker highlighted that doctors should give the right amount of medicine. (66 words)
 本次讲座主要探讨了家中存放药品的危险性。
@@ -275,14 +275,14 @@ In the final part of the lecture, the speaker highlighted that doctors should gi
 在讲座的第二部分，演讲者提到，药品可能被用于不当的原因。
 在讲座的最后部分，演讲者强调，医生应该开具正确数量的药品。
 
-20.Globalization And Detraditionalization 全球化导致文化丧失 #18759
+20.globalization and detraditionalization 全球化导致文化丧失 #18759
 Globalization is the idea that we all live in a global village. 
 With instant communications, we can share ideas and access cultural artifacts from countries all over the world. 
 However, it also leads to the disappearance or erosion of traditional values. 
 To be more specific, young people are rejecting the culture they have grown up in. 
 ---
-The lecture mainly discussed globalization and detraditionalization. 
-In the first part of the lecture, the speaker stated that we all live in a global village. 
+The lecture is mainly about globalization and detraditionalization. 
+In the first part of the lecture, the speaker [states/ emphasizes] that we all live in a global village. 
 In the second part, the speaker mentioned that globalization enables us to share ideas across the world. 
 In the final part of the lecture, the speaker highlighted that detraditionalization can cause the loss of traditional cultures. (62 words)
 本次讲座主要探讨了全球化与去传统化。
@@ -290,13 +290,13 @@ In the final part of the lecture, the speaker highlighted that detraditionalizat
 在讲座的第二部分，演讲者提到，全球化意味着我们能够在全球范围内共享思想。
 在讲座的最后部分，演讲者强调，去传统化会导致传统文化的丧失。
 
-21.Genetic Impact(Genes affect human behaviors 基因影响人类行为)
+21.genetic impact/ Genes affect human behaviors 遗传的影响/ 基因影响人类行为
 At first, people believed that genes have an impact only on people's physical structure. 
 Then research has found that there is also a genetic responsibility for humans' psychological behavior. 
 As a result, now we have a better understanding of the role of genetic influences on behavior. 
 However, behavioral genetics is an ungovernable field where there is lots of controversy.
 
-22.Water recycling #18787
+22.Water recycling 水的循环利用 #18787
 We need to recycle water because we don't generate much new water. 
 Generating water is not a process that happens a lot anymore. 
 However, when we use water at home, there is very little recycling at a local level. 
@@ -319,8 +319,8 @@ Transpiration occurs when leaves from trees and other vegetation give off water 
 Some water on the Earth's surface is not absorbed by plants or become ground water, and it becomes surface runoff. 
 This runoff may empty into lakes, rivers, and streams and then is carried back to the ocean where the cycle may begin.
 ---
-The lecture mainly discussed water recycling. 
-In the first part of the lecture, the speaker stated that water recycling is necessary. 
+The lecture is mainly about water recycling. 
+In the first part of the lecture, the speaker [states/ emphasizes] that water recycling is necessary. 
 In the second part of the lecture, the speaker mentioned that there is technology available for industrial use, but there is little technology available for home use. 
 In the final part, the speaker highlighted that on the local level, water recycling at home is important. (66 words)
 本次讲座主要探讨了水循环利用问题。
@@ -328,14 +328,14 @@ In the final part, the speaker highlighted that on the local level, water recycl
 在讲座的第二部分，演讲者提到，工业领域已有相关技术可用，但家庭使用的技术却很少。
 在讲座的最后部分，演讲者强调，地方层面，家庭水循环利用具有重要意义。
 
-23.Negative bias(Negative Emotions) #21621
+23.Negative bias(Negative emotions) 负面偏见 #21621
 Negativity bias means humans usually pay more attention to negative emotions such as fears rather than positive emotions. 
 We feel content and pleasant more frequently, but these positive emotions are lighter, which means they cannot be easily recalled or stay in our minds. 
 However, negative emotions happen less frequently, but they are strong and intense. 
 Negativity bias can help us evaluate the environment and survive when we face life-threatening issues.
 ---
-The lecture mainly discussed negative bias. 
-First, the speaker stated that we are more likely to sense negative emotions to help us survive. 
+The lecture is mainly about negative bias. 
+First, the speaker [states/ emphasizes] that we are more likely to sense negative emotions to help us survive. 
 In the second part of the lecture, the speaker mentioned that the positive emotions we experience are more limited. 
 Finally, the speaker highlighted that bad emotions are less frequent but more intense. (56 words)
 本次讲座主要探讨了负面偏见。
@@ -343,15 +343,16 @@ Finally, the speaker highlighted that bad emotions are less frequent but more in
 在讲座的第二部分，演讲者提到，我们体验到的积极情绪较少。
 在讲座的最后部分，演讲者强调，负面情绪发生得较少，但强度更强。
 
-24.Baby Smile(smile of mother)(babies just want to be smiled at) #18742
+24.Baby smile/ smile of mother/ babies just want to be smiled at #18742
+婴儿的微笑/ 母亲的微笑/ 婴儿只是想被微笑
 Babies' smiles are strategic. 
 When babies smile, they want whoever they’re interacting with to smile back. 
 They also time it, which is called sophisticated timing. 
 In a study, researchers found out that mothers want the interaction, while babies just want to be smiled at. 
 Thus, when it comes to smiles, babies seem to know exactly what they're up to.
 ---
-The lecture mainly discussed baby smiles. 
-First, the speaker stated that babies want the people they talk with to give them a smile in return. 
+The lecture is mainly about baby smiles. 
+First, the speaker [states/ emphasizes] that babies want the people they talk with to give them a smile in return. 
 In the second part, the speaker mentioned that the researchers found four types of mother-infant relationships. 
 In the final part of the lecture, the speaker highlighted that mothers want to talk, while babies just want to smile. (62 words)
 本次讲座主要探讨了婴儿的微笑。
@@ -359,14 +360,15 @@ In the final part of the lecture, the speaker highlighted that mothers want to t
 在讲座的第二部分，演讲者提到，研究人员发现了母婴关系的四种方式。
 在讲座的最后部分，演讲者强调，母亲想要交流，而婴儿只是想要微笑。
 
-25.Canned Food During the Great Depression(canned food) #18793
+25.Canned food during the great depression(canned food) #18793
+大萧条时期的罐头食品（罐头食品）
 The Great Depression was the beginning of modern food technology, when canned foods entered the market. 
 Meanwhile, refrigerators were very popular in urban and rural areas. 
 Moreover, the Rural Electrification Administration enabled farmers to purchase appliances, meaning frozen foods were experiencing rapid growth. 
 As a result of these changes, people started to think about supermarkets with many freezer cases and canned foods. 
 ---
-The lecture mainly discussed canned foods during the Great Depression. 
-In the first part of the lecture, the speaker stated that canned foods became popular. 
+The lecture is mainly about canned foods during the Great Depression. 
+In the first part of the lecture, the speaker [states/ emphasizes] that canned foods became popular. 
 In the second part of the lecture, the speaker mentioned that people could buy refrigerators. 
 In the final part of the lecture, the speaker highlighted that supermarkets became fashionable. (55 words)
 本次讲座主要探讨了大萧条时期的罐头食品。
@@ -374,13 +376,14 @@ In the final part of the lecture, the speaker highlighted that supermarkets beca
 在讲座的第二部分，演讲者提到，人们能够购买冰箱。
 在讲座的最后部分，演讲者强调，超市成为了一种新的事物。
 
-26.Credit Card Experiment(credit card) #18795
+26.Credit card experiment(credit card) #18795
+信用卡实验（信用卡）
 In an experiment on customers’ behaviors, one group of inactive credit card users received a message offering benefits that they could gain by using the cards. 
 The other group received a message implying a penalty if it is not used. 
 The result shows that customers are more motivated by a potential loss when not using this card, rather than by the benefit they could gain by using the card.
 ---
-The lecture mainly discussed a credit card experiment. 
-First, the speaker stated that some inactive credit card users received a message, and they could gain benefits by using their cards. 
+The lecture is mainly about a credit card experiment. 
+First, the speaker [states/ emphasizes] that some inactive credit card users received a message, and they could gain benefits by using their cards. 
 Second, the speaker mentioned that other users would pay money or [face a fine] if they did not use their cards. 
 Finally, the speaker highlighted that customers are more likely to be driven by potential losses. (66 words)
 本次讲座主要探讨了一项信用卡实验。
@@ -388,7 +391,7 @@ Finally, the speaker highlighted that customers are more likely to be driven by 
 在讲座的第二部分，演讲者提到，其他用户若不使用信用卡将需要付出费用。
 在讲座的最后部分，演讲者强调，客户更容易被损失所驱动。
 
-27.Hook Sentence(议论文开篇)
+27.Hook sentence(议论文开篇)
 As a writer, you first need to collect many materials, then write an essay. 
 You are also suggested to build an emotional connection with your reader right from the start. 
 This can be achieved by a hook in the essay, which is a catchy sentence or paragraph. 
@@ -396,13 +399,14 @@ It serves as an attention element, and should be engaging and interesting.
 It often appears in the first sentence. 
 
 28.Stock market and modern business #21115
+股票市场与现代商业
 The stock market is where investors connect to buy and sell investments, which anyone can access with an account. 
 The term 'stock market' often refers to one of the major stock market indexes. 
 However, there are some different uses of the stock market before and after. 
 The stock market also tends to put money into big companies.
 ---
-The lecture mainly discussed the stock market and modern business. 
-In the first part of the lecture, the speaker stated that manufacturing companies entered the market. 
+The lecture is mainly about the stock market and modern business. 
+In the first part of the lecture, the speaker [states/ emphasizes] that manufacturing companies entered the market. 
 In the second part of the lecture, the speaker mentioned that big modern companies include Apple, Google, and Microsoft. 
 Finally, the speaker highlighted that there are differences between them. (56 words)
 本次讲座主要探讨了股票市场与现代商业。
@@ -410,7 +414,7 @@ Finally, the speaker highlighted that there are differences between them. (56 wo
 在讲座的第二部分，演讲者提到，大型现代企业包括苹果、谷歌和微软。
 在讲座的最后部分，演讲者强调，它们之间存在一些差异。
 
-29.Great Ideas #18789
+29.Great ideas 好想法 #18789
 To be successful, you should have great ideas. 
 A great idea should have three features. 
 Firstly, it should be various and novel. 
@@ -419,8 +423,8 @@ Constant innovation effectively makes ideas unique.
 A unique idea often serves its purpose in a better way. 
 Thirdly, a great idea should be transformative and protect. 
 ---
-The lecture mainly discussed great ideas. 
-In the first part of the lecture, the speaker stated that a great idea should be new. 
+The lecture is mainly about great ideas. 
+In the first part of the lecture, the speaker [states/ emphasizes] that a great idea should be new. 
 In the second part of the lecture, the speaker mentioned that a great idea should be unique. 
 In the final part of the lecture, the speaker highlighted that a great idea should be productive. (57 words)
 本次讲座主要探讨了伟大思想。
@@ -428,15 +432,15 @@ In the final part of the lecture, the speaker highlighted that a great idea shou
 在讲座的第二部分，演讲者提到，伟大思想应当独具特色。
 在讲座的最后部分，演讲者强调，伟大思想应当富有成效。
 
-30.DNA pieces(Synthetic biology & genetic engineering 合成生物学与基因工程) #18797
+30.DNA pieces DNA片段(Synthetic biology & genetic engineering 合成生物学与基因工程) #18797
 Life has evolved, and now we have the ability and the power to engineer and design it. 
 Thus, synthetic biology is the next level of genetic engineering. 
 Moreover, we are no longer limited to the pieces, and we can even create new organisms. 
 For example, a cell that's programmed to make a useful compound is called a cellular factory. 
 ---
 Applications in biology
-The lecture mainly discussed applications in biology. 
-First, the speaker stated that scientists can engineer nature. 
+The lecture is mainly about applications in biology. 
+First, the speaker [states/ emphasizes] that scientists can engineer nature. 
 In the second part, the speaker mentioned that scientists could write DNA and create new cells 40 years ago. 
 In the final part of the lecture, the speaker highlighted that scientists use microscale tools in experiments in the lab and can get bacteria the next day. (62 words)
 本次讲座主要探讨了生物学领域的应用。
@@ -444,14 +448,14 @@ In the final part of the lecture, the speaker highlighted that scientists use mi
 在讲座的第二部分，演讲者提到，四十年前科学家已能制作 DNA 并创造新细胞。
 在讲座的最后部分，演讲者强调，科学家在实验室的实验中使用微小工具，次日即可获得细菌。
 
-31.Darwin and Bees(Bee's genes and Darwin 蜜蜂基因与达尔文) #21655
+31.Darwin and Bees/ Bee's genes and Darwin 达尔文和蜜蜂/ 蜜蜂基因与达尔文 #21655
 This lecture discusses the genes of bees and their evolution. 
 In order to protect the next generation in the hive, the worker bees attack intruders and then die. 
 Worker bees sacrifice their lives to protect the next generation. 
 Darwin realized that by improving the reproductivity of the queen bees, the genetic legacy of the entire colony is safeguarded.
 ---
-The lecture mainly discussed bee genes and Darwin's theory. 
-First, the speaker stated that worker bees will give their lives to help the queen pass her genes to the next generation. 
+The lecture is mainly about bee genes and Darwin's theory. 
+First, the speaker [states/ emphasizes] that worker bees will give their lives to help the queen pass her genes to the next generation. 
 Second, the speaker mentioned that the worker bees give up reproduction and help the queen reproduce, and they will die if needed. 
 Finally, the speaker highlighted that these behaviors help explain Darwin's evolutionary theory. (65 words)
 本次讲座主要探讨了蜜蜂基因与达尔文理论。
@@ -459,15 +463,15 @@ Finally, the speaker highlighted that these behaviors help explain Darwin's evol
 在讲座的第二部分，演讲者提到，工蜂不生育并协助蜂后繁衍，必要时工蜂会为此献出生命。
 在讲座的最后部分，演讲者强调，这些现象为理解达尔文的进化理论提供了启示。
 
-32.Globalization definitions(definition of globalization 全球化的定义) #20394
+32.globalization definitions/ definition of globalization 全球化的定义 #20394
 Globalization has a few different definitions. 
 The first one is a way to describe a country's increase in international communications. 
 In other words, it is the source of growth in communication across borders. 
 The other definition is to think of globalization as an economic system. 
 This system is the way in which the economy in one country depends on another. 
 ---
-The lecture mainly discussed the definitions of globalization. 
-In the first part of the lecture, the speaker stated that globalization increases international communication. 
+The lecture is mainly about the definitions of globalization. 
+In the first part of the lecture, the speaker [states/ emphasizes] that globalization increases international communication. 
 In the second part of the lecture, the speaker mentioned that countries become integrated into the system. 
 In the final part, the speaker highlighted that globalization creates new areas of economic growth. (56 words)
 本次讲座主要探讨了全球化的定义。
@@ -475,14 +479,14 @@ In the final part, the speaker highlighted that globalization creates new areas 
 在讲座的第二部分，演讲者提到，国家在这个体系中结合在一起。
 在讲座的最后部分，演讲者强调，全球化展示了一个新的经济增长领域。
 
-33.Fight-or-Flight Response 迎战或逃跑反应(fight or flight) #18778
+33.Fight-or-Flight Response/ fight or flight 迎战或逃跑反应 #18778
 Emotions have a purpose, since our most basic emotions are vital messengers. 
 They have evolved as signals to help us meet our basic needs. 
 It is dangerous to be indecisive about a threat to our survival, so the brain runs information from our senses. 
 This happens in areas which control instinctive responses, and communicate with our body to create powerful emotions and symptoms.
 ---
-The lecture mainly discussed the stress response and emotions. 
-In the first part of the lecture, the speaker stated that emotions have a purpose. 
+The lecture is mainly about the stress response and emotions. 
+In the first part of the lecture, the speaker [states/ emphasizes] that emotions have a purpose. 
 In the second part of the lecture, the speaker mentioned that basic emotions are key messengers. 
 In the final part, the speaker highlighted that the brain uses information to control fast responses and create strong signals. (60 words)
 本次讲座主要探讨了应激反应和情绪的关系。
@@ -497,8 +501,8 @@ Meanwhile, some sense of the period in which they're writing will be given.
 Finally, the lecturer will give ways to possess and enjoy particular poems. 
 In this way, students can learn from them and care about them.
 ---
-The lecture mainly discussed modern poetry. 
-First, the speaker stated that works by several poets were discussed. 
+The lecture is mainly about modern poetry. 
+First, the speaker [states/ emphasizes] that works by several poets were discussed. 
 In the second part, the speaker mentioned that modernism is one of the most fruitful areas in English literature. 
 Finally, the speaker highlighted that people can derive pleasure or have fun, experience confusion, and find help in poetry. (55 words)
 本次讲座主要探讨了现代诗歌。
@@ -514,8 +518,8 @@ However, it also has drawbacks, such as the lack of face-to-face communication.
 Besides, there are also potential issues with data reliability and authenticity. 
 Therefore, balancing its advantages and shortcomings will be crucial for maintaining the quality. 
 ---
-The lecture mainly discussed the advantages and drawbacks of online research. 
-First, the speaker stated that online research is quicker than conventional methods, and there is no gap between quantity and quality. 
+The lecture is mainly about the advantages and drawbacks of online research. 
+First, the speaker [states/ emphasizes] that online research is quicker than conventional methods, and there is no gap between quantity and quality. 
 Second, the speaker mentioned that the drawback is that we cannot communicate face-to-face. 
 Finally, the speaker highlighted that we cannot pick up cues such as body language, which means we don't know who is on the other side. (70 words)
 本次讲座主要探讨了在线调研的优缺点。
@@ -528,8 +532,8 @@ The speaker mentions that people are going to suffer from a serious food crisis.
 He also says that the global food emergency could impact children and adults, so we must double the yield. 
 Although there will be an increase of the cost of the production, there is also an opportunity for developing countries.
 ---
-The lecture mainly discussed food crisis. 
-In the first part of the lecture, the speaker stated that people suffered from a serious food crisis. 
+The lecture is mainly about food crisis. 
+In the first part of the lecture, the speaker [states/ emphasizes] that people suffered from a serious food crisis. 
 In the second part of the lecture, the speaker mentioned that people must double food production. 
 In the final part of the lecture, the speaker highlighted that it is urgent to increase production. (57 words)
 本次讲座主要探讨了食物危机。
@@ -542,8 +546,8 @@ Recently, journalism has been faced with challenges.
 This is because the rise of the Internet has a great impact on journalism, as it enables ordinary people to get involved in journalism. 
 Moreover, the Internet not only speeds up the spread of news, but also helps people gain information in various ways. 
 ---
-The lecture mainly discussed Internet and journalism. 
-In the first part of the lecture, the speaker stated that people like such changes, and they think the internet can improve the spread of news and help people gain information. 
+The lecture is mainly about Internet and journalism. 
+In the first part of the lecture, the speaker [states/ emphasizes] that people like such changes, and they think the internet can improve the spread of news and help people gain information. 
 In the second part, the speaker mentioned that journalism is becoming a team process. 
 Finally, the speaker highlighted that the internet is reshaping how news is produced and consumed. (67 words)
 本次讲座主要探讨了网络和新闻。
@@ -557,8 +561,8 @@ Thus, everybody was crowded into factories and the new brave world opened up.
 Moreover, the industrial revolution first occurred in England due to the location of resources. 
 In fact, the industrial revolution was an intensification of forms and production. 
 ---
-The lecture mainly discussed the Industrial Revolution. 
-First, the speaker stated that the Industrial Revolution was more than large factories and machines. 
+The lecture is mainly about the Industrial Revolution. 
+First, the speaker [states/ emphasizes] that the Industrial Revolution was more than large factories and machines. 
 Second, the speaker mentioned that the Industrial Revolution was a period of fast growth of production. 
 In the final part, the speaker highlighted that the rapid rise of production was linked to traditional forms of production. (56 words)
 本次讲座主要探讨了工业革命。在讲座的第一部分，演讲者指出，工业革命不仅是以大型工厂和机器来衡量的。
@@ -571,8 +575,8 @@ As a result, brands are essential to our business to allow us to deliver the inc
 This is where the science starts. 
 There are also many engineering contradictions during this process.
 ---
-The lecture mainly discussed the relationship between smart consumers and brands. 
-First, the speaker stated that a brand is very important to smart consumers. 
+The lecture is mainly about the relationship between smart consumers and brands. 
+First, the speaker [states/ emphasizes] that a brand is very important to smart consumers. 
 In the second part of the lecture, the speaker mentioned that the Second Moment of Truth is important, and the product must have good quality. 
 Finally, the speaker highlighted that there are hard problems in making the products both strong and soft. (66 words)
 本次讲座主要探讨了聪明消费者与品牌的关系。
@@ -587,8 +591,8 @@ Melatonin also has a rhythm, which peaks at night.
 Therefore, it is called the darkness hormone. 
 This means that melatonin occurs at night, and prepares us for the things we do at night.
 ---
-The lecture mainly discussed melatonin. 
-In the first part of the lecture, the speaker stated that melatonin is generated by the brain. 
+The lecture is mainly about melatonin. 
+In the first part of the lecture, the speaker [states/ emphasizes] that melatonin is generated by the brain. 
 In the second part of the lecture, the speaker mentioned that melatonin is different from cortisol, and it follows a rhythm opposite to that of cortisol. 
 Finally, the speaker highlighted that melatonin plays a role in helping humans and animals prepare for nighttime activity. (66 words)
 本次讲座主要探讨了褪黑素。
@@ -602,8 +606,8 @@ For example, we consider fish as the single most important source of protein.
 Therefore, the management of wild fish resources is very important to livelihoods and health. 
 Moreover, in many places, wildlife tourism can be the No.1 source of foreign income for economies.
 ---
-The lecture mainly discussed the fishing industry in Africa. 
-In the first part of the lecture, the speaker stated that wildlife is a source of food and income. 
+The lecture is mainly about the fishing industry in Africa. 
+In the first part of the lecture, the speaker [states/ emphasizes] that wildlife is a source of food and income. 
 In the second part of the lecture, the speaker mentioned that the management of fish resources [influences health]. 
 In the final part of the lecture, the speaker highlighted that the [wildlife tourism industry] is important. (63 words)
 本次讲座主要探讨了非洲渔业。
@@ -617,8 +621,8 @@ We take the visual information and transform it, so that we can put a name to a 
 Face recognition is a hard problem, yet it's a clever thing we can do. 
 We can recognize different types of faces, and get different types of information from them.
 ---
-The lecture mainly discussed recognizing faces. 
-In the first part of the lecture, the speaker stated that humans are good at face recognition. 
+The lecture is mainly about recognizing faces. 
+In the first part of the lecture, the speaker [states/ emphasizes] that humans are good at face recognition. 
 In the second part of the lecture, the speaker mentioned that face recognition is a hard problem, and it is impressive that we can recognize different types of information. 
 In the final part, the speaker highlighted that people need to appreciate face recognition. (66 words)
 本次讲座主要探讨了人脸识别。
@@ -632,8 +636,8 @@ We fight for the legal rights of non-human animals, and we decided upon chimpanz
 After we found our chimpanzee, we filed three suits. 
 However, the court didn't approve our appeal because they think chimpanzees are not humans, even if we proved to the court that chimpanzees also have cognitive capabilities. 
 ---
-The lecture mainly discussed chimpanzees. 
-First, the speaker stated that they wanted to release a chimpanzee. For this chimpanzee had been kept for research for many years. 
+The lecture is mainly about chimpanzees. 
+First, the speaker [states/ emphasizes] that they wanted to release a chimpanzee. For this chimpanzee had been kept for research for many years. 
 In the second part, the speaker mentioned that the court dismissed the appeal because chimpanzees are not persons. 
 Finally, the speaker highlighted that they will keep trying this year to get legal rights for animals. (62 words)
 本次讲座主要探讨了黑猩猩。
@@ -647,8 +651,8 @@ We now know that it started in a big bang 13.8 billion years ago.
 What happened in the big bang can be explained by the laws of physics, which have proved that the universe is older than the stars. 
 However, we are unsure about what will happen in the future. 
 ---
-The lecture mainly discussed the Big Bang theory. 
-In the first part of the lecture, the speaker stated that the universe began with a Big Bang. 
+The lecture is mainly about the Big Bang theory. 
+In the first part of the lecture, the speaker [states/ emphasizes] that the universe began with a Big Bang. 
 In the second part of the lecture, the speaker mentioned that the universe started with a Big Bang about 13.7 billion years ago. 
 In the final part, the speaker highlighted that if everything is correct, we can understand the universe. (66 words)
 本次讲座主要探讨了大爆炸理论。
@@ -664,8 +668,8 @@ This is an application of Darwin's theory of natural selection.
 It is unfair to criticize the demolition, because there is an importance in honoring the cultural nuances in the built environment. 
 ---
 The Design of Buildings
-The lecture mainly discussed the design of buildings. 
-In the first part of the lecture, the speaker stated that design is important to a building. 
+The lecture is mainly about the design of buildings. 
+In the first part of the lecture, the speaker [states/ emphasizes] that design is important to a building. 
 In the second part of the lecture, the speaker mentioned that there are some bad buildings and some great buildings. 
 Finally, the speaker highlighted that many buildings were broken down because of their nature and function. (62 words)
 本次讲座主要探讨了建筑设计。
@@ -686,8 +690,8 @@ The importance of women in leadership is that they bring diverse perspectives.
 Besides, they serve as role models and mentors for the next generation. 
 Thus, it's essential to advocate and promote women in leadership, so that we can create more inclusive and equitable environments.
 ---
-The lecture mainly discussed leadership. 
-First, the speaker stated that great leadership is a difficult concept to define. 
+The lecture is mainly about leadership. 
+First, the speaker [states/ emphasizes] that great leadership is a difficult concept to define. 
 Second, the speaker mentioned that people need to master more skills, such as planning for the future and helping newcomers integrate into the team. 
 Finally, the speaker highlighted that the team structure surrounding individuals is also very important. (56 words)
 本次讲座主要探讨了领导力。
@@ -702,8 +706,8 @@ However, many people in Australia experience unfair treatment, yet most new migr
 Overall, this rich and cultural diversity is one of the Australian greatest strengths.
 ---
 Migration history in Australia
-The lecture mainly discussed migration history in Australia. 
-First, the speaker stated that the first people of Australia were Indigenous Australians. 
+The lecture is mainly about migration history in Australia. 
+First, the speaker [states/ emphasizes] that the first people of Australia were Indigenous Australians. 
 In the second part of the lecture, the speaker mentioned that when Australia and nearby regions formed a single land, Indigenous peoples lived there. 
 Finally, the speaker highlighted that Australia adopted a multicultural policy. (56 words)
 本次讲座主要探讨了澳大利亚的移民历史。
@@ -719,8 +723,8 @@ However, as machines continue to improve, unemployment and redundancies will ris
 Therefore, we need to create more jobs, or more people will lose jobs and the unemployment rate will increase.
 ---
 The development of machines
-The lecture mainly discussed the development of machines. 
-First, the speaker stated that machines ought to do things better than most people. 
+The lecture is mainly about the development of machines. 
+First, the speaker [states/ emphasizes] that machines ought to do things better than most people. 
 Second, the speaker mentioned that machines have replaced many jobs and are becoming better and better. 
 Finally, the speaker highlighted that when there are no new jobs, humans will have nowhere to go. (56 words)
 本次讲座主要探讨了机器的发展历程。
@@ -740,8 +744,8 @@ This is because it has borrowed from over 350 languages in its history, which ma
 Therefore, we are not only learning about language, but we are learning about history. 
 However, this fact has been viewed differently throughout history. 
 ---
-The lecture mainly discussed the history of English. 
-First, the speaker stated that English is not a pure language. 
+The lecture is mainly about the history of English. 
+First, the speaker [states/ emphasizes] that English is not a pure language. 
 In the second part of the lecture, the speaker mentioned that English borrowed words from over 350 languages. 
 In the final part, the speaker highlighted that today we are not only learning about language, but we are also learning about history. (60 words)
 本次讲座主要探讨了英语的历史。
@@ -755,8 +759,8 @@ First of all, it is industries and markets that globalize.
 It is also known as the integration of economic activities across borders. 
 Globalization is very important because it makes countries and markets more connected across the world, especially the financial and banking systems. 
 ---
-The lecture mainly discussed the differences between goods and services in the globalization process. 
-In the first part of the lecture, the speaker stated that services are more difficult to globalize. 
+The lecture is mainly about the differences between goods and services in the globalization process. 
+In the first part of the lecture, the speaker [states/ emphasizes] that services are more difficult to globalize. 
 In the second part of the lecture, the speaker mentioned that these factors hinder the development of service trade. 
 Finally, the speaker highlighted that digital technology can remove barriers and reshape the global service landscape. (66 words)
 本次讲座主要探讨了商品与服务在全球化进程中的差异。
@@ -772,8 +776,8 @@ Besides, this term is also a multifunctional word.
 For example, 'need' can be a psychological term when humans are involved in nature. 
 As a result, people’s needs ultimately push forward social structure revolutions.
 ---
-The lecture mainly discussed the need. 
-In the first part of the lecture, the speaker stated that need is a strong desire and an essential requirement. 
+The lecture is mainly about the need. 
+In the first part of the lecture, the speaker [states/ emphasizes] that need is a strong desire and an essential requirement. 
 In the second part, the speaker mentioned that need is a multifunctional concept in social environments. 
 In the final part of the lecture, the speaker highlighted that in terms of psychology, it means an inner need. (62 words)
 本次讲座主要探讨了需要。
@@ -793,8 +797,8 @@ This is because these children have sufficient educational capacity and support 
 Besides, a compelling and disturbing fact is that the life chance of a child has been set by five years old. 
 However, currently there is no obvious way to address this deep root of inequality in our society.
 ---
-The lecture mainly discussed the inequality in children. 
-First, the speaker stated that well-educated parents can provide their children with ample educational resources and support. 
+The lecture is mainly about the inequality in children. 
+First, the speaker [states/ emphasizes] that well-educated parents can provide their children with ample educational resources and support. 
 In the second part of the lecture, the speaker mentioned that children's life opportunities are largely determined by the age of five. 
 Finally, the speaker highlighted that there are still no particularly effective solutions to this deeply entrenched inequality in society. (66 words)
 本次讲座主要探讨了儿童群体中的不平等现象。
@@ -809,8 +813,8 @@ Key words: significant opportunities, performance, study overseas, money.
 -------------------------------------
 
 3.A woman with student loans #18690
-The lecture mainly discussed a woman with student loans. 
-First, the speaker stated that she owes tens of thousands of dollars in student loans. 
+The lecture is mainly about a woman with student loans. 
+First, the speaker [states/ emphasizes] that she owes tens of thousands of dollars in student loans. 
 In the second part, the speaker mentioned that she could not find a decent job. 
 In the final part, the speaker highlighted that her children are facing the problem of borrowing money for school, and she feels stressed. (62 words)
 本次讲座主要探讨了背负助学贷款的女性。
@@ -819,8 +823,8 @@ In the final part, the speaker highlighted that her children are facing the prob
 在讲座的最后部分，演讲者强调，她的孩子们面临着借钱上学的问题，她感到压力很大。
 
 9.A Survey on Social Well-Being and Happiness #18721
-The lecture mainly discussed a survey on social life and happiness. 
-First, the speaker stated that one factor is consistent patterns. 
+The lecture is mainly about a survey on social life and happiness. 
+First, the speaker [states/ emphasizes] that one factor is consistent patterns. 
 In the second part of the lecture, the speaker mentioned that it includes basic things like money and health. 
 In the final part of the lecture, the speaker highlighted that other factors include the living environment and the quality of life. (62 words)
 本次讲座主要探讨了社会生活与幸福感的调查。
@@ -829,8 +833,8 @@ In the final part of the lecture, the speaker highlighted that other factors inc
 在讲座的最后部分，演讲者强调，其他方面还包括生活环境和生活质量。
 
 11.Global Warming and Climate Change #18737
-The lecture mainly discussed global warming and climate change. 
-In the first part of the lecture, the speaker stated that climate change is becoming a serious problem. 
+The lecture is mainly about global warming and climate change. 
+In the first part of the lecture, the speaker [states/ emphasizes] that climate change is becoming a serious problem. 
 In the second part of the lecture, the speaker mentioned that national governments should take action. 
 In the final part, the speaker highlighted that some major changes are taking place or happening globally. (60 words)
 本次讲座主要探讨了全球变暖与气候变化问题。
@@ -839,8 +843,8 @@ In the final part, the speaker highlighted that some major changes are taking pl
 在讲座的最后部分，演讲者强调，全球范围内正在发生一些重大变化。
 
 15.Industrialization #18752
-The lecture mainly discussed industrialization. 
-In the first part of the lecture, the speaker stated that the Industrial Revolution had a very bad effect on people. 
+The lecture is mainly about industrialization. 
+In the first part of the lecture, the speaker [states/ emphasizes] that the Industrial Revolution had a very bad effect on people. 
 In the second part, the speaker mentioned that we should make laws about working conditions. 
 In the final part of the lecture, the speaker highlighted that we need to make rules to change environmental conditions. (62 words)
 本次讲座主要探讨了工业化。
@@ -849,8 +853,8 @@ In the final part of the lecture, the speaker highlighted that we need to make r
 在讲座的最后部分，演讲者强调，我们需要制定规则来改变环境状况。
 
 21.Absolutism #18772
-The lecture mainly discussed moral objectivism and moral absolutism. 
-First, the speaker stated that in moral objectivism, some moral principles apply to all actions. 
+The lecture is mainly about moral objectivism and moral absolutism. 
+First, the speaker [states/ emphasizes] that in moral objectivism, some moral principles apply to all actions. 
 In the second part of the lecture, the speaker mentioned that in moral absolutism, a clear boundary exists between right and wrong. 
 In the final part of the lecture, the speaker highlighted that these principles must be followed. (62 words)
 本次讲座主要探讨了道德客观主义与道德绝对主义。
@@ -859,8 +863,8 @@ In the final part of the lecture, the speaker highlighted that these principles 
 在讲座的最后部分，演讲者强调，必须使用这些规则。
 
 34.Mars and the Earth #18796
-The lecture mainly discussed Mars. 
-In the first part of the lecture, the speaker stated that Mars is close to the Earth. 
+The lecture is mainly about Mars. 
+In the first part of the lecture, the speaker [states/ emphasizes] that Mars is close to the Earth. 
 In the second part of the lecture, the speaker mentioned that Mars has hills, seasons and weather. 
 In the final part of the lecture, the speaker highlighted that Mars has rare gases. (55 words)
 本次讲座主要探讨了火星。
@@ -869,8 +873,8 @@ In the final part of the lecture, the speaker highlighted that Mars has rare gas
 在讲座的最后部分，演讲者强调，火星有特殊的气体。
 
 38.Why Read Plato's “The Republic”? #18827
-The lecture mainly discussed the reasons to read the Republic. 
-In the first part of the lecture, the speaker stated that the book is very easy to read. 
+The lecture is mainly about the reasons to read the Republic. 
+In the first part of the lecture, the speaker [states/ emphasizes] that the book is very easy to read. 
 In the second part of the lecture, the speaker mentioned that the book includes lively conversations and important ideas. 
 In the final part, the speaker highlighted that its thoughts and content are other reasons to read the book. (66 words)
 本次讲座主要探讨了阅读《理想国》的理由。
@@ -879,8 +883,8 @@ In the final part, the speaker highlighted that its thoughts and content are oth
 在讲座的最后部分，演讲者强调，思想与内容是阅读此书的其他理由。
 
 47.Bees waggle dance and communication #21307
-The lecture mainly discussed how bees communicate. 
-First, the speaker stated that it is interesting how bees communicate with each other. 
+The lecture is mainly about how bees communicate. 
+First, the speaker [states/ emphasizes] that it is interesting how bees communicate with each other. 
 In the second part, the speaker mentioned that bees do a waggle dance to indicate the distance and direction of a food source. 
 Finally, the speaker highlighted that it is a special communication system. (56 words)
 本次讲座主要探讨了蜜蜂如何交流。
@@ -889,8 +893,8 @@ Finally, the speaker highlighted that it is a special communication system. (56 
 在讲座的最后部分，演讲者强调，这是一种特殊的交流系统。
 
 49.Societal diversity #21466
-The lecture mainly discussed societal diversity. 
-First, the speaker stated that all societies have diversity, which brings multiculturalism. 
+The lecture is mainly about societal diversity. 
+First, the speaker [states/ emphasizes] that all societies have diversity, which brings multiculturalism. 
 Second, the speaker mentioned that what causes diversity and how it happens are hard questions to answer. Simply counting the number is not that important. 
 Finally, the speaker highlighted that most societies have diversity to some extent. (56 words)
 本次讲座主要探讨了社会的多样性问题。
@@ -899,8 +903,8 @@ Finally, the speaker highlighted that most societies have diversity to some exte
 在讲座的最后部分，演讲者强调，大多数社会在某种程度上都存在多样性。
 
 53.Motivation #21919
-The lecture mainly discussed two types of motivation. 
-First, the speaker stated that motivation can be categorized into approach motivation and avoidance motivation. 
+The lecture is mainly about two types of motivation. 
+First, the speaker [states/ emphasizes] that motivation can be categorized into approach motivation and avoidance motivation. 
 In the second part, the speaker mentioned that approach motivation pertains to positive things, while avoidance motivation relates to negative things. 
 Finally, the speaker highlighted that avoidance motivation tends to be significantly stronger. (56 words)
 本次讲座主要探讨了两种动机类型。
@@ -909,8 +913,8 @@ Finally, the speaker highlighted that avoidance motivation tends to be significa
 在讲座的最后部分，演讲者强调，回避动机要强得多。
 
 56.Bees waggle dance #22519
-The lecture mainly discussed how bees use a waggle dance as their communication system. 
-First, the speaker stated that when bees find a good food source, they do a waggle dance to tell other bees. 
+The lecture is mainly about how bees use a waggle dance as their communication system. 
+First, the speaker [states/ emphasizes] that when bees find a good food source, they do a waggle dance to tell other bees. 
 Second, the speaker mentioned that there was a study regarding bees' dancing behaviors. 
 Finally, the speaker highlighted that bees can use their dance and sounds to describe different flowers and the environment. (67 words)
 本次讲座主要探讨了蜜蜂如何运用摆尾舞作为其通讯系统。
@@ -919,8 +923,8 @@ Finally, the speaker highlighted that bees can use their dance and sounds to des
 在讲座的最后部分，演讲者强调，蜜蜂能够通过舞蹈和声音来展示不同花卉及环境特征。
 
 57.Population growth #22723
-The lecture mainly discussed the significance of population issues. 
-In the first part of the lecture, the speaker stated that resource pressure is a key factor. 
+The lecture is mainly about the significance of population issues. 
+In the first part of the lecture, the speaker [states/ emphasizes] that resource pressure is a key factor. 
 In the second part of the lecture, the speaker mentioned that population growth is not the same everywhere. 
 In the final part of the lecture, the speaker highlighted that city infrastructure may begin to collapse as big cities get larger. (66 words)
 本次讲座主要探讨了人口问题的重要性。
@@ -929,8 +933,8 @@ In the final part of the lecture, the speaker highlighted that city infrastructu
 在讲座的最后部分，演讲者强调，随着特大城市的扩张，城市设施可能会开始崩溃。
 
 58.The Origin of Species #22868
-The lecture mainly discussed The Origin of Species. 
-First, the speaker stated that Darwin said that life on Earth is shaped by natural selection. 
+The lecture is mainly about The Origin of Species. 
+First, the speaker [states/ emphasizes] that Darwin said that life on Earth is shaped by natural selection. 
 Second, the speaker mentioned that Darwin did not explain how traits are passed on to offspring. 
 Finally, the speaker highlighted that Mendel later discovered that living things pass traits through genes. (56 words)
 本次讲座主要探讨了物种起源。
@@ -939,8 +943,8 @@ Finally, the speaker highlighted that Mendel later discovered that living things
 在讲座的最后部分，演讲者强调，孟德尔后来发现生物体通过基因传递性状。
 
 61.Washing Fruit #23239
-The lecture mainly discussed proper methods for washing fruits and vegetables. 
-First, the speaker stated that thorough washing can effectively prevent bacteria and diseases. 
+The lecture is mainly about proper methods for washing fruits and vegetables. 
+First, the speaker [states/ emphasizes] that thorough washing can effectively prevent bacteria and diseases. 
 Second, the speaker mentioned that it is important to read package instructions. 
 Finally, the speaker highlighted that using running cold water combined with scrubbing is the best way or most effective approach. (56 words)
 本次讲座主要探讨了清洗果蔬的好方法。
@@ -949,8 +953,8 @@ Finally, the speaker highlighted that using running cold water combined with scr
 在讲座的最后部分，演讲者强调，使用冷水配合刷洗是最有效的方式。
 
 63.Multiculturalism #23241
-The lecture mainly discussed multiculturalism in modern society. 
-In the first part of the lecture, the speaker stated that the main idea of multiculturalism was explained. 
+The lecture is mainly about multiculturalism in modern society. 
+In the first part of the lecture, the speaker [states/ emphasizes] that the main idea of multiculturalism was explained. 
 In the second part, the speaker mentioned that multiculturalism was illustrated through the melting-pot theory. 
 Finally, the speaker highlighted that celebrating diversity helps build a good society. (54 words)
 本次讲座主要探讨了现代社会中的多元文化主义。
@@ -958,9 +962,9 @@ Finally, the speaker highlighted that celebrating diversity helps build a good s
 在讲座的第二部分，演讲者提到，可通过熔炉理论来阐释多元文化主义。
 在讲座的最后部分，演讲者强调，庆祝多样性有助于构建良好的社会。
 
-Symbolic Systems
-The lecture mainly discussed symbolic systems. 
-In the first part of the lecture, the speaker stated that language is a classic symbolic system. 
+64.Symbolic Systems
+The lecture is mainly about symbolic systems. 
+In the first part of the lecture, the speaker [states/ emphasizes] that language is a classic symbolic system. 
 In the second part of the lecture, the speaker mentioned that people communicate with sign language and movement. 
 In the final part, the speaker highlighted that it is a good idea to do something with your hands and talk at the same time. (66 words)
 本次讲座主要探讨了符号系统。
