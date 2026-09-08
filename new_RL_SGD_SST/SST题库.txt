@@ -494,7 +494,7 @@ In the final part, the speaker highlighted that the brain uses information to co
 在讲座的第二部分，演讲者提到，基本的情绪是关键的信使。
 在讲座的最后部分，演讲者强调，大脑使用信息来控制快速的反应，并产生强烈的信号。
 
-34.Modern Poetry现代诗歌(literature in poem)(english language in poem诗歌语言) #22983
+34.Modern poetry/ literature in poem/ english language in poem 现代诗歌/ 诗歌语言/ 诗歌中的英语 #22983
 This course is an introduction to the literature of modern poetry. 
 Several poets will be studied in detail, and they also demand a certain amount of close reading. 
 Meanwhile, some sense of the period in which they're writing will be given. 
@@ -510,7 +510,7 @@ Finally, the speaker highlighted that people can derive pleasure or have fun, ex
 在讲座的第二部分，演讲者提到，现代主义是英语文学中非常伟大的部分。
 在讲座的最后部分，演讲者强调，人们可以尝试从诗歌中获得乐趣、感受困惑并汲取养分。
 
-35.Online Research(internet growth) #18792
+35.Online Research/ 线上调研 internet growth/ 网络增长 #18792
 The rapid expansion of the Internet has revolutionized our lives. 
 One significant change is in the realm of research. 
 To be more specific, online research enables researchers to gather vast amounts of information quickly. 
@@ -527,7 +527,7 @@ Finally, the speaker highlighted that we cannot pick up cues such as body langua
 在讲座的第二部分，演讲者提到，其缺点在于我们无法面对面交流。
 在讲座的最后部分，演讲者强调，我们无法通过肢体语言等反应获取信息，这意味着我们无从知晓对方是谁。
 
-36.Food Crisis 粮食危机(food production)#18790
+36.Food Crisis/ food production 粮食危机/ 食品生产#18790
 The speaker mentions that people are going to suffer from a serious food crisis. 
 He also says that the global food emergency could impact children and adults, so we must double the yield. 
 Although there will be an increase of the cost of the production, there is also an opportunity for developing countries.
@@ -541,7 +541,7 @@ In the final part of the lecture, the speaker highlighted that it is urgent to i
 在讲座的第二部分，演讲者提到，我们必须生产双倍的食物。
 在讲座的最后部分，演讲者强调，增加产量是重要的。
 
-37.Internet and Journalism(what happened to journalism 网络影响传媒) #18764
+37.internet and journalism /what happened to journalism 互联网与新闻/ 网络影响传媒 #18764
 Recently, journalism has been faced with challenges. 
 This is because the rise of the Internet has a great impact on journalism, as it enables ordinary people to get involved in journalism. 
 Moreover, the Internet not only speeds up the spread of news, but also helps people gain information in various ways. 
@@ -569,7 +569,7 @@ In the final part, the speaker highlighted that the rapid rise of production was
 在讲座的第二部分，演讲者提到，工业革命是生产的快速增长。
 在讲座的最后部分，演讲者强调，生产的快速增长是与旧的生产形式联系在一起的。
 
-39.Smart consumers and brand 品牌与顾客需求(smart consumers and brand) #18719
+39.Smart consumers and brand/ smart consumers and brand 品牌与顾客需求/ 精明的消费者与品牌 #18719
 Consumers are incredibly smart, because they are able to combine a lifetime of experience with a brand. 
 As a result, brands are essential to our business to allow us to deliver the increased consumer value. 
 This is where the science starts. 
@@ -600,12 +600,13 @@ Finally, the speaker highlighted that melatonin plays a role in helping humans a
 在讲座的第二部分，演讲者提到，褪黑素与皮质醇不同。
 在讲座的最后部分，演讲者强调，褪黑素有助于人类和动物为夜间活动做好准备。
 
-41.Fishing Industry In Africa (Wildlife as Food)(wildlife as food and income)野生动物作为食物与经济来源 #18713
+41.wildlife as food/ wildlife as food and income 野生动物作为食物与经济来源 #18713
 All humans rely on wildlife as the source of food, and also the source of income. 
 For example, we consider fish as the single most important source of protein. 
 Therefore, the management of wild fish resources is very important to livelihoods and health. 
 Moreover, in many places, wildlife tourism can be the No.1 source of foreign income for economies.
 ---
+fishing industry in Africa
 The lecture is mainly about the fishing industry in Africa. 
 In the first part of the lecture, the speaker [states/ emphasizes] that wildlife is a source of food and income. 
 In the second part of the lecture, the speaker mentioned that the management of fish resources [influences health]. 
@@ -615,7 +616,7 @@ In the final part of the lecture, the speaker highlighted that the [wildlife tou
 在讲座的第二部分，演讲者提到，渔业资源的管理对健康产生影响。
 在讲座的最后部分，演讲者强调，野生动物旅游业很重要。
 
-42.Face Recognition 面部识别(facial recognition)#18738
+42.Face recognition 面部识别(facial recognition)#18738
 We're experts at recognizing faces. 
 We take the visual information and transform it, so that we can put a name to a face. 
 Face recognition is a hard problem, yet it's a clever thing we can do. 
@@ -660,7 +661,7 @@ In the final part, the speaker highlighted that if everything is correct, we can
 在讲座的第二部分，演讲者提到，宇宙在大约 137 亿年前的一次大爆炸中诞生。
 在讲座的最后部分，演讲者强调，如果一切都是正确的，我们就能理解宇宙。
 
-45.Architecture Design (demolition of buildings拆除建筑) #18788
+45.Architecture design (demolition of buildings拆除建筑) #18788
 Architecture is more than just the built environment, but also a part of our culture. 
 It stands as a representation of how we see ourselves. 
 In the 20th century, many old buildings with design flaws were demolished. 
@@ -806,11 +807,33 @@ Finally, the speaker highlighted that there are still no particularly effective 
 在讲座的第二部分，演讲者提到，儿童的人生机遇在很大程度上由五岁时决定。
 在讲座的最后部分，演讲者强调，对于这种社会不平等现象，至今仍缺乏好的解决办法。
 
+55.water cycle
+同 22.water cycle
+
+56.national wealth and Adam Smith 国家财富与亚当斯密
+答案:
+A nation’s wealth was believed to be the money people could pile up. 
+Then Adam Smith claimed that a nation's wealth came from agriculture as well as manufacture, and it was the ability to achieve high outputs. 
+National wealth was equal to the nation's income, as it measured national output. 
+As a result, his thought has set the stage for the era of industrialization. 
+原⽂:
+The concept of National Wealth has evolved significantly over time. 
+Before the Industrial Revolution, British economists believed a nation's wealth lay in how much money people could pile up. 
+This view focused on hoarding precious metals like gold and silver. 
+However, this perspective was famously challenged by Adam Smith, who was a landowner and capitalist. 
+In his 1776 book The Wealth of Nations, he claimed that a nation's wealth came from not only agriculture but also manufacture. 
+For Smith, the nation's wealth was of the ability to achieve high outputs. 
+In essence, overall, national wealth was equal to the nation's income since national income measured national output.
+This thinking directly set the stage for the era of industrialization. 
+Industrialization means harnessing machinery, factories, and new forms of energy to produce more output. 
+Its goal is to fill the world with goods, precisely the goods you dress in, you eat—the tangible products that improve daily life. 
+For decades following its rise, then manual manufacturing played the major role in this transformative process, moving production from homes to centralized factories.
+Within this expanded view of wealth, agricultural outputs count, but they become one part of a larger economic engine. Adam Smith's framework teaches us that a nation's prosperity is dynamic.
+-------------------------------------
+
 55.Hand in hand
 The first sentence: Sorry, hand in hand ...
 Key words: significant opportunities, performance, study overseas, money.
-
--------------------------------------
 
 3.A woman with student loans #18690
 The lecture is mainly about a woman with student loans. 
