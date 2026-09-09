@@ -1,16 +1,16 @@
-[SST]
+[SST]要求50-70词
 模板:
 This lecture is mainly about <word/phrase>. 
-In the first part of the lecture(Firstly), the speaker [states/ emphasizes] that <sentence1>. 
+In the first part of the lecture(First), the speaker [states/ emphasizes] that <sentence1>. 
 In the second part of the lecture(After that), he also mentions that <sentence2>(, and <sentence3>). 
 In the last part of the lecture(Finally/ Lastly), the speaker believes that <sentence4>(, and <sentence5>).
 In conclusion, <sentence6>.
 
 1.Einstein’s theory of universe 爱因斯坦的宇宙理论 #111026
 The lecture is mainly about Einstein's theory of the universe. 
-In the first part of the lecture, the speaker [states/ emphasizes] that for thousands of years, people thought space was fixed. 
-In the second part of the lecture, the speaker mentioned that Einstein changed our view of the universe. 
-In the final part, the speaker highlighted that space itself is changing. (59 words)
+First, the speaker [states/ emphasizes] that for thousands of years, people thought space was fixed. 
+After that, the speaker also mentions that Einstein changed our view of the universe. 
+Finally, the speaker believes that space itself is changing, and it is in a state of continuous dynamic change. (52 words)
 本次讲座主要探讨了爱因斯坦的宇宙理论。
 在讲座的第一部分，演讲者指出，人们曾认为空间是静止不动的，这种观念延续了数千年。
 在讲座的第二部分，演讲者提到，对宇宙的看法因为爱因斯坦而改变。
@@ -20,12 +20,21 @@ The stars and planets moved around on the completely unchanging stage of space.
 However, that view was then changed because of Einstein's work. 
 There was not an absolutely fixed stage of space. 
 Instead, space was in a state of continuous dynamic change. 
+过去人们认为宇宙是固定不变的。
+恒星和行星在完全不变的太空舞台上运动。
+然而，由于爱因斯坦的工作，这种观点被改变了。
+没有一个绝对固定的空间舞台。
+相反，空间处于持续动态变化的状态。
+completely                  adv. 完全地，彻底地
+absolutely                  adv. 绝对地，完全地；确实地，极其；
+continuous dynamic change   持续动态变化
+moved around on             在……上移动：在某物表面上移动身体或物体。
 
 2.Roman city planning 罗马城市规划(roman building) #111122
 The lecture is mainly about the city of Rome. 
-First, the speaker [states/ emphasizes] that the city grew in a relatively unplanned way. 
-In the second part, the speaker mentioned that romans structured the city in a very organized way. 
-Finally, the speaker highlighted that when the Romans built their ideal city, they used an army-camp design. (56 words)
+First, the speaker [states/ emphasizes] that the city grew in an unplanned way, and the streets are narrow. 
+In the second part, the speaker mentions that Romans structured the city in a very organized way. 
+Finally, the speaker believes that when the Romans built their ideal city, they used a military camp design. (56 words)
 本次讲座主要探讨了罗马城。
 在讲座的第一部分，演讲者指出，该城市是以简单随意的模式发展起来的。
 在讲座的第二部分，演讲者提到，罗马人以非常有条理的方式规划了城市结构。
@@ -34,12 +43,29 @@ The streets of the city of Rome are relatively narrow.
 This is because the city wasn't planned all at once, and it just grew up over time. 
 At the very beginning, the Romans structured it in a methodical way, which was basically based on military strategy and planning. 
 As a result, the city has been built like a military camp.
+罗马的街道相对狭窄。
+这是因为这座城市并不是一下子就规划好的，而是随着时间的推移而发展起来的。
+一开始，罗马人就以一种系统的方式来构建它，这基本上是基于军事战略和计划。
+结果，这座城市就像一个军营。
+relatively                  adv. 相当地，相对地
+structured                  v. 计划，组织，安排
+                            n. 结构，构造；结构体，（尤指）大型建筑物；
+                            周密安排，精心组织；机构，组织，体系
+narrow                      adj. 狭窄的，狭小的；
+                            v. （人的眼睛）眯起来；使缩小，压缩；使变窄，变窄
+                            n. 海峡；狭窄部分
+over time                   随着时间的推移；久而久之
+it just grew up over time   它只是随着时间的推移而成长
+basically                   adv. 基本上，大体上；从根本上说，总的说来
+military camp               军营
+in a methodical way         有条不紊地
 
 3.a luxury brand 奢侈品牌 #111184
 The lecture is mainly about luxury brands. 
-In the first part of the lecture, the speaker [states/ emphasizes] that distinguishing luxury brands is a difficult question. 
-In the second part of the lecture, the speaker mentioned that the answer is different for different people. 
-In the final part of the lecture, the speaker highlighted that the answer is complicated. (57 words)
+First, the speaker [states/ emphasizes] that it is very hard to answer what makes a luxury brand and how we distinguish it. 
+He also mentions that despite the high price, luxury brands still sell in the millions.
+After that, the speaker mentions that the answer is different for different people. 
+Finally, the speaker believes that the answer is complicated. (56 words)
 本次讲座主要探讨了奢侈品牌。
 在讲座的第一部分，演讲者指出，我们如何区分奢侈品牌是一个难题。
 在讲座的第二部分，演讲者提到，答案因人而异。
@@ -48,25 +74,58 @@ It is very hard to answer what makes a luxury brand and how we distinguish it.
 A brand is exclusive because of its high price and relatively small quantities of the product available. 
 Despite the high price, luxury brands are still sold in millions. 
 Therefore, the long answer is a complicated one, and it depends on whom you talk to.
+很难回答是什么造就了一个奢侈品牌，以及我们如何区分它。
+一个品牌是排他性的，因为它的价格高，产品的数量相对较少。
+尽管价格高昂，但奢侈品牌的销量仍以百万计。
+因此，长答案是一个复杂的答案，这取决于你与谁交谈。
+distinguishing              adj. （常作定语）有区别的，起区分作用的，辨识性的
+                            v. 区别，区分，辨别；表现突出
+exclusive                   adj. 独有的，专用的；高档的，昂贵的；
+                            不含……的；排外的；排斥的
+small quantities of         极少量的
+product available           产品有货
+complicated                 adj. 复杂的，难处理的
+                            v. 使复杂化，使难以理解；引起并发症
+relatively                  adv. 相当地，相对地
 
 4.The definition of risk 定义的风险 #111043
-The literal definition of risk mainly has two parts. 
-One is the consequence of particular danger or hazard loss. 
-The other one is the probability or chance of it. 
-Thus, safety usually means that we are free from harm or risk, or secure from danger or harm. 
-It can also refer to the condition of being safe.
+The lecture is mainly about the definition of risk.
+First, the speaker mentions that the literal definition of risk mainly has two parts. 
+One is the consequence of a particular danger, and the other is the probability or chance of it happening. 
+Thus, safety usually refers to the condition of being safe.
+这个讲座主要是关于风险的定义。
+首先，演讲者提到风险的字面定义主要有两个部分。
+一种是特定危险的后果，另一种是发生危险的概率或机会。
+因此，安全通常是指安全的状态。
+consequence                 n. 结果，后果；重要性，价值
+the consequence of          ……的后果
+particular danger           特定危险
+hazard loss                 危害损失
+hazard                      n. 危险，危害；（不可避免的）风险；
+                            v. 冒失地提出，冒险猜测；使遭危险，使处于危险
+probability                 n. 可能性，或然性；可能发生的事，可能真实的事
+the condition of being safe 安全的状态
 
 5.Organizational study 组织研究 #111147
 Organization studies seem to draw on the whole family of social sciences. 
-It requires you to have broad familiarization. 
+It requires you to have broad awareness. 
 Other than that, what studying organizations teaches us is actually the artificiality of those academic subdivisions. 
 As a result, we can actually be free to imagine and think about the social world.
+组织研究似乎利用了整个社会科学家族。
+它需要你有广泛的熟悉。
+除此之外，研究组织教会我们的实际上是那些学术细分的人为性。
+因此，我们实际上可以自由地想象和思考社会世界。
+draw on                     v. 利用，借鉴，动用（经验、知识、资源、存款等）
+broad awareness             广泛的认知
+Other than that             除此之外
+artificiality               n. 人为性，人工性；不自然，做作；人造物，不自然之物
+subdivisions                n. 细分，再分，分割；分部，分支，分区；
 
 6.Paper rejection 论文遭拒 #21450
 The lecture is mainly about paper rejection. 
 First, the speaker [states/ emphasizes] that some advice was offered on publishing a paper. 
-Second, the speaker mentioned that rejection can lead to better results and can be good for a career path. 
-Finally, the speaker highlighted that it is important to attract young researchers and keep them engaged. (55 words)
+Second, the speaker mentions that rejection can lead to better results and can be good for a career path. 
+Finally, the speaker believes that it is important to attract young researchers and keep them engaged. (55 words)
 本次讲座主要探讨了论文被拒的问题。
 在讲座的第一部分，演讲者指出，他正在就发表论文提供一些建议。
 在讲座的第二部分，演讲者提到，被拒会带来更好的结果，对职业发展有好处。
@@ -79,8 +138,8 @@ Therefore, you can use this feedback to improve your paper.
 7.the stability of mood 情绪的稳定性 #111185
 The lecture is mainly about mood. 
 In the first part of the lecture, the speaker [states/ emphasizes] that mood can differ among different people. 
-In the second part of the lecture, the speaker mentioned that the secret to happiness is control and mild restraint. 
-Finally, the speaker highlighted that we should keep a balance between intense and mild emotions. (57 words)
+In the second part of the lecture, the speaker mentions that the secret to happiness is control and mild restraint. 
+Finally, the speaker believes that we should keep a balance between intense and mild emotions. (57 words)
 本次讲座主要探讨了情绪问题。
 在讲座的第一部分，演讲者指出，不同人的情绪可能会有所不同。
 在讲座的第二部分，演讲者提到，幸福的秘诀在于控制/适度克制。
@@ -99,8 +158,8 @@ Several systems work together to control an automated vehicle, which is how an a
 Automated driving #18758
 The lecture is mainly about automated driving. 
 First, the speaker [states/ emphasizes] that automated driving involves level three and level four systems. 
-In the second part of the lecture, the speaker mentioned that level three is the conditional automated mode. 
-In the final part of the lecture, the speaker highlighted that level four automation can save power and is more efficient than level three. (62 words)
+In the second part of the lecture, the speaker mentions that level three is the conditional automated mode. 
+Finally of the lecture, the speaker believes that level four automation can save power and is more efficient than level three. (62 words)
 本次讲座主要探讨了自动驾驶。
 在讲座的第一部分，演讲者指出，自动驾驶涉及 3 级和 4 级系统。
 在讲座的第二部分，演讲者提到，3 级自动驾驶属于半驾驶模式。
@@ -115,8 +174,8 @@ As a result, we have made the market economy work better than it did a hundred y
 Marketing #18671
 The lecture is mainly about marketing. 
 In the first part of the lecture, the speaker [states/ emphasizes] that marketing is the process of moving goods and services from suppliers to customers. 
-In the second part of the lecture, the speaker mentioned that profit models can [ensure a return on capital]. 
-In the final part of the lecture, the speaker highlighted that marketing [is directly linked to] sales growth. (66 words)
+In the second part of the lecture, the speaker mentions that profit models can [ensure a return on capital]. 
+Finally of the lecture, the speaker believes that marketing [is directly linked to] sales growth. (66 words)
 本次讲座主要探讨了市场营销。
 在讲座的第一部分，演讲者指出，市场营销是将商品和服务从供应商转移到客户的过程。
 在讲座的第二部分，演讲者提到，盈利模式可以确保资本回报。
@@ -130,8 +189,8 @@ Thus, the best manager should not only know their organization better, but also 
 ---
 The lecture is mainly about managers. 
 First, the speaker [states/ emphasizes] that managers should learn more by reading more books and going back to university to improve themselves.
-In the second part, the speaker mentioned that management knowledge and skills are more important than experience. 
-In the final part of the lecture, the speaker highlighted that the best managers should be teachers of management. (62 words)
+In the second part, the speaker mentions that management knowledge and skills are more important than experience. 
+Finally of the lecture, the speaker believes that the best managers should be teachers of management. (62 words)
 本次讲座主要探讨了管理者。
 在讲座的第一部分，演讲者指出，管理者应通过多读书和重返校园来提升自我。
 在讲座的第二部分，演讲者提到，管理知识与技能比经验更为重要。
@@ -145,8 +204,8 @@ Overall, the rapid expansion in the power of computing has guided the developmen
 ---
 The lecture is mainly about the history of software. 
 First, the speaker [states/ emphasizes] that the history of software is very new, and its growth has been rapid. 
-In the second part, the speaker mentioned that the rapid expansion of computing power and the rapid decline in cost have driven this. 
-Finally, the speaker highlighted that this enabled information technology to move into all areas of life. (65 words)
+In the second part, the speaker mentions that the rapid expansion of computing power and the rapid decline in cost have driven this. 
+Finally, the speaker believes that this enabled information technology to move into all areas of life. (65 words)
 本次讲座主要探讨了软件的发展历程。
 在讲座的第一部分，演讲者指出，软件历史极为短暂，且增长迅速。
 在讲座的第二部分，演讲者提到，计算能力的迅猛扩张与成本的急剧下降。
@@ -162,8 +221,8 @@ Besides, it can also improve self-regulation and critical thinking skills.
 Social skills
 The lecture is mainly about the importance of social skills. 
 First, the speaker [states/ emphasizes] that social skills and understanding help build positive interpersonal relationships and reduce the risk of conflict. 
-In the second part, the speaker mentioned that a team film project involving students was used as an example. 
-Finally, the speaker highlighted that this approach enhances students' self-regulation and critical thinking abilities. (62 words)
+In the second part, the speaker mentions that a team film project involving students was used as an example. 
+Finally, the speaker believes that this approach enhances students' self-regulation and critical thinking abilities. (62 words)
 本次讲座主要探讨了社交技能的重要性。
 在讲座的第一部分，演讲者指出，社交技能与理解能力如何帮助建立良好的关系并减少冲突。
 在讲座的第二部分，演讲者提到，以涉及学生的协作式电影制作项目为例。
@@ -177,8 +236,8 @@ However, awareness is being raised all the time and people are taking action.
 ---
 The lecture is mainly about the decline of bees. 
 In the first part of the lecture, the speaker [states/ emphasizes] that these declines are supported by strong scientific evidence. 
-In the second part of the lecture, the speaker mentioned that the reasons for decline are different. 
-In the final part, the speaker highlighted that we are aware of the problem, and people are taking action. (63 words)
+In the second part of the lecture, the speaker mentions that the reasons for decline are different. 
+Finally, the speaker believes that we are aware of the problem, and people are taking action. (63 words)
 本次讲座主要探讨了蜜蜂数量的减少问题。
 在讲座的第一部分，演讲者指出，这些减少现象有强有力的科学证据支持。
 在讲座的第二部分，演讲者提到，减少的原因各不相同。
@@ -192,8 +251,8 @@ The other explanation is that there are psychological reasons, as these people d
 ---
 The lecture is mainly about an experiment about female body fat. 
 In the first part of the lecture, the speaker [states/ emphasizes] that thirty-one overweight women joined the experiment. 
-In the second part of the lecture, the speaker mentioned that they need to exercise every day. 
-In the final part of the lecture, the speaker highlighted that some people ate more or exercised less. (62 words)
+In the second part of the lecture, the speaker mentions that they need to exercise every day. 
+Finally of the lecture, the speaker believes that some people ate more or exercised less. (62 words)
 本次讲座主要探讨了女性体脂的实验。
 在讲座的第一部分，演讲者指出，31 名肥胖女性参与了实验。
 在讲座的第二部分，演讲者提到，她们需要每天坚持锻炼。
@@ -207,8 +266,8 @@ It prevents any single branch from growing too powerful and improves fairness an
 ---
 The lecture is mainly about the separation of powers. 
 First, the speaker [states/ emphasizes] that the separation of powers means dividing government power into three parts. 
-In the second part of the lecture, the speaker mentioned that one is to make the laws, and the second is to enforce the laws. 
-Finally, the speaker highlighted that the third is to explain the laws. (62 words)
+In the second part of the lecture, the speaker mentions that one is to make the laws, and the second is to enforce the laws. 
+Finally, the speaker believes that the third is to explain the laws. (62 words)
 本次讲座主要探讨了三权分立原则。
 在讲座的第一部分，演讲者指出，三权分立意味着将政府权力划分为三个部分。
 在讲座的第二部分，演讲者提到，其中一部分负责制定法律，第二部分负责执行法律。
@@ -222,8 +281,8 @@ This is the reason why we like them.
 ---
 The lecture is mainly about symmetry in mathematics. 
 First, the speaker [states/ emphasizes] that old objects in museums can have great mathematical significance. 
-Second, the speaker mentioned that the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry. 
-Finally, the speaker highlighted that we don't know what these stones are for. Maybe they were mathematical objects for joy and beauty. (67 words)
+Second, the speaker mentions that the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry. 
+Finally, the speaker believes that we don't know what these stones are for. Maybe they were mathematical objects for joy and beauty. (67 words)
 本次讲座主要探讨了数学中的对称性。
 在讲座的第一部分，演讲者指出，博物馆中的古老物件往往蕴含丰富的数学意义。
 在讲座的第二部分，演讲者提到，在苏格兰发现的五千年前石器，是人类探索对称概念的最早实例。
@@ -238,8 +297,8 @@ As we migrated away, there was not adequate sunlight, so we created a need for v
 ---
 The lecture is mainly about vitamin D. 
 In the first part of the lecture, the speaker [states/ emphasizes] that vitamin D is called the sunshine vitamin. 
-In the second part, the speaker mentioned that if you get enough sunshine, there is no dietary need for vitamin D. 
-In the final part of the lecture, the speaker highlighted that vitamin D is not a vitamin. (63 words)
+In the second part, the speaker mentions that if you get enough sunshine, there is no dietary need for vitamin D. 
+Finally of the lecture, the speaker believes that vitamin D is not a vitamin. (63 words)
 本次讲座主要探讨了维生素 D。
 在讲座的第一部分，演讲者指出，维生素 D 被称为阳光维生素。
 在讲座的第二部分，演讲者提到，如果你得到足够的阳光，就不需要维生素D。
@@ -252,8 +311,8 @@ As a result, the staff working in the newspaper industry has decreased by more t
 ---
 The lecture is mainly about newspapers. 
 In the first part of the lecture, the speaker [states/ emphasizes] that in some American states, the newspaper industry is shrinking. 
-In the second part of the lecture, the speaker mentioned that business models are changing. 
-In the final part of the lecture, the speaker highlighted that some small newspapers decided to go online, and some newspapers disappeared. (62 words)
+In the second part of the lecture, the speaker mentions that business models are changing. 
+Finally of the lecture, the speaker believes that some small newspapers decided to go online, and some newspapers disappeared. (62 words)
 本次讲座主要探讨了报纸行业。
 在讲座的第一部分，演讲者指出，在美国某些州，报纸行业正在萎缩。
 在讲座的第二部分，演讲者提到，商业模式正在发生变化。
@@ -261,15 +320,15 @@ In the final part of the lecture, the speaker highlighted that some small newspa
 
 19.Dangers of keeping drugs at home/ Misuse of drugs 用药不当的危害/ 滥用药物 #18720
 There are a number of dangers of keeping drugs at home. 
-Firstly, they may be accidentally ingested by children. 
+First, they may be accidentally ingested by children. 
 Secondly, patients may use the drugs after their expiration date. 
 Thirdly, the leftover drugs may be taken for the wrong reasons. 
 To solve this problem, physicians should prescribe the drugs only when appropriate, and the full course of the drug must be taken.
 ---
 The lecture is mainly about the dangers of keeping medicine at home. 
 In the first part of the lecture, the speaker [states/ emphasizes] that children may ingest the drugs. 
-In the second part of the lecture, the speaker mentioned that the medicine may be taken for the wrong reasons. 
-In the final part of the lecture, the speaker highlighted that doctors should give the right amount of medicine. (66 words)
+In the second part of the lecture, the speaker mentions that the medicine may be taken for the wrong reasons. 
+Finally of the lecture, the speaker believes that doctors should give the right amount of medicine. (66 words)
 本次讲座主要探讨了家中存放药品的危险性。
 在讲座的第一部分，演讲者指出，儿童可能会误食药品。
 在讲座的第二部分，演讲者提到，药品可能被用于不当的原因。
@@ -283,8 +342,8 @@ To be more specific, young people are rejecting the culture they have grown up i
 ---
 The lecture is mainly about globalization and detraditionalization. 
 In the first part of the lecture, the speaker [states/ emphasizes] that we all live in a global village. 
-In the second part, the speaker mentioned that globalization enables us to share ideas across the world. 
-In the final part of the lecture, the speaker highlighted that detraditionalization can cause the loss of traditional cultures. (62 words)
+In the second part, the speaker mentions that globalization enables us to share ideas across the world. 
+Finally of the lecture, the speaker believes that detraditionalization can cause the loss of traditional cultures. (62 words)
 本次讲座主要探讨了全球化与去传统化。
 在讲座的第一部分，演讲者指出，我们都生活在一个地球村中。
 在讲座的第二部分，演讲者提到，全球化意味着我们能够在全球范围内共享思想。
@@ -321,8 +380,8 @@ This runoff may empty into lakes, rivers, and streams and then is carried back t
 ---
 The lecture is mainly about water recycling. 
 In the first part of the lecture, the speaker [states/ emphasizes] that water recycling is necessary. 
-In the second part of the lecture, the speaker mentioned that there is technology available for industrial use, but there is little technology available for home use. 
-In the final part, the speaker highlighted that on the local level, water recycling at home is important. (66 words)
+In the second part of the lecture, the speaker mentions that there is technology available for industrial use, but there is little technology available for home use. 
+Finally, the speaker believes that on the local level, water recycling at home is important. (66 words)
 本次讲座主要探讨了水循环利用问题。
 在讲座的第一部分，演讲者指出，水循环利用是有需要的。
 在讲座的第二部分，演讲者提到，工业领域已有相关技术可用，但家庭使用的技术却很少。
@@ -336,8 +395,8 @@ Negativity bias can help us evaluate the environment and survive when we face li
 ---
 The lecture is mainly about negative bias. 
 First, the speaker [states/ emphasizes] that we are more likely to sense negative emotions to help us survive. 
-In the second part of the lecture, the speaker mentioned that the positive emotions we experience are more limited. 
-Finally, the speaker highlighted that bad emotions are less frequent but more intense. (56 words)
+In the second part of the lecture, the speaker mentions that the positive emotions we experience are more limited. 
+Finally, the speaker believes that bad emotions are less frequent but more intense. (56 words)
 本次讲座主要探讨了负面偏见。
 在讲座的第一部分，演讲者指出，我们更容易感知负面情绪，这有助于人类生存。
 在讲座的第二部分，演讲者提到，我们体验到的积极情绪较少。
@@ -353,8 +412,8 @@ Thus, when it comes to smiles, babies seem to know exactly what they're up to.
 ---
 The lecture is mainly about baby smiles. 
 First, the speaker [states/ emphasizes] that babies want the people they talk with to give them a smile in return. 
-In the second part, the speaker mentioned that the researchers found four types of mother-infant relationships. 
-In the final part of the lecture, the speaker highlighted that mothers want to talk, while babies just want to smile. (62 words)
+In the second part, the speaker mentions that the researchers found four types of mother-infant relationships. 
+Finally of the lecture, the speaker believes that mothers want to talk, while babies just want to smile. (62 words)
 本次讲座主要探讨了婴儿的微笑。
 在讲座的第一部分，演讲者指出，婴儿希望与之互动的人能给予他们微笑回应。
 在讲座的第二部分，演讲者提到，研究人员发现了母婴关系的四种方式。
@@ -369,8 +428,8 @@ As a result of these changes, people started to think about supermarkets with ma
 ---
 The lecture is mainly about canned foods during the Great Depression. 
 In the first part of the lecture, the speaker [states/ emphasizes] that canned foods became popular. 
-In the second part of the lecture, the speaker mentioned that people could buy refrigerators. 
-In the final part of the lecture, the speaker highlighted that supermarkets became fashionable. (55 words)
+In the second part of the lecture, the speaker mentions that people could buy refrigerators. 
+Finally of the lecture, the speaker believes that supermarkets became fashionable. (55 words)
 本次讲座主要探讨了大萧条时期的罐头食品。
 在讲座的第一部分，演讲者指出，罐头食品开始流行起来。
 在讲座的第二部分，演讲者提到，人们能够购买冰箱。
@@ -384,8 +443,8 @@ The result shows that customers are more motivated by a potential loss when not 
 ---
 The lecture is mainly about a credit card experiment. 
 First, the speaker [states/ emphasizes] that some inactive credit card users received a message, and they could gain benefits by using their cards. 
-Second, the speaker mentioned that other users would pay money or [face a fine] if they did not use their cards. 
-Finally, the speaker highlighted that customers are more likely to be driven by potential losses. (66 words)
+Second, the speaker mentions that other users would pay money or [face a fine] if they did not use their cards. 
+Finally, the speaker believes that customers are more likely to be driven by potential losses. (66 words)
 本次讲座主要探讨了一项信用卡实验。
 在讲座的第一部分，演讲者指出，部分闲置信用卡用户收到了一条信息，提示他们使用信用卡可获得奖励。
 在讲座的第二部分，演讲者提到，其他用户若不使用信用卡将需要付出费用。
@@ -407,8 +466,8 @@ The stock market also tends to put money into big companies.
 ---
 The lecture is mainly about the stock market and modern business. 
 In the first part of the lecture, the speaker [states/ emphasizes] that manufacturing companies entered the market. 
-In the second part of the lecture, the speaker mentioned that big modern companies include Apple, Google, and Microsoft. 
-Finally, the speaker highlighted that there are differences between them. (56 words)
+In the second part of the lecture, the speaker mentions that big modern companies include Apple, Google, and Microsoft. 
+Finally, the speaker believes that there are differences between them. (56 words)
 本次讲座主要探讨了股票市场与现代商业。
 在讲座的第一部分，演讲者指出，制造工厂公司纷纷进入市场。
 在讲座的第二部分，演讲者提到，大型现代企业包括苹果、谷歌和微软。
@@ -417,7 +476,7 @@ Finally, the speaker highlighted that there are differences between them. (56 wo
 29.Great ideas 好想法 #18789
 To be successful, you should have great ideas. 
 A great idea should have three features. 
-Firstly, it should be various and novel. 
+First, it should be various and novel. 
 Secondly, great ideas should be unique. 
 Constant innovation effectively makes ideas unique. 
 A unique idea often serves its purpose in a better way. 
@@ -425,8 +484,8 @@ Thirdly, a great idea should be transformative and protect.
 ---
 The lecture is mainly about great ideas. 
 In the first part of the lecture, the speaker [states/ emphasizes] that a great idea should be new. 
-In the second part of the lecture, the speaker mentioned that a great idea should be unique. 
-In the final part of the lecture, the speaker highlighted that a great idea should be productive. (57 words)
+In the second part of the lecture, the speaker mentions that a great idea should be unique. 
+Finally of the lecture, the speaker believes that a great idea should be productive. (57 words)
 本次讲座主要探讨了伟大思想。
 在讲座的第一部分，演讲者指出，伟大思想应当具有新颖性。
 在讲座的第二部分，演讲者提到，伟大思想应当独具特色。
@@ -441,8 +500,8 @@ For example, a cell that's programmed to make a useful compound is called a cell
 Applications in biology
 The lecture is mainly about applications in biology. 
 First, the speaker [states/ emphasizes] that scientists can engineer nature. 
-In the second part, the speaker mentioned that scientists could write DNA and create new cells 40 years ago. 
-In the final part of the lecture, the speaker highlighted that scientists use microscale tools in experiments in the lab and can get bacteria the next day. (62 words)
+In the second part, the speaker mentions that scientists could write DNA and create new cells 40 years ago. 
+Finally of the lecture, the speaker believes that scientists use microscale tools in experiments in the lab and can get bacteria the next day. (62 words)
 本次讲座主要探讨了生物学领域的应用。
 在讲座的第一部分，演讲者指出，科学家能够改造自然。
 在讲座的第二部分，演讲者提到，四十年前科学家已能制作 DNA 并创造新细胞。
@@ -456,8 +515,8 @@ Darwin realized that by improving the reproductivity of the queen bees, the gene
 ---
 The lecture is mainly about bee genes and Darwin's theory. 
 First, the speaker [states/ emphasizes] that worker bees will give their lives to help the queen pass her genes to the next generation. 
-Second, the speaker mentioned that the worker bees give up reproduction and help the queen reproduce, and they will die if needed. 
-Finally, the speaker highlighted that these behaviors help explain Darwin's evolutionary theory. (65 words)
+Second, the speaker mentions that the worker bees give up reproduction and help the queen reproduce, and they will die if needed. 
+Finally, the speaker believes that these behaviors help explain Darwin's evolutionary theory. (65 words)
 本次讲座主要探讨了蜜蜂基因与达尔文理论。
 在讲座的第一部分，演讲者指出，工蜂会献出生命来帮助蜂后将基因传递给下一代。
 在讲座的第二部分，演讲者提到，工蜂不生育并协助蜂后繁衍，必要时工蜂会为此献出生命。
@@ -472,8 +531,8 @@ This system is the way in which the economy in one country depends on another.
 ---
 The lecture is mainly about the definitions of globalization. 
 In the first part of the lecture, the speaker [states/ emphasizes] that globalization increases international communication. 
-In the second part of the lecture, the speaker mentioned that countries become integrated into the system. 
-In the final part, the speaker highlighted that globalization creates new areas of economic growth. (56 words)
+In the second part of the lecture, the speaker mentions that countries become integrated into the system. 
+Finally, the speaker believes that globalization creates new areas of economic growth. (56 words)
 本次讲座主要探讨了全球化的定义。
 在讲座的第一部分，演讲者指出，全球化促进了国际交流。
 在讲座的第二部分，演讲者提到，国家在这个体系中结合在一起。
@@ -487,8 +546,8 @@ This happens in areas which control instinctive responses, and communicate with 
 ---
 The lecture is mainly about the stress response and emotions. 
 In the first part of the lecture, the speaker [states/ emphasizes] that emotions have a purpose. 
-In the second part of the lecture, the speaker mentioned that basic emotions are key messengers. 
-In the final part, the speaker highlighted that the brain uses information to control fast responses and create strong signals. (60 words)
+In the second part of the lecture, the speaker mentions that basic emotions are key messengers. 
+Finally, the speaker believes that the brain uses information to control fast responses and create strong signals. (60 words)
 本次讲座主要探讨了应激反应和情绪的关系。
 在讲座的第一部分，演讲者指出，情绪是有目的的。、
 在讲座的第二部分，演讲者提到，基本的情绪是关键的信使。
@@ -503,8 +562,8 @@ In this way, students can learn from them and care about them.
 ---
 The lecture is mainly about modern poetry. 
 First, the speaker [states/ emphasizes] that works by several poets were discussed. 
-In the second part, the speaker mentioned that modernism is one of the most fruitful areas in English literature. 
-Finally, the speaker highlighted that people can derive pleasure or have fun, experience confusion, and find help in poetry. (55 words)
+In the second part, the speaker mentions that modernism is one of the most fruitful areas in English literature. 
+Finally, the speaker believes that people can derive pleasure or have fun, experience confusion, and find help in poetry. (55 words)
 本次讲座主要探讨了现代诗歌。
 在讲座的第一部分，演讲者指出，讲座主要分析了多位诗人的作品。
 在讲座的第二部分，演讲者提到，现代主义是英语文学中非常伟大的部分。
@@ -520,8 +579,8 @@ Therefore, balancing its advantages and shortcomings will be crucial for maintai
 ---
 The lecture is mainly about the advantages and drawbacks of online research. 
 First, the speaker [states/ emphasizes] that online research is quicker than conventional methods, and there is no gap between quantity and quality. 
-Second, the speaker mentioned that the drawback is that we cannot communicate face-to-face. 
-Finally, the speaker highlighted that we cannot pick up cues such as body language, which means we don't know who is on the other side. (70 words)
+Second, the speaker mentions that the drawback is that we cannot communicate face-to-face. 
+Finally, the speaker believes that we cannot pick up cues such as body language, which means we don't know who is on the other side. (70 words)
 本次讲座主要探讨了在线调研的优缺点。
 在讲座的第一部分，演讲者指出，在线调研比旧方法更快速，且数量与质量之间没有距离。
 在讲座的第二部分，演讲者提到，其缺点在于我们无法面对面交流。
@@ -534,8 +593,8 @@ Although there will be an increase of the cost of the production, there is also 
 ---
 The lecture is mainly about food crisis. 
 In the first part of the lecture, the speaker [states/ emphasizes] that people suffered from a serious food crisis. 
-In the second part of the lecture, the speaker mentioned that people must double food production. 
-In the final part of the lecture, the speaker highlighted that it is urgent to increase production. (57 words)
+In the second part of the lecture, the speaker mentions that people must double food production. 
+Finally of the lecture, the speaker believes that it is urgent to increase production. (57 words)
 本次讲座主要探讨了食物危机。
 在讲座的第一部分，演讲者指出，人们遭受了严重的粮食危机。
 在讲座的第二部分，演讲者提到，我们必须生产双倍的食物。
@@ -548,8 +607,8 @@ Moreover, the Internet not only speeds up the spread of news, but also helps peo
 ---
 The lecture is mainly about Internet and journalism. 
 In the first part of the lecture, the speaker [states/ emphasizes] that people like such changes, and they think the internet can improve the spread of news and help people gain information. 
-In the second part, the speaker mentioned that journalism is becoming a team process. 
-Finally, the speaker highlighted that the internet is reshaping how news is produced and consumed. (67 words)
+In the second part, the speaker mentions that journalism is becoming a team process. 
+Finally, the speaker believes that the internet is reshaping how news is produced and consumed. (67 words)
 本次讲座主要探讨了网络和新闻。
 在讲座的第一部分，演讲者指出，人们喜欢这种改变，并且他们认为互联网可以提升新闻的传播并帮助人们获得信息。
 在讲座的第二部分，演讲者提到，新闻业正在成为一个团队合作的过程。
@@ -563,8 +622,8 @@ In fact, the industrial revolution was an intensification of forms and productio
 ---
 The lecture is mainly about the Industrial Revolution. 
 First, the speaker [states/ emphasizes] that the Industrial Revolution was more than large factories and machines. 
-Second, the speaker mentioned that the Industrial Revolution was a period of fast growth of production. 
-In the final part, the speaker highlighted that the rapid rise of production was linked to traditional forms of production. (56 words)
+Second, the speaker mentions that the Industrial Revolution was a period of fast growth of production. 
+Finally, the speaker believes that the rapid rise of production was linked to traditional forms of production. (56 words)
 本次讲座主要探讨了工业革命。在讲座的第一部分，演讲者指出，工业革命不仅是以大型工厂和机器来衡量的。
 在讲座的第二部分，演讲者提到，工业革命是生产的快速增长。
 在讲座的最后部分，演讲者强调，生产的快速增长是与旧的生产形式联系在一起的。
@@ -577,8 +636,8 @@ There are also many engineering contradictions during this process.
 ---
 The lecture is mainly about the relationship between smart consumers and brands. 
 First, the speaker [states/ emphasizes] that a brand is very important to smart consumers. 
-In the second part of the lecture, the speaker mentioned that the Second Moment of Truth is important, and the product must have good quality. 
-Finally, the speaker highlighted that there are hard problems in making the products both strong and soft. (66 words)
+In the second part of the lecture, the speaker mentions that the Second Moment of Truth is important, and the product must have good quality. 
+Finally, the speaker believes that there are hard problems in making the products both strong and soft. (66 words)
 本次讲座主要探讨了聪明消费者与品牌的关系。
 在讲座的第一部分，演讲者指出，品牌对聪明的消费者非常重要。
 在讲座的第二部分，演讲者提到，“第二次真相时刻”很重要，产品必须具备良好的品质。
@@ -593,8 +652,8 @@ This means that melatonin occurs at night, and prepares us for the things we do 
 ---
 The lecture is mainly about melatonin. 
 In the first part of the lecture, the speaker [states/ emphasizes] that melatonin is generated by the brain. 
-In the second part of the lecture, the speaker mentioned that melatonin is different from cortisol, and it follows a rhythm opposite to that of cortisol. 
-Finally, the speaker highlighted that melatonin plays a role in helping humans and animals prepare for nighttime activity. (66 words)
+In the second part of the lecture, the speaker mentions that melatonin is different from cortisol, and it follows a rhythm opposite to that of cortisol. 
+Finally, the speaker believes that melatonin plays a role in helping humans and animals prepare for nighttime activity. (66 words)
 本次讲座主要探讨了褪黑素。
 在讲座的第一部分，演讲者指出，褪黑素由大脑产生。
 在讲座的第二部分，演讲者提到，褪黑素与皮质醇不同。
@@ -609,8 +668,8 @@ Moreover, in many places, wildlife tourism can be the No.1 source of foreign inc
 fishing industry in Africa
 The lecture is mainly about the fishing industry in Africa. 
 In the first part of the lecture, the speaker [states/ emphasizes] that wildlife is a source of food and income. 
-In the second part of the lecture, the speaker mentioned that the management of fish resources [influences health]. 
-In the final part of the lecture, the speaker highlighted that the [wildlife tourism industry] is important. (63 words)
+In the second part of the lecture, the speaker mentions that the management of fish resources [influences health]. 
+Finally of the lecture, the speaker believes that the [wildlife tourism industry] is important. (63 words)
 本次讲座主要探讨了非洲渔业。
 在讲座的第一部分，演讲者指出，野生动物既是食物来源，也是资金来源。
 在讲座的第二部分，演讲者提到，渔业资源的管理对健康产生影响。
@@ -624,8 +683,8 @@ We can recognize different types of faces, and get different types of informatio
 ---
 The lecture is mainly about recognizing faces. 
 In the first part of the lecture, the speaker [states/ emphasizes] that humans are good at face recognition. 
-In the second part of the lecture, the speaker mentioned that face recognition is a hard problem, and it is impressive that we can recognize different types of information. 
-In the final part, the speaker highlighted that people need to appreciate face recognition. (66 words)
+In the second part of the lecture, the speaker mentions that face recognition is a hard problem, and it is impressive that we can recognize different types of information. 
+Finally, the speaker believes that people need to appreciate face recognition. (66 words)
 本次讲座主要探讨了人脸识别。
 在讲座的第一部分，演讲者指出，人类擅长人脸识别。
 在讲座的第二部分，演讲者提到，人脸识别是一个难题，能够识别不同类型的信息是一件聪明的事情。
@@ -639,8 +698,8 @@ However, the court didn't approve our appeal because they think chimpanzees are 
 ---
 The lecture is mainly about chimpanzees. 
 First, the speaker [states/ emphasizes] that they wanted to release a chimpanzee. For this chimpanzee had been kept for research for many years. 
-In the second part, the speaker mentioned that the court dismissed the appeal because chimpanzees are not persons. 
-Finally, the speaker highlighted that they will keep trying this year to get legal rights for animals. (62 words)
+In the second part, the speaker mentions that the court dismissed the appeal because chimpanzees are not persons. 
+Finally, the speaker believes that they will keep trying this year to get legal rights for animals. (62 words)
 本次讲座主要探讨了黑猩猩。
 在讲座的第一部分，演讲者指出，首先，他们希望释放一只黑猩猩。这只黑猩猩因研究而被关押多年。
 在讲座的第二部分，演讲者提到，之后，法院驳回了请求，因为黑猩猩不是“人”。
@@ -654,8 +713,8 @@ However, we are unsure about what will happen in the future.
 ---
 The lecture is mainly about the Big Bang theory. 
 In the first part of the lecture, the speaker [states/ emphasizes] that the universe began with a Big Bang. 
-In the second part of the lecture, the speaker mentioned that the universe started with a Big Bang about 13.7 billion years ago. 
-In the final part, the speaker highlighted that if everything is correct, we can understand the universe. (66 words)
+In the second part of the lecture, the speaker mentions that the universe started with a Big Bang about 13.7 billion years ago. 
+Finally, the speaker believes that if everything is correct, we can understand the universe. (66 words)
 本次讲座主要探讨了大爆炸理论。
 在讲座的第一部分，演讲者指出，宇宙始于一次大爆炸。
 在讲座的第二部分，演讲者提到，宇宙在大约 137 亿年前的一次大爆炸中诞生。
@@ -671,8 +730,8 @@ It is unfair to criticize the demolition, because there is an importance in hono
 The Design of Buildings
 The lecture is mainly about the design of buildings. 
 In the first part of the lecture, the speaker [states/ emphasizes] that design is important to a building. 
-In the second part of the lecture, the speaker mentioned that there are some bad buildings and some great buildings. 
-Finally, the speaker highlighted that many buildings were broken down because of their nature and function. (62 words)
+In the second part of the lecture, the speaker mentions that there are some bad buildings and some great buildings. 
+Finally, the speaker believes that many buildings were broken down because of their nature and function. (62 words)
 本次讲座主要探讨了建筑设计。
 在讲座的第一部分，演讲者指出，设计对建筑至关重要。
 在讲座的第二部分，演讲者提到，存在一些劣质建筑和一些杰出建筑。
@@ -693,8 +752,8 @@ Thus, it's essential to advocate and promote women in leadership, so that we can
 ---
 The lecture is mainly about leadership. 
 First, the speaker [states/ emphasizes] that great leadership is a difficult concept to define. 
-Second, the speaker mentioned that people need to master more skills, such as planning for the future and helping newcomers integrate into the team. 
-Finally, the speaker highlighted that the team structure surrounding individuals is also very important. (56 words)
+Second, the speaker mentions that people need to master more skills, such as planning for the future and helping newcomers integrate into the team. 
+Finally, the speaker believes that the team structure surrounding individuals is also very important. (56 words)
 本次讲座主要探讨了领导力。
 在讲座的第一部分，演讲者指出，“伟大领导者”是一个难以定义的词。
 在讲座的第二部分，演讲者提到，人们需要掌握更多技能，例如规划未来以及帮助新人融入团队。
@@ -709,8 +768,8 @@ Overall, this rich and cultural diversity is one of the Australian greatest stre
 Migration history in Australia
 The lecture is mainly about migration history in Australia. 
 First, the speaker [states/ emphasizes] that the first people of Australia were Indigenous Australians. 
-In the second part of the lecture, the speaker mentioned that when Australia and nearby regions formed a single land, Indigenous peoples lived there. 
-Finally, the speaker highlighted that Australia adopted a multicultural policy. (56 words)
+In the second part of the lecture, the speaker mentions that when Australia and nearby regions formed a single land, Indigenous peoples lived there. 
+Finally, the speaker believes that Australia adopted a multicultural policy. (56 words)
 本次讲座主要探讨了澳大利亚的移民历史。
 在讲座的第一部分，演讲者指出，澳大利亚最早的居民是澳大利亚原住民。
 在讲座的第二部分，演讲者提到，当澳大利亚及其周边地区形成单一陆地时，原住民便在此定居。
@@ -726,8 +785,8 @@ Therefore, we need to create more jobs, or more people will lose jobs and the un
 The development of machines
 The lecture is mainly about the development of machines. 
 First, the speaker [states/ emphasizes] that machines ought to do things better than most people. 
-Second, the speaker mentioned that machines have replaced many jobs and are becoming better and better. 
-Finally, the speaker highlighted that when there are no new jobs, humans will have nowhere to go. (56 words)
+Second, the speaker mentions that machines have replaced many jobs and are becoming better and better. 
+Finally, the speaker believes that when there are no new jobs, humans will have nowhere to go. (56 words)
 本次讲座主要探讨了机器的发展历程。
 在讲座的第一部分，演讲者指出，机器应当比大多数人更擅长做事。
 在讲座的第二部分，演讲者提到，机器已取代众多行业，并且变得越来越好。
@@ -747,8 +806,8 @@ However, this fact has been viewed differently throughout history.
 ---
 The lecture is mainly about the history of English. 
 First, the speaker [states/ emphasizes] that English is not a pure language. 
-In the second part of the lecture, the speaker mentioned that English borrowed words from over 350 languages. 
-In the final part, the speaker highlighted that today we are not only learning about language, but we are also learning about history. (60 words)
+In the second part of the lecture, the speaker mentions that English borrowed words from over 350 languages. 
+Finally, the speaker believes that today we are not only learning about language, but we are also learning about history. (60 words)
 本次讲座主要探讨了英语的历史。
 在讲座的第一部分，演讲者指出，英语并非纯粹的语言。
 在讲座的第二部分，演讲者提到，英语从超过 350 种语言中获取了词汇。
@@ -762,8 +821,8 @@ Globalization is very important because it makes countries and markets more conn
 ---
 The lecture is mainly about the differences between goods and services in the globalization process. 
 In the first part of the lecture, the speaker [states/ emphasizes] that services are more difficult to globalize. 
-In the second part of the lecture, the speaker mentioned that these factors hinder the development of service trade. 
-Finally, the speaker highlighted that digital technology can remove barriers and reshape the global service landscape. (66 words)
+In the second part of the lecture, the speaker mentions that these factors hinder the development of service trade. 
+Finally, the speaker believes that digital technology can remove barriers and reshape the global service landscape. (66 words)
 本次讲座主要探讨了商品与服务在全球化进程中的差异。
 在讲座的第一部分，演讲者指出，服务更难实现全球化。
 在讲座的第二部分，演讲者提到，这些因素如何制约服务贸易的发展。
@@ -779,8 +838,8 @@ As a result, people’s needs ultimately push forward social structure revolutio
 ---
 The lecture is mainly about the need. 
 In the first part of the lecture, the speaker [states/ emphasizes] that need is a strong desire and an essential requirement. 
-In the second part, the speaker mentioned that need is a multifunctional concept in social environments. 
-In the final part of the lecture, the speaker highlighted that in terms of psychology, it means an inner need. (62 words)
+In the second part, the speaker mentions that need is a multifunctional concept in social environments. 
+Finally of the lecture, the speaker believes that in terms of psychology, it means an inner need. (62 words)
 本次讲座主要探讨了需要。
 在讲座的第一部分，演讲者指出，需要是一种强烈的渴望和不可或缺的需求。
 在讲座的第二部分，演讲者提到，在社会环境中，需求是一个有用的概念。
@@ -800,8 +859,8 @@ However, currently there is no obvious way to address this deep root of inequali
 ---
 The lecture is mainly about the inequality in children. 
 First, the speaker [states/ emphasizes] that well-educated parents can provide their children with ample educational resources and support. 
-In the second part of the lecture, the speaker mentioned that children's life opportunities are largely determined by the age of five. 
-Finally, the speaker highlighted that there are still no particularly effective solutions to this deeply entrenched inequality in society. (66 words)
+In the second part of the lecture, the speaker mentions that children's life opportunities are largely determined by the age of five. 
+Finally, the speaker believes that there are still no particularly effective solutions to this deeply entrenched inequality in society. (66 words)
 本次讲座主要探讨了儿童群体中的不平等现象。
 在讲座的第一部分，演讲者指出，受过良好教育的父母能够为子女提供良好的教育资源与支持。
 在讲座的第二部分，演讲者提到，儿童的人生机遇在很大程度上由五岁时决定。
@@ -838,8 +897,8 @@ Key words: significant opportunities, performance, study overseas, money.
 3.A woman with student loans #18690
 The lecture is mainly about a woman with student loans. 
 First, the speaker [states/ emphasizes] that she owes tens of thousands of dollars in student loans. 
-In the second part, the speaker mentioned that she could not find a decent job. 
-In the final part, the speaker highlighted that her children are facing the problem of borrowing money for school, and she feels stressed. (62 words)
+In the second part, the speaker mentions that she could not find a decent job. 
+Finally, the speaker believes that her children are facing the problem of borrowing money for school, and she feels stressed. (62 words)
 本次讲座主要探讨了背负助学贷款的女性。
 在讲座的第一部分，演讲者指出，她欠了几万的学生贷款。
 在讲座的第二部分，演讲者提到，她找不到体面的工作。
@@ -848,8 +907,8 @@ In the final part, the speaker highlighted that her children are facing the prob
 9.A Survey on Social Well-Being and Happiness #18721
 The lecture is mainly about a survey on social life and happiness. 
 First, the speaker [states/ emphasizes] that one factor is consistent patterns. 
-In the second part of the lecture, the speaker mentioned that it includes basic things like money and health. 
-In the final part of the lecture, the speaker highlighted that other factors include the living environment and the quality of life. (62 words)
+In the second part of the lecture, the speaker mentions that it includes basic things like money and health. 
+Finally of the lecture, the speaker believes that other factors include the living environment and the quality of life. (62 words)
 本次讲座主要探讨了社会生活与幸福感的调查。
 在讲座的第一部分，演讲者指出，一个因素是稳定的模式。
 在讲座的第二部分，演讲者提到，这包括资金和健康等基本要素。
@@ -858,8 +917,8 @@ In the final part of the lecture, the speaker highlighted that other factors inc
 11.Global Warming and Climate Change #18737
 The lecture is mainly about global warming and climate change. 
 In the first part of the lecture, the speaker [states/ emphasizes] that climate change is becoming a serious problem. 
-In the second part of the lecture, the speaker mentioned that national governments should take action. 
-In the final part, the speaker highlighted that some major changes are taking place or happening globally. (60 words)
+In the second part of the lecture, the speaker mentions that national governments should take action. 
+Finally, the speaker believes that some major changes are taking place or happening globally. (60 words)
 本次讲座主要探讨了全球变暖与气候变化问题。
 在讲座的第一部分，演讲者指出，气候变化正在变成一个糟糕的问题。
 在讲座的第二部分，演讲者提到，各国政府应当采取行动。
@@ -868,8 +927,8 @@ In the final part, the speaker highlighted that some major changes are taking pl
 15.Industrialization #18752
 The lecture is mainly about industrialization. 
 In the first part of the lecture, the speaker [states/ emphasizes] that the Industrial Revolution had a very bad effect on people. 
-In the second part, the speaker mentioned that we should make laws about working conditions. 
-In the final part of the lecture, the speaker highlighted that we need to make rules to change environmental conditions. (62 words)
+In the second part, the speaker mentions that we should make laws about working conditions. 
+Finally of the lecture, the speaker believes that we need to make rules to change environmental conditions. (62 words)
 本次讲座主要探讨了工业化。
 在讲座的第一部分，演讲者指出，工业革命对人们产生了非常坏的影响。
 在讲座的第二部分，演讲者提到，我们应当制定关于工作条件的法律。
@@ -878,8 +937,8 @@ In the final part of the lecture, the speaker highlighted that we need to make r
 21.Absolutism #18772
 The lecture is mainly about moral objectivism and moral absolutism. 
 First, the speaker [states/ emphasizes] that in moral objectivism, some moral principles apply to all actions. 
-In the second part of the lecture, the speaker mentioned that in moral absolutism, a clear boundary exists between right and wrong. 
-In the final part of the lecture, the speaker highlighted that these principles must be followed. (62 words)
+In the second part of the lecture, the speaker mentions that in moral absolutism, a clear boundary exists between right and wrong. 
+Finally of the lecture, the speaker believes that these principles must be followed. (62 words)
 本次讲座主要探讨了道德客观主义与道德绝对主义。
 在讲座的第一部分，演讲者指出，在道德客观主义中，一些道德规则适用于所有行为。
 在讲座的第二部分，演讲者提到，在道德绝对主义中，是非之间存在明确的界限。
@@ -888,8 +947,8 @@ In the final part of the lecture, the speaker highlighted that these principles 
 34.Mars and the Earth #18796
 The lecture is mainly about Mars. 
 In the first part of the lecture, the speaker [states/ emphasizes] that Mars is close to the Earth. 
-In the second part of the lecture, the speaker mentioned that Mars has hills, seasons and weather. 
-In the final part of the lecture, the speaker highlighted that Mars has rare gases. (55 words)
+In the second part of the lecture, the speaker mentions that Mars has hills, seasons and weather. 
+Finally of the lecture, the speaker believes that Mars has rare gases. (55 words)
 本次讲座主要探讨了火星。
 在讲座的第一部分，演讲者指出，火星距离地球较近。
 在讲座的第二部分，演讲者提到，火星有丘陵、季节和天气。
@@ -898,8 +957,8 @@ In the final part of the lecture, the speaker highlighted that Mars has rare gas
 38.Why Read Plato's “The Republic”? #18827
 The lecture is mainly about the reasons to read the Republic. 
 In the first part of the lecture, the speaker [states/ emphasizes] that the book is very easy to read. 
-In the second part of the lecture, the speaker mentioned that the book includes lively conversations and important ideas. 
-In the final part, the speaker highlighted that its thoughts and content are other reasons to read the book. (66 words)
+In the second part of the lecture, the speaker mentions that the book includes lively conversations and important ideas. 
+Finally, the speaker believes that its thoughts and content are other reasons to read the book. (66 words)
 本次讲座主要探讨了阅读《理想国》的理由。
 在讲座的第一部分，演讲者指出，该书非常易读。
 在讲座的第二部分，演讲者提到，书中包含生动的对话与重要的思想。
@@ -908,8 +967,8 @@ In the final part, the speaker highlighted that its thoughts and content are oth
 47.Bees waggle dance and communication #21307
 The lecture is mainly about how bees communicate. 
 First, the speaker [states/ emphasizes] that it is interesting how bees communicate with each other. 
-In the second part, the speaker mentioned that bees do a waggle dance to indicate the distance and direction of a food source. 
-Finally, the speaker highlighted that it is a special communication system. (56 words)
+In the second part, the speaker mentions that bees do a waggle dance to indicate the distance and direction of a food source. 
+Finally, the speaker believes that it is a special communication system. (56 words)
 本次讲座主要探讨了蜜蜂如何交流。
 在讲座的第一部分，演讲者指出，蜜蜂彼此间的交流方式很有趣。
 在讲座的第二部分，演讲者提到，蜜蜂通过摆尾舞来展示食物的距离和方向。
@@ -918,8 +977,8 @@ Finally, the speaker highlighted that it is a special communication system. (56 
 49.Societal diversity #21466
 The lecture is mainly about societal diversity. 
 First, the speaker [states/ emphasizes] that all societies have diversity, which brings multiculturalism. 
-Second, the speaker mentioned that what causes diversity and how it happens are hard questions to answer. Simply counting the number is not that important. 
-Finally, the speaker highlighted that most societies have diversity to some extent. (56 words)
+Second, the speaker mentions that what causes diversity and how it happens are hard questions to answer. Simply counting the number is not that important. 
+Finally, the speaker believes that most societies have diversity to some extent. (56 words)
 本次讲座主要探讨了社会的多样性问题。
 在讲座的第一部分，演讲者指出，所有社会都存在多样性，从而带来多元文化主义。
 在讲座的第二部分，演讲者提到，什么导致了多样性以及多样性如何发生。这些问题很难回答。单纯统计数量并不重要。
@@ -928,8 +987,8 @@ Finally, the speaker highlighted that most societies have diversity to some exte
 53.Motivation #21919
 The lecture is mainly about two types of motivation. 
 First, the speaker [states/ emphasizes] that motivation can be categorized into approach motivation and avoidance motivation. 
-In the second part, the speaker mentioned that approach motivation pertains to positive things, while avoidance motivation relates to negative things. 
-Finally, the speaker highlighted that avoidance motivation tends to be significantly stronger. (56 words)
+In the second part, the speaker mentions that approach motivation pertains to positive things, while avoidance motivation relates to negative things. 
+Finally, the speaker believes that avoidance motivation tends to be significantly stronger. (56 words)
 本次讲座主要探讨了两种动机类型。
 在讲座的第一部分，演讲者指出，动机可分为趋近动机与回避动机。
 在讲座的第二部分，演讲者提到，趋近动机关联积极事物，而回避动机则关联消极事物。
@@ -938,8 +997,8 @@ Finally, the speaker highlighted that avoidance motivation tends to be significa
 56.Bees waggle dance #22519
 The lecture is mainly about how bees use a waggle dance as their communication system. 
 First, the speaker [states/ emphasizes] that when bees find a good food source, they do a waggle dance to tell other bees. 
-Second, the speaker mentioned that there was a study regarding bees' dancing behaviors. 
-Finally, the speaker highlighted that bees can use their dance and sounds to describe different flowers and the environment. (67 words)
+Second, the speaker mentions that there was a study regarding bees' dancing behaviors. 
+Finally, the speaker believes that bees can use their dance and sounds to describe different flowers and the environment. (67 words)
 本次讲座主要探讨了蜜蜂如何运用摆尾舞作为其通讯系统。
 在讲座的第一部分，演讲者指出，当蜜蜂发现优质食物来源时，会通过摆尾舞告诉其他蜜蜂。
 在讲座的第二部分，演讲者提到，一项关于蜜蜂舞蹈行为的研究。
@@ -948,8 +1007,8 @@ Finally, the speaker highlighted that bees can use their dance and sounds to des
 57.Population growth #22723
 The lecture is mainly about the significance of population issues. 
 In the first part of the lecture, the speaker [states/ emphasizes] that resource pressure is a key factor. 
-In the second part of the lecture, the speaker mentioned that population growth is not the same everywhere. 
-In the final part of the lecture, the speaker highlighted that city infrastructure may begin to collapse as big cities get larger. (66 words)
+In the second part of the lecture, the speaker mentions that population growth is not the same everywhere. 
+Finally of the lecture, the speaker believes that city infrastructure may begin to collapse as big cities get larger. (66 words)
 本次讲座主要探讨了人口问题的重要性。
 在讲座的第一部分，演讲者指出，资源压力是一个关键因素。
 在讲座的第二部分，演讲者提到，人口增长并非到处都一样。
@@ -958,8 +1017,8 @@ In the final part of the lecture, the speaker highlighted that city infrastructu
 58.The Origin of Species #22868
 The lecture is mainly about The Origin of Species. 
 First, the speaker [states/ emphasizes] that Darwin said that life on Earth is shaped by natural selection. 
-Second, the speaker mentioned that Darwin did not explain how traits are passed on to offspring. 
-Finally, the speaker highlighted that Mendel later discovered that living things pass traits through genes. (56 words)
+Second, the speaker mentions that Darwin did not explain how traits are passed on to offspring. 
+Finally, the speaker believes that Mendel later discovered that living things pass traits through genes. (56 words)
 本次讲座主要探讨了物种起源。
 在讲座的第一部分，演讲者指出，达尔文说明了地球生命是由自然选择塑造的。
 在讲座的第二部分，演讲者提到，达尔文并未解释性状如何传递给后代。
@@ -968,8 +1027,8 @@ Finally, the speaker highlighted that Mendel later discovered that living things
 61.Washing Fruit #23239
 The lecture is mainly about proper methods for washing fruits and vegetables. 
 First, the speaker [states/ emphasizes] that thorough washing can effectively prevent bacteria and diseases. 
-Second, the speaker mentioned that it is important to read package instructions. 
-Finally, the speaker highlighted that using running cold water combined with scrubbing is the best way or most effective approach. (56 words)
+Second, the speaker mentions that it is important to read package instructions. 
+Finally, the speaker believes that using running cold water combined with scrubbing is the best way or most effective approach. (56 words)
 本次讲座主要探讨了清洗果蔬的好方法。
 在讲座的第一部分，演讲者指出，彻底清洗能有效预防细菌和疾病。
 在讲座的第二部分，演讲者提到，关注包装说明的重要性。
@@ -978,8 +1037,8 @@ Finally, the speaker highlighted that using running cold water combined with scr
 63.Multiculturalism #23241
 The lecture is mainly about multiculturalism in modern society. 
 In the first part of the lecture, the speaker [states/ emphasizes] that the main idea of multiculturalism was explained. 
-In the second part, the speaker mentioned that multiculturalism was illustrated through the melting-pot theory. 
-Finally, the speaker highlighted that celebrating diversity helps build a good society. (54 words)
+In the second part, the speaker mentions that multiculturalism was illustrated through the melting-pot theory. 
+Finally, the speaker believes that celebrating diversity helps build a good society. (54 words)
 本次讲座主要探讨了现代社会中的多元文化主义。
 在讲座的第一部分，演讲者指出，多元文化主义有其核心要义。
 在讲座的第二部分，演讲者提到，可通过熔炉理论来阐释多元文化主义。
@@ -988,8 +1047,8 @@ Finally, the speaker highlighted that celebrating diversity helps build a good s
 64.Symbolic Systems
 The lecture is mainly about symbolic systems. 
 In the first part of the lecture, the speaker [states/ emphasizes] that language is a classic symbolic system. 
-In the second part of the lecture, the speaker mentioned that people communicate with sign language and movement. 
-In the final part, the speaker highlighted that it is a good idea to do something with your hands and talk at the same time. (66 words)
+In the second part of the lecture, the speaker mentions that people communicate with sign language and movement. 
+Finally, the speaker believes that it is a good idea to do something with your hands and talk at the same time. (66 words)
 本次讲座主要探讨了符号系统。
 在讲座的第一部分，演讲者指出，语言是一个主要的符号系统。
 在讲座的第二部分，演讲者提到，人们通过手语和肢体动作进行交流。
