@@ -222,58 +222,69 @@ but also be a professor of management. (61 words)
 最后，演讲者认为最好的管理者不仅应该更了解他们的组织，而且应该是一名管理学教授。
 
 11.The history of software 软件发展史(IT development)
-The lecture first mentions that the history of software is very new. 
+The lecture is mainly about the history of software. 
+First, the speaker states that the history of software is short, but its growth has been fast. 
+After that, he mentions that the quick expansion of computing power and lower costs driven this trend. 
+Finally, he believes that these changes enabled information technology to move into all areas of life. (58 words)
+这个讲座主要是关于软件的历史。
+首先，演讲者说软件的历史很短，但它的发展很快。
+之后，他提到计算能力的快速扩展和较低的成本推动了这一趋势。
+最后，他认为这些变化使信息技术进入生活的各个领域。
+---
+The lecture first mentions that the history of software is very short. 
 This is because the whole IT industry is a major new technology and discipline. 
 Therefore, the progression has not been so much. 
 Overall, the rapid expansion in the power of computing has guided the development of software and information technology.
----
-The lecture is mainly about the history of software. 
-First, the speaker states that the history of software is very new, and its growth has been rapid. 
-In the second part, the speaker mentions that the rapid expansion of computing power and the rapid decline in cost have driven this. 
-Finally, the speaker believes that this enabled information technology to move into all areas of life. (65 words)
-本次讲座主要探讨了软件的发展历程。
-在讲座的第一部分，演讲者指出，软件历史极为短暂，且增长迅速。
-在讲座的第二部分，演讲者提到，计算能力的迅猛扩张与成本的急剧下降。
-在讲座的最后部分，演讲者强调，计算机能力的快速增长与成本的急剧下降使得信息技术得以进入生活的方方面面。
+讲座首先提到了软件的历史是非常新的。
+这是因为整个IT行业是一个重大的新技术和新学科。
+因此，进展并没有那么大。
+总的来说，计算能力的快速增长引导了软件和信息技术的发展。
+discipline                          n. 纪律，风纪；惩罚，处分；训导，管教；训练，锻炼；
+                                    （尤指大学的）科目，学科
+                                    v. 惩罚，处分；训练，管教
 
-12.social difficulties in children 儿童的社交困难 #23227
+12.social difficulties in children/ social skills 儿童的社交困难/ 社交技能 #23227
+The lecture is mainly about the importance of social skills. 
+First, the speaker states that social skills and understanding help build positive interpersonal relationships and reduce the risk of conflict. 
+In the second part, the speaker mentions that it is also important for individuals to have empathy. 
+This is because it allows them to respond in an understanding way. 
+Finally, the speaker believes that this approach enhances students' self-regulation and critical thinking abilities. (62 words)
+这个讲座主要是关于社交技巧的重要性。
+首先，演讲者说社交技巧和理解力有助于建立积极的人际关系，减少冲突的风险。
+在第二部分，演讲者提到对个人来说，拥有同理心也很重要。
+这是因为它允许他们以一种理解的方式回应。
+最后，演讲者认为这种方法可以提高学生的自我调节能力和批判性思维能力。
+---
 Social skills are vital for us when it comes to maintaining positive interactions with others. 
 Many of them are especially crucial in making and sustaining friendships. 
 It is also important for individuals to have empathy. 
 This is because it allows them to respond in an understanding way. 
 Besides, it can also improve self-regulation and critical thinking skills.
----
-Social skills
-The lecture is mainly about the importance of social skills. 
-First, the speaker states that social skills and understanding help build positive interpersonal relationships and reduce the risk of conflict. 
-In the second part, the speaker mentions that a team film project involving students was used as an example. 
-Finally, the speaker believes that this approach enhances students' self-regulation and critical thinking abilities. (62 words)
-本次讲座主要探讨了社交技能的重要性。
-在讲座的第一部分，演讲者指出，社交技能与理解能力如何帮助建立良好的关系并减少冲突。
-在讲座的第二部分，演讲者提到，以涉及学生的协作式电影制作项目为例。
-在讲座的最后部分，演讲者强调，这种方法能够提升学生的自我调节和批判性思维能力。
+当涉及到与他人保持积极互动时，社交技能对我们来说至关重要。
+他们中的许多人在建立和维持友谊方面尤其重要。
+同理心对个人来说也很重要。
+这是因为它允许他们以一种理解的方式回应。
+此外，它还可以提高自我调节和批判性思维能力。
+empathy                             n. 共鸣，同情；感同身受，产生共鸣
 
-13.The decline of bees #18755
-Bees are in decline. 蜜蜂数量减少
+13.The decline of bees/ Bees are in decline. 蜜蜂数量减少 #18755
+The lecture is mainly about the decline of bees.
+First, the speaker states that these declines are supported by strong scientific evidence.
+After that, the speaker mentions that the reasons for the decline in different places are different.
+Finally, the speaker believes that we are aware of the problem, and people are taking action to protect them. (58 words)
+这个讲座主要是关于蜜蜂数量的减少。
+首先，演讲者指出，这些下降是有强有力的科学证据支持的。
+在那之后，演讲者提到，在不同的地方下降的原因是不同的。
+最后，演讲者认为我们意识到了这个问题，并且人们正在采取行动来保护他们。
+---
 These declines are well-documented and real, as they are supported by good and strong scientific evidence. 
 The drivers of decline vary depending on species, and the effects of pollinator loss could be absolutely huge. 
 However, awareness is being raised all the time and people are taking action. 
----
-The lecture is mainly about the decline of bees. 
-First, the speaker states that these declines are supported by strong scientific evidence. 
-After that, the speaker mentions that the reasons for decline are different. 
-Finally, the speaker believes that we are aware of the problem, and people are taking action. (63 words)
-本次讲座主要探讨了蜜蜂数量的减少问题。
-在讲座的第一部分，演讲者指出，这些减少现象有强有力的科学证据支持。
-在讲座的第二部分，演讲者提到，减少的原因各不相同。
-在讲座的最后部分，演讲者强调，我们知道这个问题，并且人们正在采取行动。
+这些下降是有据可查和真实的，因为它们得到了良好和强有力的科学证据的支持。
+减少的驱动因素因物种而异，传粉者的损失可能是绝对巨大的。
+然而，意识一直在提高，人们正在采取行动。
 
 14.An experiment about female body fat/ change of body fat/ obese women 女性体脂实验 #18717
-An experiment found out that some volunteers experienced a body fat change, while there were others who did not lose fat at all. 
-There are two explanations for this. 
-The first one is that those who did not lose weight must have eaten more. 
-The other explanation is that there are psychological reasons, as these people do not believe in losing fat.
----
 The lecture is mainly about an experiment about female body fat. 
 First, the speaker states that thirty-one overweight women joined the experiment. 
 After that, the speaker mentions that they need to exercise every day. 
@@ -282,97 +293,144 @@ Finally, the speaker believes that some people ate more or exercised less. (62 w
 在讲座的第一部分，演讲者指出，31 名肥胖女性参与了实验。
 在讲座的第二部分，演讲者提到，她们需要每天坚持锻炼。
 在讲座的最后部分，演讲者强调，有些人吃得更多，或是运动较少。
+---
+The lecture is mainly about an experiment on body fat change.
+First, an experiment found that some volunteers lost fat, 
+while others did not lose fat at all.
+After that, the speaker offers two explanations.
+One is that those who did not lose weight ate more, 
+and the other is that psychological reasons played a role.
+这个讲座主要是关于身体脂肪变化的实验。
+首先，一项实验发现，一些志愿者减掉了脂肪，而另一些志愿者根本没有减掉脂肪。
+之后，说话者提供了两种解释。
+一是没有减肥的人吃得更多，二是心理原因起了作用。
+An experiment found out that            一项实验证明了这一点
 
 15.The separation of powers 三权分立 #18781
-The separation of power maintains balance and protects freedom by dividing government authority. 
-Legislative power makes laws, executive power carries them out, and judicial power interprets them. 
-Once with blurry lines between the three, they are now clearly defined in the U.S. Constitution. 
-It prevents any single branch from growing too powerful and improves fairness and stability.
+The lecture is mainly about the separation of powers.
+First, dividing government authority helps maintain balance and protect freedom.
+The three main branches make, execute, and explain laws separately.
+These roles are defined in the Constitution, 
+which prevents any branch from getting too powerful and keeps the government stable.
+这个讲座主要是关于三权分立的。
+首先，划分政府权力有助于保持平衡和保护自由。
+这三个主要部门分别制定、执行和解释法律。
+这些角色在宪法中有明确规定，这可以防止任何分支机构变得过于强大，并保持政府的稳定。
 ---
 The lecture is mainly about the separation of powers. 
-First, the speaker states that the separation of powers means dividing government power into three parts. 
+First, the speaker emphasizes that the separation of powers means dividing government power into three parts. 
 After that, the speaker mentions that one is to make the laws, and the second is to enforce the laws. 
-Finally, the speaker believes that the third is to explain the laws. (62 words)
-本次讲座主要探讨了三权分立原则。
-在讲座的第一部分，演讲者指出，三权分立意味着将政府权力划分为三个部分。
-在讲座的第二部分，演讲者提到，其中一部分负责制定法律，第二部分负责执行法律。
-在讲座的最后部分，演讲者强调，第三部分则负责解释法律。
+Finally, the speaker states that the third is to explain the laws, and these roles are defined in the Constitution. (62 words)
+这个讲座主要是关于三权分立的。
+首先，演讲者强调三权分立意味着将政府权力分成三部分。
+在那之后，演讲者提到一个是制定法律，第二个是执行法律。
+最后，发言人说，第三个是解释法律，这些角色在宪法中有规定。
 
 16.Symmetry in mathematics数学中的对称性(stone balls) #22451
-The lecturer went to a museum and saw some stones. 
-These Neolithic stones are probably the first examples of humans exploring the concept of symmetry. 
-One of the intriguing things about these stones is that we don't actually know what they're for. 
-This is the reason why we like them. 
+The lecture is mainly about early symmetry stones.
+First, the speaker states that these stones show the earliest human interest in symmetry.
+After that, he mentions that people still do not know what these old stones were used for.
+Finally, he believes that this mysterious nature is the exact reason why we like them. (54 words)
+讲座主要是关于早期的对称石。
+首先，讲话者说，这些石头显示了人类对对称的最早兴趣。
+在那之后，他提到人们仍然不知道这些古老的石头是用来做什么的。
+最后，他认为这种神秘的天性正是我们喜欢它们的确切原因。
 ---
 The lecture is mainly about symmetry in mathematics. 
 First, the speaker states that old objects in museums can have great mathematical significance. 
-Second, the speaker mentions that the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry. 
-Finally, the speaker believes that we don't know what these stones are for. Maybe they were mathematical objects for joy and beauty. (67 words)
+After that, he mentions that the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry. 
+Finally, he believes that we don't know what these stones are for. 
+Maybe they were mathematical objects for joy and beauty. (67 words)
 本次讲座主要探讨了数学中的对称性。
 在讲座的第一部分，演讲者指出，博物馆中的古老物件往往蕴含丰富的数学意义。
 在讲座的第二部分，演讲者提到，在苏格兰发现的五千年前石器，是人类探索对称概念的最早实例。
 在讲座的最后部分，演讲者强调，我们不知道这些石器是干什么用的。或许它们只是为了乐趣与美感而存在的数学物件。
 
 17.Vitamin D 维他命D #18683
+The lecture is mainly about vitamin D. 
+First, the speaker states that vitamin D is called the sunshine vitamin. 
+After that, the speaker mentions that if people get enough sunshine, there is no dietary need for vitamin D. 
+People need to get vitamin D from food only when sunlight is not enough.
+Finally, the speaker states that vitamin D is actually not a real vitamin. (62 words)
+本次讲座主要探讨了维生素 D。
+在讲座的第一部分，演讲者指出，维生素 D 被称为阳光维生素。
+在讲座的第二部分，演讲者提到，如果你得到足够的阳光，就不需要维生素D。
+在讲座的最后部分，演讲者强调，维生素 D 不是一种维生素。
+---
+The lecture is mainly about vitamin D. 
 Vitamin D is called the sunshine vitamin. 
 This is because if you get adequate sunshine, there is no dietary need for it. 
 Therefore, vitamin D is not actually a vitamin. 
 It is a pro-hormone. Human beings evolved in tropical climates where there was lots of sunlight. 
 As we migrated away, there was not adequate sunlight, so we created a need for vitamin D in food.
----
-The lecture is mainly about vitamin D. 
-First, the speaker states that vitamin D is called the sunshine vitamin. 
-In the second part, the speaker mentions that if you get enough sunshine, there is no dietary need for vitamin D. 
-Finally, the speaker believes that vitamin D is not a vitamin. (63 words)
-本次讲座主要探讨了维生素 D。
-在讲座的第一部分，演讲者指出，维生素 D 被称为阳光维生素。
-在讲座的第二部分，演讲者提到，如果你得到足够的阳光，就不需要维生素D。
-在讲座的最后部分，演讲者强调，维生素 D 不是一种维生素。
+维生素D被称为阳光维生素。
+这是因为如果你得到足够的阳光，就不需要饮食了。
+因此，维生素D实际上并不是维生素。
+它是一种促激素。人类在热带气候中进化，那里有充足的阳光。
+当我们迁移的时候，没有足够的阳光，所以我们需要从食物中摄取维生素D。
 
 18.Newspaper industry 新闻业下滑 #18777
-Because of the economic model, the newspaper industry has been shrinking drastically, and newspapers have increased the cash flow. 
+The lecture is mainly about the newspaper industry.
+First, the speaker states that the newspaper industry in some American states is shrinking because of financial problems.
+After that, he mentions that business models are changing.
+Finally, he highlights that some newspapers move online, 
+while other newspapers disappear. (55 words)
+这个讲座主要是关于报业的。
+首先，演讲者指出，由于财政问题，美国一些州的报业正在萎缩。
+之后，他提到商业模式正在发生变化。
+最后，他强调了一些报纸转移到网上，而另一些报纸则消失了。
+---
+Because of the economic model, the newspaper industry has been shrinking drastically, 
+and newspapers have increased the cash flow. 
 However, there are still some newspaper industries losing money because of a decrease in advertising and buyers. 
 As a result, the staff working in the newspaper industry has decreased by more than 30%. 
----
-The lecture is mainly about newspapers. 
-First, the speaker states that in some American states, the newspaper industry is shrinking. 
-After that, the speaker mentions that business models are changing. 
-Finally, the speaker believes that some small newspapers decided to go online, and some newspapers disappeared. (62 words)
-本次讲座主要探讨了报纸行业。
-在讲座的第一部分，演讲者指出，在美国某些州，报纸行业正在萎缩。
-在讲座的第二部分，演讲者提到，商业模式正在发生变化。
-在讲座的最后部分，演讲者强调，小型报纸决定转向线上，而一些报纸则消失了。
+由于经济模式的原因，报纸行业急剧萎缩，报纸增加了现金流。
+然而，由于广告和买家的减少，仍有一些报业处于亏损状态。
+因此，在报纸行业工作的员工减少了30%以上。
 
 19.Dangers of keeping drugs at home/ Misuse of drugs 用药不当的危害/ 滥用药物 #18720
-There are a number of dangers of keeping drugs at home. 
-First, they may be accidentally ingested by children. 
-Secondly, patients may use the drugs after their expiration date. 
-Thirdly, the leftover drugs may be taken for the wrong reasons. 
-To solve this problem, physicians should prescribe the drugs only when appropriate, and the full course of the drug must be taken.
----
 The lecture is mainly about the dangers of keeping medicine at home. 
 First, the speaker states that children may ingest the drugs. 
-After that, the speaker mentions that the medicine may be taken for the wrong reasons. 
-Finally, the speaker believes that doctors should give the right amount of medicine. (66 words)
+After that, the speaker mentions that the medicine may be taken for the wrong reasons, 
+and patients may use the drugs after their expiration date. 
+Finally, the speaker highlights that doctors should give the right amount of medicine. (58 words)
 本次讲座主要探讨了家中存放药品的危险性。
 在讲座的第一部分，演讲者指出，儿童可能会误食药品。
 在讲座的第二部分，演讲者提到，药品可能被用于不当的原因。
 在讲座的最后部分，演讲者强调，医生应该开具正确数量的药品。
+---
+There are a number of dangers of keeping drugs at home. 
+First, they may be accidentally ingested by children. 
+Secondly, patients may use the drugs after their expiration date. 
+Thirdly, the leftover drugs may be taken for the wrong reasons. 
+To solve this problem, physicians should prescribe the drugs only when appropriate, 
+and the full course of the drug must be taken.
+把毒品放在家里有很多危险。
+首先，它们可能会被儿童误食。
+其次，患者可能会在药物过期后继续使用。
+第三，剩余的药物可能会因为错误的原因而服用。
+为了解决这个问题，医生应该只在适当的时候开药，并且必须服用整个疗程的药物。
 
 20.globalization and detraditionalization 全球化导致文化丧失 #18759
+The lecture is mainly about globalization and detraditionalization. 
+First, the speaker states that people now live in a global village. 
+After that, he mentions that with instant communications, 
+we can share ideas all over the world. 
+Finally, the speaker highlights that young people are rejecting the culture they have grown up in, 
+and detraditionalization can cause the loss of traditional cultures. (62 words)
+这个讲座主要是关于全球化和去传统化的。
+首先，讲话者指出，人们现在生活在一个地球村。
+之后，他提到，通过即时通信，我们可以在世界各地分享想法。
+最后，演讲者强调年轻人正在拒绝他们成长的文化，而去传统化会导致传统文化的丧失。
+---
 Globalization is the idea that we all live in a global village. 
 With instant communications, we can share ideas and access cultural artifacts from countries all over the world. 
 However, it also leads to the disappearance or erosion of traditional values. 
 To be more specific, young people are rejecting the culture they have grown up in. 
----
-The lecture is mainly about globalization and detraditionalization. 
-First, the speaker states that we all live in a global village. 
-In the second part, the speaker mentions that globalization enables us to share ideas across the world. 
-Finally, the speaker believes that detraditionalization can cause the loss of traditional cultures. (62 words)
-本次讲座主要探讨了全球化与去传统化。
-在讲座的第一部分，演讲者指出，我们都生活在一个地球村中。
-在讲座的第二部分，演讲者提到，全球化意味着我们能够在全球范围内共享思想。
-在讲座的最后部分，演讲者强调，去传统化会导致传统文化的丧失。
+全球化是指我们都生活在一个地球村。
+有了即时通讯，我们可以分享思想，接触世界各国的文化文物。
+然而，它也导致了传统价值观的消失或侵蚀。
+更具体地说，年轻人正在拒绝他们成长的文化。
 
 21.genetic impact/ Genes affect human behaviors 遗传的影响/ 基因影响人类行为
 At first, people believed that genes have an impact only on people's physical structure. 
