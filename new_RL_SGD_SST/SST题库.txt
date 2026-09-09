@@ -10,7 +10,7 @@ In conclusion, <sentence6>.
 The lecture is mainly about Einstein's theory of the universe. 
 First, the speaker [states/ emphasizes] that for thousands of years, people thought space was fixed. 
 After that, the speaker also mentions that Einstein changed our view of the universe. 
-Finally, the speaker believes that space itself is changing, and it is in a state of continuous dynamic change. (52 words)
+Finally, the speaker believes that space itself is changing, and it is in a state of continuous dynamic change. (56 words)
 本次讲座主要探讨了爱因斯坦的宇宙理论。
 在讲座的第一部分，演讲者指出，人们曾认为空间是静止不动的，这种观念延续了数千年。
 在讲座的第二部分，演讲者提到，对宇宙的看法因为爱因斯坦而改变。
@@ -34,7 +34,7 @@ moved around on             在……上移动：在某物表面上移动身体�
 The lecture is mainly about the city of Rome. 
 First, the speaker [states/ emphasizes] that the city grew in an unplanned way, and the streets are narrow. 
 In the second part, the speaker mentions that Romans structured the city in a very organized way. 
-Finally, the speaker believes that when the Romans built their ideal city, they used a military camp design. (56 words)
+Finally, the speaker believes that when the Romans built their ideal city, they used a military camp design. (55 words)
 本次讲座主要探讨了罗马城。
 在讲座的第一部分，演讲者指出，该城市是以简单随意的模式发展起来的。
 在讲座的第二部分，演讲者提到，罗马人以非常有条理的方式规划了城市结构。
@@ -65,7 +65,7 @@ The lecture is mainly about luxury brands.
 First, the speaker [states/ emphasizes] that it is very hard to answer what makes a luxury brand and how we distinguish it. 
 He also mentions that despite the high price, luxury brands still sell in the millions.
 After that, the speaker mentions that the answer is different for different people. 
-Finally, the speaker believes that the answer is complicated. (56 words)
+Finally, the speaker believes that the answer is complicated. (55 words)
 本次讲座主要探讨了奢侈品牌。
 在讲座的第一部分，演讲者指出，我们如何区分奢侈品牌是一个难题。
 在讲座的第二部分，演讲者提到，答案因人而异。
@@ -91,8 +91,9 @@ relatively                  adv. 相当地，相对地
 4.The definition of risk 定义的风险 #111043
 The lecture is mainly about the definition of risk.
 First, the speaker mentions that the literal definition of risk mainly has two parts. 
-One is the consequence of a particular danger, and the other is the probability or chance of it happening. 
-Thus, safety usually refers to the condition of being safe.
+One is the consequence of a particular danger, and the other is the chance of it happening. 
+After that, he mentions that safety usually means that we are free from harm or risk. 
+It can also refer to the condition of being safe.(55 words)
 这个讲座主要是关于风险的定义。
 首先，演讲者提到风险的字面定义主要有两个部分。
 一种是特定危险的后果，另一种是发生危险的概率或机会。
@@ -107,14 +108,15 @@ probability                 n. 可能性，或然性；可能发生的事，可�
 the condition of being safe 安全的状态
 
 5.Organizational study 组织研究 #111147
-Organization studies seem to draw on the whole family of social sciences. 
-It requires you to have broad awareness. 
-Other than that, what studying organizations teaches us is actually the artificiality of those academic subdivisions. 
-As a result, we can actually be free to imagine and think about the social world.
-组织研究似乎利用了整个社会科学家族。
-它需要你有广泛的熟悉。
-除此之外，研究组织教会我们的实际上是那些学术细分的人为性。
-因此，我们实际上可以自由地想象和思考社会世界。
+The lecture is mainly about organization study. 
+First, the speaker states that studying organizations seems to draw on all social sciences, 
+which requires people to have broad knowledge. 
+After that, he mentions that what studying organizations teaches us is that academic boundaries are not real. 
+As a result, we can be free to imagine and think about the social world.(62 words)
+这个讲座主要是关于组织学习的。
+首先，演讲者指出，研究组织似乎涉及到所有的社会科学，这需要人们有广泛的知识。
+之后，他提到，研究组织教会我们的是，学术界限是不真实的。
+因此，我们可以自由地想象和思考社会世界。
 draw on                     v. 利用，借鉴，动用（经验、知识、资源、存款等）
 broad awareness             广泛的认知
 Other than that             除此之外
@@ -122,18 +124,23 @@ artificiality               n. 人为性，人工性；不自然，做作；人�
 subdivisions                n. 细分，再分，分割；分部，分支，分区；
 
 6.Paper rejection 论文遭拒 #21450
-The lecture is mainly about paper rejection. 
-First, the speaker [states/ emphasizes] that some advice was offered on publishing a paper. 
-Second, the speaker mentions that rejection can lead to better results and can be good for a career path. 
-Finally, the speaker believes that it is important to attract young researchers and keep them engaged. (55 words)
-本次讲座主要探讨了论文被拒的问题。
-在讲座的第一部分，演讲者指出，他正在就发表论文提供一些建议。
-在讲座的第二部分，演讲者提到，被拒会带来更好的结果，对职业发展有好处。
-在讲座的最后部分，演讲者强调，吸引年轻研究者并保持他们的参与至关重要。
+The lecture is mainly about paper rejection.
+First, the speaker states that rejection happens to all of us.
+After that, he mentions that rejection can lead to better results because it may be good for one's career path, 
+and researchers can use this feedback to improve their papers.
+Finally, he believes that it is important to attract young researchers and keep them engaged. (66 words)
+这个讲座主要是关于论文退稿的。
+首先，说话者说，拒绝发生在我们所有人身上。
+之后，他提到，拒稿可能会带来更好的结果，因为这可能对一个人的职业道路有好处，研究人员可以利用这种反馈来改进他们的论文。
+最后，他认为吸引年轻的研究人员并让他们参与进来是很重要的。
 The speaker mentions that rejection happens to all of us. 
 He also says that the chance of getting paper published is becoming smaller. 
 However, rejection will lead to a better result, because it may be good for the career path. 
 Therefore, you can use this feedback to improve your paper.
+演讲者提到，拒绝发生在我们所有人身上。
+他还表示，论文发表的机会越来越小。
+然而，拒绝会带来更好的结果，因为它可能对职业道路有好处。
+因此，你可以利用这些反馈来改进你的论文。
 
 7.the stability of mood 情绪的稳定性 #111185
 The lecture is mainly about mood. 
