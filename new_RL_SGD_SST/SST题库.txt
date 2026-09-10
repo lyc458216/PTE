@@ -128,69 +128,80 @@ artificiality               n. 人为性，人工性；不自然，做作；人�
 subdivisions                n. 细分，再分，分割；分部，分支，分区；
 
 6.Paper rejection 论文遭拒 #21450
-The lecture is mainly about paper rejection.
-First, the speaker states that rejection happens to all of us.
-After that, he mentions that rejection can lead to better results because it may be good for one's career path, 
-and researchers can use this feedback to improve their papers.
-Finally, he believes that it is important to attract young researchers and keep them engaged. (66 words)
-这个讲座主要是关于论文退稿的。
-首先，说话者说，拒绝发生在我们所有人身上。
+The lecture is mainly about [paper rejection].
+First, the speaker states that [rejection happens to all researchers].
+After that, he mentions that [rejection can lead to better results] [because it may be good for one's career path], 
+and researchers can [use this feedback to improve their papers].
+Finally, he believes that [it is important to support young researchers] and [keep them engaged].(61 words)
+讲座主要是关于论文退稿的。
+首先，说话者说所有的研究人员都会被拒绝。
 之后，他提到，拒稿可能会带来更好的结果，因为这可能对一个人的职业道路有好处，研究人员可以利用这种反馈来改进他们的论文。
-最后，他认为吸引年轻的研究人员并让他们参与进来是很重要的。
+最后，他认为重要的是要支持年轻的研究人员并让他们参与进来。
 ---
-The speaker mentions that rejection happens to all of us. 
-He also says that the chance of getting paper published is becoming smaller. 
-However, rejection will lead to a better result, because it may be good for the career path. 
-Therefore, you can use this feedback to improve your paper.
-演讲者提到，拒绝发生在我们所有人身上。
-他还表示，论文发表的机会越来越小。
-然而，拒绝会带来更好的结果，因为它可能对职业道路有好处。
-因此，你可以利用这些反馈来改进你的论文。
+The lecture is mainly about [paper rejection in academia].
+First, the speaker states that [paper rejection is common], [as publishing has become harder].
+After that, he mentions that rejection [often leads to] [better research outcomes].
+Finally, he emphasizes that [authors should use] [reviewer feedback] [to refine and improve their papers].(54 words)
+这个讲座主要是关于学术界的论文退稿问题。
+首先，演讲者说论文被拒是很常见的，因为出版变得越来越难。
+之后，他提到拒绝通常会带来更好的研究成果。
+最后，他强调作者应该利用审稿人的反馈来完善和改进他们的论文。
+keep them engaged                           让他们保持参与
+often leads to                              常常导致
+better research outcomes                    更好的研究成果
 
 7.the stability of mood 情绪的稳定性 #111185
-The lecture is mainly about the stability of mood. 
-First, the speaker states that stability of emotion can differ among different people. 
-Some people usually have nervous moods, while others have a small varying range.
-After that, the speaker mentions that the secret to happiness is control and mild restraint. 
-Finally, the speaker believes that we should keep a balance between intense and mild emotions. (62 words)
+The lecture is mainly about [the stability of mood].
+First, the speaker states that [the stability of emotion] [can differ among different people].
+Some people [usually have nervous moods], while others [have a smaller varying range].
+After that, the speaker mentions that [the secret to happiness] is [control and mild restraint].
+Finally, the speaker believes that [people should keep a balance between intense and mild emotions]. (61 words)
 这个讲座主要是关于情绪稳定的。
 首先，说话者指出，情绪的稳定性因人而异。
-有些人通常有紧张的情绪，而其他人则有一个小的变化范围。
+有些人通常有紧张的情绪，而另一些人的变化幅度较小。
 之后，演讲者提到幸福的秘诀是控制和温和的克制。
-最后，演讲者认为我们应该在强烈和温和的情绪之间保持平衡。
-The stability of emotion differs among different people. 
-Some people usually have nervous moods, while others have a small varying range. 
-In fact, the secret of happiness is mild contentment. 
-Therefore, a very useful idea is to find a point of balance, and the ideal mood is moderate strain and contentment.
-情绪的稳定性因人而异。
-有些人通常有紧张的情绪，而其他人则有一个小的变化范围。
-事实上，幸福的秘诀是适度的满足。
-因此，一个非常有用的想法是找到一个平衡点，理想的情绪是适度的紧张和满足。
+最后，演讲者认为人们应该在强烈和温和的情绪之间保持平衡。
+---
+The lecture is mainly about [the balance of emotion].
+First, the speaker states that [emotional stability differs among people], 
+and someone [experience frequent nervous moods].
+After that, he mentions that [the true secret of happiness] [lies in] [mild contentment].
+Finally, he believes that [the ideal mood] [comes from] [finding a balance between moderate strain and satisfaction]. (55 words)
+这个讲座主要是关于情绪平衡的。
+首先，讲话者指出，情绪稳定性因人而异，有些人会经常出现紧张情绪。
+之后，他提到幸福的真正秘密在于适度的满足。
+最后，他认为理想的情绪来自于在适度紧张和满足之间找到平衡。
 differ among different people           因人而异
+have a smaller varying range            变化范围更小
+mild restraint                          温和克制
+experience frequent nervous moods       经历频繁的紧张情绪
+lies in                                 v. （问题、原因、答案等抽象事物）在于，体现于，取决于；
+mild contentment                        轻微的满足感
 
 8.Automated vehicles 自动化汽车
-The lecture is mainly about automated vehicles.
-First, the speaker states that automated vehicles have six levels.
-Drivers need to monitor the car in low automation levels.
-After that, he mentions that in high automation, the car controls itself and drivers do less.
-Finally, several systems work together to control an automated vehicle, 
-which is how an automated vehicle works.
+The lecture is mainly about [automated vehicles].
+First, the speaker states that [automated vehicles have six levels], 
+and [drivers need to monitor the car in lower levels].
+After that, he mentions that [in high automation], 
+[the vehicle controls itself] [with minimal driver interaction].
+Finally, he highlights that [several systems must work together] [continuously to ensure the vehicle operates safely]. (61 words)
 这个讲座主要是关于自动驾驶汽车的。
-首先，演讲者说自动驾驶汽车有六个级别。
-司机需要在低自动化水平下监控汽车。
-在那之后，他提到，在高度自动化的情况下，汽车可以自动控制，驾驶员的操作更少。
-最后，几个系统一起工作来控制自动驾驶汽车，这就是自动驾驶汽车的工作原理。
+首先，演讲者说自动驾驶汽车有六个级别，司机需要在较低的级别监控汽车。
+之后，他提到，在高度自动化的情况下，车辆可以在最少的驾驶员交互下控制自己。
+最后，他强调，几个系统必须持续协同工作，以确保车辆安全运行。
 ---
 Automated driving #18758
-The lecture is mainly about automated driving. 
-First, the speaker states that automated driving involves level three and level four systems. 
-In the second part of the lecture, the speaker mentions that level three is the conditional automated mode. 
-Finally, the speaker believes that level four automation can save power and is more efficient than level three. (55 words)
-本次讲座主要探讨了自动驾驶。
-在讲座的第一部分，演讲者指出，自动驾驶涉及 3 级和 4 级系统。
-在讲座的第二部分，演讲者提到，3 级自动驾驶属于半驾驶模式。
-在讲座的最后部分，演讲者强调，4 级自动驾驶能够节省能源，并且比 3 级更具效率。
+The lecture is mainly about [automated driving].
+First, the speaker states that [automated driving] (involves/ includes) [both Level 3 and Level 4 systems].
+After that, he mentions that [Level 3 refers to the conditional automated driving mode].
+Finally, the speaker believes that [Level 4 automation saves energy] and [operates more efficiently than] [Level 3 systems]. (58 words)
+这个讲座主要是关于自动驾驶的。
+首先，演讲者指出自动驾驶涉及3级和4级系统。
+之后，他提到Level 3指的是有条件的自动驾驶模式。
+最后，演讲者认为4级自动化比3级系统更节能，运行效率更高。
 be responsible for                      对……负责，是造成……原因
+with minimal driver interaction         最少的驾驶员交互
+operates more efficiently than          运行比……更有效率
 
 9.Market economy 市场经济 #111064
 The lecture is mainly about market economy.
