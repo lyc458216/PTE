@@ -442,128 +442,182 @@ Finally, he highlights that [doctors must prescribe appropriate amounts of medic
 may accidentally ingest these stored drugs          可能会误食这些储存的药物
 prescribe the exact amount of medicine              开出准确剂量的药
 prescribe appropriate amounts of medicine           开适量的药
+prescribe                                           v. 给……开（药），让……采用（疗法）；
+                                                    开处方；规定，命令
+accidentally ingest                                 意外地吞下
 
 20.globalization and detraditionalization 全球化导致文化丧失 #18759
-The lecture is mainly about globalization and detraditionalization. 
-First, the speaker states that people now live in a global village. 
-After that, he mentions that with instant communications, 
-we can share ideas all over the world. 
-Finally, the speaker highlights that young people are rejecting the culture they have grown up in, 
-and detraditionalization can cause the loss of traditional cultures. (62 words)
+The lecture is mainly about [globalization and detraditionalization].
+First, the speaker states that [people now live in a global village].
+After that, he mentions that [instant communications] [enable people to share ideas around the world].
+Finally, he highlights that [young people are rejecting their traditional culture], 
+which [directly causes] [the loss of cultural heritage]. (58 words)
 这个讲座主要是关于全球化和去传统化的。
 首先，讲话者指出，人们现在生活在一个地球村。
-之后，他提到，通过即时通信，我们可以在世界各地分享想法。
-最后，演讲者强调年轻人正在拒绝他们成长的文化，而去传统化会导致传统文化的丧失。
+之后，他提到即时通信使人们能够在世界各地分享想法。
+最后，他强调，年轻人正在拒绝他们的传统文化，这直接导致了文化遗产的流失。
 ---
-Globalization is the idea that we all live in a global village. 
-With instant communications, we can share ideas and access cultural artifacts from countries all over the world. 
-However, it also leads to the disappearance or erosion of traditional values. 
-To be more specific, young people are rejecting the culture they have grown up in. 
-全球化是指我们都生活在一个地球村。
-有了即时通讯，我们可以分享思想，接触世界各国的文化文物。
-然而，它也导致了传统价值观的消失或侵蚀。
-更具体地说，年轻人正在拒绝他们成长的文化。
+The lecture is mainly about [globalization and traditional values].
+First, the speaker states that [globalization means people live in a connected global village].
+After that, he mentions that [instant communications] allow [individuals to share ideas and cultural artifacts worldwide].
+Finally, he emphasizes that [globalization causes the loss of traditional values] [because young people reject their local culture]. (57 words)
+这个讲座主要是关于全球化和传统价值观的。
+首先，演讲者指出，全球化意味着人们生活在一个相互联系的地球村。
+之后，他提到[即时通讯]允许个人在世界范围内分享思想和文化文物。
+最后，他强调全球化导致传统价值观的丧失，因为年轻人拒绝他们的本土文化。
+cultural artifacts                                  文化遗产
+artifacts                                           n. （尤指有文化价值或历史价值的）人工制品，历史文物
 
 21.genetic impact/ Genes affect human behaviors 遗传的影响/ 基因影响人类行为
-At first, people believed that genes have an impact only on people's physical structure. 
-Then research has found that there is also a genetic responsibility for humans' psychological behavior. 
-As a result, now we have a better understanding of the role of genetic influences on behavior. 
-However, behavioral genetics is an ungovernable field where there is lots of controversy.
+The lecture is mainly about [behavioral genetics].
+First, the speaker states that [genes were originally thought to] [impact only physical structures].
+After that, he mentions that [scientific research proved] [genes also influence human psychological behavior].
+Finally, he emphasizes that [despite better understanding], 
+[behavioral genetics continues to be] [a field full of controversy]. (51 words)
+这个讲座主要是关于行为遗传学的。
+首先，演讲者指出，基因最初被认为只影响身体结构。
+之后，他提到科学研究证明基因也会影响人类的心理行为。
+最后，他强调，尽管有了更好的理解，行为遗传学仍然是一个充满争议的领域。
+scientific research proved                          科学研究证明
+continues to be                                     继续存在或保持某种状态
+a field full of controversy                         充满争议的领域
 
 22.Water recycling 水的循环利用 #18787
-We need to recycle water because we don't generate much new water. 
-Generating water is not a process that happens a lot anymore. 
-However, when we use water at home, there is very little recycling at a local level. 
-This is because it’s not a closed loop in the home.
+The lecture is mainly about [water recycling].
+First, the speaker states that recycling is essential because the planet does not produce much new water.
+After that, he mentions that very little water is recycled at home during daily use.
+Finally, he emphasizes that the lack of local recycling is mainly caused by the absence of a closed-loop system. (58 words)
+这个讲座主要是关于水循环利用的。
+首先，讲话者指出，循环利用是必要的，因为地球不会产生很多新的水。
+在那之后，他提到在日常生活中，家里很少有水被回收利用。
+最后，他强调，当地缺乏回收的主要原因是缺乏闭环系统。
+---
+The lecture is mainly about [water recycling].
+First, the speaker states that [water recycling is necessary for society today].
+After that, he mentions that [while recycling technology] [exists for] [industrial use], 
+[very little technology] [is available for home use].
+Finally, he believes that [implementing water recycling at the local household level] [is extremely important]. (66 words)
+这个讲座主要是关于水循环的。
+首先，演讲者指出水循环利用对当今社会是必要的。
+在那之后，他提到虽然回收技术存在于工业用途，但很少有技术可用于家庭用途。
+最后，他认为在当地家庭层面实施水循环是非常重要的。
 ---
 The water we use today has been around for a long long time. 
+我们今天使用的水已经存在了非常非常久的时间。 
 That is because water can recycle itself in the water cycle, which is also called the hydrologic cycle. 
+这是因为水可以通过水循环（也称为水文循环）实现自我循环。
 Let's start the cycle with the evaporation of water from the surface of the ocean. 
+让我们从海洋表面的水分蒸发开始，启动这一循环过程。
 As this moist air is lifted, it cools and water vapour condenses. 
+当湿润的空气被抬升时，温度降低，水蒸气便凝结成小水滴。
 It may form clouds. In fact, clouds are made up of tiny water droplets and ice crystals that are so small they can float in the air. 
+这些水滴可能形成云。事实上，云是由极其微小的水滴和冰晶组成的，它们轻盈到可以在空中漂浮。 
 This moisture in the atmosphere may be transported around the globe until it returns to the surface as precipitation. 
+大气中的这种湿气可以被输送到全球各地，最终以降水的形式返回地表。
 Precipitation may take the form of rain, snow, sleet or hail. 
+降水可能表现为雨、雪、雨夹雪或冰雹。 
 Now once this water reaches the ground, one or two processes may occur. 
+当这些水到达地面后，可能会发生一两个过程。
 Some of the water may evaporate back into the atmosphere, or the water may penetrate the surface and become groundwater. 
+一部分水可能重新蒸发回到大气中，或者渗入地下，成为地下水。
 The groundwater may take several different paths. 
+地下水可能通过多种不同的路径流动。
 The groundwater may seep in its way into the oceans river or streams, 
+它可能缓慢渗入海洋、河流或溪流；  
 or it may go into an aquifer, which is a body of saturated walk rock through which water can easily move, 
+也可能进入含水层——即一种饱和的多孔岩石结构，水可以轻松穿过其中；
 or it may be released back into the atmosphere through transpiration. 
+还可能通过植物的蒸腾作用再次释放回大气中。
 Transpiration occurs when leaves from trees and other vegetation give off water vapor through pores in their leaves. 
+当树木和其他植物的叶片通过叶面的气孔释放水蒸气时，就会发生蒸腾作用。
 Some water on the Earth's surface is not absorbed by plants or become ground water, and it becomes surface runoff. 
+地球上部分地表水未被植物吸收或渗入地下成为地下水，而是形成地表径流。
 This runoff may empty into lakes, rivers, and streams and then is carried back to the ocean where the cycle may begin.
----
-The lecture is mainly about water recycling. 
-First, the speaker states that water recycling is necessary. 
-After that, the speaker mentions that there is technology available for industrial use, but there is little technology available for home use. 
-Finally, the speaker believes that on the local level, water recycling at home is important. (66 words)
-本次讲座主要探讨了水循环利用问题。
-在讲座的第一部分，演讲者指出，水循环利用是有需要的。
-在讲座的第二部分，演讲者提到，工业领域已有相关技术可用，但家庭使用的技术却很少。
-在讲座的最后部分，演讲者强调，地方层面，家庭水循环利用具有重要意义。
+这些径流可能流入湖泊、河流和溪流，最终汇入海洋，从而重新开始水循环。
 
 23.Negative bias(Negative emotions) 负面偏见 #21621
-Negativity bias means humans usually pay more attention to negative emotions such as fears rather than positive emotions. 
-We feel content and pleasant more frequently, but these positive emotions are lighter, which means they cannot be easily recalled or stay in our minds. 
-However, negative emotions happen less frequently, but they are strong and intense. 
-Negativity bias can help us evaluate the environment and survive when we face life-threatening issues.
+The lecture is mainly about [the negativity bias].
+First, the speaker states that [people pay more attention to] [negative emotions] [rather than positive feelings].
+After that, he mentions that [positive emotions happen frequently] [but are light and easily forgotten].
+Finally, he emphasizes that [strong negative emotions] [enable humans to evaluate environmental dangers and survive]. (55 words)
+这个讲座主要是关于消极偏见的。
+首先，演讲者指出人们更关注消极情绪而不是积极情绪。
+在那之后，他提到积极情绪经常发生，但很轻，很容易被遗忘。
+最后，他强调，强烈的负面情绪使人类能够评估环境危险并生存下来。
 ---
-The lecture is mainly about negative bias. 
-First, the speaker states that we are more likely to sense negative emotions to help us survive. 
-After that, the speaker mentions that the positive emotions we experience are more limited. 
-Finally, the speaker believes that bad emotions are less frequent but more intense. (56 words)
-本次讲座主要探讨了负面偏见。
-在讲座的第一部分，演讲者指出，我们更容易感知负面情绪，这有助于人类生存。
-在讲座的第二部分，演讲者提到，我们体验到的积极情绪较少。
-在讲座的最后部分，演讲者强调，负面情绪发生得较少，但强度更强。
+The lecture is mainly about [the negativity bias].
+First, the speaker states that [humans pay more attention to negative emotions] [to help them survive dangers].
+After that, he mentions that [positive feelings] [occur frequently] [but are light and easily forgotten].
+Finally, he believes that [negative emotions happen less often], 
+yet [they remain far more intense and powerful]. (57 words)
+这个讲座主要是关于消极偏见的。
+首先，演讲者指出，人类更多地关注负面情绪，以帮助他们在危险中生存。
+在那之后，他提到积极的感觉经常出现，但很轻，很容易被遗忘。
+最后，他认为负面情绪发生的频率更低，但它们仍然更加强烈和强大。
 
 24.Baby smile/ smile of mother/ babies just want to be smiled at #18742
 婴儿的微笑/ 母亲的微笑/ 婴儿只是想被微笑
-Babies' smiles are strategic. 
-When babies smile, they want whoever they’re interacting with to smile back. 
-They also time it, which is called sophisticated timing. 
-In a study, researchers found out that mothers want the interaction, while babies just want to be smiled at. 
-Thus, when it comes to smiles, babies seem to know exactly what they're up to.
+The lecture is mainly about [babies' strategic smiles].
+First, the speaker states that [babies smile strategically] [because they want adults to smile back].
+After that, he mentions that [mothers seek genuine interaction], while[ infants just want to be smiled at] [in time].
+Finally, he emphasizes that [babies seem to know precisely] [what they are doing when they smile].
+这个讲座主要是关于婴儿的策略性微笑。
+首先，说话者说婴儿有策略地微笑，因为他们想要大人也微笑。
+在那之后，他提到母亲寻求真正的互动，而婴儿只是想要及时的微笑。
+最后，他强调，当婴儿微笑时，他们似乎确切地知道自己在做什么。
 ---
-The lecture is mainly about baby smiles. 
-First, the speaker states that babies want the people they talk with to give them a smile in return. 
-In the second part, the speaker mentions that the researchers found four types of mother-infant relationships. 
-Finally, the speaker believes that mothers want to talk, while babies just want to smile. (62 words)
-本次讲座主要探讨了婴儿的微笑。
-在讲座的第一部分，演讲者指出，婴儿希望与之互动的人能给予他们微笑回应。
-在讲座的第二部分，演讲者提到，研究人员发现了母婴关系的四种方式。
-在讲座的最后部分，演讲者强调，母亲想要交流，而婴儿只是想要微笑。
+The lecture is mainly about [baby smiles].
+First, the speaker states that [babies want the people they interact with] [to give them a smile in return].
+After that, he mentions that [researchers analyzed] [various mother-infant relationship dynamics].
+Finally, the speaker believes that [mothers want deep interaction], 
+while [babies simply want to receive smiles]. (55 words)
+这个讲座主要是关于婴儿的微笑。
+首先，说话者说婴儿希望与他们互动的人给他们一个微笑作为回报。
+在那之后，他提到研究人员分析了各种母婴关系动态。
+最后，演讲者认为母亲想要的是深度互动，而婴儿只是想要得到微笑。
+babies seem to know precisely                       婴儿似乎知道得很清楚
 
 25.Canned food during the great depression(canned food) #18793
 大萧条时期的罐头食品（罐头食品）
-The Great Depression was the beginning of modern food technology, when canned foods entered the market. 
-Meanwhile, refrigerators were very popular in urban and rural areas. 
-Moreover, the Rural Electrification Administration enabled farmers to purchase appliances, meaning frozen foods were experiencing rapid growth. 
-As a result of these changes, people started to think about supermarkets with many freezer cases and canned foods. 
+The lecture is mainly about [modern food technology] [during the Great Depression].
+First, the speaker states that [canned foods entered the market] [as food technology developed].
+After that, he mentions that [rural electrification] [allowed farmers to buy refrigerators] and [boosted frozen foods].
+Finally, he emphasizes that these [developments eventually inspired] [modern supermarkets filled with] [canned goods and freezer cases].
+讲座主要是关于大萧条时期的现代食品技术。
+首先，演讲者指出罐头食品是随着食品技术的发展而进入市场的。
+在那之后，他提到农村电气化使农民能够购买冰箱，并促进了冷冻食品的发展。
+最后，他强调，这些发展最终启发了摆满罐头食品和冷冻箱的现代超市。
 ---
-The lecture is mainly about canned foods during the Great Depression. 
-First, the speaker states that canned foods became popular. 
-After that, the speaker mentions that people could buy refrigerators. 
-Finally, the speaker believes that supermarkets became fashionable. (55 words)
-本次讲座主要探讨了大萧条时期的罐头食品。
-在讲座的第一部分，演讲者指出，罐头食品开始流行起来。
-在讲座的第二部分，演讲者提到，人们能够购买冰箱。
-在讲座的最后部分，演讲者强调，超市成为了一种新的事物。
+The lecture is mainly about [canned foods] [during the Great Depression].
+First, the speaker states that [canned foods became popular] [as food technology developed rapidly].
+After that, he mentions that [electricity allowed more people] [to purchase refrigerators and store frozen foods].
+Finally, he believes that [modern supermarkets with extensive freezer cases] [eventually became widespread].
+讲座主要是关于大萧条时期的罐头食品。
+首先，讲话者指出，罐头食品随着食品技术的迅速发展而流行起来。
+在那之后，他提到电力使更多人能够购买冰箱和储存冷冻食品。
+最后，他认为拥有大量冷冻柜的现代超市最终变得普遍。
 
 26.Credit card experiment(credit card) #18795
 信用卡实验（信用卡）
-In an experiment on customers’ behaviors, one group of inactive credit card users received a message offering benefits that they could gain by using the cards. 
-The other group received a message implying a penalty if it is not used. 
-The result shows that customers are more motivated by a potential loss when not using this card, rather than by the benefit they could gain by using the card.
+The lecture is mainly about [a credit card experiment].
+First, the speaker states that [inactive credit card users] [received a message about gaining benefits] [by using their cards].
+After that, he mentions that [other users would face a fine] [if they did not use their cards].
+Finally, the speaker believes that [customers are more likely to be driven by] [potential losses]. (56 words)
+这堂课主要是关于一个信用卡实验。
+首先，讲话者说，不活跃的信用卡用户收到了一条关于使用信用卡可以获得好处的消息。
+在那之后，他提到，其他用户如果不使用信用卡将面临罚款。
+最后，演讲者认为客户更有可能被潜在的损失所驱使。
 ---
-The lecture is mainly about a credit card experiment. 
-First, the speaker states that some inactive credit card users received a message, and they could gain benefits by using their cards. 
-Second, the speaker mentions that other users would pay money or [face a fine] if they did not use their cards. 
-Finally, the speaker believes that customers are more likely to be driven by potential losses. (66 words)
-本次讲座主要探讨了一项信用卡实验。
-在讲座的第一部分，演讲者指出，部分闲置信用卡用户收到了一条信息，提示他们使用信用卡可获得奖励。
-在讲座的第二部分，演讲者提到，其他用户若不使用信用卡将需要付出费用。
-在讲座的最后部分，演讲者强调，客户更容易被损失所驱动。
+The lecture is mainly about [an experiment on customer behavior].
+First, the speaker states that [one group of credit card users] [received messages about potential gains].
+After that, he mentions that [another group received messages] [warning of penalties if cards were not used].
+Finally, he emphasizes that [customers are more motivated by] [avoiding potential losses] [than by gaining benefits].
+这个讲座主要是关于顾客行为的实验。
+首先，讲话者说，一组信用卡用户收到了关于潜在收益的信息。
+在那之后，他提到，另一组人收到了警告信息，如果不使用信用卡就会受到处罚。
+最后，他强调客户的动机是避免潜在的损失，而不是获得利益。
+warning of penalties                                    罚款警告
+customers are more motivated by                         顾客对...更有动力
 
 27.Hook sentence(议论文开篇)
 As a writer, you first need to collect many materials, then write an essay. 
