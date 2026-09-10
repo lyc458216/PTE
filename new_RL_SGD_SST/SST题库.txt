@@ -194,7 +194,7 @@ Automated driving #18758
 The lecture is mainly about [automated driving].
 First, the speaker states that [automated driving] (involves/ includes) [both Level 3 and Level 4 systems].
 After that, he mentions that [Level 3 refers to the conditional automated driving mode].
-Finally, the speaker believes that [Level 4 automation saves energy] and [operates more efficiently than] [Level 3 systems]. (58 words)
+Finally, the speaker believes that [Level 4 automation saves energy] and [operates more efficiently than] [Level 3 systems]. (53 words)
 这个讲座主要是关于自动驾驶的。
 首先，演讲者指出自动驾驶涉及3级和4级系统。
 之后，他提到Level 3指的是有条件的自动驾驶模式。
@@ -204,186 +204,200 @@ with minimal driver interaction         最少的驾驶员交互
 operates more efficiently than          运行比……更有效率
 
 9.Market economy 市场经济 #111064
-The lecture is mainly about market economy.
-First, the speaker states that democracies have succeeded in tempering the market economy. 
-For example, the Industrial Revolution had a very negative effect on people. 
-In order to fix the damage, we used some methods that led to better environmental conditions. 
-Finally, we have made the market economy work better than it did a hundred years ago. (62 words)
-这个讲座主要是关于市场经济的。
-首先，发言者指出，民主国家成功地调节了市场经济。
-例如，工业革命对人们产生了非常负面的影响。
-为了修复损坏，我们使用了一些可以改善环境条件的方法。
-最后，我们使市场经济比一百年前运行得更好。
+The lecture is mainly about [the market economy].
+First, the speaker states that [democratic countries] have [successfully managed the market economy].
+After that, he mentions that [governments took effective measures] [to repair environmental damage] [caused by industrialization].
+Finally, he believes that [the market economy functions much better today than it did a hundred years ago]. (55 words)
+讲座主要是关于市场经济的。
+首先，演讲者说民主国家已经成功地管理了市场经济。
+在那之后，他提到政府采取了有效措施来修复工业化造成的环境破坏。
+最后，他相信今天的市场经济比一百年前运行得更好。
 ------
 Marketing #18671
-The lecture is mainly about marketing. 
-First, the speaker states that marketing is the process of moving goods and services from suppliers to customers. 
-In the second part, the speaker mentions that profit models can [ensure a return on capital]. 
-Finally, the speaker believes that marketing [is directly linked to] sales growth. (52 words)
+The lecture is mainly about [marketing]. 
+First, the speaker states that [marketing is the process of moving goods and services from suppliers to customers]. 
+In the second part, the speaker mentions that [profit models] [can ensure a return on capital]. 
+Finally, the speaker believes that [marketing is directly linked to] [sales growth]. (52 words)
 本次讲座主要探讨了市场营销。
 在讲座的第一部分，演讲者指出，市场营销是将商品和服务从供应商转移到客户的过程。
 在讲座的第二部分，演讲者提到，盈利模式可以确保资本回报。
 在讲座的最后部分，演讲者强调，市场营销与销售增长直接相关。
+democratic countries                    民主国家
 democracy/democracies                   n. 民主政体；民主国家；民主，民主精神
 
 10.Management(Manager)经理应该自我提升
-The lecture is mainly about managers. 
-First, the speaker states that managers should learn more by reading more books and going back to university to improve themselves.
-After that, the speaker mentions that management knowledge and skills are more important than experience. 
-Finally, the speaker believes that the best managers should not only know their organization better, 
-but also be a professor of management. (61 words)
+The lecture is mainly about managers.
+First, the speaker states that [managers should learn more by reading books] and [going back to university to improve themselves].
+After that, he mentions that [management knowledge and skills] [are more important than mere experience].
+Finally, the speaker believes that [the best managers should] [not only understand their organization], 
+[but also become professors of management]. (61 words)
 这个讲座主要是关于经理的。
-首先，演讲者指出管理者应该通过阅读更多的书籍和回到大学学习来提高自己。
-然后，演讲者提到管理知识和技能比经验更重要。
-最后，演讲者认为最好的管理者不仅应该更了解他们的组织，而且应该是一名管理学教授。
+首先，演讲者指出管理者应该通过阅读书籍和回到大学学习来提高自己。
+之后，他提到管理知识和技能比经验更重要。
+最后，演讲者认为最好的管理者不仅要了解他们的组织，而且要成为管理学的教授。
 
 11.The history of software 软件发展史(IT development)
-The lecture is mainly about the history of software. 
-First, the speaker states that the history of software is short, but its growth has been fast. 
-After that, he mentions that the quick expansion of computing power and lower costs driven this trend. 
-Finally, he believes that these changes enabled information technology to move into all areas of life. (58 words)
+The lecture is mainly about [the history of software].
+First, the speaker states that [the software industry] [has grown very rapidly] [in a short history].
+After that, he mentions that [expanding computing power and decreasing costs] [drove this rapid trend].
+Finally, he highlights that [information technology] [has now expanded into every aspect of daily life]. (55 words)
 这个讲座主要是关于软件的历史。
-首先，演讲者说软件的历史很短，但它的发展很快。
-之后，他提到计算能力的快速扩展和较低的成本推动了这一趋势。
-最后，他认为这些变化使信息技术进入生活的各个领域。
+首先，演讲者指出，软件行业在很短的历史中发展得非常迅速。
+在那之后，他提到了不断扩大的计算能力和不断降低的成本推动了这一快速趋势。
+最后，他强调信息技术现在已经扩展到日常生活的方方面面。
 ---
-The lecture first mentions that the history of software is very short. 
-This is because the whole IT industry is a major new technology and discipline. 
-Therefore, the progression has not been so much. 
-Overall, the rapid expansion in the power of computing has guided the development of software and information technology.
-讲座首先提到了软件的历史是非常新的。
-这是因为整个IT行业是一个重大的新技术和新学科。
-因此，进展并没有那么大。
-总的来说，计算能力的快速增长引导了软件和信息技术的发展。
-discipline                          n. 纪律，风纪；惩罚，处分；训导，管教；训练，锻炼；
-                                    （尤指大学的）科目，学科
-                                    v. 惩罚，处分；训练，管教
+The lecture is mainly about [the history of software].
+First, the speaker states that [the history of software] [is relatively short] [because information technology is a new discipline].
+After that, he mentions that [despite its short history], 
+[the progression of IT has been remarkably rapid].
+Finally, he highlights that [the rapid expansion of computing power] [has driven the development of software]. (60 words)
+这个讲座主要是关于软件的历史。
+首先，演讲者说软件的历史相对较短，因为信息技术是一门新学科。
+在那之后，他提到，尽管IT的历史很短，但它的发展却非常迅速。
+最后，他强调了计算能力的快速扩展推动了软件的发展。
+discipline                                          n. 纪律，风纪；惩罚，处分；训导，管教；训练，锻炼；
+                                                    （尤指大学的）科目，学科
+                                                    v. 惩罚，处分；训练，管教
+the progression of IT has been remarkably rapid     信息技术的发展非常迅速
 
 12.social difficulties in children/ social skills 儿童的社交困难/ 社交技能 #23227
-The lecture is mainly about the importance of social skills. 
-First, the speaker states that social skills and understanding help build positive interpersonal relationships and reduce the risk of conflict. 
-In the second part, the speaker mentions that it is also important for individuals to have empathy. 
-This is because it allows them to respond in an understanding way. 
-Finally, the speaker believes that this approach enhances students' self-regulation and critical thinking abilities. (62 words)
+The lecture is mainly about [the importance of social skills].
+First, the speaker states that [social skills help build positive interpersonal relationships] [and reduce conflict risks].
+After that, he mentions that [empathy is essential] [because it allows individuals to respond in an understanding way].
+Finally, the speaker believes that [this approach enhances students' self-regulation] and [critical thinking abilities]. (59 words)
 这个讲座主要是关于社交技巧的重要性。
-首先，演讲者说社交技巧和理解力有助于建立积极的人际关系，减少冲突的风险。
-在第二部分，演讲者提到对个人来说，拥有同理心也很重要。
-这是因为它允许他们以一种理解的方式回应。
+首先，演讲者指出，社交技能有助于建立积极的人际关系，减少冲突风险。
+之后，他提到共情是必不可少的，因为它允许个人以理解的方式做出反应。
 最后，演讲者认为这种方法可以提高学生的自我调节能力和批判性思维能力。
 ---
-Social skills are vital for us when it comes to maintaining positive interactions with others. 
-Many of them are especially crucial in making and sustaining friendships. 
-It is also important for individuals to have empathy. 
-This is because it allows them to respond in an understanding way. 
-Besides, it can also improve self-regulation and critical thinking skills.
-当涉及到与他人保持积极互动时，社交技能对我们来说至关重要。
-他们中的许多人在建立和维持友谊方面尤其重要。
-同理心对个人来说也很重要。
-这是因为它允许他们以一种理解的方式回应。
-此外，它还可以提高自我调节和批判性思维能力。
+The lecture is mainly about [maintaining social skills].
+First, the speaker states that [social skills are crucial for] [building and sustaining positive relationships with others].
+After that, he mentions that [empathy allows people to respond] [in an understanding manner].
+Finally, he emphasizes that [social skills effectively improve self-regulation] and [critical thinking skills].
+这个讲座主要是关于保持社交技巧的。
+首先，演讲者指出，社交技能对于建立和维持与他人的积极关系至关重要。
+在那之后，他提到同理心可以让人们以一种理解的方式回应。
+最后，他强调社交技能可以有效地提高自我调节能力和批判性思维能力。
 empathy                             n. 共鸣，同情；感同身受，产生共鸣
+manner                              n. 态度，举止；礼貌；方式；（文学或艺术的）风格；习俗；
+self-regulation                     n. 自我调节，自动调节
 
 13.The decline of bees/ Bees are in decline. 蜜蜂数量减少 #18755
-The lecture is mainly about the decline of bees.
-First, the speaker states that these declines are supported by strong scientific evidence.
-After that, the speaker mentions that the reasons for the decline in different places are different.
-Finally, the speaker believes that we are aware of the problem, and people are taking action to protect them. (58 words)
+The lecture is mainly about [the decline of bees].
+First, the speaker states that [these declines are supported by strong scientific evidence].
+After that, the speaker mentions that [the reasons for the decline] [vary across different places].
+Finally, the speaker believes that [people are aware of the problem] [and are taking action to protect them]. (58 words)
 这个讲座主要是关于蜜蜂数量的减少。
 首先，演讲者指出，这些下降是有强有力的科学证据支持的。
-在那之后，演讲者提到，在不同的地方下降的原因是不同的。
-最后，演讲者认为我们意识到了这个问题，并且人们正在采取行动来保护他们。
+在那之后，说话者提到下降的原因在不同的地方有所不同。
+最后，演讲者认为人们意识到了这个问题，并正在采取行动保护他们。
 ---
-These declines are well-documented and real, as they are supported by good and strong scientific evidence. 
-The drivers of decline vary depending on species, and the effects of pollinator loss could be absolutely huge. 
-However, awareness is being raised all the time and people are taking action. 
-这些下降是有据可查和真实的，因为它们得到了良好和强有力的科学证据的支持。
-减少的驱动因素因物种而异，传粉者的损失可能是绝对巨大的。
-然而，意识一直在提高，人们正在采取行动。
+The lecture is mainly about [the decline of bees and pollinators].
+First, the speaker states that [these population declines are real] [and supported by scientific evidence].
+After that, he mentions that [the causes vary by species], 
+leading to huge negative effects.
+Finally, he emphasizes that [environmental awareness] [is growing] [and people are taking action]. (55 words)
+讲座主要是关于蜜蜂和传粉媒介的减少。
+首先，演讲者声明这些人口下降是真实的，并且有科学证据支持。
+之后，他提到，原因因物种而异，导致巨大的负面影响。
+最后，他强调，环保意识正在增强，人们正在采取行动。
+pollinator                          n. 传粉者，传粉媒介，传粉昆虫；（农业/园艺）授粉器，授花粉器
+vary across different places        在不同的地方有所不同
+the causes vary by species          原因因物种而异
+leading to huge negative effects    导致巨大的负面影响
+environmental awareness             环保意识，环境意识
 
 14.An experiment about female body fat/ change of body fat/ obese women 女性体脂实验 #18717
-The lecture is mainly about an experiment about female body fat. 
-First, the speaker states that thirty-one overweight women joined the experiment. 
-After that, the speaker mentions that they need to exercise every day. 
-Finally, the speaker believes that some people ate more or exercised less. (62 words)
-本次讲座主要探讨了女性体脂的实验。
-在讲座的第一部分，演讲者指出，31 名肥胖女性参与了实验。
-在讲座的第二部分，演讲者提到，她们需要每天坚持锻炼。
-在讲座的最后部分，演讲者强调，有些人吃得更多，或是运动较少。
+The lecture is mainly about [an experiment on female body fat].
+First, the speaker states that [thirty-one overweight women] [joined the research experiment].
+After that, he mentions that [participants were required to exercise every day] [during the study].
+Finally, the speaker believes that [the unexpected results occurred] [because some women ate more or exercised less than required].(62 words)
+这个讲座主要是关于一个关于女性体脂的实验。
+首先，讲话者指出，31名超重妇女参加了研究实验。
+在那之后，他提到参与者被要求在研究期间每天锻炼。
+最后，演讲者认为，出现意想不到的结果是因为一些女性吃得比要求的多或锻炼得少。
 ---
-The lecture is mainly about an experiment on body fat change.
-First, an experiment found that some volunteers lost fat, 
-while others did not lose fat at all.
-After that, the speaker offers two explanations.
-One is that those who did not lose weight ate more, 
-and the other is that psychological reasons played a role.
+The lecture is mainly about [an experiment on body fat change].
+First, the speaker states that [some volunteers lost fat] [during the experiment], 
+while others did not lose weight.
+After that, he explains that [those who failed to lose fat may have eaten more calories].
+Finally, he emphasizes that [psychological reasons also played an important role].(55 words)
 这个讲座主要是关于身体脂肪变化的实验。
-首先，一项实验发现，一些志愿者减掉了脂肪，而另一些志愿者根本没有减掉脂肪。
-之后，说话者提供了两种解释。
-一是没有减肥的人吃得更多，二是心理原因起了作用。
+首先，讲话者说，一些志愿者在实验中减掉了脂肪，而另一些志愿者没有减掉脂肪。
+在那之后，他解释说，那些没有减掉脂肪的人可能摄入了更多的卡路里。
+最后，他强调心理原因也发挥了重要作用。
 An experiment found out that            一项实验证明了这一点
 
 15.The separation of powers 三权分立 #18781
-The lecture is mainly about the separation of powers.
-First, dividing government authority helps maintain balance and protect freedom.
-The three main branches make, execute, and explain laws separately.
-These roles are defined in the Constitution, 
-which prevents any branch from getting too powerful and keeps the government stable.
+The lecture is mainly about [the separation of powers].
+First, the speaker states that [dividing government power] [helps maintain balance and protect public freedom].
+After that, he mentions that [three distinct branches] [make, execute, and interpret laws separately].
+Finally, he highlights that [these constitutional rules] [prevent any single branch from becoming too powerful], 
+[ensuring long-term government stability].(55 words)
 这个讲座主要是关于三权分立的。
-首先，划分政府权力有助于保持平衡和保护自由。
-这三个主要部门分别制定、执行和解释法律。
-这些角色在宪法中有明确规定，这可以防止任何分支机构变得过于强大，并保持政府的稳定。
+首先，演讲者指出，划分政府权力有助于保持平衡，保护公众自由。
+之后，他提到三个不同的分支机构分别制定、执行和解释法律。
+最后，他强调，这些宪法规则防止任何单一部门变得过于强大，从而确保政府的长期稳定。
 ---
-The lecture is mainly about the separation of powers. 
-First, the speaker emphasizes that the separation of powers means dividing government power into three parts. 
-After that, the speaker mentions that one is to make the laws, and the second is to enforce the laws. 
-Finally, the speaker states that the third is to explain the laws, and these roles are defined in the Constitution. (62 words)
+The lecture is mainly about [the separation of powers].
+First, the speaker emphasizes that [government power is divided into three main branches].
+After that, he mentions that [these branches are responsible for making and enforcing laws].
+Finally, he states that [the third role is to explain laws], 
+and [all roles] [are defined in] [the Constitution]. (59 words)
 这个讲座主要是关于三权分立的。
-首先，演讲者强调三权分立意味着将政府权力分成三部分。
-在那之后，演讲者提到一个是制定法律，第二个是执行法律。
-最后，发言人说，第三个是解释法律，这些角色在宪法中有规定。
+首先，演讲者强调政府权力分为三个主要部门。
+之后，他提到这些分支机构负责制定和执行法律。
+最后，他指出，第三个作用是解释法律，所有的作用都在宪法中规定。
+three distinct branches                         三个不同的分支
+make, execute, and interpret laws separately    分别制定、执行和解释法律
+constitutional rules                            宪法规则
+be responsible for                              对……负责，是造成……原因
 
 16.Symmetry in mathematics数学中的对称性(stone balls) #22451
-The lecture is mainly about early symmetry stones.
-First, the speaker states that these stones show the earliest human interest in symmetry.
-After that, he mentions that people still do not know what these old stones were used for.
-Finally, he believes that this mysterious nature is the exact reason why we like them. (54 words)
+The lecture is mainly about [early symmetry stones].
+First, the speaker states that [these stones show] [the earliest human interest in symmetry].
+After that, he mentions that [researchers still do not know what these ancient stones were used for].
+Finally, he believes that this [mysterious nature] is [the exact reason] [why people find them appealing]. (58 words)
 讲座主要是关于早期的对称石。
-首先，讲话者说，这些石头显示了人类对对称的最早兴趣。
-在那之后，他提到人们仍然不知道这些古老的石头是用来做什么的。
-最后，他认为这种神秘的天性正是我们喜欢它们的确切原因。
+首先，讲话者说，这些石头显示了人类最早对对称的兴趣。
+在那之后，他提到，研究人员仍然不知道这些古老的石头是用来做什么的。
+最后，他认为这种神秘的性质正是人们觉得它们有吸引力的确切原因。
 ---
-The lecture is mainly about symmetry in mathematics. 
-First, the speaker states that old objects in museums can have great mathematical significance. 
-After that, he mentions that the stones discovered in Scotland 5000 years ago are the first examples of humans exploring the concept of symmetry. 
-Finally, he believes that we don't know what these stones are for. 
-Maybe they were mathematical objects for joy and beauty. (67 words)
-本次讲座主要探讨了数学中的对称性。
-在讲座的第一部分，演讲者指出，博物馆中的古老物件往往蕴含丰富的数学意义。
-在讲座的第二部分，演讲者提到，在苏格兰发现的五千年前石器，是人类探索对称概念的最早实例。
-在讲座的最后部分，演讲者强调，我们不知道这些石器是干什么用的。或许它们只是为了乐趣与美感而存在的数学物件。
+The lecture is mainly about symmetry in mathematics.
+First, the speaker states that old museum objects can have great mathematical value.
+After that, he mentions that ancient stones found in Scotland demonstrate early human interest in symmetry.
+Finally, he believes that while their purpose is unknown, these stones were likely appreciated for joy and mathematical beauty. (55 words)
+这个讲座主要是关于数学中的对称性。
+首先，讲话者指出，博物馆里的老物件可能有很大的数学价值。
+之后，他提到在苏格兰发现的古代石头证明了早期人类对对称的兴趣。
+最后，他认为，尽管它们的用途尚不清楚，但这些石头很可能是为了欢乐和数学之美而被欣赏的。
+the exact reason                                确切的原因
+why people find them appealing                  为什么人们觉得它们很吸引人
 
 17.Vitamin D 维他命D #18683
-The lecture is mainly about vitamin D. 
-First, the speaker states that vitamin D is called the sunshine vitamin. 
-After that, the speaker mentions that if people get enough sunshine, there is no dietary need for vitamin D. 
-People need to get vitamin D from food only when sunlight is not enough.
-Finally, the speaker states that vitamin D is actually not a real vitamin. (62 words)
-本次讲座主要探讨了维生素 D。
-在讲座的第一部分，演讲者指出，维生素 D 被称为阳光维生素。
-在讲座的第二部分，演讲者提到，如果你得到足够的阳光，就不需要维生素D。
-在讲座的最后部分，演讲者强调，维生素 D 不是一种维生素。
+The lecture is mainly about vitamin D.
+First, the speaker states that vitamin D [is commonly called] [the sunshine vitamin].
+After that, he mentions [that people have no dietary need for vitamin D] [with sufficient sunlight], 
+[requiring food sources] [only when sunlight exposure is not enough].
+Finally, the speaker highlights that [vitamin D is not a real vitamin]. (62 words)
+这个讲座主要是关于维生素D的。
+首先，演讲者指出，维生素D通常被称为阳光维生素。
+在那之后，他提到，在充足的阳光下，人们不需要从饮食中摄取维生素D，只有在阳光照射不足的情况下才需要食物来源。
+最后,发言人强调,维生素D不是一个真正的维生素。
 ---
-The lecture is mainly about vitamin D. 
-Vitamin D is called the sunshine vitamin. 
-This is because if you get adequate sunshine, there is no dietary need for it. 
-Therefore, vitamin D is not actually a vitamin. 
-It is a pro-hormone. Human beings evolved in tropical climates where there was lots of sunlight. 
-As we migrated away, there was not adequate sunlight, so we created a need for vitamin D in food.
-维生素D被称为阳光维生素。
-这是因为如果你得到足够的阳光，就不需要饮食了。
-因此，维生素D实际上并不是维生素。
-它是一种促激素。人类在热带气候中进化，那里有充足的阳光。
-当我们迁移的时候，没有足够的阳光，所以我们需要从食物中摄取维生素D。
+The lecture is mainly about vitamin D.
+First, the speaker states that vitamin D [is known as the sunshine vitamin], 
+[meaning sun exposure satisfies human needs].
+After that, he mentions that [vitamin D functions as a pro-hormone] [originating from tropical environments].
+Finally, he explains that [as human populations migrated to colder regions], 
+[getting vitamin D from food became necessary]. (55 words)
+这个讲座主要是关于维生素D的。
+首先，演讲者指出维生素D被称为阳光维生素，因为充足的阳光可以消除任何饮食需求。
+之后，他提到维生素D实际上是一种促激素，是人类在热带气候下自然产生的。
+最后，他强调，人类从阳光充足的地区迁移，产生了饮食中维生素D的必要性。
+sufficient sunlight                             充足的阳光
+sun exposure satisfies human needs              阳光照射满足了人类的需求
+originating from tropical environments          源自热带环境
 
 18.Newspaper industry 新闻业下滑 #18777
 The lecture is mainly about the newspaper industry.
