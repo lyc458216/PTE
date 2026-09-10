@@ -9,44 +9,45 @@ In conclusion, <sentence6>.
 1.Einstein’s theory of universe 爱因斯坦的宇宙理论 #111026
 The lecture is mainly about Einstein's theory of the universe. 
 First, the speaker states that for thousands of years, people thought space was fixed. 
-After that, the speaker also mentions that Einstein changed our view of the universe. 
-Finally, the speaker believes that space itself is changing, and it is in a state of continuous dynamic change. (56 words)
-本次讲座主要探讨了爱因斯坦的宇宙理论。
-在讲座的第一部分，演讲者指出，人们曾认为空间是静止不动的，这种观念延续了数千年。
-在讲座的第二部分，演讲者提到，对宇宙的看法因为爱因斯坦而改变。
-在讲座的最后部分，演讲者强调，空间本身正在发生变化。
-People used to believe that the universe was fixed and unchangeable. 
-The stars and planets moved around on the completely unchanging stage of space. 
-However, that view was then changed because of Einstein's work. 
-There was not an absolutely fixed stage of space. 
-Instead, space was in a state of continuous dynamic change. 
-过去人们认为宇宙是固定不变的。
-恒星和行星在完全不变的太空舞台上运动。
-然而，由于爱因斯坦的工作，这种观点被改变了。
-没有一个绝对固定的空间舞台。
-相反，空间处于持续动态变化的状态。
+After that, the speaker mentions that Einstein changed the human view of the universe. 
+Finally, the speaker believes that space itself is not static, 
+but [in a state of continuous dynamic change/ is changing].(56/ 51 words)
+讲座主要是关于爱因斯坦的宇宙理论。
+首先，讲话者说，几千年来，人们认为空间是固定的。
+在那之后，演讲者提到爱因斯坦改变了人类对宇宙的看法。
+最后，说话者认为空间本身不是静止的，而是[处于不断动态变化的状态/变化的]。
+The lecture is mainly about Einstein's dynamic view of space.
+First, the speaker states that people used to believe the universe was fixed and unchangeable.
+After that, he mentions that this view was changed because of Einstein's work.
+Finally, he believes that space is not an absolutely fixed stage, 
+but is in a state of continuous dynamic change.(59 words)
+讲座主要是关于爱因斯坦的空间动态观。
+首先，讲话者指出，过去人们相信宇宙是固定不变的。
+在那之后，他提到这种观点因为爱因斯坦的工作而改变了。
+最后，他认为空间不是一个绝对固定的阶段，而是处于不断动态变化的状态。
 completely                  adv. 完全地，彻底地
 absolutely                  adv. 绝对地，完全地；确实地，极其；
 continuous dynamic change   持续动态变化
 moved around on             在……上移动：在某物表面上移动身体或物体。
 
 2.Roman city planning 罗马城市规划(roman building) #111122
-The lecture is mainly about Roman city planning. 
-First, the speaker states that the city grew in an unplanned way, and the streets are narrow. 
-In the second part, the speaker mentions that Romans structured the city in a very organized way. 
-Finally, the speaker believes that when the Romans built their ideal city, they used a military camp design. (55 words)
-本次讲座主要探讨了罗马城。
-在讲座的第一部分，演讲者指出，该城市是以简单随意的模式发展起来的。
-在讲座的第二部分，演讲者提到，罗马人以非常有条理的方式规划了城市结构。
-在讲座的最后部分，演讲者强调，当罗马人建造他们理想中的罗马城市时，他们使用了军营的设计。
-The streets of the city of Rome are relatively narrow. 
-This is because the city wasn't planned all at once, and it just grew up over time. 
-At the very beginning, the Romans structured it in a methodical way, which was basically based on military strategy and planning. 
-As a result, the city has been built like a military camp.
-罗马的街道相对狭窄。
-这是因为这座城市并不是一下子就规划好的，而是随着时间的推移而发展起来的。
-一开始，罗马人就以一种系统的方式来构建它，这基本上是基于军事战略和计划。
-结果，这座城市就像一个军营。
+The lecture is mainly about Roman city planning.
+First, the speaker states that the original city grew in an unplanned way with narrow streets.
+After that, he mentions that Romans later structured new cities in a very organized way.
+Finally, the speaker believes that when the Romans built their ideal cities, 
+they always used a military camp design. (63 words)
+这个讲座主要是关于罗马城市规划的。
+首先，说话者指出，最初的城市以一种没有规划的方式发展，街道狭窄。
+在那之后，他提到罗马人后来以一种非常有组织的方式构建了新的城市。
+最后，演讲者认为，当罗马人建造他们理想的城市时，他们总是使用军事营地的设计。
+The lecture is mainly about Roman city planning.
+First, the speaker states that streets in Rome are narrow because the original city grew without overall planning over time.
+After that, he mentions that Romans later structured new cities in a methodical way.
+Finally, he highlights that these ideal cities were built based on a military camp design. (60 words)
+这个讲座主要是关于罗马城市规划的。
+首先，讲话者指出，罗马的街道之所以狭窄，是因为最初的城市在没有总体规划的情况下随着时间的推移而发展。
+在那之后，他提到罗马人后来以一种系统的方式构建了新的城市。
+最后，他强调这些理想的城市是建立在军营设计的基础上的。
 relatively                  adv. 相当地，相对地
 structured                  v. 计划，组织，安排
                             n. 结构，构造；结构体，（尤指）大型建筑物；
