@@ -400,46 +400,48 @@ sun exposure satisfies human needs              阳光照射满足了人类的�
 originating from tropical environments          源自热带环境
 
 18.Newspaper industry 新闻业下滑 #18777
-The lecture is mainly about the newspaper industry.
-First, the speaker states that the newspaper industry in some American states is shrinking because of financial problems.
-After that, he mentions that business models are changing.
-Finally, he highlights that some newspapers move online, 
-while other newspapers disappear. (55 words)
+The lecture is mainly about [the newspaper industry].
+First, the speaker states that [the newspaper industry in many American states is shrinking] [due to financial problems].
+After that, he mentions that [traditional business models] [are constantly changing].
+Finally, he highlights that [many newspapers are moving online], 
+while other local newspapers [are completely disappearing]. (59 words)
 这个讲座主要是关于报业的。
-首先，演讲者指出，由于财政问题，美国一些州的报业正在萎缩。
-之后，他提到商业模式正在发生变化。
-最后，他强调了一些报纸转移到网上，而另一些报纸则消失了。
+首先，演讲者指出，由于财政问题，美国许多州的报业正在萎缩。
+之后，他提到传统的商业模式在不断变化。
+最后，他强调，许多报纸正在转向网络，而其他地方报纸正在完全消失。
 ---
-Because of the economic model, the newspaper industry has been shrinking drastically, 
-and newspapers have increased the cash flow. 
-However, there are still some newspaper industries losing money because of a decrease in advertising and buyers. 
-As a result, the staff working in the newspaper industry has decreased by more than 30%. 
-由于经济模式的原因，报纸行业急剧萎缩，报纸增加了现金流。
-然而，由于广告和买家的减少，仍有一些报业处于亏损状态。
-因此，在报纸行业工作的员工减少了30%以上。
+The lecture is mainly about [the newspaper industry].
+First, the speaker states that [newspapers are shrinking rapidly] [because of changing economic models].
+After that, he mentions that [loss of advertising revenues and buyers] [has caused severe financial losses].
+Finally, he emphasizes that [staff numbers in the industry] [have decreased by more than thirty percent]. (55 words)
+讲座主要是关于报业的。
+首先，演讲者指出由于经济模式的变化报纸正在迅速萎缩。
+之后，他提到广告收入和买家的损失造成了严重的经济损失。
+最后，他强调，该行业的员工数量减少了30%以上。
+be constantly changing                          不断变化
+be completely disappearing                      完全消失
 
 19.Dangers of keeping drugs at home/ Misuse of drugs 用药不当的危害/ 滥用药物 #18720
-The lecture is mainly about the dangers of keeping medicine at home. 
-First, the speaker states that children may ingest the drugs. 
-After that, the speaker mentions that the medicine may be taken for the wrong reasons, 
-and patients may use the drugs after their expiration date. 
-Finally, the speaker highlights that doctors should give the right amount of medicine. (58 words)
-本次讲座主要探讨了家中存放药品的危险性。
-在讲座的第一部分，演讲者指出，儿童可能会误食药品。
-在讲座的第二部分，演讲者提到，药品可能被用于不当的原因。
-在讲座的最后部分，演讲者强调，医生应该开具正确数量的药品。
+The lecture is mainly about the [dangers of keeping medicine at home].
+First, the speaker states that young children [may accidentally ingest these stored drugs].
+After that, he mentions that [medicines might be taken] [for incorrect reasons] or [used past their expiration dates].
+Finally, the speaker highlights that [doctors should prescribe the exact amount of medicine] [needed for treatment]. (60 words)
+这次演讲主要是关于把药放在家里的危险。
+首先，讲话者指出，幼儿可能会意外摄入这些储存的药物。
+在那之后，他提到药物可能因不正确的原因服用或使用超过有效期。
+最后，演讲者强调医生应该开出治疗所需的确切剂量的药。
 ---
-There are a number of dangers of keeping drugs at home. 
-First, they may be accidentally ingested by children. 
-Secondly, patients may use the drugs after their expiration date. 
-Thirdly, the leftover drugs may be taken for the wrong reasons. 
-To solve this problem, physicians should prescribe the drugs only when appropriate, 
-and the full course of the drug must be taken.
-把毒品放在家里有很多危险。
-首先，它们可能会被儿童误食。
-其次，患者可能会在药物过期后继续使用。
-第三，剩余的药物可能会因为错误的原因而服用。
-为了解决这个问题，医生应该只在适当的时候开药，并且必须服用整个疗程的药物。
+The lecture is mainly about [the risks of storing drugs at home].
+First, the speaker states that [children might accidentally ingest these leftover medications].
+After that, he mentions that people [often take expired drugs] [for the wrong reasons].
+Finally, he highlights that [doctors must prescribe appropriate amounts of medicine] [to solve this problem]. (55 words)
+讲座主要是关于在家里储存毒品的风险。
+首先，说话者说孩子们可能会不小心摄入这些剩余的药物。
+在那之后，他提到人们经常因为错误的原因服用过期的药物。
+最后，他强调医生必须开适量的药来解决这个问题。
+may accidentally ingest these stored drugs          可能会误食这些储存的药物
+prescribe the exact amount of medicine              开出准确剂量的药
+prescribe appropriate amounts of medicine           开适量的药
 
 20.globalization and detraditionalization 全球化导致文化丧失 #18759
 The lecture is mainly about globalization and detraditionalization. 
