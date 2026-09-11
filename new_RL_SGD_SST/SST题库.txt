@@ -620,146 +620,183 @@ warning of penalties                                    罚款警告
 customers are more motivated by                         顾客对...更有动力
 
 27.Hook sentence(议论文开篇)
-As a writer, you first need to collect many materials, then write an essay. 
-You are also suggested to build an emotional connection with your reader right from the start. 
-This can be achieved by a hook in the essay, which is a catchy sentence or paragraph. 
-It serves as an attention element, and should be engaging and interesting. 
-It often appears in the first sentence. 
+The lecture is mainly about [writing an effective essay].
+First, the speaker states that [writers must collect materials] [before writing their essays].
+After that, he mentions that [building an emotional connection with the reader] [is crucial from the beginning].
+Finally, he emphasizes that [authors should use an engaging hook] [or catchy first sentence to attract attention].
+这个讲座主要是关于如何写一篇有效的文章。
+首先，说话者说作者在写论文之前必须收集材料。
+之后，他提到从一开始就与读者建立情感联系是至关重要的。
+最后，他强调作者应该用一个吸引人的钩子或朗朗上口的第一句话来吸引注意力。
 
 28.Stock market and modern business #21115
 股票市场与现代商业
-The stock market is where investors connect to buy and sell investments, which anyone can access with an account. 
-The term 'stock market' often refers to one of the major stock market indexes. 
-However, there are some different uses of the stock market before and after. 
-The stock market also tends to put money into big companies.
+The lecture is mainly about [how the stock market functions].
+First, the speaker states that [the stock market connects investors] [who buy and sell investments through active accounts].
+After that, he mentions that [the term often refers to major stock indexes], 
+though [its practical uses] [differ across trading stages].
+Finally, he emphasizes that [the stock market helps] [direct investment capital] [into large companies].
+讲座主要是关于股票市场是如何运作的。
+首先，讲话者指出，股票市场通过活跃账户将买卖投资的投资者联系起来。
+之后，他提到该术语通常指的是主要股指，尽管其实际用途因交易阶段而异。
+最后，他强调，股票市场有助于引导投资资本进入大公司。
 ---
-The lecture is mainly about the stock market and modern business. 
-First, the speaker states that manufacturing companies entered the market. 
-After that, the speaker mentions that big modern companies include Apple, Google, and Microsoft. 
-Finally, the speaker believes that there are differences between them. (56 words)
-本次讲座主要探讨了股票市场与现代商业。
-在讲座的第一部分，演讲者指出，制造工厂公司纷纷进入市场。
-在讲座的第二部分，演讲者提到，大型现代企业包括苹果、谷歌和微软。
-在讲座的最后部分，演讲者强调，它们之间存在一些差异。
+The lecture is mainly about [the stock market and modern business].
+First, the speaker states that [traditional manufacturing companies] [originally entered the market to raise capital].
+After that, he mentions that [big modern companies] [now include tech giants like Apple, Google, and Microsoft].
+Finally, he believes that [significant differences exist] [between traditional industrial firms and modern corporate enterprises].
+讲座主要是关于股票市场和现代商业的。
+首先，演讲者指出，传统制造业公司最初进入市场是为了筹集资金。
+之后，他提到现在的大型现代公司包括苹果、苹果和微软等科技巨头。
+最后，他认为传统工业企业与现代公司企业之间存在显著差异。
+the term                                                学期;条款;术语
+practical uses                                          实际应用
+practical                                               adj. 真实的，实际的；
+significant differences exist                           存在显著差异
 
 29.Great ideas 好想法 #18789
-To be successful, you should have great ideas. 
-A great idea should have three features. 
-First, it should be various and novel. 
-Secondly, great ideas should be unique. 
-Constant innovation effectively makes ideas unique. 
-A unique idea often serves its purpose in a better way. 
-Thirdly, a great idea should be transformative and protect. 
+The lecture is mainly about [key features of great ideas].
+First, the speaker states that [successful ideas] [must be diverse and novel] [in their core concepts].
+After that, he mentions that [continuous innovation] [helps make ideas unique] [so they can serve better purposes].
+Finally, the speaker highlights that [effective ideas] [should also be both transformative and protective].
+这个讲座主要是关于伟大思想的关键特征。
+首先，演讲者指出，成功的想法在其核心概念上必须是多样化和新颖的。
+之后，他提到，持续的创新有助于让想法变得独特，这样它们就能更好地服务于目的。
+最后，演讲者强调了有效的想法也应该是变革和保护。
 ---
-The lecture is mainly about great ideas. 
-First, the speaker states that a great idea should be new. 
-After that, the speaker mentions that a great idea should be unique. 
-Finally, the speaker believes that a great idea should be productive. (57 words)
-本次讲座主要探讨了伟大思想。
-在讲座的第一部分，演讲者指出，伟大思想应当具有新颖性。
-在讲座的第二部分，演讲者提到，伟大思想应当独具特色。
-在讲座的最后部分，演讲者强调，伟大思想应当富有成效。
+The lecture is mainly about [the features of great ideas].
+First, the speaker states that [a great idea] [should be both diverse and new for future success].
+After that, he mentions that [a great idea] [must be unique] [so it can serve its purpose better].
+Finally, he believes that [a great idea] [should ultimately be transformative and protective] [for long-term growth].
+这个讲座主要是关于伟大思想的特点。
+首先，演讲者指出，一个伟大的想法应该是多样化的，并且对于未来的成功来说是新的。
+之后，他提到一个伟大的想法必须是独特的，这样才能更好地服务于它的目的。
+最后，他认为，一个伟大的想法最终应该具有变革性，并对长期增长起到保护作用。
+must be diverse and novel                           必须多样化和新颖
 
 30.DNA pieces DNA片段(Synthetic biology & genetic engineering 合成生物学与基因工程) #18797
-Life has evolved, and now we have the ability and the power to engineer and design it. 
-Thus, synthetic biology is the next level of genetic engineering. 
-Moreover, we are no longer limited to the pieces, and we can even create new organisms. 
-For example, a cell that's programmed to make a useful compound is called a cellular factory. 
+The lecture is mainly about [modern applications in biology].
+First, the speaker states that [scientists now have the ability to] [engineer and redesign nature].
+After that, he mentions that [reading and writing DNA] [has developed significantly over the past forty years].
+Finally, he believes that [researchers using microscale lab tools] [can design custom bacteria] [within a very short timeframe]. (62 words)
+讲座主要是关于生物学的现代应用。
+首先，演讲者指出，科学家现在有能力设计和重新设计自然。
+在那之后，他提到读写DNA在过去的四十年里有了显著的发展。
+最后，他相信研究人员使用微型实验室工具可以在很短的时间内设计出定制的细菌。
 ---
-Applications in biology
-The lecture is mainly about applications in biology. 
-First, the speaker states that scientists can engineer nature. 
-In the second part, the speaker mentions that scientists could write DNA and create new cells 40 years ago. 
-Finally, the speaker believes that scientists use microscale tools in experiments in the lab and can get bacteria the next day. (62 words)
-本次讲座主要探讨了生物学领域的应用。
-在讲座的第一部分，演讲者指出，科学家能够改造自然。
-在讲座的第二部分，演讲者提到，四十年前科学家已能制作 DNA 并创造新细胞。
-在讲座的最后部分，演讲者强调，科学家在实验室的实验中使用微小工具，次日即可获得细菌。
+The lecture is mainly about [synthetic biology and genetic design].
+First, the speaker states that [humans now] [possess the ability and power to engineer and design life].
+After that, he mentions that [synthetic biology] [allows researchers to create completely new organisms] [without limitations].
+Finally, he emphasizes that [a cell programmed to produce useful compounds] [is defined as a cellular factory].
+讲座主要是关于合成生物学和基因设计。
+首先，演讲者指出，人类现在拥有设计和设计生活的能力和力量。
+之后，他提到合成生物学允许研究人员无限制地创造全新的生物体。
+最后，他强调，一个能够产生有用化合物的细胞被定义为细胞工厂。
 
 31.Darwin and Bees/ Bee's genes and Darwin 达尔文和蜜蜂/ 蜜蜂基因与达尔文 #21655
-This lecture discusses the genes of bees and their evolution. 
-In order to protect the next generation in the hive, the worker bees attack intruders and then die. 
-Worker bees sacrifice their lives to protect the next generation. 
-Darwin realized that by improving the reproductivity of the queen bees, the genetic legacy of the entire colony is safeguarded.
+The lecture is mainly about [bee genes and Darwin's theory].
+First, the speaker states that [worker bees] [give their lives to help the queen pass her genes to offspring].
+After that, he mentions that [worker bees] [give up reproduction to support queen bees], [dying whenever necessary].
+Finally, the speaker believes that [these altruistic behaviors] [help explain Darwin's theory of evolution clearly].
+讲座主要是关于蜜蜂的基因和达尔文的理论。
+首先，说话者说，工蜂牺牲自己的生命来帮助蜂王把她的基因传给后代。
+在那之后，他提到工蜂放弃繁殖来支持蜂王，必要时死亡。
+最后，演讲者认为这些利他行为有助于清楚地解释达尔文的进化论。
 ---
-The lecture is mainly about bee genes and Darwin's theory. 
-First, the speaker states that worker bees will give their lives to help the queen pass her genes to the next generation. 
-Second, the speaker mentions that the worker bees give up reproduction and help the queen reproduce, and they will die if needed. 
-Finally, the speaker believes that these behaviors help explain Darwin's evolutionary theory. (65 words)
-本次讲座主要探讨了蜜蜂基因与达尔文理论。
-在讲座的第一部分，演讲者指出，工蜂会献出生命来帮助蜂后将基因传递给下一代。
-在讲座的第二部分，演讲者提到，工蜂不生育并协助蜂后繁衍，必要时工蜂会为此献出生命。
-在讲座的最后部分，演讲者强调，这些现象为理解达尔文的进化理论提供了启示。
+The lecture is mainly about [bee genetics and their evolution].
+First, the speaker states that [worker bees attack dangerous intruders] [to protect the next generation in their hive].
+After that, he mentions that [these worker bees willingly sacrifice their own lives] [for colony survival].
+Finally, he emphasizes that [Darwin realized queen bees' reproduction effectively safeguards] [the genetic legacy of the whole colony].
+讲座主要是关于蜜蜂的遗传学及其进化。
+首先，说话者说工蜂攻击危险的入侵者是为了保护蜂巢中的下一代。
+在那之后，他提到这些工蜂愿意为群体的生存牺牲自己的生命。
+最后，他强调达尔文意识到蜂王的繁殖有效地保护了整个群体的遗传遗产。
+the legacy of                                      ...的遗产 
+altruistic behaviors                                利他行为
 
 32.globalization definitions/ definition of globalization 全球化的定义 #20394
-Globalization has a few different definitions. 
-The first one is a way to describe a country's increase in international communications. 
-In other words, it is the source of growth in communication across borders. 
-The other definition is to think of globalization as an economic system. 
-This system is the way in which the economy in one country depends on another. 
+The lecture is mainly about [different definitions of globalization].
+First, the speaker states that [globalization increases international communication] [across national borders].
+After that, he mentions that [many countries become integrated into] [a modern economic system].
+Finally, the speaker believes that [globalization ultimately creates] [new areas of economic growth and international trade opportunities]. (56 words)
+讲座主要是关于全球化的不同定义。
+首先，演讲者指出全球化增加了跨国的国际交流。
+在那之后，他提到许多国家融入了现代经济体系。
+最后，演讲者认为全球化最终会创造新的经济增长领域和国际贸易机会。
 ---
-The lecture is mainly about the definitions of globalization. 
-First, the speaker states that globalization increases international communication. 
-After that, the speaker mentions that countries become integrated into the system. 
-Finally, the speaker believes that globalization creates new areas of economic growth. (56 words)
-本次讲座主要探讨了全球化的定义。
-在讲座的第一部分，演讲者指出，全球化促进了国际交流。
-在讲座的第二部分，演讲者提到，国家在这个体系中结合在一起。
-在讲座的最后部分，演讲者强调，全球化展示了一个新的经济增长领域。
+The lecture is mainly about [different definitions of globalization].
+First, the speaker states that [one definition describes] [a country's rapid increase] [in international communications across borders].
+After that, he mentions that [another definition] [views globalization as a comprehensive economic system].
+Finally, the speaker emphasizes that [this financial system makes the economy of one country dependent on] [another nation].
+讲座主要是关于全球化的不同定义。
+首先，说话者说有一个定义描述了一个国家跨境国际交流的快速增长。
+之后，他提到了另一种定义，将全球化视为一个综合的经济体系。
+最后，演讲者强调，这种金融体系使一个国家的经济依赖于另一个国家。
 
 33.Fight-or-Flight Response/ fight or flight 迎战或逃跑反应 #18778
-Emotions have a purpose, since our most basic emotions are vital messengers. 
-They have evolved as signals to help us meet our basic needs. 
-It is dangerous to be indecisive about a threat to our survival, so the brain runs information from our senses. 
-This happens in areas which control instinctive responses, and communicate with our body to create powerful emotions and symptoms.
+The lecture is mainly about the [stress response and basic emotions].
+First, the speaker states that [human emotions] [serve a vital purpose for survival].
+After that, he mentions that [basic emotions] [work as key messengers to help meet daily needs].
+Finally, the speaker believes that [the brain uses information] [to control fast instinctive responses and create strong body signals]. (60 words)
+讲座主要是关于应激反应和基本情绪。
+首先，演讲者指出，人类的情感是生存的重要目的。
+之后，他提到基本情绪是帮助满足日常需求的关键信使。
+最后，演讲者认为大脑利用信息来控制快速的本能反应，并产生强烈的身体信号。
 ---
-The lecture is mainly about the stress response and emotions. 
-First, the speaker states that emotions have a purpose. 
-After that, the speaker mentions that basic emotions are key messengers. 
-Finally, the speaker believes that the brain uses information to control fast responses and create strong signals. (60 words)
-本次讲座主要探讨了应激反应和情绪的关系。
-在讲座的第一部分，演讲者指出，情绪是有目的的。、
-在讲座的第二部分，演讲者提到，基本的情绪是关键的信使。
-在讲座的最后部分，演讲者强调，大脑使用信息来控制快速的反应，并产生强烈的信号。
+The lecture is mainly about [the fundamental purpose of basic emotions].
+First, the speaker states that [human emotions serve as vital messengers] [evolved to] [help meet basic needs].
+After that, he mentions that [the brain processes sensory information quickly] [when facing threats to survival].
+Finally, he emphasizes that [instinctive areas in the brain] [communicate with the body] [to produce powerful physical responses].
+讲座主要是关于基本情绪的基本目的。
+首先，演讲者指出，人类的情感作为重要的信使进化，以帮助满足基本需求。
+之后，他提到，当面临生存威胁时，大脑会迅速处理感官信息。
+最后，他强调，大脑中的本能区域与身体沟通，产生强大的生理反应。
 
 34.Modern poetry/ literature in poem/ english language in poem 现代诗歌/ 诗歌语言/ 诗歌中的英语 #22983
-This course is an introduction to the literature of modern poetry. 
-Several poets will be studied in detail, and they also demand a certain amount of close reading. 
-Meanwhile, some sense of the period in which they're writing will be given. 
-Finally, the lecturer will give ways to possess and enjoy particular poems. 
-In this way, students can learn from them and care about them.
+The lecture is mainly about [modern poetry and literary appreciation]. 
+First, the speaker states that [famous works by several poets] [were discussed in detail].
+After that, he mentions that [modernism is one of the most fruitful areas] [in English literature]. 
+Finally, the speaker believes that [people can derive pleasure], [experience confusion], 
+and [find meaningful guidance in poetry]. (55 words)
+这个讲座主要是关于现代诗歌与文学鉴赏的。
+首先，说话者说详细讨论了几位诗人的著名作品。
+之后，他提到现代主义是英国文学中最富有成果的领域之一。
+最后，作者认为人们可以在诗歌中获得快乐，体验困惑，并找到有意义的指导。
 ---
-The lecture is mainly about modern poetry. 
-First, the speaker states that works by several poets were discussed. 
-In the second part, the speaker mentions that modernism is one of the most fruitful areas in English literature. 
-Finally, the speaker believes that people can derive pleasure or have fun, experience confusion, and find help in poetry. (55 words)
-本次讲座主要探讨了现代诗歌。
-在讲座的第一部分，演讲者指出，讲座主要分析了多位诗人的作品。
-在讲座的第二部分，演讲者提到，现代主义是英语文学中非常伟大的部分。
-在讲座的最后部分，演讲者强调，人们可以尝试从诗歌中获得乐趣、感受困惑并汲取养分。
+The lecture is mainly about [an introduction to modern poetry literature].
+First, the speaker states that [several poets] [will be studied in detail through close reading].
+After that, he mentions that [a clear sense of the historical period in which they write] [will be provided].
+Finally, he emphasizes that [students will learn practical ways] [to possess, enjoy, and value particular poems].
+这个讲座主要是关于现代诗歌文学的介绍。
+首先，讲话者说将通过细读来详细研究几位诗人。
+在那之后，他提到，他们写作的历史时期将提供一个清晰的感觉。
+最后，他强调，学生将学习实用的方法来拥有、欣赏和重视特定的诗歌。
+derive pleasure                                         获得快乐
+derive                                                  v. 获得，取得；起源于，来自；
+                                                        提取，衍生（化学物质）
 
 35.Online Research/ 线上调研 internet growth/ 网络增长 #18792
-The rapid expansion of the Internet has revolutionized our lives. 
-One significant change is in the realm of research. 
-To be more specific, online research enables researchers to gather vast amounts of information quickly. 
-However, it also has drawbacks, such as the lack of face-to-face communication. 
-Besides, there are also potential issues with data reliability and authenticity. 
-Therefore, balancing its advantages and shortcomings will be crucial for maintaining the quality. 
+The lecture is mainly about [the advantages and drawbacks of online research]. 
+First, the speaker states that [online research is quicker than conventional methods], 
+and [there is no gap between quantity and quality]. 
+After that, he mentions that [the main drawback is] that [researchers cannot communicate face-to-face].
+Finally, the speaker believes that [we cannot pick up cues] [such as body language], 
+[which means] [we don't know who is on the other side].
+讲座主要是关于网上研究的优点和缺点。
+首先，演讲者指出在线研究比传统方法更快，而且数量和质量之间没有差距。
+在那之后，他提到主要的缺点是研究人员不能面对面交流。
+最后，演讲者认为我们无法获取线索例如肢体语言，这意味着我们不知道另一边是谁。
 ---
-The lecture is mainly about the advantages and drawbacks of online research. 
-First, the speaker states that online research is quicker than conventional methods, and there is no gap between quantity and quality. 
-Second, the speaker mentions that the drawback is that we cannot communicate face-to-face. 
-Finally, the speaker believes that we cannot pick up cues such as body language, which means we don't know who is on the other side. (70 words)
-本次讲座主要探讨了在线调研的优缺点。
-在讲座的第一部分，演讲者指出，在线调研比旧方法更快速，且数量与质量之间没有距离。
-在讲座的第二部分，演讲者提到，其缺点在于我们无法面对面交流。
-在讲座的最后部分，演讲者强调，我们无法通过肢体语言等反应获取信息，这意味着我们无从知晓对方是谁。
+The lecture is mainly about [the expansion of online research].
+First, the speaker states that [the Internet has revolutionized research] [in modern times].
+After that, he mentions that [online methods enable researchers] [to gather vast amounts of information quickly].
+Finally, he emphasizes that [potential drawbacks include lacking face-to-face communication] [and issues regarding data reliability and authenticity].
+讲座主要是关于网络研究的扩展。
+首先，讲话者指出，互联网已经彻底改变了现代的研究。
+之后，他提到，在线方法使研究人员能够快速收集大量信息。
+最后，他强调了潜在的缺点，包括缺乏面对面的交流，以及数据可靠性和真实性的问题。
 
 36.Food Crisis/ food production 粮食危机/ 食品生产#18790
-The speaker mentions that people are going to suffer from a serious food crisis. 
-He also says that the global food emergency could impact children and adults, so we must double the yield. 
-Although there will be an increase of the cost of the production, there is also an opportunity for developing countries.
----
 The lecture is mainly about food crisis. 
 First, the speaker states that people suffered from a serious food crisis. 
 After that, the speaker mentions that people must double food production. 
@@ -768,27 +805,53 @@ Finally, the speaker believes that it is urgent to increase production. (57 word
 在讲座的第一部分，演讲者指出，人们遭受了严重的粮食危机。
 在讲座的第二部分，演讲者提到，我们必须生产双倍的食物。
 在讲座的最后部分，演讲者强调，增加产量是重要的。
+The lecture is mainly about the serious global food crisis.
+First, the speaker states that many people suffered from a severe food shortage in recent years.
+After that, he mentions that farmers must double food production to meet growing human demand.
+Finally, the speaker believes that it is urgent to increase production through modern farming technology.
+讲座主要是关于严重的全球粮食危机。
+首先，演讲者指出，近年来许多人遭受严重的粮食短缺。
+之后，他提到农民必须将粮食产量提高一倍，以满足不断增长的人类需求。
+最后，演讲者认为通过现代农业技术提高产量是当务之急。
+---
+The lecture is mainly about the severe global food crisis.
+First, the speaker states that people worldwide are going to suffer from a serious food shortage.
+After that, he mentions that this food emergency affects everyone, so farmers must double agricultural yield.
+Finally, he believes that despite an increase in production costs, new opportunities will emerge for developing countries.
+讲座主要是关于严重的全球粮食危机。
+首先，演讲者指出全世界的人们将面临严重的食物短缺。
+之后，他提到粮食危机影响到每个人，因此农民必须将农业产量翻倍。
+最后，他认为，尽管生产成本增加，但发展中国家将出现新的机会。
 
 37.internet and journalism /what happened to journalism 互联网与新闻/ 网络影响传媒 #18764
-Recently, journalism has been faced with challenges. 
-This is because the rise of the Internet has a great impact on journalism, as it enables ordinary people to get involved in journalism. 
-Moreover, the Internet not only speeds up the spread of news, but also helps people gain information in various ways. 
----
 The lecture is mainly about Internet and journalism. 
 First, the speaker states that people like such changes, and they think the internet can improve the spread of news and help people gain information. 
 In the second part, the speaker mentions that journalism is becoming a team process. 
-Finally, the speaker believes that the internet is reshaping how news is produced and consumed. (67 words)
+Finally, the speaker believes that the internet is reshaping how news is produced and consumed. 
 本次讲座主要探讨了网络和新闻。
 在讲座的第一部分，演讲者指出，人们喜欢这种改变，并且他们认为互联网可以提升新闻的传播并帮助人们获得信息。
 在讲座的第二部分，演讲者提到，新闻业正在成为一个团队合作的过程。
 在讲座的最后部分，演讲者强调，互联网正在重塑新闻的生产与传播方式。
+---
+The lecture is mainly about the internet and modern journalism.
+First, the speaker states that people welcome these changes, believing the internet improves news distribution and information access.
+After that, he mentions that journalism is increasingly becoming a collaborative team process.
+Finally, the speaker emphasizes that the internet is fundamentally reshaping how news is produced and consumed today.
+这个讲座主要是关于互联网和现代新闻的。
+首先，演讲者表示，人们欢迎这些变化，认为互联网改善了新闻传播和信息获取。
+之后，他提到新闻业正日益成为一个团队合作的过程。
+最后，演讲者强调，互联网正在从根本上重塑今天新闻的生产和消费方式。
+---
+The lecture is mainly about recent challenges facing modern journalism.
+First, the speaker states that journalism faces issues because the rise of the Internet impacts traditional media practices.
+After that, he mentions that the internet allows ordinary people to participate in journalism while speeding up news spread.
+Finally, the speaker believes that online networks help citizens access information through various new channels.
+这个讲座主要是关于现代新闻业最近面临的挑战。
+首先，演讲者指出，新闻业面临的问题是因为互联网的兴起影响了传统媒体的做法。
+之后，他提到互联网让普通人参与新闻，同时加速了新闻的传播。
+最后，演讲者认为在线网络帮助公民通过各种新的渠道获取信息。
 
 38.The Industrial Revolution 工业革命 #18834
-The industrial revolution was the work of inventors who created mechanism machines. 
-Thus, everybody was crowded into factories and the new brave world opened up. 
-Moreover, the industrial revolution first occurred in England due to the location of resources. 
-In fact, the industrial revolution was an intensification of forms and production. 
----
 The lecture is mainly about the Industrial Revolution. 
 First, the speaker states that the Industrial Revolution was more than large factories and machines. 
 Second, the speaker mentions that the Industrial Revolution was a period of fast growth of production. 
@@ -796,13 +859,26 @@ Finally, the speaker believes that the rapid rise of production was linked to tr
 本次讲座主要探讨了工业革命。在讲座的第一部分，演讲者指出，工业革命不仅是以大型工厂和机器来衡量的。
 在讲座的第二部分，演讲者提到，工业革命是生产的快速增长。
 在讲座的最后部分，演讲者强调，生产的快速增长是与旧的生产形式联系在一起的。
+---
+The lecture is mainly about the major aspects of the Industrial Revolution.
+First, the speaker states that the Industrial Revolution was more than just large factories and modern machines.
+After that, he mentions that this era brought a period of fast growth in economic production.
+Finally, the speaker believes that this rapid rise of production was closely linked to traditional forms of production.
+讲座主要是关于工业革命的主要方面。
+首先，演讲者指出工业革命不仅仅是大型工厂和现代机器。
+之后，他提到这个时代带来了经济生产的快速增长时期。
+最后，发言者认为，这种生产的迅速增长与传统的生产形式密切相关。
+---
+The lecture is mainly about the origin of the Industrial Revolution.
+First, the speaker states that inventors created new mechanical machines, gathering workers into large factories.
+After that, he mentions that the Industrial Revolution first occurred in England because of its strategic location of natural resources.
+Finally, the speaker emphasizes that this revolution was an intensification of traditional forms of production.
+这个讲座主要是关于工业革命的起源。
+首先，说话者说，发明家创造了新的机械机器，把工人聚集到大工厂里。
+在那之后，他提到工业革命首先发生在英国，因为它的自然资源的战略位置。
+最后，演讲者强调，这场革命是传统生产形式的强化。
 
 39.Smart consumers and brand/ smart consumers and brand 品牌与顾客需求/ 精明的消费者与品牌 #18719
-Consumers are incredibly smart, because they are able to combine a lifetime of experience with a brand. 
-As a result, brands are essential to our business to allow us to deliver the increased consumer value. 
-This is where the science starts. 
-There are also many engineering contradictions during this process.
----
 The lecture is mainly about the relationship between smart consumers and brands. 
 First, the speaker states that a brand is very important to smart consumers. 
 After that, the speaker mentions that the Second Moment of Truth is important, and the product must have good quality. 
@@ -811,22 +887,52 @@ Finally, the speaker believes that there are hard problems in making the product
 在讲座的第一部分，演讲者指出，品牌对聪明的消费者非常重要。
 在讲座的第二部分，演讲者提到，“第二次真相时刻”很重要，产品必须具备良好的品质。
 在讲座的最后部分，演讲者强调，在让产品兼具硬核与柔性方面存在困难的问题。
+---
+The lecture is mainly about the relationship between smart consumers and brand value.
+First, the speaker states that building a strong brand is very important to smart consumers.
+After that, he mentions that the Second Moment of Truth is crucial because products must have excellent quality.
+Finally, the speaker believes that technical challenges exist in making products both strong and soft.
+讲座主要是关于聪明的消费者和品牌价值之间的关系。
+首先，演讲者指出，建立一个强大的品牌对聪明的消费者来说非常重要。
+之后，他提到第二真言时刻至关重要，因为产品必须具有卓越的质量。
+最后，演讲者认为在制造坚固和柔软的产品时存在技术挑战。
+---
+The lecture is mainly about consumer perception and brand value.
+First, the speaker states that consumers are smart because they combine lifetime experience with a brand.
+After that, he mentions that brands are essential to business for delivering increased consumer value.
+Finally, the speaker emphasizes that scientific research and engineering contradictions occur during this development process.
+讲座主要是关于消费者感知和品牌价值。
+首先，演讲者声称消费者是聪明的，因为他们将终身体验与品牌结合起来。
+之后，他提到品牌对于企业来说是至关重要的，因为它可以为消费者提供更高的价值。
+最后，演讲者强调在这一发展过程中会出现科研与工程的矛盾。
 
 40.Melatonin 褪黑素 #23357
-The synthesis of melatonin is in the pineal gland, which is very small. 
-People call this gland "the seat of the soul". 
-Melatonin also has a rhythm, which peaks at night. 
-Therefore, it is called the darkness hormone. 
-This means that melatonin occurs at night, and prepares us for the things we do at night.
----
 The lecture is mainly about melatonin. 
 First, the speaker states that melatonin is generated by the brain. 
 After that, the speaker mentions that melatonin is different from cortisol, and it follows a rhythm opposite to that of cortisol. 
-Finally, the speaker believes that melatonin plays a role in helping humans and animals prepare for nighttime activity. (66 words)
+Finally, the speaker believes that melatonin plays a role in helping humans and animals prepare for nighttime activity.
 本次讲座主要探讨了褪黑素。
 在讲座的第一部分，演讲者指出，褪黑素由大脑产生。
 在讲座的第二部分，演讲者提到，褪黑素与皮质醇不同。
 在讲座的最后部分，演讲者强调，褪黑素有助于人类和动物为夜间活动做好准备。
+---
+The lecture is mainly about the main functions of melatonin.
+First, the speaker states that melatonin is generated inside the brain to regulate bodily cycles.
+After that, he mentions that melatonin is different from cortisol, following a diurnal rhythm opposite to that of cortisol.
+Finally, the speaker believes that melatonin plays an important role in helping humans and animals prepare for nighttime activity.
+讲座主要是关于褪黑素的主要功能。
+首先，演讲者指出，褪黑素是在大脑内部产生的，用于调节身体周期。
+在那之后，他提到褪黑素与皮质醇不同，遵循与皮质醇相反的昼夜节律。
+最后，演讲者认为褪黑素在帮助人类和动物为夜间活动做准备方面发挥着重要作用。
+---
+The lecture is mainly about the synthesis and function of melatonin.
+First, the speaker states that melatonin is synthesized in the small pineal gland, known as the seat of the soul.
+After that, he mentions that melatonin has a diurnal rhythm that peaks at night, making it the darkness hormone.
+Finally, he emphasizes that nighttime melatonin prepares the body for essential sleep and recovery.
+讲座主要是关于褪黑素的合成和功能。
+首先，演讲者说褪黑素是在小松果体中合成的，松果体被称为灵魂的座位。
+之后，他提到褪黑素有昼夜节律，在晚上达到顶峰，使其成为黑暗激素。
+最后，他强调夜间褪黑素为身体必要的睡眠和恢复做准备。
 
 41.wildlife as food/ wildlife as food and income 野生动物作为食物与经济来源 #18713
 All humans rely on wildlife as the source of food, and also the source of income. 
