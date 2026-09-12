@@ -1018,55 +1018,57 @@ Finally, the speaker believes that [online networks] [help citizens access infor
 最后，演讲者认为在线网络帮助公民通过各种新的渠道获取信息。
 
 38.The Industrial Revolution 工业革命 #18834
-The lecture is mainly about the Industrial Revolution. 
-First, the speaker states that the Industrial Revolution was more than large factories and machines. 
-Second, the speaker mentions that the Industrial Revolution was a period of fast growth of production. 
-Finally, the speaker believes that the rapid rise of production was linked to traditional forms of production. (56 words)
+The lecture is mainly about [the Industrial Revolution]. 
+First, the speaker states that [the Industrial Revolution] was [more than large factories and machines]. 
+After that, the speaker mentions that [the Industrial Revolution] was [a period of fast growth of production]. 
+Finally, the speaker believes that [the rapid rise of production] [was linked to traditional forms of production].
 本次讲座主要探讨了工业革命。在讲座的第一部分，演讲者指出，工业革命不仅是以大型工厂和机器来衡量的。
 在讲座的第二部分，演讲者提到，工业革命是生产的快速增长。
 在讲座的最后部分，演讲者强调，生产的快速增长是与旧的生产形式联系在一起的。
 ---
-The lecture is mainly about the major aspects of the Industrial Revolution.
-First, the speaker states that the Industrial Revolution was more than just large factories and modern machines.
-After that, he mentions that this era brought a period of fast growth in economic production.
-Finally, the speaker believes that this rapid rise of production was closely linked to traditional forms of production.
+The lecture is mainly about [the major aspects of] [the Industrial Revolution].
+First, the speaker states that [the Industrial Revolution] was [more than just large factories and modern machines].
+After that, he mentions that [this era] [brought a period of fast growth] [in economic production].
+Finally, the speaker believes that [this rapid rise of production] was [closely linked to traditional forms of production].
 讲座主要是关于工业革命的主要方面。
 首先，演讲者指出工业革命不仅仅是大型工厂和现代机器。
 之后，他提到这个时代带来了经济生产的快速增长时期。
 最后，发言者认为，这种生产的迅速增长与传统的生产形式密切相关。
 ---
-The lecture is mainly about the origin of the Industrial Revolution.
-First, the speaker states that inventors created new mechanical machines, gathering workers into large factories.
-After that, he mentions that the Industrial Revolution first occurred in England because of its strategic location of natural resources.
-Finally, the speaker emphasizes that this revolution was an intensification of traditional forms of production.
+The lecture is mainly about [the origin of the Industrial Revolution].
+First, the speaker states that [inventors created new mechanical machines], 
+[gathering workers into large factories].
+After that, he mentions that [the Industrial Revolution] [first occurred in England] [because of its strategic location of natural resources].
+Finally, the speaker emphasizes that [this revolution was an enhancement of traditional forms of production].
 这个讲座主要是关于工业革命的起源。
 首先，说话者说，发明家创造了新的机械机器，把工人聚集到大工厂里。
 在那之后，他提到工业革命首先发生在英国，因为它的自然资源的战略位置。
-最后，演讲者强调，这场革命是传统生产形式的强化。
+最后，演讲者强调，这场革命是对传统生产形式的加强。
 
 39.Smart consumers and brand/ smart consumers and brand 品牌与顾客需求/ 精明的消费者与品牌 #18719
-The lecture is mainly about the relationship between smart consumers and brands. 
-First, the speaker states that a brand is very important to smart consumers. 
-After that, the speaker mentions that the Second Moment of Truth is important, and the product must have good quality. 
-Finally, the speaker believes that there are hard problems in making the products both strong and soft. (66 words)
+The lecture is mainly about [the relationship] [between smart consumers and brands]. 
+First, the speaker states that [a brand is very important to smart consumers]. 
+After that, the speaker mentions that [the Second Moment of Truth] [is important], 
+[and the product must have good quality]. 
+Finally, the speaker believes that [there are hard problems] [in making the products both strong and soft].
 本次讲座主要探讨了聪明消费者与品牌的关系。
 在讲座的第一部分，演讲者指出，品牌对聪明的消费者非常重要。
 在讲座的第二部分，演讲者提到，“第二次真相时刻”很重要，产品必须具备良好的品质。
 在讲座的最后部分，演讲者强调，在让产品兼具硬核与柔性方面存在困难的问题。
 ---
-The lecture is mainly about the relationship between smart consumers and brand value.
-First, the speaker states that building a strong brand is very important to smart consumers.
-After that, he mentions that the Second Moment of Truth is crucial because products must have excellent quality.
-Finally, the speaker believes that technical challenges exist in making products both strong and soft.
+The lecture is mainly about [the relationship] [between smart consumers and brand value].
+First, the speaker states that [building a strong brand] [is very important to smart consumers].
+After that, he mentions that [the Second Moment of Truth is crucial] [because products must have excellent quality].
+Finally, the speaker believes that [technical challenges] [exist in] [making products both strong and soft].
 讲座主要是关于聪明的消费者和品牌价值之间的关系。
 首先，演讲者指出，建立一个强大的品牌对聪明的消费者来说非常重要。
 之后，他提到第二真言时刻至关重要，因为产品必须具有卓越的质量。
 最后，演讲者认为在制造坚固和柔软的产品时存在技术挑战。
 ---
-The lecture is mainly about consumer perception and brand value.
-First, the speaker states that consumers are smart because they combine lifetime experience with a brand.
-After that, he mentions that brands are essential to business for delivering increased consumer value.
-Finally, the speaker emphasizes that scientific research and engineering contradictions occur during this development process.
+The lecture is mainly about [consumer perception and brand value].
+First, the speaker states that [consumers are smart] [because they combine lifetime experience with a brand].
+After that, he mentions that [brands are essential to business] [for delivering increased consumer value].
+Finally, the speaker emphasizes that [scientific research and engineering conflicts] [occur during this development process].
 讲座主要是关于消费者感知和品牌价值。
 首先，演讲者声称消费者是聪明的，因为他们将终身体验与品牌结合起来。
 之后，他提到品牌对于企业来说是至关重要的，因为它可以为消费者提供更高的价值。
@@ -1074,27 +1076,27 @@ Finally, the speaker emphasizes that scientific research and engineering contrad
 
 40.Melatonin 褪黑素 #23357
 The lecture is mainly about melatonin. 
-First, the speaker states that melatonin is generated by the brain. 
-After that, the speaker mentions that melatonin is different from cortisol, and it follows a rhythm opposite to that of cortisol. 
-Finally, the speaker believes that melatonin plays a role in helping humans and animals prepare for nighttime activity.
+First, the speaker states that [melatonin is generated by the brain]. 
+After that, he mentions that [melatonin is different from cortisol], and [it follows a rhythm opposite to that of cortisol]. 
+Finally, the speaker believes that [melatonin plays a role in] [helping humans and animals prepare] [for nighttime activity].
 本次讲座主要探讨了褪黑素。
 在讲座的第一部分，演讲者指出，褪黑素由大脑产生。
 在讲座的第二部分，演讲者提到，褪黑素与皮质醇不同。
 在讲座的最后部分，演讲者强调，褪黑素有助于人类和动物为夜间活动做好准备。
 ---
-The lecture is mainly about the main functions of melatonin.
-First, the speaker states that melatonin is generated inside the brain to regulate bodily cycles.
-After that, he mentions that melatonin is different from cortisol, following a diurnal rhythm opposite to that of cortisol.
-Finally, the speaker believes that melatonin plays an important role in helping humans and animals prepare for nighttime activity.
+The lecture is mainly about the [main functions of melatonin].
+First, the speaker states that [melatonin is produced in the brain] [to regulate body cycles].
+After that, he mentions that [melatonin is different from cortisol], [following a daily rhythm opposite to that of cortisol].
+Finally, the speaker believes that [melatonin plays an important role in] [helping humans and animals prepare] [for nighttime activity].
 讲座主要是关于褪黑素的主要功能。
 首先，演讲者指出，褪黑素是在大脑内部产生的，用于调节身体周期。
 在那之后，他提到褪黑素与皮质醇不同，遵循与皮质醇相反的昼夜节律。
 最后，演讲者认为褪黑素在帮助人类和动物为夜间活动做准备方面发挥着重要作用。
 ---
-The lecture is mainly about the synthesis and function of melatonin.
-First, the speaker states that melatonin is synthesized in the small pineal gland, known as the seat of the soul.
-After that, he mentions that melatonin has a diurnal rhythm that peaks at night, making it the darkness hormone.
-Finally, he emphasizes that nighttime melatonin prepares the body for essential sleep and recovery.
+The lecture is mainly about [the synthesis and function of] melatonin.
+First, the speaker states that [melatonin is synthesized in the small pineal gland], [known as the seat of the soul].
+After that, he mentions that [melatonin has a daily rhythm] [that peaks at night], [making it the darkness hormone].
+Finally, he emphasizes that [nighttime melatonin] [prepares the body for essential sleep and recovery].
 讲座主要是关于褪黑素的合成和功能。
 首先，演讲者说褪黑素是在小松果体中合成的，松果体被称为灵魂的座位。
 之后，他提到褪黑素有昼夜节律，在晚上达到顶峰，使其成为黑暗激素。
