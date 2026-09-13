@@ -9,6 +9,16 @@ However,this positive effect has only been observed in elite or wel-conditioned 
 The article also mentioned the names of the researchers involved and explained the complex physiological mechanism behind this phenomenon. 
 In the final section, it discussed the potential health risks of such a diet. 
 Therefore, if your diet contains excessive fat over a long period of time, you face serious health risks such as high blood pressure.
+尽管耐力运动能在活动期间有效燃烧脂肪，
+但新研究揭示了肌肉在处理和消耗脂肪以获取能量方面具有惊人的能力。
+事实上，燃烧的脂肪既可以来自肌肉内部的储备，也可以来自血液中循环的脂肪。
+然而，这种天然的脂肪燃烧能力存在明确的生物学极限，无法无限提升。
+近期，一些研究人员正在探讨高脂肪饮食是否能进一步提高人体的脂肪燃烧率。
+研究表明，这种饮食确实能增强脂肪氧化作用。
+不过，这种积极效应仅见于精英运动员或体能状况极佳的运动员，而非普通人群。
+该文章还列举了相关研究人员的姓名，并阐释了这一现象背后的复杂生理机制。
+文章最后一部分探讨了此类饮食可能带来的健康风险。
+因此，如果长期摄入过量脂肪，您将面临高血压等严重的健康风险。
 
 2. #417 World Population
 Paragraph 1: 
@@ -19,6 +29,14 @@ China is the biggest country and india, the second biggest one, 8% and 7% respec
 More and more people have reached reproductive ages, with rising fertility rates.
 Paragraph 3: 
 It is expected that the population will increase by ... by 2030, and increase up to ... by 2050, 60% of which live in Asia.
+第1段：
+从1950年到2015年，世界人口从28亿增加到了70多亿。
+在……世纪，亚洲占比为……%，非洲为……%。
+第2段：
+中国是人口最多的国家，印度位居第二，占比分别为8%和7%。
+越来越多的人步入生育年龄，同时生育率也在上升。
+第3段：
+预计到2030年人口将增加……，到2050年将增至……，其中60%的人口居住在亚洲。
 
 3. #1 2014 Olympics
 Major athletic events around the globe are striving to neutralize their carbon footprint as part of a world-wide climate network, 
@@ -26,6 +44,11 @@ which are the latest participants to join the network,
 and are particularly important for inspiring further global action on the environment, 
 so this passion for excellence increasingly encompasses environmental performance, 
 and that investment will be dedicated to improving transport infrastructure and offsetting greenhouse gas emissions.
+全球各大体育赛事正致力于抵消其碳足迹，以此作为全球气候网络的一部分；
+这些赛事是最新加入该网络的成员，
+对于激发全球范围内进一步的环保行动具有重要意义，
+因此，这种追求卓越的热情也日益涵盖了环境绩效方面的表现，
+而相关投资将专门用于改善交通基础设施及抵消温室气体排放。
 
 4. #55 Plants Research
 Plants serve as the conduit of energy into the biosphere, 
@@ -35,6 +58,9 @@ since all of our food is produced by plants,
 which are a source of energy production, 
 where plant research is instrumental in addressing all of these problems and moving into the future, 
 so technological development is critical.
+植物是能量进入生物圈的通道，为人类提供食物与各类物资，并塑造着我们的生存环境；
+人类面临的三大挑战也都与植物息息相关——毕竟我们所有的食物均源自植物，而植物本身也是能量生产的源头。
+因此，植物研究对于解决这些难题及迈向未来至关重要，技术发展也就显得尤为关键。
 
 5. #257 Prior Knowledge
 What is known as prior knowledge (or pre-existing knowledge) is the knowledge, 
@@ -42,6 +68,9 @@ skill or ability that a learner brings to a new learning encounter,
 and learners need enough previous knowledge and understanding to enable them to learn new things, 
 so it is considered to be valuable to go through a process of what has been called "activating prior knowledge", 
 while in terms of theory, it is to do with activating particular schemas.
+所谓“先验知识”（或称“既有知识”），是指学习者在接触新学习内容时已具备的知识、技能或能力；
+学习者需要足够的既有知识与理解作为基础，方能习得新知。
+因此，经历一个所谓“激活先验知识”的过程被视为极有价值——从理论层面来看，这实际上涉及对特定图式的激活。
 
 6. #162 Negotiation
 Negotiation is a common process in business to mainly solve business conflicts between both parties,
@@ -49,6 +78,11 @@ and compromise is a basic negotiation state in which both parties give up someth
 which usually occurs in unfair parties when there is a fixed pie to be divided up, 
 so they each make concessions to reach an agreement that is acceptable to both, 
 but negotiation cannot resolve the conflict if one party is unwilling to resolve the problem.
+谈判是商业活动中解决双方商业冲突的常见过程，
+而妥协则是谈判的一种基本状态，即双方各作让步；
+这种情况通常发生在涉及“固定蛋糕”分配的博弈中，
+双方各自做出让步以达成彼此都能接受的协议，
+但如果其中一方无意解决问题，谈判便无法化解冲突。
 
 7. #153 Importance of Soil
 Soil contains many organisms, 
@@ -62,6 +96,9 @@ while climatology is the study of the physical state of the atmosphere,
 so these two fields of scientific study are distinctly different, 
 yet their modern beginnings trace back to natural history and plant geography, 
 and widely separated regions have structurally and functionally similar vegetation if their climates are similar.
+土壤中蕴含着众多生物，它们构成了一个支撑植物及所有生命形式的活力系统；
+良好的土壤管理不仅能增强牲畜的抗病能力，最终还能为农民带来可观的经济效益，
+然而，土壤及其对动物健康的影响，却是英国农业中最常被忽视的环节之一。
 
 9. #30 Geothermal Energy
 The solution for east Africa to compete in the international oil market is geothermal energy, 
@@ -77,6 +114,11 @@ but little else is known about how the shark survives in the deep seas around th
 and it is both a hunter and a scavenger, which is also one of the largest species of shark, 
 so more information is required to ensure the species is adequately protected, 
 as Greenland sharks are classified as data deficient.
+地热能是东非在国际石油市场上参与竞争的解决方案；
+然而，肯尼亚的水电资源日益变得不可靠，
+因此相关部门开展了勘测工作，以确定适合开凿地热井的区域。
+这些区域的形成源于构造拉张导致的地壳变薄，使得周围岩石中的水受热转化为蒸汽，
+进而可利用这些蒸汽驱动涡轮机发电。
 
 11. #39 Malaysia Tourism
 Malaysia is one of the most pleasant, 
@@ -87,12 +129,21 @@ and in Malacca's heyday,
 this southern state was a powerful Malay sultanate and a booming trading port in the region, 
 with another interesting destination being Penang, 
 known as the Pearl of the Orient.
+马来西亚是东南亚最令人愉悦且旅行体验轻松顺畅的国家之一，
+该国今年还启动了史上规模最大的旅游推广活动；
+因此，任何旅游行程都应从首都吉隆坡开启。
+此外，马六甲这一南部地区在鼎盛时期曾是一个强大的马来苏丹国，也是该地区繁荣的贸易港口；
+而另一个值得一游的胜地则是被称为“东方之珠”的槟城。
 
 12. #180 New Women
 There was a positive media feeding frenzy both defending and attacking the New Woman, 
 and some commentators have dated the beginning of this very precisely, 
 when Grand hailed the New Woman as one who had solved the problem and prescribed the remedy,
 while other commentators have seen the term growing out of and crystallizing a debate about the position of women of the middle classes as well as their scope for independence.
+当时媒体掀起了一股热潮，既有为“新女性”辩护的声音，
+也有对其进行抨击的言论；一些评论家将这一现象的开端追溯到了一个确切的时间点——即格兰德（Grand）盛赞“新女性”既已洞悉问题所在，
+又开出了解决良方之时；
+而另一些评论家则认为，这一术语源于并凝练了关于中产阶级女性社会地位及其独立空间的争论。
 
 13. #175 Carbon Dioxide
 Carbon dioxide is the most important source of greenhouse gases, 
@@ -101,6 +152,12 @@ causing the rise of the global temperature and the sea level, mainly due to huma
 The main cause is the burning of coal and olin industrialized countries, 
 So businesses should take responsibilities to tackle the problems inherited in the business models, 
 and Word WildlifeFund partners with companies should ensure the sustainability of the entire market.
+二氧化碳是主要的温室气体来源，
+其当前浓度已达到数千年来的最高水平，
+导致全球气温和海平面上升，而这主要归因于人类活动，
+其中工业化国家燃烧煤炭和石油是主要诱因，
+因此，企业应承担责任，解决其商业模式中固有的问题，
+同时，世界自然基金会（WWF）应与企业携手合作，确保整个市场的可持续性。
 
 14. #192 Volcano Prediction
 In general, no single event can be used to predict a volcanic eruption, 
@@ -110,11 +167,17 @@ and the amount of seismic energy released increased, the amount of dome expansio
 and SO2 emissions increased prior to the event.
 Note that eruption predictions are only possible if constant monitoring of a volcano takes place.
 if people living around volcanoes are aware of some of the precursor phenomena they may be able to communicate their findings to scientists and help prevent a pending disaster.
+通常情况下，无法仅凭单一事件来预测火山喷发，因此往往需要监测多种现象；目前，科学家预测该火山穹丘喷发的能力已日益精准。
+在喷发事件发生前，观测到地震能量释放、穹丘膨胀幅度、地面倾斜度以及二氧化硫排放量均有所增加。
+值得注意的是，只有对火山进行持续监测，才有可能实现喷发预测。
+如果居住在火山周边的居民了解一些喷发前兆现象，便能将观察到的情况告知科学家，从而协助预防即将发生的灾害。
 
 15. #206 Summer Vacation
 Summer vacation was born in the city, as too steady an application to literary pursuits led to a debilitated body, 
 so eventually the vacationers won out, and the break became official; 
 eliminating long summer vacations could shrink achievement gaps between students.
+暑假源于城市生活：由于过度专注于学业导致身体虚弱，最终“主张休假者”占了上风，假期便由此确立；
+取消长暑假或许能缩小学生之间的学业差距。
 
 16. #169 Education Technology
 Skinner found every pupil learning the same topic in the same way at the same speed, 
@@ -123,6 +186,13 @@ today, Skinner’s heirs are forcing the sceptics to think again, so to succeed,
 edtech must be at the service of teaching, 
 but classrooms, hierarchical year-groups, 
 standardized curriculums and fixed timetables are still the norm for most of the world's nearly 1.5bn schoolchildren.
+斯金纳（Skinner）曾见证所有学生以同样的方式、同样的进度学习同一课题，
+而教育技术领域也历经了“炒作—失败”的循环；
+如今，斯金纳的继承者们正促使怀疑论者重新审视这一问题——若要取得成功，
+教育技术必须服务于教学，
+然而，对于全球近15亿学龄儿童而言，
+传统的教室、按年级划分的层级体系、
+标准化的课程以及固定的作息时间，依然是教育的常态。
 
 17. #301 Fallacy
 Things happen together, or one event happens after another, 
@@ -136,12 +206,27 @@ However, this conclusion may be wrong because the phone might have already had a
 For instance, if a student wears a particular shirt before an exam and gets a high score, 
 the student may believe that the shirt brought good luck and continue wearing it before future exams, 
 even though the result was probably caused by good preparation rather than the shirt.
+有些事情可能同时发生，也可能先后发生，
+但这并不一定意味着其中一件事导致了另一件事。
+可能存在其他隐性因素同时影响着这两件事，
+或者它们之间的联系纯属巧合。
+因此，人们在判断两件事之间的真实关系时，需要考量所有相关因素，而不应简单地认为“相关性”等同于“因果关系”。
+谬误在日常生活中很常见。
+例如，如果甲把手机借给乙，而手机在乙使用期间出了故障，甲可能会认为手机坏掉是乙使用不当造成的。
+然而，这种结论可能是错误的，因为手机本身可能早已存在问题，或者是因为其他原因才停止工作的。同样地，谬误也可能导致认知偏差。
+举个例子，如果一名学生在考试前穿了某件特定的衬衫并取得了高分，
+他可能会认为这件衬衫给自己带来了好运，从而在以后的考试中继续穿着它，
+尽管考试的好成绩很可能是因为准备充分，而非那件衬衫的功劳。
 
 18. #190 Deep-sea Mineral Resources
 The NOC is engaged in research into the potential risks and benefits of exploiting deep-sea mineral resources, 
 which also led an international study demonstrating that deep-sea nodule mining will cause long-lasting damage to deep-sea life, 
 and the NOC is undertaking research related to many aspects and perspectives involved in exploiting ocean resources, 
 which is aimed at informing with sound scientific evidence the decisions that will need to be taken in the future.
+国家海洋学中心（NOC）正致力于研究开发深海矿产资源的潜在风险与效益；
+该中心牵头的一项国际研究表明，深海结核开采将对深海生物造成持久性损害。
+此外，NOC 还围绕海洋资源开发涉及的诸多方面与视角开展研究，
+旨在为未来的决策提供可靠的科学依据。
 
 19. #35 House Mice
 House mice are ideal biomarkers of human settlement, 
@@ -150,6 +235,12 @@ and the house mouse has managed to colonize every continent,
 when Australian mice originated in the British Isles and probably came over with convicts, 
 so Searle and his fellow researchers took it a step further, 
 using ancient mouse DNA collected from archaeological sites.
+小家鼠是人类定居活动的理想生物标志物，
+因为利用小家鼠作为人类迁徙的替代指标，可以丰富现有的认知；
+小家鼠已成功在各大洲繁衍定居，
+而澳大利亚的小家鼠源自不列颠群岛，很可能是随囚犯一同抵达的；
+因此，Searle 及其研究团队更进一步，
+利用从考古遗址中采集的古代小家鼠 DNA 开展了研究。
 
 20. #40 Small Wars
 Warfare is rather directed at infiltrating all areas of their societies and threatening their existences, 
@@ -158,6 +249,12 @@ and the protagonists acknowledge no rules,
 who observe neither international standards nor arms control agreements, 
 so it challenges not only the external security of the nation states and international community, 
 but also their internal safety.
+这种战争形式旨在渗透其社会各个领域并威胁其生存，
+其中，获取大规模杀伤性武器相对容易这一问题尤为令人关切，
+且冲突各方不遵循任何规则，
+既无视国际准则，也不遵守军控协议，
+因此，它不仅挑战了民族国家及国际社会的外部安全，
+也威胁到了其内部安全。
 
 21. #10 Australian Indigenous Food
 Australia automatically looks to its indigenous ingredients, 
@@ -166,6 +263,11 @@ but bush foods are not harvested or produced in sufficient quantities for them t
 nor are they generally accessible, 
 so indigenous foods are less relevant to Australian identity today than lamb and passion fruit, 
 both initially imported and now naturalized. 
+澳大利亚自然而然地将目光投向其本土食材，
+毕竟一种独特的澳大利亚饮食文化只能建立在本土特有食材之上；
+然而，由于“丛林食物”（bush foods）的采摘或生产规模不足以使其成为澳大利亚人日常饮食的常规组成部分，且获取渠道也不够普及，
+因此，与羊肉和百香果相比，本土食材在当今澳大利亚身份认同中的地位显得相对次要——尽管羊肉和百香果最初均属外来物种，
+但如今已完全融入本土并成为常态。
 
 22. #108 Independent Work
 Working nine to five for a single employer bears little resemblance to the way a substantial share of the workforce makes a living today, 
@@ -173,12 +275,21 @@ while millions of people assemble various income streams and work independently,
 since 20 to 30 percent of the working-age population engage in some form of independent work, 
 who largely fit into four segments, 
 including free agents, casual earners, reluctant and the financially strapped.
+如今，为单一雇主朝九晚五地工作，已与相当一部分劳动力的谋生方式大相径庭；
+数以百万计的人通过整合多种收入来源进行独立工作，
+因为约20%至30%的劳动年龄人口从事着某种形式的独立工作，
+这些人群主要可归为四大类，
+包括自由从业者、零工收入者、非自愿独立工作者以及经济拮据者。
 
 23. #172 Sustainable Development
 Sustainable development is defined as "development which meets the needs of the present without compromising the ability of future generations to meet their own needs", 
 and implicit in this definition is the idea that the old pattern of development could not be sustained, 
 yet only if we assume that society will remain static can we understand the needs of the future, 
 so those of us who want a better future need to question these assumptions.
+可持续发展被定义为“既满足当代人的需求，又不损害后代人满足其自身需求能力的发展”；
+这一定义隐含着旧有的发展模式难以为继的观点，
+然而，只有假设社会保持静止不变，我们才能理解未来的需求，
+因此，对于那些渴望更美好未来的人来说，有必要对这些假设提出质疑。
 
 24. #230 Natural Language
 When people start thinking about language, 
@@ -186,6 +297,10 @@ the first question which often occurs to them is whether language is natural to 
 and clearly, in one sense, children learn whatever language they are exposed to, 
 but the crucial question is whether children are born with blank sheets in their head or whether humans are programmed with an outline knowledge, 
 so this question is often referred to as the nature-nurture controversy.
+当人们开始思考语言时，脑海中浮现出的第一个问题往往是：语言对人类而言是否是与生俱来的？
+诚然，从某种意义上说，儿童会习得他们所接触到的任何语言；
+但关键问题在于，儿童出生时大脑是否如同一张白纸，
+抑或人类天生就具备某种预设的语言知识框架——这一问题通常被称为“先天与后天”之争。
 
 25. #197 Bertrand Russell
 Bertrand Russell, arguably the greatest philosopher of the 20th century, 
@@ -194,6 +309,12 @@ also one of the century's leading public intellectuals who won the Nobel Prize f
 involved in numerous social and political controversies of his time, 
 knowing or working with many prominent figures, 
 was active as a political and social critic until he died at the age of 97.
+伯特兰·罗素——堪称20世纪最伟大的哲学家、
+自亚里士多德以来最伟大的逻辑学家，
+也是该世纪杰出的公共知识分子之一及1950年诺贝尔文学奖得主，
+曾投身于当时诸多社会与政治争议之中，
+与许多知名人士相识或共事，
+直至97岁高龄去世，他始终活跃于政治与社会评论领域。
 
 26. #336 Difference in Intelligence
 People differ greatly in all aspects of what is casually known as intelligence, 
@@ -201,6 +322,10 @@ which are apparent in the most ordinary circumstances,
 where the environment is the source of differences in cognitive skills, 
 but most psychologists have begun to embrace a more balanced view: one in which nature and nurture interact in cognitive development, 
 and differences in people's genes affect how easily they learn. 
+人们在通常被称为“智力”的各个方面存在巨大差异，
+这些差异在最平常的生活情境中显而易见——尽管环境是导致认知能力差异的根源，
+但大多数心理学家已开始接受一种更为平衡的观点：即先天（遗传）与后天（环境）在认知发展过程中相互作用，
+而基因差异会影响人们的学习难易程度。
 
 27. #222 Product Life Cycle
 The product life cycle has 4 very clearly defined stages: the introduction stage could be the most expensive for a company launching a new product, 
@@ -208,6 +333,11 @@ while the growth stage is typically characterized by strong growth in sales and 
 followed by the maturity stage, 
 when the product is established and the manufacturer's aim is to maintain the market share, 
 and the decline stage, at which the market for a product starts to shrink. 
+产品生命周期包含四个界定十分明确的阶段：对于推出新产品的企业而言，投入期（或称导入期）的成本往往最高；
+随后的成长期通常以销售额和利润的强劲增长为特征；
+紧接着是成熟期，
+此时产品已站稳脚跟，制造商的目标在于维持市场份额；
+最后是衰退期，即产品的市场需求开始萎缩的阶段。
 
 28. #113 Pre-service Teachers
 Each individual content-area course has a separate syllabus that highlights the specific technologies and pedagogy, 
@@ -215,6 +345,11 @@ and methods and technology course instructors co-develop their syllabi with proj
 but they could not integrate it effectively within daily lesson plans, 
 which influenced the technology course instructor to develop exemplary models of technology projects and pedagogy, 
 so a project was modeled to illustrate how students construct understanding of clouds using concept mapping.
+每门学科课程都有独立的教学大纲，重点阐述了具体的技术应用与教学法；
+学科课程教师与“方法与技术”课程教师合作制定大纲，设计了贯穿两门课程的项目，
+但在日常教案中却难以有效整合这些内容。
+这一情况促使技术课程教师开发了技术项目与教学法的示范案例，
+例如设计了一个项目，展示学生如何利用概念图构建对“云”的理解。
 
 29. #127 Public Speaking
 Many insecurities, fears, and doubts stem from lack of understanding or knowledge, 
@@ -222,6 +357,11 @@ so it’s natural to be terrified of public speaking, and when you take it furth
 you’ll come to learn that you are scared of being judged or of being laughed at, 
 but as you practice more, you will naturally become even more confident, 
 and this rule applies to any area where you feel insecure.
+许多不安全感、恐惧和疑虑都源于缺乏了解或知识，
+因此，害怕公开演讲是很自然的；若深究其因，
+你会发现自己其实是害怕受到评判或被他人嘲笑，
+但随着练习增多，你会自然而然地变得更加自信，
+这一规律适用于任何让你感到缺乏安全感的领域。
 
 30. #103 Silent Movies
 The 1920's movie-goers' experience was largely dominated by silent movies but saw the introduction of synchronized sound, 
@@ -229,6 +369,11 @@ but early silent movies were often accompanied by live piano or organ music and 
 so it wasn’t until 1923 that a synchronized soundtrack was photographically recorded and printed, 
 and the first movie theaters were called Nickelodeons, 
 with movies often accompanied by scripted music from a piano.
+20世纪20年代，电影观众的观影体验主要由默片主导，但也见证了同步声效技术的引入；
+早期的默片通常伴有现场钢琴或管风琴演奏，为观众提供了极大的娱乐享受；
+直到1923年，同步音轨才得以通过摄影方式记录并印制出来；
+最早的电影院被称为“镍币影院”（Nickelodeons），
+放映时通常伴有钢琴演奏的特定乐曲。
 
 31. #477 Wright Brothers #81 Wright Brothers
 In 1892 the Wright brothers opened a bicycle sales and repair shop, 
@@ -236,12 +381,20 @@ and the profits funded their aeronautical experiments, while the experience of d
 but news reports of Lilienthal’s death marked the beginning of their serious interest in flight, 
 as the brothers had exhausted the resources of the local library by 1899, 
 after which they wrote to introduce themselves to Octave Chanute.
+1892年，莱特兄弟开设了一家自行车销售与维修店，其利润为他们的航空实验提供了资金，而设计和制造轻型自行车的经验也为后来制造飞行器打下了理想的基础；
+不过，关于利林塔尔（Lilienthal）去世的新闻报道，才是促使他们开始认真钻研飞行技术的契机；
+到1899年时，兄弟俩已读遍了当地图书馆的相关资料，
+随后，他们致信奥克塔夫·沙努特（Octave Chanute）以作自我介绍。
 ---
 Wilbur and Orville Wright became the first people to fly the Wright Flyer, 
 who were mechanically inclined young men who were inspired by the efforts of others, 
 so throughout their lives, the brothers were involved in a variety of ventures to make money, 
 and their energies were focused by two 1896 events, 
 while the bicycle business provided funds and sharpened mechanical skills for their new interest. 
+威尔伯·莱特（Wilbur Wright）和奥维尔·莱特（Orville Wright）兄弟俩不仅是驾驶“莱特飞行者号”（Wright Flyer）的首批飞行者，
+也是极具机械天赋的年轻人；他们深受他人探索实践的启发，一生中曾涉足多种商业活动以赚取收入，
+而1896年发生的两个事件则促使他们将精力聚焦于航空事业——与此同时，
+自行车生意既为他们的新志向提供了资金支持，也磨练了他们的机械技艺。
 
 32. #416 Immune System
 The immune system is a complex network of different organs, cells, 
@@ -251,6 +404,10 @@ the innate immune system is the first to respond when it finds an invader,
 which is killed inside the immune system cells, 
 and the acquired immune system makes special proteins to protect your body from a specific invader, 
 as immunizations train the immune system to make antibodies.
+免疫系统是一个由多种器官、细胞和蛋白质协同构成的复杂网络，主要包括固有免疫系统和适应性免疫系统；
+当发现入侵者时，固有免疫系统会率先做出反应，将其在免疫细胞内消灭；
+而适应性免疫系统则会产生特异性蛋白质来保护机体免受特定入侵者的侵害——
+例如，免疫接种正是通过训练免疫系统来产生抗体的。
 
 33. #189 Bank Overdraft
 Banks provide short-term finance to companies in the form of an overdraft on a current account, 
@@ -258,12 +415,21 @@ whose advantage is its flexibility,
 but the main disadvantage of an overdraft is that it is repayable on demand, 
 and the interest payable on overdrafts is variable, 
 while for small companies, there are often complaints that the rate of interest charged is high compared with that available to larger companies.
+银行通过活期账户透支的形式向企业提供短期融资，
+这种方式的优势在于灵活性，
+但透支的主要弊端在于银行可随时要求偿还，
+且透支利率是浮动的，
+此外，小型企业常抱怨其适用的利率高于大型企业所能获得的利率。
 
 34. #42 Museology
 Museology is the study of museums, their history and underlying philosophy, 
 which might also embrace the bewildering variety of audiences at whom the efforts of museum staff are supposedly directed, 
 since the plethora of present-day museums embraces virtually every field of human endeavor, 
 and it is a field of enquiry so broad as to be a matter of concern to almost everybody.
+博物馆学是对博物馆及其历史与内在理念的研究，
+其范畴也可能涵盖博物馆工作人员服务对象那极其多样且复杂的群体，
+毕竟当今各类博物馆几乎囊括了人类活动的各个领域，
+这一研究领域之广阔，使其几乎与每个人都息息相关。
 
 35. #15 Children Allowance
 Paying children to do extra work around the house can be useful, 
@@ -271,6 +437,11 @@ because it can even provide an understanding of how a business works,
 while allowances give children a chance to experience the things they can do with money, 
 and saving helps children understand that costly goals require sacrifice, 
 so many banks offer services to help children and teenagers learn about personal finance.
+向孩子支付报酬让他们承担额外的家务是有益的，
+因为这甚至能让他们了解商业运作的原理；
+同时，零用钱让孩子有机会体验如何使用金钱，
+而储蓄则能帮助他们明白实现昂贵的目标需要付出代价——
+正因如此，许多银行都提供相关服务，帮助儿童和青少年学习个人理财知识。
 
 36. #26 Electric Cars #200 Electric Cars (B) #482 Electric Cars(C)
 Electric cars were in fact some of the earliest types of motorized vehicle, 
@@ -278,6 +449,10 @@ but as cars fueled by petrol increased in importance, electric cars declined,
 and electricity steadily grew in importance as a means of powering trains, 
 so nowadays there is renewed interest in electricity as a means of powering road vehicles, 
 because of economic reasons and environmental motivations.
+事实上，电动汽车属于最早出现的机动车辆之列；
+然而，随着汽油动力汽车地位的提升，电动汽车逐渐式微，
+与此同时，电力作为列车动力来源的重要性却在稳步增长；
+如今，出于经济和环保方面的考量，人们重新对利用电力驱动道路车辆产生了浓厚兴趣。
 ---
 Electric cars are fundamentally different from traditional vehicles, 
 which represent a significant shift in automotive technology, 
@@ -285,6 +460,10 @@ because they have a distinct set of advantages and disadvantages,
 and scientists and policymakers have started to promote electric cars again as a potential solution for decarbonizing the transportation sector, 
 but practical barriers remain, 
 so a comprehensive solution requires a broader transition to renewable energy.
+电动汽车与传统汽车有着本质区别，代表了汽车技术的重大变革，因为它们具备独特的优缺点；
+尽管科学家和政策制定者已开始重新推广电动汽车，将其视为交通运输领域实现脱碳的潜在解决方案，
+但实际障碍依然存在，
+因此，要实现全面的解决方案，还需要向可再生能源进行更广泛的转型。
 ---
 Although electric cars were clean, quiet, and simple to operate, 
 the drawback was their limited range and long charging time, 
@@ -292,6 +471,12 @@ so scientists have begun to reconsider electricity as a fuel for vehicles,
 which require frequent refueling, and the process is far from instantaneous, 
 meaning that electric cars do very little to reduce carbon dioxide emissions, 
 and need to balance their own benefits with consumers' demands in the future.
+尽管电动汽车具有清洁、安静且易于操作的优点，
+但其续航里程有限和充电时间较长则是其短板；
+因此，科学家们开始重新审视将电力作为车辆燃料的可行性，
+毕竟车辆需要频繁补充能源，而这一过程远非瞬间即可完成，
+这意味着电动汽车在减少二氧化碳排放方面的作用十分有限，
+且未来需要在自身优势与消费者需求之间寻求平衡。
 ---
 Although electric cars were clean, quiet, and simple to operate, 
 the drawback then, as now, was their limited range and long charging time. 
@@ -300,6 +485,13 @@ As concerns in recent years have grown about global warming caused by carbon-dio
 scientists have begun to reconsider electricity as a fuel for vehicles. 
 But today's drivers expect a vehicle that is fuel efficient, 
 and a fuel that is readily available in numerous locations and allows instant refueling.
+尽管电动汽车清洁、安静且易于操作，
+但无论过去还是现在，其弊端都在于续航里程有限且充电时间较长。
+1915年以后，随着以内燃机为动力、使用廉价汽油的汽车受到青睐，电动汽车逐渐失去了市场。
+近年来，随着人们对二氧化碳排放引发全球变暖问题的日益关注，
+科学家们开始重新审视将电力作为车辆燃料的可行性。
+然而，当今的驾驶者期望车辆具备良好的燃油经济性，
+并希望燃料能够随处便捷获取，且能实现快速加注。
 ---
 Although electric cars are fairly efficient, they require frequent refueling, 
 and the process is far from instantaneous. They are expensive, too, 
@@ -307,6 +499,11 @@ since normal use causes their US$2,000 lead-acid batteries to wear out in just a
 And, ironically, electric cars do very little to reduce carbon dioxide emissions, 
 because most electricity in the U.S. is generated by burning coal and other fossil fuelsTo gain consumer acceptance, 
 the car of the future will need to balance the benefits of electric cars with consumer demands for distance and dynamo.
+尽管电动汽车的能效相当高，但它们需要频繁充电，且充电过程绝非瞬间即可完成。
+此外，它们价格不菲，因为在正常使用情况下，其价值2000美元的铅酸蓄电池往往只需几年便会报废。
+具有讽刺意味的是，电动汽车在减少二氧化碳排放方面的作用微乎其微，
+因为美国的大部分电力都是通过燃烧煤炭及其他化石燃料产生的。
+为了赢得消费者的认可，未来的汽车需要在电动汽车的优势与消费者对续航里程及动力性能的需求之间找到平衡。
 
 37. #48 Online Teaching & Learning
 What makes teaching online unique is that it uses the internet, 
@@ -315,6 +512,10 @@ and you can hold "office hours" on weekends or at night after dinner,
 while online learning offers more freedom for students as well, 
 so they can search for courses, enroll and register, 
 shop for their books and read articles online.
+在线教学的独特之处在于它依托互联网：教师无需亲临特定场所即可授课，
+甚至可以在周末或晚饭后的时段安排“答疑时间”；
+与此同时，在线学习也赋予了学生更大的自由度，
+使他们能够自主搜索课程、办理注册报名、选购教材以及在线阅读各类文章。
 
 38. #174 Image of Africa
 Africa can be an attractive place for business development and cultural tourism if concerted international support and assistance are provided, 
@@ -322,23 +523,40 @@ but this skewed perception overlooks the vibrant reality and immense potential o
 and Africa is the region with the best investment returns, 
 which suffers from frequent wars and the causes are complex, 
 so Africans need assistance in areas like technology transfer, infrastructure financing, and capacity building.
+如果能获得国际社会的协同支持与援助，非洲完全可以成为商业发展和文化旅游的理想之地；
+然而，那种片面的看法往往忽视了这片大陆充满活力的现实与巨大的潜力，
+事实上，非洲是投资回报率最高的地区，
+尽管它深受战乱频发之苦，且成因错综复杂，
+因此，非洲在技术转让、基础设施融资及能力建设等领域亟需各方援助。
 ---
 Africa is a continent with vast natural resources, 
 and the resources are mainly unexploited.
 If the resources are exploited properly, it will ... 
 Thus, the generalization of negative image of Africa is unfair.
+非洲是一片自然资源丰富的大陆，
+且这些资源大多尚未得到开发。
+如果能妥善开发这些资源，将会……
+因此，将非洲的形象一概而论为负面是不公平的。
 ---
 Africa is not a homogeneous country. There are 50 countries in Africa. 
 Hardworking Africans are struggling to address food, poverty and disease issues, 
 but it requires international support.
+非洲并非一个单一的国家，而是由50个国家组成的。
+勤劳的非洲人民正努力应对粮食、贫困和疾病问题，
+但这需要国际社会的支持。
 ---
 Africa is an attractive place for business but needs assistance.
+非洲是一个吸引商业的地方，但需要援助。
 ---
 Africans are capable to identify their own needs but requires concerted support from international organizations and communities.
 Wars are ongoing in many countries in Africa.
+非洲人有能力确定自己的需要，但需要国际组织和社区的一致支持。
+非洲许多国家正在进行战争。
 ---
 Africa is a place rich in culture and diversity. 
 It's a heaven for tourist, archeologist, etc.
+非洲是一个文化丰富、充满多样性的地方。
+这里是游客、考古学家等人士的天堂。
 
 39. #503 Triangulation
 There are reasons to worry about whether multi-method applications are producing more grounded, justified, 
@@ -346,6 +564,10 @@ and persuasive inferences, which arise from the 'triangulation' framework,
 and triangulation in social sciences has major flaws, 
 but the list of intellectually plausible responses to such an outcome is all but unbounded, 
 so no definitive guidance has yet emerged about how to respond to divergent findings between the multiple methods in a study.
+人们有理由担心，源自“三角互证”（triangulation）框架的多方法应用是否真的能得出更具实证基础、更具正当性且更具说服力的推论——
+毕竟社会科学中的三角互证法存在重大缺陷；
+然而，针对这一情况，在学理上站得住脚的应对策略几乎不胜枚举，
+因此，对于如何处理同一研究中多种方法所得出的不一致结果，目前尚无定论或明确的指导方针。
 
 40. #498 Origin of Species
 In 1837, Darwin wrote "Species Change", 
@@ -354,11 +576,20 @@ but he then realized that the theory of evolution was a radical and dangerous vi
 and in 1859 his ideas became accessible to the general readership, 
 receiving both praise from the scientific community and fierce criticism from the religious community and conservative forces, 
 so "On the Origin of Species" remains one of the most important works in human history.
+1837年，达尔文写下了《物种变化》（Species Change），这是他进化论思想最早的记录；
+但他随后意识到，进化论是一种激进且具有危险性的观点。
+直到1859年，他的思想才得以向大众公开，并引发了截然不同的反响：
+既受到科学界的赞誉，也招致了宗教界和保守势力的猛烈抨击。
+正因如此，《物种起源》至今仍是人类历史上最重要的著作之一。
 
 41. #72 Tree Rings
 While tree ring dating is straightforward to count the rings inwards, 
 a bonus of dendrochronology is that the width and the substructure of each ring reflect the amount of rain and the season at which the rain fell during that particular year to reconstruct the past climate, 
 because the tree-ring sequence is more diagnostic and richer in information with rings spanning much different width.
+尽管树木年轮测年中向内数年轮的方法十分直观，
+但树木年代学的一大优势在于，每个年轮的宽度及其内部结构能够反映特定年份的降雨量及降雨季节，
+从而帮助重建过去的气候状况；
+这是因为年轮宽度各异的序列具有更强的特征指示性，且蕴含着更为丰富的信息。
 
 42. #51 Paleolithic People
 The ways of life of Upper Paleolithic people are known through the remains of meals, tools and weapons, 
@@ -366,6 +597,10 @@ who were hunter-gatherers and hunted the bigger herbivores,
 when their hunting was indiscriminate, 
 so they rather chose the foot of cliffs, 
 and men hunted mostly with spears.
+我们通过饮食遗存、工具和武器了解旧石器时代晚期人类的生活方式；
+他们属于狩猎采集者，主要猎杀大型食草动物，
+且往往不加选择地进行猎杀，
+因此倾向于在​​悬崖脚下活动，男性狩猎时主要使用长矛。
 
 43. #178 Legume
 Legume roots produce their own nitrogen, a major fertilizer nutrient needed by all plants for growth, 
