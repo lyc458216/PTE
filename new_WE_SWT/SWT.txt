@@ -37,7 +37,11 @@ where plant research is instrumental in addressing all of these problems and mov
 so technological development is critical.
 
 5. #257 Prior Knowledge
-What is known as prior knowledge (or pre-existing knowledge) is the knowledge, skill or ability that a learner brings to a new learning encounter, and learners need enough previous knowledge and understanding to enable them to learn new things, so it is considered to be valuable to go through a process of what has been called "activating prior knowledge", while in terms of theory, it is to do with activating particular schemas.
+What is known as prior knowledge (or pre-existing knowledge) is the knowledge, 
+skill or ability that a learner brings to a new learning encounter, 
+and learners need enough previous knowledge and understanding to enable them to learn new things, 
+so it is considered to be valuable to go through a process of what has been called "activating prior knowledge", 
+while in terms of theory, it is to do with activating particular schemas.
 
 6. #162 Negotiation
 Negotiation is a common process in business to mainly solve business conflicts between both parties,
@@ -102,15 +106,23 @@ and Word WildlifeFund partners with companies should ensure the sustainability o
 In general, no single event can be used to predict a volcanic eruption, 
 and thus many events are usually monitored,
 and scientists are now able to predict with increasing accuracy eruptions from this dome.
-and the amount of seismic energy released increased, the amount of dome expansion increased, tilt increased, and SO2 emissions increased prior to the event.
+and the amount of seismic energy released increased, the amount of dome expansion increased, tilt increased, 
+and SO2 emissions increased prior to the event.
 Note that eruption predictions are only possible if constant monitoring of a volcano takes place.
 if people living around volcanoes are aware of some of the precursor phenomena they may be able to communicate their findings to scientists and help prevent a pending disaster.
 
 15. #206 Summer Vacation
-Summer vacation was born in the city, as too steady an application to literary pursuits led to a debilitated body, so eventually the vacationers won out, and the break became official; eliminating long summer vacations could shrink achievement gaps between students.
+Summer vacation was born in the city, as too steady an application to literary pursuits led to a debilitated body, 
+so eventually the vacationers won out, and the break became official; 
+eliminating long summer vacations could shrink achievement gaps between students.
 
 16. #169 Education Technology
-Skinner found every pupil learning the same topic in the same way at the same speed, and education technology has repeated the cycle of hype and flop; today, Skinner’s heirs are forcing the sceptics to think again, so to succeed, edtech must be at the service of teaching, but classrooms, hierarchical year-groups, standardized curriculums and fixed timetables are still the norm for most of the world's nearly 1.5bn schoolchildren.
+Skinner found every pupil learning the same topic in the same way at the same speed, 
+and education technology has repeated the cycle of hype and flop; 
+today, Skinner’s heirs are forcing the sceptics to think again, so to succeed, 
+edtech must be at the service of teaching, 
+but classrooms, hierarchical year-groups, 
+standardized curriculums and fixed timetables are still the norm for most of the world's nearly 1.5bn schoolchildren.
 
 17. #301 Fallacy
 Things happen together, or one event happens after another, 
@@ -126,145 +138,333 @@ the student may believe that the shirt brought good luck and continue wearing it
 even though the result was probably caused by good preparation rather than the shirt.
 
 18. #190 Deep-sea Mineral Resources
-The NOC is engaged in research into the potential risks and benefits of exploiting deep-sea mineral resources, which also led an international study demonstrating that deep-sea nodule mining will cause long-lasting damage to deep-sea life, and the NOC is undertaking research related to many aspects and perspectives involved in exploiting ocean resources, which is aimed at informing with sound scientific evidence the decisions that will need to be taken in the future.
+The NOC is engaged in research into the potential risks and benefits of exploiting deep-sea mineral resources, 
+which also led an international study demonstrating that deep-sea nodule mining will cause long-lasting damage to deep-sea life, 
+and the NOC is undertaking research related to many aspects and perspectives involved in exploiting ocean resources, 
+which is aimed at informing with sound scientific evidence the decisions that will need to be taken in the future.
 
 19. #35 House Mice
-House mice are ideal biomarkers of human settlement, as using mice as a proxy for human movement can add to what is already known, and the house mouse has managed to colonize every continent, when Australian mice originated in the British Isles and probably came over with convicts, so Searle and his fellow researchers took it a step further, using ancient mouse DNA collected from archaeological sites.
+House mice are ideal biomarkers of human settlement, 
+as using mice as a proxy for human movement can add to what is already known, 
+and the house mouse has managed to colonize every continent, 
+when Australian mice originated in the British Isles and probably came over with convicts, 
+so Searle and his fellow researchers took it a step further, 
+using ancient mouse DNA collected from archaeological sites.
 
 20. #40 Small Wars
-Warfare is rather directed at infiltrating all areas of their societies and threatening their existences, where the comparatively easy access to weapons of mass destruction is of key concern, and the protagonists acknowledge no rules, who observe neither international standards nor arms control agreements, so it challenges not only the external security of the nation states and international community, but also their internal safety.
+Warfare is rather directed at infiltrating all areas of their societies and threatening their existences, 
+where the comparatively easy access to weapons of mass destruction is of key concern, 
+and the protagonists acknowledge no rules, 
+who observe neither international standards nor arms control agreements, 
+so it challenges not only the external security of the nation states and international community, 
+but also their internal safety.
 
 21. #10 Australian Indigenous Food
-Australia automatically looks to its indigenous ingredients, and a uniquely Australian food culture can only be based upon foods indigenous to this country, but bush foods are not harvested or produced in sufficient quantities for them to be a standard component of Australian diets, nor are they generally accessible, so indigenous foods are less relevant to Australian identity today than lamb and passion fruit, both initially imported and now naturalized. 
+Australia automatically looks to its indigenous ingredients, 
+and a uniquely Australian food culture can only be based upon foods indigenous to this country, 
+but bush foods are not harvested or produced in sufficient quantities for them to be a standard component of Australian diets, 
+nor are they generally accessible, 
+so indigenous foods are less relevant to Australian identity today than lamb and passion fruit, 
+both initially imported and now naturalized. 
 
 22. #108 Independent Work
-Working nine to five for a single employer bears little resemblance to the way a substantial share of the workforce makes a living today, while millions of people assemble various income streams and work independently, since 20 to 30 percent of the working-age population engage in some form of independent work, who largely fit into four segments, including free agents, casual earners, reluctant and the financially strapped.
+Working nine to five for a single employer bears little resemblance to the way a substantial share of the workforce makes a living today, 
+while millions of people assemble various income streams and work independently, 
+since 20 to 30 percent of the working-age population engage in some form of independent work, 
+who largely fit into four segments, 
+including free agents, casual earners, reluctant and the financially strapped.
 
 23. #172 Sustainable Development
-Sustainable development is defined as "development which meets the needs of the present without compromising the ability of future generations to meet their own needs", and implicit in this definition is the idea that the old pattern of development could not be sustained, yet only if we assume that society will remain static can we understand the needs of the future, so those of us who want a better future need to question these assumptions.
+Sustainable development is defined as "development which meets the needs of the present without compromising the ability of future generations to meet their own needs", 
+and implicit in this definition is the idea that the old pattern of development could not be sustained, 
+yet only if we assume that society will remain static can we understand the needs of the future, 
+so those of us who want a better future need to question these assumptions.
 
 24. #230 Natural Language
-When people start thinking about language, the first question which often occurs to them is whether language is natural to humans, and clearly, in one sense, children learn whatever language they are exposed to, but the crucial question is whether children are born with blank sheets in their head or whether humans are programmed with an outline knowledge, so this question is often referred to as the nature-nurture controversy.
+When people start thinking about language, 
+the first question which often occurs to them is whether language is natural to humans, 
+and clearly, in one sense, children learn whatever language they are exposed to, 
+but the crucial question is whether children are born with blank sheets in their head or whether humans are programmed with an outline knowledge, 
+so this question is often referred to as the nature-nurture controversy.
 
 25. #197 Bertrand Russell
-Bertrand Russell, arguably the greatest philosopher of the 20th century, the greatest logician since Aristotle, also one of the century's leading public intellectuals who won the Nobel Prize for Literature in 1950, involved in numerous social and political controversies of his time, knowing or working with many prominent figures, was active as a political and social critic until he died at the age of 97.
+Bertrand Russell, arguably the greatest philosopher of the 20th century, 
+the greatest logician since Aristotle, 
+also one of the century's leading public intellectuals who won the Nobel Prize for Literature in 1950, 
+involved in numerous social and political controversies of his time, 
+knowing or working with many prominent figures, 
+was active as a political and social critic until he died at the age of 97.
 
 26. #336 Difference in Intelligence
-People differ greatly in all aspects of what is casually known as intelligence, which are apparent in the most ordinary circumstances, where the environment is the source of differences in cognitive skills, but most psychologists have begun to embrace a more balanced view: one in which nature and nurture interact in cognitive development, and differences in people's genes affect how easily they learn. 
+People differ greatly in all aspects of what is casually known as intelligence, 
+which are apparent in the most ordinary circumstances, 
+where the environment is the source of differences in cognitive skills, 
+but most psychologists have begun to embrace a more balanced view: one in which nature and nurture interact in cognitive development, 
+and differences in people's genes affect how easily they learn. 
 
 27. #222 Product Life Cycle
-The product life cycle has 4 very clearly defined stages: the introduction stage could be the most expensive for a company launching a new product, while the growth stage is typically characterized by strong growth in sales and profits, followed by the maturity stage, when the product is established and the manufacturer's aim is to maintain the market share, and the decline stage, at which the market for a product starts to shrink. 
+The product life cycle has 4 very clearly defined stages: the introduction stage could be the most expensive for a company launching a new product, 
+while the growth stage is typically characterized by strong growth in sales and profits, 
+followed by the maturity stage, 
+when the product is established and the manufacturer's aim is to maintain the market share, 
+and the decline stage, at which the market for a product starts to shrink. 
 
 28. #113 Pre-service Teachers
-Each individual content-area course has a separate syllabus that highlights the specific technologies and pedagogy, and methods and technology course instructors co-develop their syllabi with projects spanning the two courses, but they could not integrate it effectively within daily lesson plans, which influenced the technology course instructor to develop exemplary models of technology projects and pedagogy, so a project was modeled to illustrate how students construct understanding of clouds using concept mapping.
+Each individual content-area course has a separate syllabus that highlights the specific technologies and pedagogy, 
+and methods and technology course instructors co-develop their syllabi with projects spanning the two courses, 
+but they could not integrate it effectively within daily lesson plans, 
+which influenced the technology course instructor to develop exemplary models of technology projects and pedagogy, 
+so a project was modeled to illustrate how students construct understanding of clouds using concept mapping.
 
 29. #127 Public Speaking
-Many insecurities, fears, and doubts stem from lack of understanding or knowledge, so it’s natural to be terrified of public speaking, and when you take it further, you’ll come to learn that you are scared of being judged or of being laughed at, but as you practice more, you will naturally become even more confident, and this rule applies to any area where you feel insecure.
+Many insecurities, fears, and doubts stem from lack of understanding or knowledge, 
+so it’s natural to be terrified of public speaking, and when you take it further, 
+you’ll come to learn that you are scared of being judged or of being laughed at, 
+but as you practice more, you will naturally become even more confident, 
+and this rule applies to any area where you feel insecure.
 
 30. #103 Silent Movies
-The 1920's movie-goers' experience was largely dominated by silent movies but saw the introduction of synchronized sound, but early silent movies were often accompanied by live piano or organ music and provided enormous entertainment value to audiences, so it wasn’t until 1923 that a synchronized soundtrack was photographically recorded and printed, and the first movie theaters were called Nickelodeons, with movies often accompanied by scripted music from a piano.
+The 1920's movie-goers' experience was largely dominated by silent movies but saw the introduction of synchronized sound, 
+but early silent movies were often accompanied by live piano or organ music and provided enormous entertainment value to audiences, 
+so it wasn’t until 1923 that a synchronized soundtrack was photographically recorded and printed, 
+and the first movie theaters were called Nickelodeons, 
+with movies often accompanied by scripted music from a piano.
 
 31. #477 Wright Brothers #81 Wright Brothers
-In 1892 the Wright brothers opened a bicycle sales and repair shop, and the profits funded their aeronautical experiments, while the experience of designing and building lightweight was ideal preparation for the construction of flying machines, but news reports of Lilienthal’s death marked the beginning of their serious interest in flight, as the brothers had exhausted the resources of the local library by 1899, after which they wrote to introduce themselves to Octave Chanute.
+In 1892 the Wright brothers opened a bicycle sales and repair shop, 
+and the profits funded their aeronautical experiments, while the experience of designing and building lightweight was ideal preparation for the construction of flying machines, 
+but news reports of Lilienthal’s death marked the beginning of their serious interest in flight, 
+as the brothers had exhausted the resources of the local library by 1899, 
+after which they wrote to introduce themselves to Octave Chanute.
 ---
-Wilbur and Orville Wright became the first people to fly the Wright Flyer, who were mechanically inclined young men who were inspired by the efforts of others, so throughout their lives, the brothers were involved in a variety of ventures to make money, and their energies were focused by two 1896 events, while the bicycle business provided funds and sharpened mechanical skills for their new interest. 
+Wilbur and Orville Wright became the first people to fly the Wright Flyer, 
+who were mechanically inclined young men who were inspired by the efforts of others, 
+so throughout their lives, the brothers were involved in a variety of ventures to make money, 
+and their energies were focused by two 1896 events, 
+while the bicycle business provided funds and sharpened mechanical skills for their new interest. 
 
 32. #416 Immune System
-The immune system is a complex network of different organs, cells, and proteins that work together, which mainly contains the innate immune system and the adaptive immune system; the innate immune system is the first to respond when it finds an invader, which is killed inside the immune system cells, and the acquired immune system makes special proteins to protect your body from a specific invader, as immunizations train the immune system to make antibodies.
+The immune system is a complex network of different organs, cells, 
+and proteins that work together, 
+which mainly contains the innate immune system and the adaptive immune system; 
+the innate immune system is the first to respond when it finds an invader, 
+which is killed inside the immune system cells, 
+and the acquired immune system makes special proteins to protect your body from a specific invader, 
+as immunizations train the immune system to make antibodies.
 
 33. #189 Bank Overdraft
-Banks provide short-term finance to companies in the form of an overdraft on a current account, whose advantage is its flexibility, but the main disadvantage of an overdraft is that it is repayable on demand, and the interest payable on overdrafts is variable, while for small companies, there are often complaints that the rate of interest charged is high compared with that available to larger companies.
+Banks provide short-term finance to companies in the form of an overdraft on a current account, 
+whose advantage is its flexibility, 
+but the main disadvantage of an overdraft is that it is repayable on demand, 
+and the interest payable on overdrafts is variable, 
+while for small companies, there are often complaints that the rate of interest charged is high compared with that available to larger companies.
 
 34. #42 Museology
-Museology is the study of museums, their history and underlying philosophy, which might also embrace the bewildering variety of audiences at whom the efforts of museum staff are supposedly directed, since the plethora of present-day museums embraces virtually every field of human endeavor, and it is a field of enquiry so broad as to be a matter of concern to almost everybody.
+Museology is the study of museums, their history and underlying philosophy, 
+which might also embrace the bewildering variety of audiences at whom the efforts of museum staff are supposedly directed, 
+since the plethora of present-day museums embraces virtually every field of human endeavor, 
+and it is a field of enquiry so broad as to be a matter of concern to almost everybody.
 
 35. #15 Children Allowance
-Paying children to do extra work around the house can be useful, because it can even provide an understanding of how a business works, while allowances give children a chance to experience the things they can do with money, and saving helps children understand that costly goals require sacrifice, so many banks offer services to help children and teenagers learn about personal finance.
+Paying children to do extra work around the house can be useful, 
+because it can even provide an understanding of how a business works, 
+while allowances give children a chance to experience the things they can do with money, 
+and saving helps children understand that costly goals require sacrifice, 
+so many banks offer services to help children and teenagers learn about personal finance.
 
 36. #26 Electric Cars #200 Electric Cars (B) #482 Electric Cars(C)
-Electric cars were in fact some of the earliest types of motorized vehicle, but as cars fueled by petrol increased in importance, electric cars declined, and electricity steadily grew in importance as a means of powering trains, so nowadays there is renewed interest in electricity as a means of powering road vehicles, because of economic reasons and environmental motivations.
+Electric cars were in fact some of the earliest types of motorized vehicle, 
+but as cars fueled by petrol increased in importance, electric cars declined, 
+and electricity steadily grew in importance as a means of powering trains, 
+so nowadays there is renewed interest in electricity as a means of powering road vehicles, 
+because of economic reasons and environmental motivations.
 ---
-Electric cars are fundamentally different from traditional vehicles, which represent a significant shift in automotive technology, because they have a distinct set of advantages and disadvantages, and scientists and policymakers have started to promote electric cars again as a potential solution for decarbonizing the transportation sector, but practical barriers remain, so a comprehensive solution requires a broader transition to renewable energy.
+Electric cars are fundamentally different from traditional vehicles, 
+which represent a significant shift in automotive technology, 
+because they have a distinct set of advantages and disadvantages, 
+and scientists and policymakers have started to promote electric cars again as a potential solution for decarbonizing the transportation sector, 
+but practical barriers remain, 
+so a comprehensive solution requires a broader transition to renewable energy.
 ---
-Although electric cars were clean, quiet, and simple to operate, the drawback was their limited range and long charging time, so scientists have begun to reconsider electricity as a fuel for vehicles, which require frequent refueling, and the process is far from instantaneous, meaning that electric cars do very little to reduce carbon dioxide emissions, and need to balance their own benefits with consumers' demands in the future.
+Although electric cars were clean, quiet, and simple to operate, 
+the drawback was their limited range and long charging time, 
+so scientists have begun to reconsider electricity as a fuel for vehicles, 
+which require frequent refueling, and the process is far from instantaneous, 
+meaning that electric cars do very little to reduce carbon dioxide emissions, 
+and need to balance their own benefits with consumers' demands in the future.
 ---
-Although electric cars were clean, quiet, and simple to operate, the drawback then, as now, was their limited range and long charging time. After 1915, they fell out of vogue as cars powered by internal-combustion engines and fueled with cheap gasoline gained favor. As concerns in recent years have grown about global warming caused by carbon-dioxide emissions, scientists have begun to reconsider electricity as a fuel for vehicles. But today's drivers expect a vehicle that is fuel efficient, and a fuel that is readily available in numerous locations and allows instant refueling.
+Although electric cars were clean, quiet, and simple to operate, 
+the drawback then, as now, was their limited range and long charging time. 
+After 1915, they fell out of vogue as cars powered by internal-combustion engines and fueled with cheap gasoline gained favor. 
+As concerns in recent years have grown about global warming caused by carbon-dioxide emissions, 
+scientists have begun to reconsider electricity as a fuel for vehicles. 
+But today's drivers expect a vehicle that is fuel efficient, 
+and a fuel that is readily available in numerous locations and allows instant refueling.
 ---
-Although electric cars are fairly efficient, they require frequent refueling, and the process is far from instantaneous. They are expensive, too, since normal use causes their US$2,000 lead-acid batteries to wear out in just a few years. And, ironically, electric cars do very little to reduce carbon dioxide emissions, because most electricity in the U.S. is generated by burning coal and other fossil fuelsTo gain consumer acceptance, the car of the future will need to balance the benefits of electric cars with consumer demands for distance and dynamo.
+Although electric cars are fairly efficient, they require frequent refueling, 
+and the process is far from instantaneous. They are expensive, too, 
+since normal use causes their US$2,000 lead-acid batteries to wear out in just a few years. 
+And, ironically, electric cars do very little to reduce carbon dioxide emissions, 
+because most electricity in the U.S. is generated by burning coal and other fossil fuelsTo gain consumer acceptance, 
+the car of the future will need to balance the benefits of electric cars with consumer demands for distance and dynamo.
 
 37. #48 Online Teaching & Learning
-What makes teaching online unique is that it uses the internet, because when you teach online, you don't have to be someplace to teach, and you can hold "office hours" on weekends or at night after dinner, while online learning offers more freedom for students as well, so they can search for courses, enroll and register, shop for their books and read articles online.
+What makes teaching online unique is that it uses the internet, 
+because when you teach online, you don't have to be someplace to teach, 
+and you can hold "office hours" on weekends or at night after dinner, 
+while online learning offers more freedom for students as well, 
+so they can search for courses, enroll and register, 
+shop for their books and read articles online.
 
 38. #174 Image of Africa
-Africa can be an attractive place for business development and cultural tourism if concerted international support and assistance are provided, but this skewed perception overlooks the vibrant reality and immense potential of the continent, and Africa is the region with the best investment returns, which suffers from frequent wars and the causes are complex, so Africans need assistance in areas like technology transfer, infrastructure financing, and capacity building.
+Africa can be an attractive place for business development and cultural tourism if concerted international support and assistance are provided, 
+but this skewed perception overlooks the vibrant reality and immense potential of the continent, 
+and Africa is the region with the best investment returns, 
+which suffers from frequent wars and the causes are complex, 
+so Africans need assistance in areas like technology transfer, infrastructure financing, and capacity building.
 ---
-Africa is a continent with vast natural resources, and the resources are mainly unexploited, If the resources are exploited properly, it will ... Thus, the generalization of negative image of Africa is unfair.
+Africa is a continent with vast natural resources, 
+and the resources are mainly unexploited.
+If the resources are exploited properly, it will ... 
+Thus, the generalization of negative image of Africa is unfair.
 ---
-Africa is not a homogeneous country. There are 50 countries in Africa. Hardworking Africans are struggling to address food, poverty and disease issues, but it requires international support.
+Africa is not a homogeneous country. There are 50 countries in Africa. 
+Hardworking Africans are struggling to address food, poverty and disease issues, 
+but it requires international support.
 ---
 Africa is an attractive place for business but needs assistance.
 ---
 Africans are capable to identify their own needs but requires concerted support from international organizations and communities.
 Wars are ongoing in many countries in Africa.
 ---
-Africa is a place rich in culture and diversity, It's a heaven for tourist, archeologist, etc.
+Africa is a place rich in culture and diversity. 
+It's a heaven for tourist, archeologist, etc.
 
 39. #503 Triangulation
-There are reasons to worry about whether multi-method applications are producing more grounded, justified, and persuasive inferences, which arise from the 'triangulation' framework, and triangulation in social sciences has major flaws, but the list of intellectually plausible responses to such an outcome is all but unbounded, so no definitive guidance has yet emerged about how to respond to divergent findings between the multiple methods in a study.
+There are reasons to worry about whether multi-method applications are producing more grounded, justified, 
+and persuasive inferences, which arise from the 'triangulation' framework, 
+and triangulation in social sciences has major flaws, 
+but the list of intellectually plausible responses to such an outcome is all but unbounded, 
+so no definitive guidance has yet emerged about how to respond to divergent findings between the multiple methods in a study.
 
 40. #498 Origin of Species
-In 1837, Darwin wrote "Species Change", which was the earliest record of his evolutionary ideas, but he then realized that the theory of evolution was a radical and dangerous view, and in 1859 his ideas became accessible to the general readership, receiving both praise from the scientific community and fierce criticism from the religious community and conservative forces, so "On the Origin of Species" remains one of the most important works in human history.
+In 1837, Darwin wrote "Species Change", 
+which was the earliest record of his evolutionary ideas, 
+but he then realized that the theory of evolution was a radical and dangerous view, 
+and in 1859 his ideas became accessible to the general readership, 
+receiving both praise from the scientific community and fierce criticism from the religious community and conservative forces, 
+so "On the Origin of Species" remains one of the most important works in human history.
 
 41. #72 Tree Rings
-While tree ring dating is straightforward to count the rings inwards, a bonus of dendrochronology is that the width and the substructure of each ring reflect the amount of rain and the season at which the rain fell during that particular year to reconstruct the past climate, because the tree-ring sequence is more diagnostic and richer in information with rings spanning much different width.
+While tree ring dating is straightforward to count the rings inwards, 
+a bonus of dendrochronology is that the width and the substructure of each ring reflect the amount of rain and the season at which the rain fell during that particular year to reconstruct the past climate, 
+because the tree-ring sequence is more diagnostic and richer in information with rings spanning much different width.
 
 42. #51 Paleolithic People
-The ways of life of Upper Paleolithic people are known through the remains of meals, tools and weapons, who were hunter-gatherers and hunted the bigger herbivores, when their hunting was indiscriminate, so they rather chose the foot of cliffs, and men hunted mostly with spears.
+The ways of life of Upper Paleolithic people are known through the remains of meals, tools and weapons, 
+who were hunter-gatherers and hunted the bigger herbivores, 
+when their hunting was indiscriminate, 
+so they rather chose the foot of cliffs, 
+and men hunted mostly with spears.
 
 43. #178 Legume
-Legume roots produce their own nitrogen, a major fertilizer nutrient needed by all plants for growth, and when legumes are pulled up in the fall, excess nitrogen from the nodules is left in the soil, while moreover, organic growers prefer organic nitrogen because of its natural origins and because it breaks down slowly in the soil, but each specific legume generally requires a specific type of Rhizobium bacteria to produce nodules on their roots.
+Legume roots produce their own nitrogen, a major fertilizer nutrient needed by all plants for growth, 
+and when legumes are pulled up in the fall, excess nitrogen from the nodules is left in the soil, 
+while moreover, organic growers prefer organic nitrogen because of its natural origins and because it breaks down slowly in the soil, 
+but each specific legume generally requires a specific type of Rhizobium bacteria to produce nodules on their roots.
 
 44. #129 Solar Energy
-A large number of advantages also merit further development and even possible adaptation for residences, as solar energy is both a renewable and clean source of energy, and it is a true renewable resource, for solar energy is non-polluting and far quieter to create and harness, so residential size solar energy systems also have very little impact on the surrounding environment, while maintenance and repair costs are very reasonable.
+A large number of advantages also merit further development and even possible adaptation for residences, 
+as solar energy is both a renewable and clean source of energy, 
+and it is a true renewable resource, 
+for solar energy is non-polluting and far quieter to create and harness, 
+so residential size solar energy systems also have very little impact on the surrounding environment, 
+while maintenance and repair costs are very reasonable.
 
 45. #84 Written Language
-Written language is an ancient technology for storing and retrieving information, while we store information by writing it, and we retrieve it by reading it, where text has run its historic course and is now rapidly getting replaced in every area of our lives, so this is a positive step forward in the evolution of human technology, and it carries great potential for a total positive redesign of education.
+Written language is an ancient technology for storing and retrieving information, 
+while we store information by writing it, and we retrieve it by reading it, 
+where text has run its historic course and is now rapidly getting replaced in every area of our lives, 
+so this is a positive step forward in the evolution of human technology, 
+and it carries great potential for a total positive redesign of education.
 
 46. #80 Complaints
-Humans love to complain to each other, because it helps us feel less alone, and in some families, complaining is the only way to get attention, since the reason why these conversations feel good is because we feel understood, so people raised in negative environments learn early on, but when negativity provides bonding, humans are reluctant to abandon the behavior that brings them comfort.
+Humans love to complain to each other, because it helps us feel less alone, 
+and in some families, complaining is the only way to get attention, 
+since the reason why these conversations feel good is because we feel understood, 
+so people raised in negative environments learn early on, 
+but when negativity provides bonding, humans are reluctant to abandon the behavior that brings them comfort.
 
 47. #225 Environmental Technologies
-Many technologies have promised these qualities, but few have been commercially viable, and the BM TRADA's Q-Mark certification guarantees a straw building's energy efficiency, while the innovative straw walls in the new houses provide two times more insulation than required, so fuel bill reductions up to 90% can be expected, so that this technology combines the lowest carbon footprint and the best operational CO² performance of any system of construction currently available.
+Many technologies have promised these qualities, but few have been commercially viable, 
+and the BM TRADA's Q-Mark certification guarantees a straw building's energy efficiency, 
+while the innovative straw walls in the new houses provide two times more insulation than required, 
+so fuel bill reductions up to 90% can be expected, 
+so that this technology combines the lowest carbon footprint and the best operational CO² performance of any system of construction currently available.
 
 48. #123 Energy Demand
-The pressure on our planet's resources intensifies, and a central challenge is how to meet the skyrocketing energy demand required to support this growth, while there is an expected increase in demand for various alternative resources, which also happens in the non-renewable resource field, so this interconnected demand presents a critical dilemma, meaning that a sustainable path forward is crucial.
+The pressure on our planet's resources intensifies, 
+and a central challenge is how to meet the skyrocketing energy demand required to support this growth, 
+while there is an expected increase in demand for various alternative resources, 
+which also happens in the non-renewable resource field, 
+so this interconnected demand presents a critical dilemma, 
+meaning that a sustainable path forward is crucial.
 
 49. #109 Ethics
-Ethics is a set of moral obligations that define right and wrong in our practices and decisions, and many professions have a formalized system of ethical practices, whereas scientific ethics calls for honesty and integrity in all stages of scientific practice, which guides the practice of science and is deeply integrated into the way scientists work, where many of the ethical principles in science relate to the production of unbiased scientific knowledge.
+Ethics is a set of moral obligations that define right and wrong in our practices and decisions, 
+and many professions have a formalized system of ethical practices, 
+whereas scientific ethics calls for honesty and integrity in all stages of scientific practice, 
+which guides the practice of science and is deeply integrated into the way scientists work, 
+where many of the ethical principles in science relate to the production of unbiased scientific knowledge.
 
 50. #110 Positive Mindset
-When people work with a positive mind-set, performance on nearly every level improves, because happiness is perhaps the most misunderstood driver of performance, where most people believe that success precedes happiness, and people who cultivate a positive mind-set perform better in the face of challenge, while another common misconception is that our genetics, our environment, or a combination of the two determines how happy we are, so one's general sense of well-being is surprisingly malleable.
+When people work with a positive mind-set, performance on nearly every level improves, 
+because happiness is perhaps the most misunderstood driver of performance, 
+where most people believe that success precedes happiness, 
+and people who cultivate a positive mind-set perform better in the face of challenge, 
+while another common misconception is that our genetics, our environment, 
+or a combination of the two determines how happy we are, 
+so one's general sense of well-being is surprisingly malleable.
 
 51. #63 Language Teaching Approaches
-Over the years, language teachers have alternated between favoring teaching approaches that focus primarily on language use and those that focus on language forms or analysis, but the matter is not easily resolved, as there is evidence to support both points of view, whereas humans are amazingly versatile learners and that some people have a natural aptitude for acquiring languages and will succeed no matter what the circumstances.
+Over the years, language teachers have alternated between favoring teaching approaches that focus primarily on language use and those that focus on language forms or analysis, 
+but the matter is not easily resolved, 
+as there is evidence to support both points of view, 
+whereas humans are amazingly versatile learners and that some people have a natural aptitude for acquiring languages and will succeed no matter what the circumstances.
 
 52. #474 Computer and Brain
 About computer and human brain.
 Paragraph 1: 
 Scientists make use of computers to test the cognitive abilities of the human brain.
 Paragraph 2: 
-As examples, computers store and retrieve information, while human brains remember, recall information, and can process complex information.
+As examples, computers store and retrieve information, while human brains remember, 
+recall information, and can process complex information.
 Paragraph 3: 
-Some researchers still think the two are different human brains have emotions, and computers process information faster than human brains do. Therefore, it is not realistic to use computers to replace human brains.
+Some researchers still think the two are different human brains have emotions, 
+and computers process information faster than human brains do. 
+Therefore, it is not realistic to use computers to replace human brains.
 
 53. #36 Human Remains
-Human remains are a fundamental part of the archaeological record, offering unique insights into the lives of individuals and populations in the past, which require distinctive and specialized methods of recovery, and pose a distinctive set of ethical questions for archaeologists, but the acquisition and ownership of human remains became a divisive and politically loaded issue, since many human remains in museum collections around the world represented the traces of colonial exploitation.
+Human remains are a fundamental part of the archaeological record, 
+offering unique insights into the lives of individuals and populations in the past, 
+which require distinctive and specialized methods of recovery, 
+and pose a distinctive set of ethical questions for archaeologists, 
+but the acquisition and ownership of human remains became a divisive and politically loaded issue, 
+since many human remains in museum collections around the world represented the traces of colonial exploitation.
 
 54. #188 Seattle Commuters
-Seattle is among the fastest-growing cities in America, but the share of commuters driving solo into downtown Seattle is on a dramatic decline, and new workers are choosing transit, where the share of commuters headed downtown by bus or train shot up from 42 to 48 percent from 2010 to 2017; walking, biking, and carpooling also picked up by thousands of trips per day.
+Seattle is among the fastest-growing cities in America, 
+but the share of commuters driving solo into downtown Seattle is on a dramatic decline, 
+and new workers are choosing transit, 
+where the share of commuters headed downtown by bus or train shot up from 42 to 48 percent from 2010 to 2017; 
+walking, biking, and carpooling also picked up by thousands of trips per day.
 
 55. #46 Office Environment
-The notion that office space has a role in promoting or inhibiting performance is backed up by solid research, and improvements to the physical surroundings of workers impact on productivity, while sufficient light can reduce sickness among workers and increase productivity, and an attractive office can make workers feel more loyal to their company, so an environment which encourages a team to build trust and to play freely is an essential ingredient for innovation.
+The notion that office space has a role in promoting or inhibiting performance is backed up by solid research, 
+and improvements to the physical surroundings of workers impact on productivity, 
+while sufficient light can reduce sickness among workers and increase productivity, 
+and an attractive office can make workers feel more loyal to their company, 
+so an environment which encourages a team to build trust and to play freely is an essential ingredient for innovation.
 
 56. #486 Sleep and Food
 People's sleep quality is related to their intake of high-calorie foods.
@@ -275,7 +475,10 @@ Over-training can result in deviations beyond physical tolerances.
 Over-training has three main impacts on athletes: lack of rest; training the same body part too much; ..
 
 58. #19 Compulsory Reburial
-Human remains are a fundamental part of the archaeological record, but recently a new set of challenges to the study of human remains has emerged from a rather unexpected direction, and there would no longer be any possibility of long-term scientific investigation as new techniques and methods emerged and developed in the future, so this might be the first step towards a policy of reburying all human remains held in museum collections. 
+Human remains are a fundamental part of the archaeological record, 
+but recently a new set of challenges to the study of human remains has emerged from a rather unexpected direction, 
+and there would no longer be any possibility of long-term scientific investigation as new techniques and methods emerged and developed in the future, 
+so this might be the first step towards a policy of reburying all human remains held in museum collections. 
 
 59. #226 Lack of Sleep
 About a lack of sleep and less resistance to high-calorie foods.
@@ -288,7 +491,10 @@ secondly,transition mostly occur from the year 18 to 30;
 thirdly, after the age of 30, people gradually take more responsibilities.
 
 61. #215 South Africa
-The San were migratory people who lived in small groups who used rock shelters as temporary dwellings, while around 2,000 years ago the Khoikhoi pastoralists migrated to the coast, and over the centuries, these societies had diverse contacts with the Khoisan, whereas strife between the San and the Khoikhoi developed over competition for game and the Khoikhoi eventually became dominant.
+The San were migratory people who lived in small groups who used rock shelters as temporary dwellings, 
+while around 2,000 years ago the Khoikhoi pastoralists migrated to the coast, 
+and over the centuries, these societies had diverse contacts with the Khoisan, 
+whereas strife between the San and the Khoikhoi developed over competition for game and the Khoikhoi eventually became dominant.
 
 62. #472 Aggressive Behavior
 About aggressive behavior.
@@ -304,8 +510,12 @@ You need to listen, listen to the customers, customer satisfactions, ..
 64. #481 Academic Library
 The recent report on researchers" use of academic library was the focus of .. workshop .. findings and use...
 developing/encouraging librarians to understand practice
-The RlUK (Research libraries UK) reports on the role of research libraries in the production of scholarly research. The report focuses on how research library staff can act as partners and leaders in research, rather than just service providers. The report's findings were discussed in a workshop that brought together researchers and library staff.
-In the workshop, researchers argue that academic libraries still need to be further improved:firstly, libraries are shifting from just providing resources to being active collaborators, particularly in digital curation, data management, and open access; secondly, there is a need to shift library staff focus toward proactive research engagement and understanding the "language" of researchers.
+The RlUK (Research libraries UK) reports on the role of research libraries in the production of scholarly research. 
+The report focuses on how research library staff can act as partners and leaders in research, rather than just service providers. 
+The report's findings were discussed in a workshop that brought together researchers and library staff.
+In the workshop, researchers argue that academic libraries still need to be further improved:
+firstly, libraries are shifting from just providing resources to being active collaborators, particularly in digital curation, data management, 
+and open access; secondly, there is a need to shift library staff focus toward proactive research engagement and understanding the "language" of researchers.
 
 65. #419 Automatic Cars
 First paragraph: 
@@ -318,40 +528,61 @@ Fourth paragraph:
 The less the driver has to do the more popular the car will be among the public.
 
 66. #211 Urbanization
-Urban growth means the increase of population, including newly born people and immigrating people. Urbanization means people move from one settlement to other urban places (?), especially central cities.
+Urban growth means the increase of population, including newly born people and immigrating people. 
+Urbanization means people move from one settlement to other urban places, 
+especially central cities.
 Developed countries had a rate of urbanization above 85%, which fell slightly later.
-According to a prediction model, the most sustainable rate of urbanization is 80%, which is optimum and friendly ..
+According to a prediction model, the most sustainable rate of urbanization is 80%, 
+which is optimum and friendly ..
 ---
 Urban and Urbanization are different and independent process, 
-Urban is ...Urbanization means...transform from pattern of human settlement to a ... with increased population, Urbanization has a beginning and an end... Urbanization develop to a peak at 85% and then drop back to 80% for optimum and sustainability.
+Urban is ...Urbanization means...transform from pattern of human settlement to a ... with increased population, 
+Urbanization has a beginning and an end... Urbanization develop to a peak at 85% and then drop back to 80% for optimum and sustainability.
 
 67. #68 The History of the Khoikhoi
-In around 2300 BP, hunter gatherers called the San acquired domestic stock in what is now modern day Botswana, who were the first pastoralists in southern Africa and brought a new way of life to South Africa and to the San, which led to misunderstandings and subsequent conflict between the two groups, so as the Dutch took over land for farms, the Khoikhoi were dispossessed, exterminated, or enslaved and therefore their numbers dwindled. 
+In around 2300 BP, hunter gatherers called the San acquired domestic stock in what is now modern day Botswana, 
+who were the first pastoralists in southern Africa and brought a new way of life to South Africa and to the San, 
+which led to misunderstandings and subsequent conflict between the two groups, 
+so as the Dutch took over land for farms, the Khoikhoi were dispossessed, exterminated, 
+or enslaved and therefore their numbers dwindled. 
 
 68. #491 Dyslexia  #508 Future Car
 The definition of dyslexia is given.
-People with a high level of intelligence often have good reading skills, but in fact this is not necessarily the case.
+People with a high level of intelligence often have good reading skills, 
+but in fact this is not necessarily the case.
 ---
 In the 19th century car manufacturers focused on the engine performance.
-We are now in the 21st century, the age of information and digital technology, and they focus on human-device interaction and smartphone integration...
+We are now in the 21st century, the age of information and digital technology, 
+and they focus on human-device interaction and smartphone integration...
 connected car ecosystem.
 Honda and Nissan as examples ... maintenance alert system.
-In the near future, people will be able to use their cars to.., and when they want to let their friends use their cars, they won't need to transfer a physical key anymore.
+In the near future, people will be able to use their cars to.., 
+and when they want to let their friends use their cars, they won't need to transfer a physical key anymore.
 Alliance cooperates with Microsoft to develop new ...
 
 69. #88 Reading
-Reviewing your work by reading it aloud can help to identify the woolliest areas, but if you run out of breath during a sentence, it is probably too long, so a short word is always preferable to a long one; it is most effective to end with a short and emphatic word to secure your point, and it is much more impressive to make complicated points using simple language and grammar.
+Reviewing your work by reading it aloud can help to identify the woolliest areas, 
+but if you run out of breath during a sentence, 
+it is probably too long, so a short word is always preferable to a long one; 
+it is most effective to end with a short and emphatic word to secure your point, 
+and it is much more impressive to make complicated points using simple language and grammar.
 
 70. #186 Leadership
-A leader can define goals by issuing a memo or an executive order, and can mobilize people’s energies in ways ranging from persuasion to the coercive threat or the use of deadly force, for leadership is like a spectrum, in terms of visibility and the power the leader wields, while top leaders have been quite visible in their exercise of power, but more women have taken up opportunities for visible, authoritative leadership. 
+A leader can define goals by issuing a memo or an executive order, 
+and can mobilize people’s energies in ways ranging from persuasion to the coercive threat or the use of deadly force, 
+for leadership is like a spectrum, in terms of visibility and the power the leader wields, 
+while top leaders have been quite visible in their exercise of power, 
+but more women have taken up opportunities for visible, authoritative leadership. 
 
 71. #183 Materials
-About the increase demand for materials such as minerals to build houses, plastic, papers, petrol and diesel for fuel, etc, and its effects on the environment.
+About the increase demand for materials such as minerals to build houses, plastic, papers, petrol and diesel for fuel, etc, 
+and its effects on the environment.
 The last paragraph: the vehicle industry has made changes, including using rubber, plastic, ..
 Key words: population increase; sustainable; limited energies and materials.
 
 72. #495 Automation
-The development of automation consistently raised concerns about job losses over the last 100 years. While it is true that many routine and repetitive jobs have been easily replaced by machines, not al positions are equally vulnerable. 
+The development of automation consistently raised concerns about job losses over the last 100 years. 
+While it is true that many routine and repetitive jobs have been easily replaced by machines, not al positions are equally vulnerable. 
 For instance, roles that require complex decision-making, creativity, and human judgment, such as that of a CE0, remain difficult to automate. 
 Despite decades of technological advancement and widespread anxiety, humans have not been completely replaced by automation. 
 Instead, technology has often transformed the nature of work, creating new roles and industries while rendering others obsolete.
