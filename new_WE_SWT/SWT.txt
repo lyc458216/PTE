@@ -1,124 +1,133 @@
 1. #501 High‑fat Diet
 While endurance exercise can effectively bum fat during physical activity, 
-new research has uncovered muscles remarkable ability to process and consume fat for energy. 
-Indeed, the fat being burned can be sourced from muscles' internal storages as well as fat circulating within the blood. 
-However,this natural fat-burning capacity has clear biological boundaries and cannot be infinitely improved.
-Recently, some researchers have been investigating whether a high-fat diet can further increase the rate of fat burning in human bodies. 
-Their studies have shown that it can indeed enhance fat oxidation. 
-However,this positive effect has only been observed in elite or wel-conditioned athletes rather than ordinary people. 
-The article also mentioned the names of the researchers involved and explained the complex physiological mechanism behind this phenomenon. 
-In the final section, it discussed the potential health risks of such a diet. 
-Therefore, if your diet contains excessive fat over a long period of time, you face serious health risks such as high blood pressure.
 尽管耐力运动能在活动期间有效燃烧脂肪，
+new research has uncovered muscles remarkable ability to process and consume fat for energy. 
 但新研究揭示了肌肉在处理和消耗脂肪以获取能量方面具有惊人的能力。
+Indeed, the fat being burned can be sourced from muscles' internal storages as well as fat circulating within the blood. 
 事实上，燃烧的脂肪既可以来自肌肉内部的储备，也可以来自血液中循环的脂肪。
+However,this natural fat-burning capacity has clear biological boundaries and cannot be infinitely improved.
 然而，这种天然的脂肪燃烧能力存在明确的生物学极限，无法无限提升。
+Recently, some researchers have been investigating whether a high-fat diet can further increase the rate of fat burning in human bodies. 
 近期，一些研究人员正在探讨高脂肪饮食是否能进一步提高人体的脂肪燃烧率。
+Their studies have shown that it can indeed enhance fat oxidation. 
 研究表明，这种饮食确实能增强脂肪氧化作用。
+However,this positive effect has only been observed in elite or wel-conditioned athletes rather than ordinary people. 
 不过，这种积极效应仅见于精英运动员或体能状况极佳的运动员，而非普通人群。
+The article also mentioned the names of the researchers involved and explained the complex physiological mechanism behind this phenomenon. 
 该文章还列举了相关研究人员的姓名，并阐释了这一现象背后的复杂生理机制。
+In the final section, it discussed the potential health risks of such a diet. 
 文章最后一部分探讨了此类饮食可能带来的健康风险。
+Therefore, if your diet contains excessive fat over a long period of time, you face serious health risks such as high blood pressure.
 因此，如果长期摄入过量脂肪，您将面临高血压等严重的健康风险。
 
 2. #417 World Population
 Paragraph 1: 
 With the United States' foundation, the world population increased from 2.8 billion to more than 7 billion from 1950 to 2015.
 in ... century. Asia accounted ... % Africa ... %.
+以美国为基础，从1950年到2015年，世界人口从28亿增加到了70多亿。
+在……世纪，亚洲占比为……%，非洲为……%。
 Paragraph 2: 
 China is the biggest country and india, the second biggest one, 8% and 7% respectively.
 More and more people have reached reproductive ages, with rising fertility rates.
-Paragraph 3: 
-It is expected that the population will increase by ... by 2030, and increase up to ... by 2050, 60% of which live in Asia.
-第1段：
-从1950年到2015年，世界人口从28亿增加到了70多亿。
-在……世纪，亚洲占比为……%，非洲为……%。
-第2段：
 中国是人口最多的国家，印度位居第二，占比分别为8%和7%。
 越来越多的人步入生育年龄，同时生育率也在上升。
-第3段：
+Paragraph 3: 
+It is expected that the population will increase by ... by 2030, and increase up to ... by 2050, 60% of which live in Asia.
 预计到2030年人口将增加……，到2050年将增至……，其中60%的人口居住在亚洲。
 
 3. #1 2014 Olympics
 Major athletic events around the globe are striving to neutralize their carbon footprint as part of a world-wide climate network, 
-which are the latest participants to join the network, 
-and are particularly important for inspiring further global action on the environment, 
-so this passion for excellence increasingly encompasses environmental performance, 
-and that investment will be dedicated to improving transport infrastructure and offsetting greenhouse gas emissions.
 全球各大体育赛事正致力于抵消其碳足迹，以此作为全球气候网络的一部分；
+which are the latest participants to join the network, 
 这些赛事是最新加入该网络的成员，
+and are particularly important for inspiring further global action on the environment, 
 对于激发全球范围内进一步的环保行动具有重要意义，
+so this passion for excellence increasingly encompasses environmental performance, 
 因此，这种追求卓越的热情也日益涵盖了环境绩效方面的表现，
+and that investment will be dedicated to improving transport infrastructure and offsetting greenhouse gas emissions.
 而相关投资将专门用于改善交通基础设施及抵消温室气体排放。
 
 4. #55 Plants Research
 Plants serve as the conduit of energy into the biosphere, 
-provide food and materials used by humans, 
-and shape our environment, and the three major challenges facing humanity are plant related,
-since all of our food is produced by plants, 
-which are a source of energy production, 
+植物是能量进入生物圈的通道，为人类提供食物与各类物资，并塑造着我们的生存环境；
+provide food and materials used by humans, and shape our environment, and the three major challenges facing humanity are plant related,
+为人类提供食物和材料，塑造我们的环境，人类面临的三大挑战与植物有关，
+since all of our food is produced by plants, which are a source of energy production, 
+因为我们所有的食物都是由植物产生的，植物是能量的来源，
 where plant research is instrumental in addressing all of these problems and moving into the future, 
 so technological development is critical.
-植物是能量进入生物圈的通道，为人类提供食物与各类物资，并塑造着我们的生存环境；
-人类面临的三大挑战也都与植物息息相关——毕竟我们所有的食物均源自植物，而植物本身也是能量生产的源头。
-因此，植物研究对于解决这些难题及迈向未来至关重要，技术发展也就显得尤为关键。
+植物研究对于解决所有这些问题并走向未来至关重要，因此技术发展至关重要。
 
 5. #257 Prior Knowledge
 What is known as prior knowledge (or pre-existing knowledge) is the knowledge, 
+所谓“先验知识”（或称“既有知识”），
 skill or ability that a learner brings to a new learning encounter, 
+是指学习者在接触新学习内容时已具备的知识、技能或能力，
 and learners need enough previous knowledge and understanding to enable them to learn new things, 
+学习者需要足够的既有知识与理解作为基础，方能习得新知，
 so it is considered to be valuable to go through a process of what has been called "activating prior knowledge", 
+因此，经历一个所谓“激活先验知识”的过程被视为极有价值——
 while in terms of theory, it is to do with activating particular schemas.
-所谓“先验知识”（或称“既有知识”），是指学习者在接触新学习内容时已具备的知识、技能或能力；
-学习者需要足够的既有知识与理解作为基础，方能习得新知。
-因此，经历一个所谓“激活先验知识”的过程被视为极有价值——从理论层面来看，这实际上涉及对特定图式的激活。
+从理论层面来看，这实际上涉及对特定图式的激活。
 
 6. #162 Negotiation
 Negotiation is a common process in business to mainly solve business conflicts between both parties,
-and compromise is a basic negotiation state in which both parties give up something, 
-which usually occurs in unfair parties when there is a fixed pie to be divided up, 
-so they each make concessions to reach an agreement that is acceptable to both, 
-but negotiation cannot resolve the conflict if one party is unwilling to resolve the problem.
 谈判是商业活动中解决双方商业冲突的常见过程，
+and compromise is a basic negotiation state in which both parties give up something, 
 而妥协则是谈判的一种基本状态，即双方各作让步；
+which usually occurs in unfair parties when there is a fixed pie to be divided up, 
 这种情况通常发生在涉及“固定蛋糕”分配的博弈中，
+so they each make concessions to reach an agreement that is acceptable to both, 
 双方各自做出让步以达成彼此都能接受的协议，
+but negotiation cannot resolve the conflict if one party is unwilling to resolve the problem.
 但如果其中一方无意解决问题，谈判便无法化解冲突。
 
 7. #153 Importance of Soil
 Soil contains many organisms, 
+土壤中蕴含着众多生物，
 which create a living system that supports plants and all life, 
+它们构成了一个支撑植物及所有生命形式的活力系统，
 and good soil management also increases disease resistance in livestock and ultimately drives profits for farmers, 
+良好的土壤管理不仅能增强牲畜的抗病能力，最终还能为农民带来可观的经济效益，
 yet soil and its impact on the health of our animals has been one of the most neglected links in UK agriculture.
+然而，土壤及其对动物健康的影响，却是英国农业中最常被忽视的环节之一。
 
 8. #99 Ecology and Climatology
 Ecology is the study of interactions of organisms among themselves and with their environment, 
+生态学研究生物之间及其与环境之间的相互作用，
 while climatology is the study of the physical state of the atmosphere, 
+而气候学则研究大气的物理状态，
 so these two fields of scientific study are distinctly different, 
+因此这两个科学领域截然不同，
 yet their modern beginnings trace back to natural history and plant geography, 
+不过，它们在现代意义上的起源都可以追溯到自然史和植物地理学，
 and widely separated regions have structurally and functionally similar vegetation if their climates are similar.
-土壤中蕴含着众多生物，它们构成了一个支撑植物及所有生命形式的活力系统；
-良好的土壤管理不仅能增强牲畜的抗病能力，最终还能为农民带来可观的经济效益，
-然而，土壤及其对动物健康的影响，却是英国农业中最常被忽视的环节之一。
+相隔较远的地区如果气候相似，其植被结构和功能也相似。
 
 9. #30 Geothermal Energy
 The solution for east Africa to compete in the international oil market is geothermal energy, 
+东非在国际石油市场上竞争的解决方案是地热能，
 but Kenya's hydroelectric sources are increasingly unreliable, 
+但肯尼亚的水力发电资源越来越不可靠，
 so measurements were made to identify areas suitable for geothermal wells, 
+因此进行了测量以确定适合地热井的区域，
 which is a result of the thinning of the crust by tectonic stretching, 
+地热井是地壳因构造拉伸而变薄的结果，
 and water in the surrounding rocks is converted to steam by the heat, 
+使得周围岩石中的水受热转化为蒸汽，
 when the steam can be used to drive turbines and produce electricity.
+进而可利用这些蒸汽驱动涡轮机发电。
 
 10. #168 Greenland Sharks
 The Greenland shark is believed to be the longest-lived vertebrate animal, 
+格陵兰鲨被认为是寿命最长的脊椎动物，
 but little else is known about how the shark survives in the deep seas around the Arctic Circle, 
+但关于它们如何在北极圈周边的深海环境中生存，人们知之甚少，
 and it is both a hunter and a scavenger, which is also one of the largest species of shark, 
+这种鲨鱼既是捕食者也是食腐动物，且属于体型最大的鲨鱼物种之一，
 so more information is required to ensure the species is adequately protected, 
 as Greenland sharks are classified as data deficient.
-地热能是东非在国际石油市场上参与竞争的解决方案；
-然而，肯尼亚的水电资源日益变得不可靠，
-因此相关部门开展了勘测工作，以确定适合开凿地热井的区域。
-这些区域的形成源于构造拉张导致的地壳变薄，使得周围岩石中的水受热转化为蒸汽，
-进而可利用这些蒸汽驱动涡轮机发电。
+鉴于格陵兰鲨目前被归类为“数据缺乏”物种，我们需要更多信息以确保其得到妥善保护。
 
 11. #39 Malaysia Tourism
 Malaysia is one of the most pleasant, 
