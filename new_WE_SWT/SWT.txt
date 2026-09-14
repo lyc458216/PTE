@@ -607,6 +607,10 @@ Legume roots produce their own nitrogen, a major fertilizer nutrient needed by a
 and when legumes are pulled up in the fall, excess nitrogen from the nodules is left in the soil, 
 while moreover, organic growers prefer organic nitrogen because of its natural origins and because it breaks down slowly in the soil, 
 but each specific legume generally requires a specific type of Rhizobium bacteria to produce nodules on their roots.
+豆科植物的根系能自行产生氮——这是所有植物生长所需的主要肥料养分；
+当秋季拔除这些豆科植物时，根瘤中多余的氮会留在土壤里；
+此外，有机种植者更青睐有机氮，因为它源于天然且在土壤中分解缓慢；
+不过，每种特定的豆科植物通常需要特定类型的根瘤菌，才能在根部形成根瘤。
 
 44. #129 Solar Energy
 A large number of advantages also merit further development and even possible adaptation for residences, 
@@ -615,6 +619,9 @@ and it is a true renewable resource,
 for solar energy is non-polluting and far quieter to create and harness, 
 so residential size solar energy systems also have very little impact on the surrounding environment, 
 while maintenance and repair costs are very reasonable.
+太阳能具有诸多优势，值得进一步开发，甚至有望应用于住宅领域；
+作为一种真正可再生的清洁能源，太阳能在生产和利用过程中既无污染，噪音也极低，
+因此家用太阳能系统对周边环境的影响微乎其微，且维护与维修成本也非常合理。
 
 45. #84 Written Language
 Written language is an ancient technology for storing and retrieving information, 
@@ -622,6 +629,9 @@ while we store information by writing it, and we retrieve it by reading it,
 where text has run its historic course and is now rapidly getting replaced in every area of our lives, 
 so this is a positive step forward in the evolution of human technology, 
 and it carries great potential for a total positive redesign of education.
+书面语言是一种用于存储和检索信息的古老技术——我们通过书写来存储信息，通过阅读来获取信息；
+如今，文本形式已走完其历史使命，正迅速在生活的各个领域被取代。
+这是人类技术演进中的积极一步，并为彻底重塑教育体系蕴含着巨大的积极潜力。
 
 46. #80 Complaints
 Humans love to complain to each other, because it helps us feel less alone, 
@@ -629,6 +639,11 @@ and in some families, complaining is the only way to get attention,
 since the reason why these conversations feel good is because we feel understood, 
 so people raised in negative environments learn early on, 
 but when negativity provides bonding, humans are reluctant to abandon the behavior that brings them comfort.
+人们喜欢互相抱怨，因为这能减轻孤独感；
+在某些家庭中，抱怨甚至是获得关注的唯一途径，
+毕竟这种交流之所以让人感觉良好，是因为我们感到自己被理解了，
+因此，在消极环境中长大的人很早就学会了这一点；
+当消极情绪成为建立情感联结的纽带时，人们往往不愿放弃这种能带来慰藉的行为。
 
 47. #225 Environmental Technologies
 Many technologies have promised these qualities, but few have been commercially viable, 
@@ -636,6 +651,11 @@ and the BM TRADA's Q-Mark certification guarantees a straw building's energy eff
 while the innovative straw walls in the new houses provide two times more insulation than required, 
 so fuel bill reductions up to 90% can be expected, 
 so that this technology combines the lowest carbon footprint and the best operational CO² performance of any system of construction currently available.
+尽管许多技术都曾宣称具备这些特性，但真正具备商业可行性的却寥寥无几；
+BM TRADA 的 Q-Mark 认证为稻草建筑的能效提供了保障，
+而新型住宅中创新的稻草墙体所提供的隔热性能更是标准要求的两倍，
+预计可将取暖燃料费用降低多达 90%——这使得该技术在当前所有建筑体系中，
+兼具最低的碳足迹与最优的二氧化碳排放表现。
 
 48. #123 Energy Demand
 The pressure on our planet's resources intensifies, 
@@ -644,6 +664,11 @@ while there is an expected increase in demand for various alternative resources,
 which also happens in the non-renewable resource field, 
 so this interconnected demand presents a critical dilemma, 
 meaning that a sustainable path forward is crucial.
+地球资源承受的压力日益加剧，
+其中一项核心挑战在于：如何在满足支撑这一增长所需的激增能源需求的同时，
+应对各类替代资源（以及不可再生资源）不断增长的需求；
+这种相互交织的需求格局带来了一个严峻的困境，
+因此，寻找一条可持续发展之路至关重要。
 
 49. #109 Ethics
 Ethics is a set of moral obligations that define right and wrong in our practices and decisions, 
@@ -651,6 +676,11 @@ and many professions have a formalized system of ethical practices,
 whereas scientific ethics calls for honesty and integrity in all stages of scientific practice, 
 which guides the practice of science and is deeply integrated into the way scientists work, 
 where many of the ethical principles in science relate to the production of unbiased scientific knowledge.
+伦理是一套界定我们在实践与决策中何为是非曲直的道德义务，
+许多职业都拥有规范化的伦理实践体系，
+而科学伦理则要求在科学实践的各个环节保持诚实与正直，
+它不仅指导着科学实践，更深刻地融入了科学家的工作方式之中，
+其中许多科学伦理原则都与生成客观公正的科学知识息息相关。
 
 50. #110 Positive Mindset
 When people work with a positive mind-set, performance on nearly every level improves, 
@@ -660,12 +690,21 @@ and people who cultivate a positive mind-set perform better in the face of chall
 while another common misconception is that our genetics, our environment, 
 or a combination of the two determines how happy we are, 
 so one's general sense of well-being is surprisingly malleable.
+当人们以积极的心态工作时，几乎各个层面的绩效都会得到提升，
+因为幸福感或许是绩效最常被误解的驱动力——大多数人认为成功先于幸福，
+而拥有积极心态的人在面对挑战时表现更佳；
+此外，另一个常见的误解是认为我们的基因、环境或两者的结合决定了我们的幸福程度，
+但事实上，一个人的整体幸福感具有惊人的可塑性。
 
 51. #63 Language Teaching Approaches
 Over the years, language teachers have alternated between favoring teaching approaches that focus primarily on language use and those that focus on language forms or analysis, 
 but the matter is not easily resolved, 
 as there is evidence to support both points of view, 
 whereas humans are amazingly versatile learners and that some people have a natural aptitude for acquiring languages and will succeed no matter what the circumstances.
+多年来，语言教师在侧重语言运用与侧重语言形式或分析的教学方法之间摇摆不定，
+但这一问题难以轻易定论，
+因为两种观点都有相应的证据支持，
+况且人类的学习能力极强且灵活多样，有些人天生具有语言习得天赋，无论在何种环境下都能取得成功。
 
 52. #474 Computer and Brain
 About computer and human brain.
@@ -678,6 +717,14 @@ Paragraph 3:
 Some researchers still think the two are different human brains have emotions, 
 and computers process information faster than human brains do. 
 Therefore, it is not realistic to use computers to replace human brains.
+关于计算机与人脑。
+第一段：
+科学家利用计算机来测试人脑的认知能力。
+第二段：
+例如，计算机能够存储和检索信息，而人脑则能记忆、回想信息，并处理复杂的信息。
+第三段：
+一些研究人员仍认为两者存在差异：人脑拥有情感，而计算机处理信息的速度则快于人脑。
+因此，用计算机取代人脑是不切实际的。
 
 53. #36 Human Remains
 Human remains are a fundamental part of the archaeological record, 
@@ -686,6 +733,10 @@ which require distinctive and specialized methods of recovery,
 and pose a distinctive set of ethical questions for archaeologists, 
 but the acquisition and ownership of human remains became a divisive and politically loaded issue, 
 since many human remains in museum collections around the world represented the traces of colonial exploitation.
+人类遗骸是考古记录的重要组成部分，为我们了解过去个体与群体的生活提供了独特的视角；
+对其进行发掘与提取需要专门的方法，同时也给考古学家带来了一系列独特的伦理挑战。
+然而，人类遗骸的获取与所有权问题已演变为充满争议且带有政治色彩的议题，
+因为世界各地博物馆馆藏中的许多人类遗骸，往往见证了殖民剥削的历史。
 
 54. #188 Seattle Commuters
 Seattle is among the fastest-growing cities in America, 
@@ -693,6 +744,11 @@ but the share of commuters driving solo into downtown Seattle is on a dramatic d
 and new workers are choosing transit, 
 where the share of commuters headed downtown by bus or train shot up from 42 to 48 percent from 2010 to 2017; 
 walking, biking, and carpooling also picked up by thousands of trips per day.
+西雅图是美国增长最快的城市之一，
+但独自驾车前往市中心的通勤者比例却在急剧下降，
+越来越多的新员工选择公共交通出行；
+2010年至2017年间，乘坐公交车或火车前往市中心的通勤者比例从42%跃升至48%，
+步行、骑行和拼车出行的人次也增加了数千。
 
 55. #46 Office Environment
 The notion that office space has a role in promoting or inhibiting performance is backed up by solid research, 
@@ -700,47 +756,77 @@ and improvements to the physical surroundings of workers impact on productivity,
 while sufficient light can reduce sickness among workers and increase productivity, 
 and an attractive office can make workers feel more loyal to their company, 
 so an environment which encourages a team to build trust and to play freely is an essential ingredient for innovation.
+有确凿的研究表明，办公空间在促进或抑制工作表现方面发挥着作用；
+改善员工的物理工作环境会影响生产力，
+充足的光照既​​能减少员工患病又能提高生产效率，
+而美观的办公环境则能增强员工对公司的忠诚度；
+因此，一个能够鼓励团队建立信任并让成员能够自由发挥的环境，是实现创新的关键要素。
 
 56. #486 Sleep and Food
 People's sleep quality is related to their intake of high-calorie foods.
+人们的睡眠质量与他们摄入的高热量食物有关。
 
 57. #511 Over-training
 Athletes' complaint about over-training.
 Over-training can result in deviations beyond physical tolerances.
 Over-training has three main impacts on athletes: lack of rest; training the same body part too much; ..
+运动员对过度训练的抱怨。
+过度训练可能导致身体状况超出承受极限。
+过度训练对运动员主要有三个方面的影响：缺乏休息；过度训练同一身体部位；……
 
 58. #19 Compulsory Reburial
 Human remains are a fundamental part of the archaeological record, 
 but recently a new set of challenges to the study of human remains has emerged from a rather unexpected direction, 
 and there would no longer be any possibility of long-term scientific investigation as new techniques and methods emerged and developed in the future, 
 so this might be the first step towards a policy of reburying all human remains held in museum collections. 
+人类遗骸是考古记录的核心组成部分，
+但近期，针对人类遗骸研究的一系列新挑战却来自一个颇为出人意料的方向，
+这使得未来随着新技术的涌现与发展，进行长期科学研究的可能性将不复存在，
+因此，这或许将成为推动一项政策出台的开端——即重新掩埋博物馆馆藏的所有人类遗骸。
 
 59. #226 Lack of Sleep
 About a lack of sleep and less resistance to high-calorie foods.
 Lack of sleep has an impact on the sense of smell.
+关于睡眠不足与对高热量食物抵抗力降低的问题。
+睡眠不足会影响嗅觉。
 
 60. #509 Adolescence to Adulthood
 About transition from adolescence to adulthood. 
 A psychologist says transition to adulthood  firstly, teenagers; 
 secondly,transition mostly occur from the year 18 to 30; 
 thirdly, after the age of 30, people gradually take more responsibilities.
+关于从青春期向成年期的过渡。
+心理学家指出：首先，这一过程始于青少年时期；
+其次，过渡期主要发生在18岁至30岁之间；
+最后，年过三十后，人们会逐渐承担起更多责任。
 
 61. #215 South Africa
 The San were migratory people who lived in small groups who used rock shelters as temporary dwellings, 
 while around 2,000 years ago the Khoikhoi pastoralists migrated to the coast, 
 and over the centuries, these societies had diverse contacts with the Khoisan, 
 whereas strife between the San and the Khoikhoi developed over competition for game and the Khoikhoi eventually became dominant.
+桑人（San）是过着迁徙生活的小群体，常以岩棚作为临时居所；
+约两千年前，科伊科伊人（Khoikhoi）作为牧民迁徙至沿海地区；
+在随后的几个世纪里，这些群体与科伊桑人（Khoisan）之间产生了各种形式的接触；
+然而，由于对猎物的争夺，桑人与科伊科伊人之间爆发了冲突，最终科伊科伊人占据了主导地位。
 
 62. #472 Aggressive Behavior
 About aggressive behavior.
 Two forms: holistic and instrumental.
 What each form represents when it occurs ...
 .. beliefs ... values and ...
+关于攻击性行为。
+两种形式：整体性（holistic）与工具性（instrumental）。
+每种形式出现时所代表的含义……
+……信念……价值观以及……
 
 63. #490 Company Goals
 business/company goals ... get information from manger ... find inefficiency ..
 You need to listen, listen to the customers, customer satisfactions, ..
 ... find the core problem .. goal(s) ... list ...
+了解业务/公司目标……向经理获取信息……找出低效环节……
+你需要倾听——倾听客户的声音，关注客户满意度……
+……找出核心问题……明确目标……列出清单……
 
 64. #481 Academic Library
 The recent report on researchers" use of academic library was the focus of .. workshop .. findings and use...
@@ -751,6 +837,14 @@ The report's findings were discussed in a workshop that brought together researc
 In the workshop, researchers argue that academic libraries still need to be further improved:
 firstly, libraries are shifting from just providing resources to being active collaborators, particularly in digital curation, data management, 
 and open access; secondly, there is a need to shift library staff focus toward proactive research engagement and understanding the "language" of researchers.
+近期一份关于研究人员如何使用学术图书馆的报告，成为了某次研讨会的焦点，会议探讨了报告的发现及其应用，
+并着重于培养或鼓励图书馆员深入理解实际的研究工作。
+英国研究型图书馆联盟（RLUK）发布了一份关于研究型图书馆在学术研究产出过程中所扮演角色的报告。
+该报告重点探讨了研究型图书馆工作人员如何能够成为研究过程中的合作伙伴与引领者，而不仅仅是单纯的服务提供者。
+在一场汇集了研究人员与图书馆工作人员的研讨会上，与会者对该报告的结论进行了讨论。
+研讨会上，研究人员指出学术图书馆仍有进一步改进的空间：
+首先，图书馆的角色正从单纯的资源提供者转变为积极的合作者，特别是在数字资源策展、数据管理
+以及开放获取等领域；其次，图书馆工作人员需要转变工作重心，更加积极地参与研究工作，并努力理解研究人员的“语言”。
 
 65. #419 Automatic Cars
 First paragraph: 
@@ -761,6 +855,14 @@ The Alliance are working hard to make cars automatic.
 Third paragraph: ...
 Fourth paragraph: 
 The less the driver has to do the more popular the car will be among the public.
+第一段：
+没有什么比……更能体现汽车时代的特征了。
+两家公司正携手合作，致力于提升汽车的安全性。
+第二段：
+该联盟正全力推进汽车的自动驾驶技术。
+第三段：……
+第四段：
+驾驶员所需的操作越少，这款车就越受大众欢迎。
 
 66. #211 Urbanization
 Urban growth means the increase of population, including newly born people and immigrating people. 
@@ -769,10 +871,17 @@ especially central cities.
 Developed countries had a rate of urbanization above 85%, which fell slightly later.
 According to a prediction model, the most sustainable rate of urbanization is 80%, 
 which is optimum and friendly ..
+城市增长指的是人口的增加，包括新生人口和迁入人口。
+城市化是指人们从原居住地向其他城市区域（尤其是中心城市）迁移的过程。
+发达国家的城市化率曾超过85%，随后略有下降。
+根据预测模型，最可持续的城市化率为80%，这是一个既理想又适宜的水平。
 ---
 Urban and Urbanization are different and independent process, 
 Urban is ...Urbanization means...transform from pattern of human settlement to a ... with increased population, 
 Urbanization has a beginning and an end... Urbanization develop to a peak at 85% and then drop back to 80% for optimum and sustainability.
+“城市”与“城市化”是两个不同且独立的过程；
+“城市”是指……而“城市化”则意味着……即从某种人类聚居形态向……的转变，伴随着人口的增长；
+城市化有其起点与终点……城市化进程会发展至85%的峰值，随后回落至80%，以达到最佳状态并实现可持续发展。
 
 67. #68 The History of the Khoikhoi
 In around 2300 BP, hunter gatherers called the San acquired domestic stock in what is now modern day Botswana, 
@@ -780,11 +889,19 @@ who were the first pastoralists in southern Africa and brought a new way of life
 which led to misunderstandings and subsequent conflict between the two groups, 
 so as the Dutch took over land for farms, the Khoikhoi were dispossessed, exterminated, 
 or enslaved and therefore their numbers dwindled. 
+大约在距今2300年前，被称为“桑人”（San）的狩猎采集者在今天的博茨瓦纳地区获得了家畜，
+成为南部非洲最早的牧民；这一变化为桑人及整个南部非洲地区带来了新的生活方式，
+但也引发了不同群体间的误解与冲突，
+导致科伊科伊人（Khoikhoi）在荷兰人圈地务农的过程中丧失土地，
+惨遭屠杀或沦为奴隶，人口数量因此急剧减少。
 
 68. #491 Dyslexia  #508 Future Car
 The definition of dyslexia is given.
 People with a high level of intelligence often have good reading skills, 
 but in fact this is not necessarily the case.
+文中给出了阅读障碍的定义。
+智力水平高的人通常具备良好的阅读能力，
+但事实未必总是如此。
 ---
 In the 19th century car manufacturers focused on the engine performance.
 We are now in the 21st century, the age of information and digital technology, 
@@ -794,6 +911,14 @@ Honda and Nissan as examples ... maintenance alert system.
 In the near future, people will be able to use their cars to.., 
 and when they want to let their friends use their cars, they won't need to transfer a physical key anymore.
 Alliance cooperates with Microsoft to develop new ...
+19世纪，汽车制造商主要关注发动机性能。
+如今已进入21世纪——即信息与数字技术时代，
+制造商的关注重点转向了人机交互与智能手机集成……
+以及互联汽车生态系统。
+以本田（Honda）和日产（Nissan）为例……它们配备了车辆维护提醒系统。
+在不久的将来，人们将能够利用汽车……
+而且当他们想把车借给朋友使用时，无需再交接实体车钥匙。
+该联盟正与微软合作开发新型……
 
 69. #88 Reading
 Reviewing your work by reading it aloud can help to identify the woolliest areas, 
@@ -801,6 +926,11 @@ but if you run out of breath during a sentence,
 it is probably too long, so a short word is always preferable to a long one; 
 it is most effective to end with a short and emphatic word to secure your point, 
 and it is much more impressive to make complicated points using simple language and grammar.
+朗读自己的作品有助于找出表达含混不清之处；
+如果读到句子中途便气接不上，
+那句子很可能太长了——因此，短词往往优于长词；
+用简短有力的词语收尾，最能有力地传达观点；
+而用简洁的语言和语法来阐述复杂的观点，效果往往更为出色。
 
 70. #186 Leadership
 A leader can define goals by issuing a memo or an executive order, 
@@ -808,12 +938,21 @@ and can mobilize people’s energies in ways ranging from persuasion to the coer
 for leadership is like a spectrum, in terms of visibility and the power the leader wields, 
 while top leaders have been quite visible in their exercise of power, 
 but more women have taken up opportunities for visible, authoritative leadership. 
+领导者既可以通过发布备忘录或行政命令来确立目标，
+也能以从说服到强制威胁乃至动用致命武力等各种方式来调动人们的能量——因为就领导者的曝光度及其所掌握的权力而言，
+领导力呈现出一种光谱般的形态；尽管最高层领导者在行使权力时往往备受瞩目，
+但如今已有越来越多的女性把握住了机会，
+担任起这种既具高曝光度又拥有权威的领导角色。
 
 71. #183 Materials
 About the increase demand for materials such as minerals to build houses, plastic, papers, petrol and diesel for fuel, etc, 
 and its effects on the environment.
 The last paragraph: the vehicle industry has made changes, including using rubber, plastic, ..
 Key words: population increase; sustainable; limited energies and materials.
+关于建造房屋所需的矿物等材料，以及塑料、纸张、汽油和柴油（燃料）等物资需求增长的问题，
+及其对环境的影响。
+最后一段：汽车行业已做出调整，包括使用橡胶、塑料等材料。
+关键词：人口增长；可持续性；有限的能源与材料。
 
 72. #495 Automation
 The development of automation consistently raised concerns about job losses over the last 100 years. 
@@ -821,7 +960,11 @@ While it is true that many routine and repetitive jobs have been easily replaced
 For instance, roles that require complex decision-making, creativity, and human judgment, such as that of a CE0, remain difficult to automate. 
 Despite decades of technological advancement and widespread anxiety, humans have not been completely replaced by automation. 
 Instead, technology has often transformed the nature of work, creating new roles and industries while rendering others obsolete.
-
+过去一百年间，自动化的发展始终引发着人们对失业的担忧。
+尽管许多常规性、重复性的工作确实容易被机器取代，但并非所有职位都同样容易受到这种冲击。
+例如，像首席执行官（CEO）这类需要复杂决策、创造力和人类判断力的职位，依然难以实现自动化。
+尽管经历了数十年的技术进步和广泛的焦虑情绪，人类并未被自动化彻底取代。
+相反，技术往往改变了工作的性质，在淘汰某些旧有职位的同时，也催生了新的岗位与行业。
 
 
 
