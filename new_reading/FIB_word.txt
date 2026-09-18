@@ -298,120 +298,162 @@ unwilling                   不愿意
 edging                      （学费）接近（xx钱）
 shift                       （文化）转变
 account                     （海外学生学费）占（总学费）
-honored                     被授予荣誉/表彰
-simulation                  n. 模拟，仿造物；假装，冒充
-incapable                   adj. 无能力的，不能的，不能够的
-mimicked                    模仿，模拟
-originated                  起源于
-immune                      免于
-motivation                  n. 动力，诱因；积极性，干劲，积极性
-implemented                 实施
-curious                     好奇
-experience                  n. 经历，往事；经验，阅历；传统
-                            v. 经历，遭遇；体会到，感受到   
-convinced                   adj. 确信的，信服的；坚信不疑的，有坚定信仰的
-                            v. 深信，使确信
-crippled                    adj. 肢体残疾的，跛的；严重受损的，
-                            v. 衰弱，使跛足，使残疾，使伤残；严重毁坏或损害，给……造成严重问题
+honored                     （教授）被授予荣誉/表彰
+simulation                  （计算机）模拟
+incapable                   （当时可用的算法）无能力的，不能的，不能够的（描述）
+mimicked                    （具有）模仿，模拟（流体性质的气体）
+originated                  （可能）起源于（而出现）
+immune                      免于（这种方式）
+roots                       （在xx中有其）根源
+differ                      （在能力上可能）不同
+little                      （对xx的影响可能）很少
+motivation                  （提高参与度和）积极性
+acknowledged                （感到）认可
+implemented                 （深思熟虑地）实施
+motivation                  （内在）驱动力
+competitions                （并鼓励健康的）竞争意识
+performance                 工作表现
+among                       在（年轻人群体）之间
+meanwhile                   与此同时
+according to                根据
+structures                  （在语言中发现的）结构
+curious                     （感到）好奇
+experience                  （对发生的变化）产生/感到（厌恶感）
+convinced                   （评论家）深信
+crippled                    （语言正在逐渐）衰弱
+would have                  将
 significance                重要性
+in addition to              除了
 premonition                 n. （尤指不祥的）预感；前兆
-can convey                  能传达出
-clarification               澄清
-appropriately               adv. 适当地，恰当地
+can convey                  能传达出（你对xx的兴趣）
+clarification               澄清（信息中的细节）
+appropriately               （做出）适当的（回应）
+much of                     大部分（文化）
 be banned from              被禁止做某事或进入某地 
-statistically based         基于统计的
+statistically based         基于统计的（没有实际用处的）
+maintaining                 保持着（环境和文化特征）
+painful                     （他度过了一个）痛苦的（夜晚）
+difficult                   （他很）难（像往常一样）
 attend class                上课
-body                        主体
-category                    类别
-word by mouth               口口相传
+body                        （传统习俗的）主体
+category                    （文化形式）类别
+word by mouth               口口相传（的语言）
+tradition                   口头（传统）
+certain                     特定（时间）
+common                      （比在xx中更）常见 
+used to                     常常
 fusion                      n. 融合，结合；熔化；融合物
 alienation                  n. 疏离感；失去支持，疏远
 inherit                     v. 继承（遗产）；经遗传获得
 look after                  照看孩子
-existence                   存在
-went extinct                走向灭绝
-completely                  完全
-debate                      讨论
-gradual                     逐渐的
-further afield              更远的地方
-large volumes               大量
-techniques                  技术
-converted                   adj. 转换的，改造的，修改的；改变信仰的，改宗的，皈依的
-                            v. 转变，转换；换算；改建；改装
-accounting                  账目
-comprised                   包括
-productive                  adj. 多产的，丰饶的；有效益的，富有成效的；产量
-retained                    被保留在 adj. 保留的，保持的；
-                            v. 保留，保存
-tribute                     致敬
-aircraft                    飞机
-attempt                     尝试
-landed back                 返回
+existence                   （恐龙）存在（的1.6亿年中）
+went extinct                （物种）走向灭绝
+completely                  完全（消失了）
+debate                      （真正灾难的）讨论
+open to                     （对科学界）保持开放
+gradual                     （气候）逐渐的（变化）
+further afield              （从）更远的地方（引水）
+large volumes               （输送）大量（的水）
+techniques                  （掌握这种）技术
+converted                   被改造成（养虾场）
+only factor                 唯一因素
+accounting                  账目（显示）
+comprised                   包括（鱼类栖息地的丧失）
+productive                  （维持三四年的）产量
+beneficial                  （看起来）有益
+retained                    （利润）被保留在（私人手中）
+tribute                     （向xx的精神和远见）致敬
+aircraft                    （这架）飞机
+attempt                     尝试（环球旅行的人）
+landed back                 返回（机场）
 expansion                   增加（数量）
 enjoyed                     获得（新的成功）
-recreation                  n. 娱乐（活动），消遣（活动）；重现，重建
+recreation                   娱乐（活动）
 more specifically           更具体地
 furthermore                 此外
-abundant                    丰富的
-rank...as                   认为
-facilities                  设施
-attach                      重视
-attended                    就读
+result in                   导致（新产品的生产）
+efficiency                  生产的（效率）
+abundant                    （更）丰富的（材料）
+rank...as                   （很多学生）认为
+facilities                  （校园）设施
+attach to                   重视（程度）
+attended                    就读（大学）
 existing                    现有（数据）
 expenditure                 支出
-preference                  优先
-expense                     代价
-deficiencies                不足
+preference                  优先（顺序）
+repair and maintenance      维修和保养
+expense                     （以xx为）代价
+deficiencies                （设备的老化和）不足
+through                     （二十多岁晚期）时
 has hardened into           已经硬化成（已经成为）铁律
-authority                   权威
-talent                      有才
-culpability                 罪责
+authority                   权威（专家）
+talent                      （年少）有才
+culpability                 （个人）罪责
 prosecution                 （治安）起诉
-characterized               个人特征
-absurd                      荒谬
-rhythm                      节奏
-present                     当下的
-sightings                   发现
-questionable                质疑
-access to                   进入了
+characterized               （犯人）个人特征
+instance                    例子
+absurd                      （把xx的分析局限于是）荒谬的
+rhythm                      （自身）节奏
+cyclical phenomenal         循环现象
+integrated                  融入
+present                     当下的（平和感）
+sightings                   （很少有人）发现
+questionable                （人们曾经）质疑（他）
+recently increased          近期内增加
+being released              被释放
+access to                   进入了（大西洋）
+perfect                     完美的（环境）
+is held                     （每五年）举办（一次）
+arrive in                   抵达（伦敦）
+with                        （大会主题）为
 look at                     评判
-fascinating                 有趣的
-intriguing                  引人入胜的
+fascinating                 有趣的（问题）
+intriguing                  引人入胜的（领域）
 being able                  能够
-greatly                     非常
-prospective                 潜在的
-articulate                  清楚地
-succinctly                  简洁地
+greatly                     非常（重视）
+prospective                 潜在的（雇主）
+articulate                  （能够）清楚地（说出）
+succinctly                  简洁地（展示信息的能力）
+explaining                  解释（你的想法）
 not surprisingly            毫不意外地
-sustain                     维持生计
+sustain                     维持（生计）
 acidification               酸化
 has not been                （被认为）是不（相关的）
-have continued              一直
-primarily                   主要
-prescribed                  规定
+have continued              （某些问题）一直（吸引）
+primarily                   （早期批评）主要（集中在）
+prescribed                  （不遵守）规定（的时间）
 corrupted                   破坏（了语言）
-while                       虽然
-aesthetics                  美学
-disciplines                 学科
+while                       虽然（被指责）
+aesthetics                  美学的（功能和运作）
+disciplines                 （其他的）学科
 an integral part of         不可或缺的一部分
 altered dramatically        大幅改变
-is intended                 被计划
-contribute to               有助于
+as                          因为
+is intended                 （应用）被计划（面向读者）
+has developed               建立了（国际形象）
+from                        （成果）来自（援助）
+contribute to               有助于（地区安全）
 by acquiring something      通过获取一些东西
 notion                      概念
 involve                     （决策）包含（备选方案）
-practiced                   施行
+better                      更好地（利用时间）
+practiced                   施行（的补充疗法）
 enthusiasm                  （生活方式的）热衷
-efficacy                    疗效
-unethically                 不道德
+influence                   （往来贸易也带来）影响
+efficacy                    （针对他）疗效（的科学研究）
+unethically                 （表现出）不道德（会失去道德权威）
 connection                  （失去）联系
+technologies                （脑成像）技术
 abide                       遵守（道德准则）
-hidden                      （经历）被隐藏
+hidden                      （经历）被隐藏（在公众之外）
+although                    尽管（不总是）
+facial                      面部的（表情）
+in                          在（类似情况下）
 behind                      背后（的力量）
-reminder to                 提醒
+reminder to                 提醒（客人）
 to survive                  （才能）生存
 shed                        落叶
-salvage                     挽救
+salvage                     （尽量）挽救
 contain                     含（汞） 
 regulate                    调节（温度）
 there can be                这里有可能
