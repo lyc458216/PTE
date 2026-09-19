@@ -45,8 +45,129 @@ gathered                            收集的（数据）
 medical practitioner                医学实践者
 rational                            理性的（医学理想）
 question                            （简单的）问题
-
-
+piece of music                      音乐片段
+canonical examples                  典型例子
+knowledge                           （音乐）知识
+most of his work                    大部分作品
+genres                              （两种）体裁（的戏剧）
+the finest examples                 最优秀的作品
+collaborated with                   （与其他剧作家）合作
+sophisticated strategies            复杂的策略
+optimizes                           优化（觅食）
+rudimentary memory                  基本的记忆
+medicine                            医学
+motivate staff                      激励员工
+decisions                           （做出）决策
+national origins                    民族起源
+all regions                         （国家）所有地区
+container                           （花放到）容器里
+arrangement                         排列（相反）
+expression                          （创造力的）表达
+a piece's combination               每幅作品的色彩组合
+life changes                        生活变化
+common causes                       常见原因
+play a part                         起到一定作用
+spread                              （故事迅速）传遍
+reached                             取得（成功）
+vivid                               （准确而）生动地
+harmless                            无害的
+concentrated                        集中在（一个地方）
+underground                         （在压力下被）困在地下
+changing tastes                     不断变化的口味
+social conditions                   社会条件（的变化）
+advances in theater technology      戏剧技术的进步（不断发展）
+spectacular sets                    （音乐剧以其）壮观的布景（而闻名）
+thanks to                           由于（气候变化）
+exactly                             确切地（确定他的影响是什么）
+such as                             比如
+likely to                           似乎（变得更加普遍）
+career                              （庆祝）职业生涯
+figures                             （重要）人物
+display                             （画廊）展览
+film sets                           电影场景
+be interested in                    感兴趣
+pay                                 （按时）付（房租）
+have                                （可能）有（同样的体验）
+make an appointment                 预约
+look forward to                     期待（尽快收到你的来信）
+activities                          （正在参加）活动
+intriguing                          非常有趣（的领域）
+audiences                           （不同的）观众
+encourage                           鼓励
+recorded                            记录（了用途）
+be translated to                    被翻译（成阿拉伯语）
+survives                            流传（下来）
+prescribed                          （医生）开处方
+part of                             （这）部分（是xx）
+bones                               （成堆的）骨头
+examining                           （研究）检查（这些残骸）
+true                                （根据）真实（事件改变的电影）
+minor                               次要（人物）
+kinds of                            （其他）类型（的叙事）
+share with                          （与xx）一样（具有xx功能）
+for the body of                     （xx的）主体
+a given community                   特定的社区
+written word                        书面材料
+broad category of                   广泛的（文化形式）
+oral tradition                      口头传统
+draw up                             起草（一份计划）
+build in                            建立（安全边际）
+valuation                           （价值）评估
+wish                                （如果你）愿意
+rare                                很少见的
+participate in                      （积极）参与
+processes                           （学习公民机构和）过程
+community                           （为）社区（的共同利益做出决定）
+skills                              （社会相关的）技能（和理解）
+live                                （改变了我们的）生活
+accessible                          （使信息）触手可及
+weaken                              （隐私问题和技术）削弱（xx的可能性）
+challenges                          （技术创新为全球）挑战（提供解决方案）
+transformative                      （塑造我们未来的）变革（力量）
+preserve                            保存（详细的手术信息）
+training                            （为）培训（提供了）
+operate                             操作（远程手术）
+consume                             消耗（营养物质）
+thrive                              茁壮成长
+tend                                往往（在学校表现更好）
+believe                             （我们）相信
+understanding                       （通过）理解（知识的基础）
+build                               建立（投资组合）
+completing                          完成（项目）
+freedom                             （需求）摆脱（主观性的专横）
+inward                              （从）内向世界（指向外在世界）
+recently                            （直到）最近
+century                             （本）世纪
+mysterious                          神秘的（人物）
+sources                             来源
+church                              （法律和）教会（文件）
+gaps                                （信息中有许多）空白
+realistic                           （短期目标是）可实现的
+in order to                         为了（实现短期目标）
+action                              （不时地）正向反馈
+is applicable to                    适用于
+situations                          （所有）情况
+instructor                          （每一位）教师
+semester                            学期（开始时）
+attendance                          （关于课堂）出勤（的政策）
+remarkable                          了不起的（东西）
+minds                               （我们的）头脑/大脑
+information                         （大量的）信息
+general                             普遍的（教训）
+wellbeing                           （个人的健康）身心福祉
+physical                            体育（活动）
+chronic                             慢性（疾病）
+recommends                          （《指南》）建议
+preferably                          （每周）最好（每天至少xx）
+obtain                              （以）获得（健康益处）
+play a part                         （在xx中）起着作用
+heart                               （进步的）核心
+areas                               （生活的许多）方面
+indispensable                       （提供）不可或缺的（解决工具）
+variety                             很多（领域的工作中）
+rewarding employment                （有）回报的工作
+passion                             （找到你的）激情（并追求它）
+plan                                （选择另一个）计划
 
 
 
