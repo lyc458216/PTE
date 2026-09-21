@@ -156,9 +156,9 @@ Reading: FIB-Dropdown(r25)/ FIB-DragDrop(r20)/ RO(r9)
 Listening: WFD(l13 w23)/ SST(l10 w18)/ HIW(l8 r13)/ FIB-L(l8)
 
 S:DI(31)/ SGD(19)/ RS(16)/ RL(13)/ [RTS(13)]
+L:SGD(20)/ RS(17)/ RL(13)/ WFD(13)/ SST(10)/ [HIW(8)]/ [FIB-L(8)]
 W:WE(31)/ SWT(28)/ WFD(23)/ SST(18)
 R:FIB-Dropdown(25)/SWT (23)/ FIB-DragDrop(20)/ [RO(9)]
-L:SGD(20)/ RS(17)/ RL(13)/ WFD(13)/ SST(10)/ [HIW(8)]/ [FIB-L(8)]
 
 第一阶段：WFD/ SST/ WE/ SGD
 第二阶段：FIB-Dropdown/ FIB-DragDrop/ SWT
