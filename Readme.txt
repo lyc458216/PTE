@@ -151,9 +151,14 @@ RO一般全称的句子靠前，缩写靠后，整段有多个概念的话同一
 如果需要，我可以将上述每日任务做成一个更简明的“任务清单”图片，方便你保存在手机里每天打卡。
 
 ---
-Speaking: DI(S31)/ SGD(L20 S19)/ SWT(R23 W28)/ RS(L17 S16)/ WE(W31)/ RL(L13 S13)/ RTS(S13)/  
-Reading: FIB-Dropdown(R25)/ FIB-DragDrop(R20)/ RO(R9)
-Listening: WFD(L13 W23)/ SST(L10 W18)/ HIW(L8 R13)/ FIB-L(L8)
+Speaking: DI(s31)/ SGD(l20 s19)/ SWT(r23 w28)/ RS(l17 s16)/ WE(w31)/ RL(l13 s13)/ RTS(s13)/  
+Reading: FIB-Dropdown(r25)/ FIB-DragDrop(r20)/ RO(r9)
+Listening: WFD(l13 w23)/ SST(l10 w18)/ HIW(l8 r13)/ FIB-L(l8)
+
+S:DI(31)/ SGD(19)/ RS(16)/ RL(13)/ RTS(13)
+W:WE(31)/ SWT(28)/ WFD(23)/ SST(18)
+R:FIB-Dropdown(25)/SWT (23)/ FIB-DragDrop(20)/ RO(9)
+L:SGD(20)/ RS(17)/ RL(13)/ WFD(13)/ SST(10)/ HIW(8)/ FIB(8)
 
 第一阶段：WFD/ SST/ WE/ SGD/ SWT
 第二阶段：FIB-Dropdown/ FIB-DragDrop/ HIW/ RTS/ ASQ/ FIB-L/ (RO) 
