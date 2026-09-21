@@ -160,6 +160,7 @@ W:WE(31)/ SWT(28)/ WFD(23)/ SST(18)
 R:FIB-Dropdown(25)/SWT (23)/ FIB-DragDrop(20)/ [RO(9)]
 L:SGD(20)/ RS(17)/ RL(13)/ WFD(13)/ SST(10)/ [HIW(8)]/ [FIB-L(8)]
 
-第一阶段：WFD/ SST/ WE/ SGD/ SWT
-第二阶段：FIB-Dropdown/ FIB-DragDrop/ [RTS]/ [HIW]/ [FIB-L]/ [ASQ]/ [RO] 
+第一阶段：WFD/ SST/ WE/ SGD
+第二阶段：FIB-Dropdown/ FIB-DragDrop/ SWT
 第三阶段：DI/ RS/ RL
+第四阶段：[RTS]/ [HIW]/ [FIB-L]/ [ASQ]/ [RO] 
