@@ -155,11 +155,11 @@ Speaking: DI(s31)/ SGD(l20 s19)/ SWT(r23 w28)/ RS(l17 s16)/ WE(w31)/ RL(l13 s13)
 Reading: FIB-Dropdown(r25)/ FIB-DragDrop(r20)/ RO(r9)
 Listening: WFD(l13 w23)/ SST(l10 w18)/ HIW(l8 r13)/ FIB-L(l8)
 
-S:DI(31)/ SGD(19)/ RS(16)/ RL(13)/ RTS(13)
+S:DI(31)/ SGD(19)/ RS(16)/ RL(13)/ [RTS(13)]
 W:WE(31)/ SWT(28)/ WFD(23)/ SST(18)
-R:FIB-Dropdown(25)/SWT (23)/ FIB-DragDrop(20)/ RO(9)
-L:SGD(20)/ RS(17)/ RL(13)/ WFD(13)/ SST(10)/ HIW(8)/ FIB(8)
+R:FIB-Dropdown(25)/SWT (23)/ FIB-DragDrop(20)/ [RO(9)]
+L:SGD(20)/ RS(17)/ RL(13)/ WFD(13)/ SST(10)/ [HIW(8)]/ [FIB-L(8)]
 
 第一阶段：WFD/ SST/ WE/ SGD/ SWT
-第二阶段：FIB-Dropdown/ FIB-DragDrop/ HIW/ RTS/ ASQ/ FIB-L/ (RO) 
+第二阶段：FIB-Dropdown/ FIB-DragDrop/ [RTS]/ [HIW]/ [FIB-L]/ [ASQ]/ [RO] 
 第三阶段：DI/ RS/ RL
