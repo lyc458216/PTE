@@ -1,2 +1,334 @@
 [RL]
 模板:
+
+1. #190 Leadership and Management
+In organizations,there are profound differences between management and leadership. 
+Although both of them are important for achieving goals, they focus on different ways of thinking and working. 
+Leaders usually do not accept the current situation easily.
+They may dislike the status quo and try to make some challenges to existing systems. 
+They often question traditional methods, take risks, and attempt to change directions in order to create new opportunities and improvements. 
+On the other hand, managers usually focus on maintaining stability and efficiency. 
+They often stay in the status quo, follow established rules, and ensure that everything goes with the procedures.
+Their main responsibility is to organize resources, control processes, and make sure that daily operations run smoothly. 
+Therefore, leadership and management have different purposes. 
+Management emphasizes order, consistency, and following existing systems, while leadership focuses on innovation, change, and challenging old ideas. 
+In this sense,leadership disrupts management because leaders often need to break traditional patterns in order to create progress and transformation.
+
+2. #429 Joseph Lister
+Joseph Lister was a great surgeon in Britain who completely transformed the way surgeries are performed. In the 19th century, many patients died after
+operations due to infections, but Lister changed this tragic reality. He became well known for his groundbreaking work in antiseptic surgery. Inspired by the
+germ theory, Lister successfully introduced carbolic acid as a powerful disinfectant. He used this chemical to sterilize surgical instruments and to clean
+wounds before and after operations. This innovative method led to a reduction in infections and significantly made surgery safer for patients all over the
+world. Because of his great medical achievement, Joseph Lister is often honored as the father of modern surgery. His dedication and scientific approach
+represent a major achievement in medicine, saving countless lives and laying the foundation for the sterile medical practices we rely on today.
+
+3. #658 Education Technology
+A video with a friendly speech rate about education technology.
+Nowadays children are born to be able to use technologies, but teachers are unable because in the past no such technologies were offered to teachers.
+Teachers should learn to apply technologies in teaching and change education.
+Key words: education technology, scaffolding, have no understanding of how to use technology to teach, educators.
+
+4. #587 Cosmic Civilization
+The possibility of the existence of other cosmic civilizations has always been an important topic in space research. Scientists are interested in finding out
+whether life exists on other planets beyond Earth and whether another civilization could develop somewhere in the universe. Every year, around 7 stars are
+created in some areas of the universe, and there are many planets formed around these stars. However, most planets around them cannot support life
+because their environments are usually either too hot or too cold. Researchers estimate that only about 20% of all planets may meet all necessary criteria
+and have a chance to have life. Even if a planet has suitable conditions, the possibility of life developing into a complex civilization is still very small. The
+change of appearance of life from simple organisms to advanced civilizations is extremely rare, which makes it hard to find another cosmic civilization.
+Therefore, although the universe contains countless planets, discovering another intelligent civilization remains a great challenge.
+
+5. #294 Library Introduction
+There are many functional areas and services in the library.
+You'll see the service desk after entering the library and you can have these services at the service desk.
+There are computers with special software on each floor, by which you can gain access to the internet and check emails and library catalogues.
+Follow the orange signs and you will find printers. Then, follow the instructions to use them.
+Remember to bring student cards. You have to use printers with your card. You can charge your card at the front desk.
+If necessary, you can ask the staff at the front desk to help you.
+
+6. #161 Springtime
+The Earth's temperature is rising. And as it does, springtime phenomena-like the first bloom of flowers-are getting earlier and earlier. But rising
+temperatures aren't the only factor. Urban light pollution is also quickening the coming of spring. "So temperature and light are really contributing to a
+double whammy of making everything earlier." Richard french-Constant, an entomologist at the University of Exeter. He and his colleagues compiled 13
+years of data from citizen scientists in the U.K., who tracked the first bud burst of four common trees. Turns out, light pollution-from streetlights in cities,
+and along roads-pushed bud burst a full week earlier. Way beyond what rising temperatures could achieve. This disruptive timing can ripple through the
+ecosystem. "The caterpillars that feed on trees are trying to match the hatching of their eggs to the timing of bud burst. Because the caterpillars want to
+feed on the juiciest and least chemically protected leaves. And it's not just the caterpillars, of course, that are important. But the knock-on effect is on
+nesting birds, which are also trying to hatch their chicks at the same time that there's the maximum number of caterpillars." So earlier buds could ultimately
+affect the survival of birds, and beyond. The findings are in the Proceedings of the Royal Society B. The world's becoming increasingly urbanized, and light
+pollution is growing—which french-Constant says could trick trees into budding earlier and earlier. But smarter lighting-like LEDs that dial down certain
+wavelengths—could help. "Perhaps the exciting thing is, if we understand more about how light affects this bud burst, we might be able to devise smarter
+sort of street lighting that has less red components, and therefore less early bud burst." Thus keeping springtime an actual springtime phenomenon.
+
+7. #188 Melatonin
+解析：
+*Key points:
+1.The hormone I want to talk about is called melatonin.
+2.It is the opposite of the cortisol.
+3.It has a rhythm and peaks at night.
+4.And we call it as the darkness hormone.
+5.It's hormone that prepares you for the thing does at night.
+6.In humans we sleep, but animals, they are awake.
+原文：
+I'm just going to take on where stuff left off. The hormone I want to now talk about it's called melatonin. The synthesis is in the Pineal Gland, which is very
+small. It is the size of a pea in your brain. Descartes called it the 'seat of soul', and it is where melatonin is made. And it has a rhythm as well. And in the
+sense, it is the opposite of the cortisol. It peaks at night. We call it as the darkness hormone. In every species that we studied, melatonin occurs at night. And
+it's hormone that prepares you for the things, that your species, does at night. So, of course, in humans we sleep, but animals, like rodents, they are awake.
+So, it's a hormone that is related to darkness behavior.
+
+8. #123 Marshmallow Test
+Let's take a look at this video of these little kids. They were offered the option of having one marshmallow immediately or two marshmallows 15 minutes
+later and you've got some very cute video tape of this experiment. So let's take a look. What we found is a very simple and direct way of measuring a
+competence that seems to make an important life difference. A researcher tells these preschoolers that she's going to leave the room. If they wait for her to
+come back without eating the marshmallows, they'll get two marshmallows. Or, they can ring the bell and she'll come back right away but then they only
+get one marshmallow. I would ring the bell. You won't ring the bell? Okay. Looking at children over time, Dr.Michelle has found that being able to wait
+longer at four has some pretty powerful implications. And what are those powerful implications? Is that later in life they're more disciplined and have more
+self-control? Is that pretty much it. Well, they are more likely to achieve their life goals. They have better relationships. They do better on their SAT. Is that
+crazy all because they waited 15 minutes for two marshmallows? Well, I mean I think it is crazy. I probably would have eaten all three. Yeah, me too. But, um,
+you know, actually, yes, the ability to be able to pursue your goals, in this case, was that two marshmallows versus one, and not going automatic and just
+grab the marshmallow, is a very important skill. But I think a main point in mind in the making is that these skills can be caught, taught. If you're 14 or 40 or
+four it's not ever too late, and any child can learn, any adult can teach them. And it's never too late.
+
+9. #147 London Fog
+Turner, not surprisingly, painted one of the earliest pictures of London's fog, in the 1835 painting the Thames above Waterloo Bridge. Turner is a trueborn
+Londoner, is advertising his familiarity with London's air problem by putting smoke, an atmospheric pollution at its center. And as you can see, in here, the
+bridge is the central element, which is a theme that's later taken up by Monet. And it's partly obscured by the steam and smoke which rises from both sides
+of the river. Here, we see a shot-tower. I think you can just about to see, which was constructed in 1826. Do you know what shot-towers are? They produce
+shot for guns, ammunition. And they were very smoky, one of the more smoky industries. But it's barely visible, as you can see, as are the various industries
+on the Lambuth side of the river. There's, on this side, there's a steamship about to dock or preparing to leave. It's black smoke thrusting up to join the kind
+of swirling arc of smoke there. William Rodner sees this painting as a potent essay on the energy and complexity of modern polluted organism. Smoke, I
+think, here represents for a flourishing economy, which brings employment and food on tables but also the dirt and pollution associated with the fumes all
+seems to be tainted by sulfurous yellow.
+
+10. #237 Practice
+Deliberate practice takes time and people also need to find and solve problems and mistakes during it. To be a high performing solo musician for the violin
+you also have to spend several thousand hours in solitary practice. That is the basic requirement to become professional, namely the ten-thousand-hour
+rule. When it comes to other things, for example, if geometry is your weakness in math, you should practice more in geometry. During practice you should
+identify your weakness, focus on it, and carry out further deliberate practice to demonstrate how important deliberate practice is. Even for talents, they
+generally need to spend ten years to achieve the high international level of recognition. So there is no need for average people to be ashamed of practicing.
+
+11. #223 Soot Emission
+解析：
+*Key points:
+1 .Soot is the little thing that can make big things happen.
+2.Soot causes respiratory illnesses.
+3.Soot causes twenty five percent of human-caused global warming.
+4.But there's good news, reducing black carbon may be the fastest way to slow global warming.
+5.Developed and developing countries should try their best on black carbon reduction.
+原文：
+Sometimes it's the little things that can make big things happen. Fleas and the plague, atoms and nuclear bombs. Diminutive leaders in world history. Soot
+is one of these little things. Soot also known as black carbon is released when you burn dung, coal, diesel fuel and wood. From Los Angeles to Mumbai, soot
+causes respiratory illnesses like lung cancer and asthma and contributes to one point six million premature deaths every year. Mostly among the poor. And
+it gets worse. Atmospheric currents carry soot thousands of miles from where it is produced, to the Himalayas and the Arctic. Black carbon being black,
+absorbs sunlight, so even a little soot on snow makes it melt faster. And when snow melts global sea levels rise, threatening our freshwater indigenous
+communities and polar bears who hunt on the Arctic ice. Climate Change has been a big thing for a while and carbon dioxide has been its main cause.
+Scientists estimate that soot causes twenty five percent of human-caused global warming. It's the second leading cause of Arctic warming after carbon
+dioxide. Let's not underestimate the impact of this tiny particle. But there's good news, reducing black carbon may be the fastest way to slow global
+warming. Buy time for the Arctic. Yes even more so than changing a light bulb. Since black carbon only stays in the atmosphere for a couple of weeks,
+reducing it will produce results immediately. Of course, reducing soot alone won't solve global warming, but solving our soot problem now will help buy
+time for the Arctic and allow us to deal with the bigger problem of carbon dioxide. We have the cleaner industries, cook stoves, and diesel now we have to
+use them. In developed nations, we've significantly reduced our black carbon, but we still have much more to do. We need to tighten our standards at home
+and invest in cleaner technologies in developing nations. In a world going on seven billion people, you might feel rather little yourself. But if you urge the
+US government and the European Union to take the lead on black carbon reduction, you can make a big difference. Go to stopsoot.org and help stop these
+little things from causing big trouble.
+
+12. #272 Knee Cracking
+解析：
+*Key points:
+1. The sound of a cracking knee isn't pleasant.
+2.But there's real information in sound that can help people with rehab.
+3. Strap tiny microphones to people's knees.
+4. The sounds the device receive are more irregular, in an injured knee.
+5. This allows doctors to track healing after surgery.
+原文：
+The sound of a cracking knee isn't particularly pleasant. But it gets worse when you listen up close. "It does for most people. But for me, it actually just
+makes me excited." Omer Inan, an electrical engineer at Georgia Tech. "I actually feel like there's some real information in them that can be exploited for the
+purposes of helping people with rehab." Inan's experience with cracking knees goes back to his days as an undergrad at Stanford, where he threw discus. "If
+I had a really hard workout, then the next day, of course, I'd be sore, but I'd also sometimes feel this basically catching or popping or creaking every now
+and then in my knee." A few years later, he found himself building tiny microphones at a high-end audio company. So when he got to Georgia Tech and
+heard the Defense Advanced Research Projects Agency, DARPA, wanted better tech for knee injuries, he thought: why not strap tiny microphones to
+people's knees, to eavesdrop as their legs bend? "What we think it is, is the cartilage and bone rubbing against each other, the surfaces inside the knee
+rubbing against each other, during those movements." He and a team of physiologists and engineers built a prototype with stretchy athletic tape and a few
+tiny mics and skin sensors. And preliminary tests on athletes suggest the squishy sounds the device picks up are more erratic, and more irregular, in an
+injured knee than in a healthy one. Which Inan says might allow patients and doctors to track healing after surgery. Details appear in the IEEE Transactions
+on Biomedical Engineering. "The primary application we're targeting at first is to give people a decision aid during rehabilitation, following an acute knee
+injury, to help them understand when they can perform particular activities, and when they can move to different intensities of particular activities." A useful
+thing to take a crack at.
+
+13. #308 DNA
+原文：
+In biology, genes play an important role because they decide the protein produced inside the cells. In simple terms, genes contain the information needed
+for cells to produce proteins, which are essential for the structure and function of living organisms. However, the process from genes to protein is not
+simple. It is a complex process involving several stages, where genetic information is copied and transformed into proteins that perform different tasks in
+the body. Proteins are considered the fundamental building blocks of all organisms. They help form body structures and support many biological activities.
+Without proteins, living things would not be able to grow, repair themselves, or maintain normal functions. The genetic information is stored in DNA, which
+is shown in the picture. DNA looks like a chain, with many connected parts carrying important instructions. These instructions are passed from genes to
+proteins, creating the foundation of life and biological development.
+
+14. #287 Children Obesity
+原文：
+The growing issue of childhood obesity is a serious health crisis that we can no longer ignore. There are twenty percent of children in the USA today have
+the obesity problem.
+As a result, heart diseases have become more and more common among children, the youngest of which is five years old. This is a stark departure from the
+past. The diseases that used to occur to people above fifty or sixty are now happening to people as early as they are five or six years old. This situation
+makes children suffer the heart attack and other health problems earlier and earlier, such as kidney impairment and stroke.
+Those diseases that used to be uncommon have begun to be common. This normalization is dangerous because it can make us less urgent in our response.
+When serious health issues become frequent, we risk accepting them as an inevitable part of modern life, rather than as a preventable crisis.
+Therefore, the need for action is clear and immediate. We have to address the overweight problem.
+
+15. #246 Earth v.s. Mars
+EARTH AND MARS
+Similarities
+• Polar caps
+• Atmospheres
+• In water climate (Earth: Ocean; Mars: Ice)
+Preparing for the Phoenix Mission
+•Antarctica Trial Runs
+• Trenches, samples and ice-soil boundary
+
+Scientists often compare the conditions on the Earth and Mars to evaluate the habitability of Mars. There are some similarities between Earth and Mars.
+Both planets have polar caps, atmospheres, and evidence of a water-related climate. The lecture also describes different forms of water on Earth and Mars.
+On Earth, it exists as oceans, while on Mars, water is present in the form of ice. Despite these similarities, however, there are still lots of differences between
+the two worlds. Even the most inhabitable areas on the earth are way different from those on Mars. In preparing for the Phoenix Mission, scientists have
+conducted Antarctica trial runs. During these tests, researchers dug trenches, collected samples, and examined the ice-soil boundary. These Antarctic
+experiments serve as practical simulations, helping scientists get ready for investigations on Mars.
+
+16. #257 Ageing Population
+原文：
+As the world population grows, the problem of an ageing population has become more serious globally. This is not just a future concern—it is happening
+right now. About nine percent of people are more than sixty-five years old in the world.
+Let's take a closer look at specific examples: Ageing population percentage in the US is now 13% and is expected to be 23% by 2030. About 4% of the UK
+population is over the age of 75. The situation is more severe in Japan and Italy. And Germany follows, whose percentage of people over sixty-five years old
+is expected to be twenty-five percent by 2030. These figures reveal a clear trend: industrialized nations are experiencing the most rapid growth in older
+populations.
+The ageing problem is related to industrialization. Industrialized societies tend to have better healthcare, nutrition, and living standards, which allow people
+to live longer. At the same time, as countries develop economically, birth rates often decline. This combination of people living longer and fewer babies
+being born naturally leads to an older average age for the population.
+
+17. #181 Animal Behavior
+ANIMAL BEHAVIOUR
+
+PROXIMATE                                               ULTIMATE
+(mechanisms)                                            (evolution)
+
+ONTOGENY                CAUSATION       EVOLUTIONARY HISTORY    FUNCTION
+(development)           (physiological                          (adaptive
+                        causes of behaviour)                    significance)
+原文：
+We can ask 2 fundamental questions about animal behavior they referred to as proximate and ultimate. Proximate questions are those concerned with the
+mechanisms that bring about behavior. Ultimate questions are those concerned with the evolution of behavior. We can divide the proximate and ultimate
+into 2 sub-questions. For proximate, how does behavior develop and secondly what causes the behavior. For ultimate, you can ask how did the behavior
+evolve and secondly what is the adaptive of significance of the behavior. What's its purpose? Together these comprise what are called Tinbergen's 4
+questions about animal behavior. Niko Tinbergen was one of the founding fathers of the study of the animal behaviors. These questions represent different
+ways of studying animal behavior and understanding the difference between those 4 questions are fundamental to understanding behavior and indeed the
+whole of biology. How do we study animal behavior? Well that depends on the type of question we're hoping to answer.
+
+18. #154 London Taxi Drivers
+But we can really thank the Great Exhibition of 1851 for giving us the world's premier taxi service, for it was going to this exhibition, and this fabulous
+exhibition inventions from all around the four corners of the Empire that the visitors were appalled, dismayed and vexed by their journeys to this exhibition
+because the cabbies of the day, and their horse-drawn carts were absolutely terrible, could not find their way to this exhibition. And, so, a great public
+outcry, the London Authority sets up Public Carriage Office, which is an organization that still exists. And you can take a short walk to Penton Street up the
+road. And this Public Carriage office took on the responsibility of licensing all major taxi drivers in London. All taxi drivers from 1851 onwards had to pass
+what is now known as the London knowledge, was phenomenal knowledge of London. What is the London knowledge? It's the ability to remember the
+25,000 streets, have it all interconnected and all the main arterial roads in and out of London. Cabbies need to know all this plus a thousand points of
+specific interest cafes, bars, public offices. They need to know them all as part of their training.
+
+19. #205 America’s Economic Size
+size of economy
+US = China + Japan + UK + Germany
+Industrial output
+US = China + Japan
+One way to understand a country's economic strength is by looking at the size of economy. In terms of overall economic size, the United States produces
+more than the total amount of several major economies, including China, Japan, the UK, and Germany. This comparison highlights the significant role the
+United States plays in the global economy. Another important indicator is the industrial output. US output is approximately $2.8 trillion, making it one of the
+largest manufacturing sectors in the world. Interestingly, this figure equals to the sum of China and Japan, showing the remarkable scale of American
+industrial production. Although many countries continue to expand their economies, the United States remains one of the world's leading economic powers.
+
+20. #299 Bird Migration
+In Australia birds have to migrate from on one place to another every year due to climate change. The birds need to fly 5 kilometers. You may think it is
+easy, but actually, it's not, because they have to find new food sources in a new habitat.
+
+21. #260 Language Disorder
+原文：
+Language is a human essence that defines human characters.
+Language disorder is children's disability to produce speech.
+10% of children have language disability in the US.
+People can not take it for granted, and should this problem seriously.
+Children's language is different from that of adults, so it should be dealt with separately.
+Not being able to generate sentences is a psychological issue because it involves children's psychology.
+In adults, it is a logical issue.
+To solve this problem, we need to ask questions about language itself first.
+We should know what language is, how language is learned, and how children can speak different sentences by words.
+
+22. #238 Wage, Consumption and Debt
+原文：
+Over the past five years, the wage growth is about five percent, which is very weak.
+Meanwhile consumption has grown by about fifteen percent, which seems decent.
+However, housing debt has increased by about forty percent, which is unusual, but can be understandable after the wage and consumption increase.
+The increase in wages is far from sufficient to cover the increase in consumption.
+The increase in consumption is not because of the increase in income, but because people are borrowing more money to buy homes.
+Although people's wages increase, most of the money will go against paying household debt, because people spend a lot of money at home.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
