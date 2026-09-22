@@ -707,11 +707,196 @@ way. The body is an incredible piece of equipment, machinery. You put good stuff
 out. But you can correct it. It just take some, some effort on our part to do what's right. Who said that - Hippocrates - you are what you eat. Let food be
 medicine, let medicine be food. He said a lot more elegantly but, yeah, I firmly believe that.
 
-53. 
+53. #187 Presentation Skill
+A video with a mid-aged male professor named Luke giving his lecture in a moderate speed an a clear logic.
+The lecture is about why people feel nervous when they give presentations.
+If people feel nervous and speak quickly, audience would not understand what you said.
+Another part is about how to overcome it.
+Don't give too much information, just only mention 3 points in 15 minutes.
+People should prepare their presentations well in advance.
 
+54. #59 Freud
+原文：
+For better or worse, we live in a world profoundly affected by Sigmund Freud. If I had to ask you to name a famous psychologist, the answer of most of you
+would be Freud. He was the most famous psychologist ever and he had a profound influence on the 20th and 21st century. Some biographical information:
+he was born in the 1850s. He spent most of his life in Vienna, Austria, and, but he died in London and he escaped to London soon after retreating there at
+the beginning of World War Two as the Nazis began to occupy where he lived. He was one of the most famous scholars ever but he was not known for any
+single discovery. Instead, he was known for the development of an encompassing theory of mind, one that he developed over the span of many decades.
+He was in his time extremely well known, a celebrity recognized on the street, and throughout his life. He was a man of extraordinary energy and
+productivity, in part because he was a very serious cocaine addict, but also just in general. He was just a high-energy sort of person.
 
+55. #244 European Economic Structure
+解析：
+*Key points:
+1.After the recession era, Europe confronted a change in economy structures.
+2.This research examined the extent and patterns of structural changes.
+3.We looked at the impact of the crisis on structural shifts in European countries' economy.
+4. We provide some policy conclusions related to the future role of the NMS.
+5. There has been no EU-wide uniform pattern of structural change.
+6. The formulation of industrial policy at the EU level is challenging.
+原文：
+After the recession era Europe confronted a change in economy structures in Europe. After industrial revolution around the 19th century, the machinery was
+widely used in the manufacturing, so the production in factories increased. As a result, circulation of goods became faster, and this led to more
+accumulation of social wealth. Because of this, the population of middle class expanded and this resulted in the additional accumulation of wealth. This
+research that conducted by pioneering scientists examined the extent and patterns of structural changes that have occurred in European economies during
+the recent crisis using some stylized facts on changing output and employment structures at a detailed sectoral level. Focusing mainly on the new EU
+member states, we compare the performance of various European countries by looking at the differentiated impact of the recent crisis on structural shifts in
+their economy. We start with stylized facts related to output and employment structures at broader sectorial (NACE-2) level and attempt to find out whether
+there has been a structural convergence (or divergence) of the New EU Member States (NMS) compared to the more advanced 'old' EU countries (OMS)
+during the crisis. Finally, we provide also some policy conclusions related to the future role of the NMS in the economy of an integrated Europe, especially
+in view of post-crisis growth challenges. The financial crisis 2008-2011 adversely affected the manufacturing industry more than services--particularly in
+terms of employment--and accelerated structural change in favor of the services sector. The latter tendency was more pronounced in the NMS though even
+here country-specific differences were remarkable. The importance of industry in this group of countries remains strong. There has been no EU-wide
+uniform pattern of structural change; the formulation of industrial policy at the EU level-- even reaching the 20% target of industry's share in GDP--is
+challenging and hardly attainable.
 
+56. #632 Human Brain
+原文：
+The human brain is a subject at the forefront of neuroscience. This remarkable organ, though small in size, is vastly complex and the source of our thoughts,
+emotions, and memories. The brain's intricate structure, composed of billions of neurons, enables us to perform a range of functions, from basic survival
+instincts to advanced cognitive processes. Recent advancements in brain imaging technologies, like MRI and PET scans, have allowed scientists to observe
+the brain in action and understand how different regions are involved in various tasks. The study of the brain has significant implications for treating
+neurological and psychological disorders. By understanding how the brain operates, we can develop better treatments for conditions like Alzheimer's,
+depression, and epilepsy. Understanding the human brain is not just a scientific pursuit; it's a journey into the essence of what makes us human. As we
+continue to explore this complex organ, we unlock mysteries of the mind that have intrigued humanity for centuries.
 
+57. #326 Software
+原文：
+The history of software is of course very very new. And the whole IT industry is really only 67 years old which is extraordinary and to be so close to the birth
+of a major new technology, a major new discipline is quite remarkable given where we got to in those 67 years. And the progression has been not so muc
+a progression as a stampede because Moore's Law, the rapid expansion in the power of computing and the rapid fall of the cost of computing and storage
+and communications has made it feasible for information technology to move into all sorts of areas of life that were never originally envisaged. What has
+happened is that there has been as I said a stampede for people to pick the low-hanging fruit. And that is what's guided the development of software and
+information technology over the past decades and continues to do so with a number of consequences that we will explore.
+
+58. #282 Fatherhood
+原文：
+The role of a father is an important part of parenting and has a significant influence on children's development. Fatherhood is not only about providing
+support and protection, but also about helping children build confidence and develop important qualities for their future lives. A father can create a sense
+of security and help children feel safe when they explore the world around them. With this support, children become more willing to take risks, try new
+experiences, and learn from challenges. These experiences allow them to develop confidence and gradually build their own abilities. In addition, a father's
+guidance can help children develop independence and autonomy. Instead of controlling every decision, supportive fathers encourage children to think
+independently and solve problems by themselves. This process helps children become more mature as they grow up. Ultimately, good fatherhood
+contributes to raising responsible and compassionate citizens. Through emotional support, encouragement, and guidance, fathers play a key role in helping
+children become confident individuals who can positively contribute to society.
+
+59. #124 Early Robot
+原文：
+This is a kind of object that you're probably all familiar with when you had the term robot, but I'm gonna show you the very, very first robots. These were
+the very first robots. They were characters in a play in the 1920s called Rossum's Universal Robots and they, the play was written by Czech writer called Karel
+Capek. And basically, these robots, you know, people tend to think of robots as kind of cute cuddly toys or, you know, Hollywood depictions kind of devoid
+of politics. But the first robots were actually created and imagined in a time of absolute political turmoil. You just had the First World War, you know, it
+finished had a devastating impact across Europe and so people will kind and people are kind of reflecting on what does it mean to be human, what makes
+us human, those kinds of question. And this kind of context is what inspired Capek to kind of write this play. And interestingly, these robots being human,
+they are actually in the play assembled on a production line, a bit like the Ford manufacturing production line. So even though they are human, they are
+assembled and these robots are designed to labor, and that is their primary purpose in society.
+
+60. #38 Cognitive Revolution
+原文：
+I'm Steve Pinker and I'm Harvard college professor and Johnstone family professor, Harvard department of Psychology. The Cognitive Revolution which
+took place at Harvard was the start after modern scientific study of the mind. Who study something like the mind you like to think that you're a scientist,
+you face the immediate problem of what we do with these things called mental contents, thoughts, emotions, images, plans, rules, you can't see them, you
+can't taste them, then you can't feel them. If you're a scientist you are supposed to be studying things that you can see measure and manipulate, how do
+you even begin with a science of mind. Well, the answer is the dominated psychology in the middle part of the 20th century where it just to give up all talks
+of mental contents. This is the school of behaviorism and came to take over American psychology until the early 1950s when a number of scholars with ties
+to Harvard started to rethink that whole idea when we talk about how computers work you can't get around computing internal states to them. Computers
+have memories, they have goal states, they execute plans and if you could do that, about a hunk of metal and you are not being unscientific why should be
+on the scientific to say those things about a human being. The result was called Cognitive Science included both experimental psychology, people who
+study other humans in the lab with linguistics, including the famous theories of linguist Noam Chomsky who was here at Harvard as a society fellow, a
+computer science and artificial intelligence and later neuroscience.
+
+61. #59 Freud
+原文：
+For better or worse, we live in a world profoundly affected by Sigmund Freud. If I had to ask you to name a famous psychologist, the answer of most of you
+would be Freud. He was the most famous psychologist ever and he had a profound influence on the 20th and 21st century. Some biographical information
+he was born in the 1850s. He spent most of his life in Vienna, Austria, and, but he died in London and he escaped to London soon after retreating there at
+the beginning of World War Two as the Nazis began to occupy where he lived. He was one of the most famous scholars ever but he was not known for any
+single discovery. Instead, he was known for the development of an encompassing theory of mind, one that he developed over the span of many decades.
+He was in his time extremely well known, a celebrity recognized on the street, and throughout his life. He was a man of extraordinary energy and
+productivity, in part because he was a very serious cocaine addict, but also just in general. He was just a high-energy sort of person.
+
+62. #4 Air Pollution
+原文：
+In today's lecture I'm going to talk about changes in air pollution since the middle of the last century and what has created these changes.
+So, um — by the 1950s, air pollution was very visible with frequent thick black fogs known as 'smogs' in many large cities around the world. The main
+source of this pollution was from factories and it caused severe health problems. For example, a particularly severe smog in London in 1952 caused over
+four thousand deaths. Obviously something had to be done and in 1956 a Clean Air Act was introduced in Britain. This addressed the pollution from
+factories and the smogs soon disappeared.
+However, as you know, these days air pollution is still a big issue. The main difference between now and the 1950s is that you can't see it - it's invisible.
+Also, the main source of pollution now is from cars and lorries, and although these don't produce visible signs, this air pollution is still a significant risk to
+health. And one of the key factors in the rise of this type of pollution is that we have all become much more vehicle-dependent. There are far more cars and
+lorries, trains and planes than in the 1950s and this is now the main source of air pollution around the world.
+
+63. #240 Dissociation of Personalities
+原文：
+Morton Prince was an American physician and psychologist, his book 'Dissociation of a Personality' was the best-seller at that time. It tells a story of Miss
+Christine Beauchamp, who was suffering from MPD (Multiple Personality Disorder).
+Miss Christine Beauchamp has several types of personalities, namely B1, B2 and B3. There was hidden memory in these three personalities, with
+hallucination among them.
+Miss Beauchamp was B2. B2 knows about B1, B3 knows both B1 & B2, but B1 knows nothing about B2 or B3.
+The strongest personality accounts for most of the time and it will take over the others and become the main personality at the end.
+This case and theory gives great help to crime investigation.
+
+64. #305 Leadership
+解析：
+Key points:
+Leadership
+1 .Leaders can define goals and mobilize energies.
+2.Authoritative leaders are visible, and the Invisible leadership is casual, low-key leadership.
+3. Leadership that can make a significant difference to the individuals.
+4. The first kind of leadership has generally been exhibited by men.
+5. Top leaders have been quite visible in their exercise of power.
+6.Now more women have taken up opportunities for authoritative leadership.
+原文：
+A leader can define or clarify goals by issuing a memo or an executive order, an edict or a fatwa or a tweet, by passing a law, barking a command, or
+presenting an interesting idea in a meeting of colleagues. Leaders can mobilize people's energies in ways that range from subtle, quiet persuasion to the
+coercive threat or the use of deadly force. Sometimes a charismatic leader such as Martin Luther King Jr. can define goals and mobilize energies through
+rhetoric and the power of example. We can think of leadership as a spectrum, in terms of both visibility and the power the leader wields. On one end of the
+spectrum, we have the most visible: authoritative leaders like the president of the United States or the prime minister of the United Kingdom, or a dictator
+such as Hitler or Qaddafi. At the opposite end of the spectrum is casual, low-key leadership found in countless situations every day around the world,
+leadership that can make a significant difference to the individuals whose lives are touched by it. Over the centuries, the first kind, the out-in-front,
+authoritative leadership, has generally been exhibited by men. Some men in positions of great authority, including Nelson Mandela, have chosen a strategy
+of 'leading from behind'; more often, however, top leaders have been quite visible in their exercise of power. Women (as well as some men) have provided
+casual, low-key leadership behind the scenes. But this pattern has been changing, as more women have taken up opportunities for visible, authoritative
+leadership.
+
+65. #271 Animal Behavior (B)
+解析：
+*Key points:
+1. We studying animal behavior because we want to know why animals do what they do.
+2. To save animals, conservation biologists need to know what animals do.
+3.Sometimes you can't predict the results of the research.
+4.A biologist started being interested in how birds know what to sing.
+5.His research led to a complete overhaul of the field of neurobiology.
+原文：
+Why should we bother studying animal behavior? Well, first and foremost, because we are interested in understanding why animals do what they do. There
+are lots of other reasons for studying animal behavior. Conservation biologists need to know what animals do if they're going to save them. Are those
+animals social or solitary? How much space do they need and how many mates do they have? Sometimes you can't predict the outcome of the research.
+Fernando Nottebohm started out being interested in how birds know what to sing. Yet his research eventually led to a complete overhaul of the entire field
+of neurobiology, a totally unanticipated yet utterly monumental effect. And this is the course textbook by John Alcock the fact that this is in its ninth edition
+tells you how fast an afield animal behavior is. There are lots of new developments.
+
+66. #65 Student Loan
+原文：
+I'm 43 years old, and I owe tens of thousands of dollars in student loans. Oh sure, I knew the loans were piling up as I went through school. But with one
+loan coming from here, another from there, I had no idea of the rockslide that was building. Fifteen years later, I still experience moments of sheer horror
+regarding my family's financial situation. My monthly student loan payment is more than triple my car payment. OK, so without my college degree, I would
+not have been able to get my current job. For that I'm grateful but at what cost? My loans have been accruing at a rate of 10 percent, and now they have
+burgeoned to, well, I'm an English major, you do the math. I don't think they'll ever get paid off. Were in debt way past our eyeballs, and there's no hope in
+sight. I'm being kept in class a financial class of graduates whose only hope for attending college meant borrowing money from the government. Because
+of our mounting credit card debt and monthly payments that far exceed our family's income, my kids will also join the class of citizens who can rely on their
+parents for college support. Do I wish I'd chosen another educational route? You bet.
+
+67. #180 Questionnaire Types
+原文：
+What live decided to provide is the steps that I take when analyzing my own questionnaires. However, before I begin, it would be useful to remind you of a
+few terms we use when talking about questionnaires. Questions can be divided into three types. This is sometimes called level measurement. Firstly, we
+have category type questions, which are also known as nominal questions. These are when participants select from a list of categories for their response,
+such as male or female or they may include ethnic origin. Secondly, we have ordinal type questions. These are similar to category questions. But instead of
+the categories being independent, there is some sort of order between them. If we ask people to indicate their age in categories. This is an ordinal type
+question. Thirdly, we have continuous questions. These are any questions that can be answered by a number. It could be an open-ended question asking
+participants to tell you how many times they attended lectures or how often they used a VLE. Or it could involve asking them to rate the importance of
+intensity of some experience.
 
 
 
