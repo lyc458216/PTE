@@ -205,14 +205,14 @@ to live longer. At the same time, as countries develop economically, birth rates
 being born naturally leads to an older average age for the population.
 
 17. #181 Animal Behavior
-ANIMAL BEHAVIOUR
+ANIMAL BEHAVIOR
 
 PROXIMATE                                               ULTIMATE
 (mechanisms)                                            (evolution)
 
 ONTOGENY                CAUSATION       EVOLUTIONARY HISTORY    FUNCTION
 (development)           (physiological                          (adaptive
-                        causes of behaviour)                    significance)
+                        causes of behavior)                    significance)
 原文：
 We can ask 2 fundamental questions about animal behavior they referred to as proximate and ultimate. Proximate questions are those concerned with the
 mechanisms that bring about behavior. Ultimate questions are those concerned with the evolution of behavior. We can divide the proximate and ultimate
@@ -267,6 +267,498 @@ However, housing debt has increased by about forty percent, which is unusual, bu
 The increase in wages is far from sufficient to cover the increase in consumption.
 The increase in consumption is not because of the increase in income, but because people are borrowing more money to buy homes.
 Although people's wages increase, most of the money will go against paying household debt, because people spend a lot of money at home.
+
+23. #261 Science and Scientist
+原文：
+Female: Which one are you going to write more in your book, science or scientists?
+Male: I do want very much to write something about science, actually. So I prefer to scientists.
+Female: All right. What's interesting in scientists then?
+Male: Science is just like complex furniture, which is all about evidence. But scientists can tell stories, do researches and propose questions to find what is
+true. They are like a focal point. They are always in interesting situations.
+Female: Whether science or scientists your book mainly about, it seems to be rather hard for general readers to understand, doesn't it?
+Male: I don't think so, really. In fact the book I write is a science fiction, which is related with science but is not strictly scientific. So you don't have to have a
+PhD degree in physics or other disciplines to understand a science fiction. And loving science is very different from being a scientist, which means fiction
+writing is not the same as writing scientific journals. When scientists fail, they will question the situation about why they have failed. But as a fiction writer,
+don't have to. In my book, you can always see stories about 'happy family'.
+
+24. #247 Linguistic Training
+Linguistic Authorities vs Expertise
+• Linguists "invisible training" as authorities
+•Distinguishing authorities and expertise
+• Communities hold the authority of the language
+Dominance:
+• Implications for language revival.
+
+解析：
+*Key points:
+1. With our linguistic training, we get all this invisible training to be authorities.
+2.But we have to recognize that the communities have to be the authority in their language.
+3.Linguists don't have the authority over what to do with our knowledge that the community produces.
+4. Languages are lost because of the dominance of one people over another.
+5. The languages are still lost if the authority is still lost.
+
+原文：
+I think with our linguistic training we also get all this invisible training to be authorities, to be the people who know. It is part of that process that you come
+out as a world authority on your chosen subject. But when we move into working with communities, we have to recognize that the communities have to be
+the authority in their language.
+Actually, a woman in the class I'm teaching at Sydney at the moment, a career woman, expressed this very nicely, although she was talking about something
+else, she was distinguishing expertise from authority. And certainly linguists, because of our training we do, have expertise in certain very narrow areas of
+language, but we don't have the authority over what to do with that knowledge or what to do with other knowledge that the community produces.
+I guess for me the bottom line is languages are lost because of the dominance of one people over another. That's not rocket science, it's not hard to work
+that out. But then what that means is if in working with language revival we continue to hold the authority, we actually haven't done anything towards
+undoing how languages are lost in the first place, so in a sense the languages are still lost if the authority is still lost.
+
+25. #235 Ship
+解析：
+*Key points:
+1.Human civilization travels faster, further than any before.
+2.Our future will depend on the wisdom of our actions over the next few years.
+3. Humans have made their way so far by trial and error.
+4. Error is a luxury we cannot afford.
+5. The world has grown too small to forgive us any big mistakes.
+原文：
+Our civilization, which subsumes most of its predecessors, is a great ship steaming at speed into the future. It travels faster, further, and more laden than
+any before. We may not be able to foresee every reef and hazard, but by reading her compass bearing and headway, by understanding her design, her
+safety record, and the abilities of her crew, we can, I think, plot a wise course between the narrows and bergs looming ahead. And I believe we must do this
+without delay, because there are too many shipwrecks behind us. The vessel we are now aboard is not merely the biggest of all time; it is also the only one
+left. The future of everything we have accomplished since our intelligence evolved will depend on the wisdom of our actions over the next few years. Like all
+creatures, humans have made their way in the world so far by trial and error; unlike other creatures, we have a presence so colossal that error is a luxury we
+can no longer afford. The world has grown too small to forgive us any big mistakes.
+
+26. #62 Infinite Monkey Theorem
+原文：
+This illustration often used is the one that the monkeys and the typewriters. Ok, we have a monkey sitting at a typewriter and the claim here is basically if
+you leave chance in time long enough you will get life. Don't worry about it. Yes, it's strange. Yes, it's wonderful. But leave enough matter 600 million years
+on earth and you will have life. So, the monkey sitting at the typewriter, the chances are eventually he produces the complete works of Shakespeare. So
+what's the problem. But he doesn't manage to do it in 600 million years. So, what I decided to do is run the numbers. I, instead of saying typing the
+complete work of Shakespeare, I just run the numbers for how long would it take a monkey, typing one key striker a second, to type 'to be or not to be that
+is the question'. Right? On average how long is it gonna take my monkey friend one keystroke a second. I don't know how you think it would be. Maybe
+you could have a guess. Would it be less or more than 600 million years, which is the period life on earth isn't supposed to have emerged within. And when
+I run the numbers 'to be or not to be is the question' takes 12.6 trillion trillion trillion years to type just that phrase. And a DNA string, that complexity,
+emerges by chance undirected within 600 million years. Again, it's mathematically possible but it's so incredibly unlikely that, it would have, that it tilts me in
+favor of the Christian story in which God creating life, simply a question of saying let that be and there was.
+
+27. #249 Cloud Formation
+    CLOUD FORMATION
+(1) What is the cloud?
+Pollutant particle, precipitation
+(2) How to form cloud?
+- Ocean - XXX
+- Sea - Sea salt
+- Air pollution
+(3) Impact
+-Pollution
+- High level of XXX
+-Climate change causes drought
+解析：
+*Key words:
+1. The formation of clouds
+2. Sea salt is very effective.
+3. Pollution comes from different sources.
+4. The clouds are important for climate change.
+5. They also play a role in regional weather.
+6. Shifts affect weather patterns.
+
+原文：
+Absolutely. There's a lot of interest in what forms those clouds. Why are those clouds there, why do they stick around? At the center of every cloud drop is a
+particle. You can't grow a cloud drop without having a particle there for the water to condense on. The key questions that people have not directly
+addressed until very recently is what actually forms those clouds. And so the ones that you're looking at over the ocean, it turns out sea salt is a very
+effective nucleator for forming clouds, so there's a really good chance that those are loaded with sea salt. But as you go inland you start to have pollution
+come from all different kinds of sources, and so different sources form clouds more effectively than others. And we're trying to unravel which sources are
+actually contributing to the clouds. The clouds are incredibly important players in climate change in that they reflect the light back to space, and so they re
+keeping things much, much cooler than they would be if they weren't there. They also play a huge role in regional weather. So we're actually starting to see
+shifts where having more pollution input into the clouds is affecting weather patterns, and in particular it's actually reducing the amount of precipitation, so
+we're starting to see drought in areas with super high levels of air pollution.
+
+28. #311 Bilingual Parents
+原文：
+Many parents communicate and educate their children with two languages, probably because they both know more than one language, or they come from
+different countries.
+Most of these parents think this can benefit their children's language learning.
+But actually kids will get confused when their parents use different languages from each other to describe the same object.
+If one parent sticks to one language, and the other one sticks to another language, their children will not be confused any more.
+
+29. #233 Loggerhead Turtle
+原文：
+The loggerhead turtle is one of the world's largest turtle species, and a species that's nearly distinct in the United States. These remarkable creatures are
+easy to recognize thanks to their large, robust heads and relatively short necks, traits that set them apart from other sea turtle species.
+A key part of the loggerhead turtle's life cycle is migration, which they undertake specifically to lay their eggs. To learn more about this migration, scientists
+conducted an important study back in September 1986. They attached a tracker to a loggerhead turtle's shell and used satellite technology to closely
+monitor and locate its migration route—this was a groundbreaking way to map the turtle's movements in real time.
+What did the study reveal? The turtle traveled to different locations at different times throughout its journey. It took just one month for the turtle to swim
+south, and the entire migration-from South Florida all the way north-spanned three months in total. To visualize this path, a map of the U.S. East Coast
+was created, and on it, both the turtle's exact migration route and the year of the study (1986) are clearly marked.
+This research not only confirmed the loggerhead's impressive migration abilities but also provided valuable data that helps protect these unique turtles and
+their habitats.
+
+30. #163 Invention
+原文：
+All of my research, and, that I conducted was my 60 plus graduate students, was motivated by their need to learn, so that we can teach. Of course, um,
+some inventions happened along the way but I've always considered the end, the result. And I always consider these inventions to be byproduct,
+byproducts of the learning process. The end product for me was always better understanding or when one really succeeded in unifying theory that can help
+us in teaching the subject. I've also looked at teaching as a vehicle to try new ideas, of new ways to doing things on an intelligent group of learners. That is
+as the vehicle for the teaching research results. And in my experience, this kind of teaching is the most stimulating and motivating to students. I've also
+uncovered many interesting research problems in the course of teaching assumption. It is this unity of research and teaching, their close connection, and
+the benefits garnered by exercising and the interplay that to me characterizes the successful professor.
+
+31. #248 Survey
+NEW MEDIA: SURVEY
+What's the most common way that you get access to information?
+Internet: 62%
+www.globalandmail.com
+
+解析：
+*Key points:
+1.A survey shows 62% of the people chose internet to get information.
+2. This survey is conducted on a website.
+3. The people who did this survey must be frequent users of internet.
+4. This sample is a biased sample.
+5.We have to pay attention to how a survey is conducted.
+原文：
+Let's say if I'm asking which source do you often use to get information. Newspaper? Radio? And the survey shows 62% of the people chose internet. You
+might be thinking I am going to say, how important the internet is, or how quickly it has changed the world for a few years. But what if I tell you this survey
+is conducted on the website global and mail.com? Our answer will be different. Because the people who did this survey on a website must be frequent users
+of internet. This sample is a biased sample. So we have to pay attention to how a survey is conducted.
+
+32. #60 Trade-off Triangle
+Trade-offs between
+Conservation, Development and
+Poverty
+• Win-win solutions?
+            Biodiversity
+Economic growth         Poverty
+原文：
+Well, it's about whether you can achieve a win-win solution, whether you can achieve economic growth which brings wealth in order to cut poverty without
+damaging the biodiversity. And the argument is that if you want to protect biodiversity, you have to focus on that as a goal; but if you do that, you have ...
+you run the risk of hurting the poor and you also run the risk of inconveniencing and reducing the economic growth. We use the developed and
+industrialized countries to see this argument, this axis argued about with, let us say, a government wishing to start drilling for oil in place X which is full of
+wildlife, and wildlife conservation society is urging them not to on the grounds that it's a wilderness refuge. We use to that debate. What I'm saying is that
+in the developing world there's a third axis and it's a complex one.
+
+33. #72 Bomb Calorimeter
+Bomb Calorimeter:
+-Insulation
+-Ignition Wire
+-Thermometer
+-Air Space
+-Chamber For Food
+-Water.
+原文：
+This is a bomb calorimeter; this is the actual piece of equipment that researchers used to calculate the energy content of either biodiesel or maybe even the
+potato chips that you had for lunch today. When they calculate the amount of energy. They're going to calculate it in heat unites which would either be
+joules or calories. I want you to look inside the bomb calorimeter inside here, you can see that there's a silver bucket water goes all in here and this is
+actually the bomb is the smaller silver cylinder what you do is put your fuel sample in there then these two electrodes are connected to the bomb. These
+provide the spark that will ignite your sample when your sample burns or combust that gives off energy. So how is the energy collected or how did a
+scientist figure out how much energy is being given off. Well, it's a closed system, there's a lid here that goes on top of this calorimeter and what's in here in
+the lid is a stirrer. The stir is going to stir the water. That's in this big pool here so that the heat given off from the sample is going to warm the water in a
+uniform way. This is the temperature probe, this goes down in the water also and measures the change in temperature because as the sample is burned, it
+will give off heat and the temperature the water will increase. So the lid goes on the sample is prepared. The last thing that you need to make a combustion
+reaction happen is oxygen and at some point during the process, some oxygen is added by a tank. That's connected to the calorimeter here. So we are
+going to burn a sample of the biodiesel that you've prepared and get some feedback on the energy content of it. You'll be able to use this to compare it to
+petroleum-based fuels like octane.
+
+34. #139 Night Sky Darkness
+原文：
+Our friends at the Highlands Museum and Discovery Center in Ashland, Kentucky, asked a very good question. Why is it dark in space?That question is not
+as simple as it may sound. You might think that space appears dark at night because that is when our side of Earth faces away from the Sun as our planet
+rotates on its axis every 24 hours. But what about all those other far away suns that appear as stars in the night sky? Our own Milky Way galaxy contains
+over 200 billion stars, and the entire universe probably contains over 100 billion galaxies. You might suppose that that many stars would light up the night
+like daytime!Until the 20th century, astronomers didn't think it was even possible to count all the stars in the universe. They thought the universe went on
+forever. In other words, they thought the universe was infinite.Besides being very hard to imagine, the trouble with an infinite universe is that no matter
+where you look in the night sky, you should see a star. Stars should overlap each other in the sky like tree trunks in the middle of a very thick forest. But, if
+this were the case, the sky would be blazing with light. This problem greatly troubled these astronomers and became known as "Olbers' Paradox." A
+paradox is a statement that seems to disagree with itself.To try to explain the paradox, some 19th century scientists thought that dust clouds between the
+stars must be absorbing a lot of the starlight so it wouldn't shine through to us. But later scientists realized that the dust itself would absorb so much
+energy from the starlight that eventually it would glow as hot and bright as the stars themselves. Astronomers now realize that the universe is not infinite. A
+finite universe-that is, a universe of limited size-even one with trillions and trillions of stars, just wouldn't have enough stars to light up all of space.
+Although the idea of a finite universe explains why Earth's sky is dark at night, other causes work to make it even darker.
+
+35. #152 Music and Wellbeing
+原文：
+So what do we mean by well-being? Health, happiness, a sense of achievement and contentment, a state of mind and body where people can thrive.
+Well-being is not something that is purely limited to people who are facing extraordinary challenges in their lifestyle, health or personal circumstances,
+everybody here has a level of well-being. Music so often forms an intuitive part of our well-being management, music to pick us up, music to calm us down,
+music to heal our sorrows. Our aim through research is to move from this level of intuitive application of music through to informed use in our communities
+to take the next step in the understanding of the power of music in human life. Music already works for us on so many levels whether it's soothing and
+teaching our infants bringing people and communities together adding spirit to our work and personal endeavors, but there is no reason to stop here.
+
+36. #270 Housing Affordability
+解析：
+*Key points:
+1.Australia's housing affordability shapes the housing career.
+2.That's no longer the typical housing cycle for Australians.
+3. Young people live at home and rent for much longer.
+4. Young people are more likely to be saddled with a mortgage.
+5.Affordable rent is also an elusive right around Australia.
+6. We have very low rental vacancies, and we see high turnover.
+
+原文：
+The impact on young Australians who are interested in buying a home of their own has been very significant. Australia's housing affordability now shapes
+the typical housing cycle or housing career as some people call it. Most Australians in the normal course of events are people who move through the
+housing cycle in a way that matches the stages of life that they're at. So, they move out of the family home in their late eighteens or early 20s as they gain
+their independence from their families, then they rent save for a home they can afford as either a group, or maybe a couple. And maybe they can upgrade it
+when they have a family in their middle age, they are more than likely to have paid off their mortgage. And that means they have housing security in their
+old age. That's no longer the typical housing cycle for Australians, young people generally live at home for much longer than they once did. They generally
+rent for longer and they're more likely to be saddled with a mortgage not just into their middle age but more often than not into their retirement as well. In
+fact, in 2006, 65,000 retiree households were still paying off the mortgage. Affordable rent is also an elusive right around Australia. We have very low rental
+vacancies, we see high turnover as landlords want to maximize their profits in tight market, and we see less long-term or lifelong rental, as we see in othe
+countries and other economies.
+
+37. #242 Advanced Machine
+原文：
+The biotech engineering has undergone three phases.
+In the first phase, people designed and made some simple machines, which aimed to help people understand ourselves.
+And first group of people that realized we could learn from ourselves were engineers.
+And then, based on the studies, people began to make complicated devices, in order to cure wounds, like the practice of suture, and to study physiology.
+This is the second phase.
+Later, since we went into the third phase, more complicated machines have been developed, like ECG (electrocardiography), able to have an insight of your
+internal body without intruding it, which can show the human brain's functions. X-ray is a good example. In an X-ray picture, you can see the bright area is
+the heart with some vessels around it, and the dark area is the lungs. These devices benefit humans greatly in solving health problems, such as diseases.
+
+38. #58 Historic Library
+原文：
+Indeed, the library. We've all been to a historic library. We've all enjoyed the smell of a historic library. But what is it? And what does it mean? When we've
+recently, when at UCL Center for Sustainable Heritage, we've recently been asked to assess the environment at another historical library at Saint Paul's
+Cathedral, the Wren library, an incredible place. And it has a such an intensive smell of old books, and we were also asked for the first time really I was
+actually taken aback by the brief, we were asked what you do please preserve the smell. It is so important to our audience. It is so important how people
+perceive the library. So, that is, that was quite an important message in our research. And indeed the smell is an important way of how we communicate
+with the environment. This piece of research was done by an advertising company because advertisers are so interested in how we, how we interact with
+each other and the environment. And we see that the majority of people use sight obviously to interact with the environment, but on the second place, we
+see the smell is also very, very important.
+
+39. #259 Happiness and Social Relations
+原文：
+Happiness comes from frequency and quality of social relation.
+The higher the frequency is, the more happiness relations with friends and family and others produce.
+It is not sure why social relation is correlated with happiness.
+But there's evidence that when people feel more satisfied with their social relations, they will feel happier, in turn, when people feel happier, they will get
+more satisfied with social relations.
+Happy people tend to be social more with friends and have more interaction between family.
+Some people wonder if their social activities make them happier or their happy personalities drive them to be social more with their friends and families.
+
+40. #52 Purpose of Museums
+原文：
+I've been asked to speak today about the purpose of museums and I think that's something we often take for granted, that we have museums and we need
+museums. But with so much information available now online, people have access to whatever it is they want to know so I think we need to consider
+carefully just what it is that we expect of our museums today. What makes them relevant in the information age.
+Clearly, we've got to move beyond the early twentieth century concept of a warehouse full of old, remarkable, untouchable objects. This warehouse idea
+does very little to inspire people. What museum professionals need to do - what they should be doing, is make their collections and programs work towards
+the purpose of education. So whether that means having more hands-on exhibits, becoming involved with other community organisations, they should be
+doing whatever it takes to think about their visitors, to engage people, to educate them. And in that way, they can be instruments of social change. If they
+have knowledge and understanding of the people who visit, and the people they want to come and visit, they can take this as a starting point for providing
+exhibitions and services that are relevant to people's lives.
+
+41. #580 Facial Recognition
+原文：
+Last week we talked about how people recognize objects and really how well people recognize objects, given how difficult the problem is, given how
+objects can be seen in all different sorts of illumination, in different positions, in different angles. And yet we are able to extract that information, we are
+able to take the visual stuff out there, interpret it in a way that allows us to recognize all the different things that we can see in our environment. Today
+we're gonna kind of carry on looking at that, but we gonna look at what's really a special class of objects. That's the human face. So we gonna look at how
+we recognize human faces and how we do it quite as well as we do. We're really expert at recognizing faces. So again we can think about how do we take
+that visual information and how do we transform it into a form which allows us to put a name to a face, and to do all the other clever things that we can do
+with faces. So I'm gonna start off again by just pointing out that it's a hard problem. Face recognition is a hard problem, and it's a clever thing we do. If you
+think about all the different types of faces you can recognize, and all the different types of information you can get from the face, you kind of start to
+appreciate how well we can do face recognition.
+
+42. #142 Edmund Wilson
+解析：
+*Key words:
+1.Wilson
+2.He became the focal point of mainstream American culture.
+3.He wanted modern literature to be read by ordinary people.
+4.He was a major player in the effort to establish innovative literature.
+5.He was a very various man over a period of almost 50 years.
+6.He was a reporter, a memoirist and a journal keeper.
+
+原文：
+Wilson came then from a different world and he became the focal point of a broad mainstream American culture that thought that modern literature and
+wanted modern literature to be able to be read and appreciated by ordinary people. They were not modernists in an abstract sense and certainly some of
+them like TS Eliot and Faulkner were too difficult for some of their writings to be read by ordinary people, but this was a world before the division between
+the brows or between elite or whatever had established itself as part of our consciousness. Wilson was a major player in the successful effort of his
+generation to establish at the heart of American life and innovative literature that would equal the great cultures of Europe. And he knew that the great
+cultures of Europe were there he was not a product of a narrow American Studies kind of training at all. He joined a high artistic standard with an openness
+to all experience and a belief that literature was as much a part of life for everyone as conversation. He thought that Proust and Joyce and Yeats and Eliot
+could and should be read by ordinary Americans and helped that to happen. Wilson was a very various man over a period of almost 50 years. He was a
+dedicated a literary journalist, an investigative reporter, a brilliant memoirist and a dedicated journal keeper.
+
+43. #334 Chemical's Label
+原文：
+Product labels play an important role in protecting consumers, especially when the label is attached to a hazard chemical product. However, some products
+are designed in a way that may confuse people instead of warning them about potential risks. For example, the front of a container may show the lovely
+picture, giving the impression that the product is safe. Meanwhile, the warning information is only displayed at the back, which is very concerning because
+many people may never notice it before using the product. Another problem is that the warning text is often printed in small front, making it difficult to
+read. Studies have shown that about 60% of Americans cannot recognize words printed in fonts smaller than size 10. In addition, around 40% are illiterate,
+so they may not be able to understand written warnings even if they see them. As a result, many consumers won't be aware of the hazardless associated
+with these products. For this reason, warning labels should be placed where they are easy to notice and written in a clear, readable format so that everyone
+can understand the potential dangers.
+
+44. #64 Wind Turbine
+原文：
+Wind turbine is a device that will convert wind into mechanical movement, which we can use to power water pump or electricity generator. Now the power
+that the turbine creates is obviously depended on the wind speed, it also depended obviously on the number of sails, the area of the sails and the angle of
+the sails makes to the wind. So you can imagine if the turbine blades flat onto the wind, the wind's going to just bend it, if there is slight angle when the
+wind hits it, it's going to turn the blades. We can use that for powering things. Now, we're going to have a go, making some of the very, very simple paper
+windmills, a sort of things that you can make from the bits and pieces lying around home, and use that to drive very small generator to power electronic
+devices.
+
+45. Incentives for Salespeople
+Salary Plan (fixed salary)
+Commission Plan (pay in direct proportion to sales) 
+Combination Plan (salary plus commission)
+解析：
+Sample Answer: The lecture gives information about salary, commission and combination plans.
+Firstly, the speaker said that the salary plan is a type of structure that you pay your sales people fixed salary with no bonus and commission.
+And then, the speaker explained that the commission plan is to pay your sales people in direct proportion to sales and nothing else.
+Followed by that, in the lecture they mentioned the combination plan is a salary plus commission plan offers both motivation and stability to sales people.
+Basically, according to the lecture, we know that the combination plan is the most common plan used today although it can be more complex to administer.
+Finally, we can get from the lecture that there are three plans of motivation.
+原文：
+Straight salary sales compensation plans aren't very common, but they do have a place in some organizations. With this type of structure, you'd pay your
+sales people a straight albeit competitive salary like all of your other employees, and nothing else. No bonuses, no commissions, and few, if any, sales
+incentives.
+This type of compensation plan is most often used when the industry you operate within prohibits direct sales, when sales people work as part of small
+groups or teams and all contributions are equal, when your sales team is relatively small, or when your sales people are expected to spend much of their
+time on other responsibilities other than selling.
+However, these plans don't tend to offer motivation to sales people, as there are no incentives for them to work harder.
+Salary plus commission sales compensation plans are possibly the most common plans used today. They're structured in a way that sales people receive a
+lower base salary along with commission pay that makes up the majority of the total compensation.
+Organizations use salary plus commission sales compensation plans when there are opportunities to support all sales people on this structure and when
+there are proper metrics in place for tracking sales to ensure that the splits are fair and accurate.
+This type of plan is often the better choice as opposed to straight salary because it offers motivation to increase productivity and to achieve goals. It also
+offers more stability. Sales people will still get some types of pay even if they're in training, when sales are low during certain months, or if market
+conditions get volatile. However, it can be more complex to administer.
+Commission only sales compensation plans are exactly what they sound like you pay your sales people for the sales they bring in and nothing else. There is
+no guarantee of income.
+These types of plans are easier to administer than salary plus commission and provide better value for your money paid as they are based solely on sales
+achieved. They also tend to attract fewer candidates, but do attract the most top-performing and hardest working sales professionals who know they can
+make a good income because they know how to sell. On the other hand, though, they can create aggression within your sales team and low income security
+, which can lead to a high turnover rate, and sales rep burnout from stress.
+
+46. #250 Underwater Detectors
+原文：
+Science lets us know what is going on.
+Underwater remote detector, which is called Antares, is a kind of camera installed underwater in cages for fish monitoring in the industry of marine
+aquaculture.
+It is an advanced system of remote technology, by which researchers can remotely monitor fish on their computers in their universities.
+The camera can detect surrounding environments as well as fish. This helps people find out what they eat, what they don't eat, and how much they eat.
+Thus people can stop feeding them if necessary in some situation to save time and labor.
+
+47. #645 Silk Road
+原文：
+In today's lecture, I'm delighted to take you back in time to explore the historical impact of the Silk Road. This ancient network of trade routes not only
+facilitated the exchange of goods but also acted as a bridge between civilizations, cultures, and ideas. The Silk Road, spanning from China to the
+Mediterranean, was instrumental in the trade of precious goods like silk, spices, tea, and gold. However, its significance extends beyond commerce. It was a
+conduit for cultural exchange, allowing for the movement of philosophies, religions, and even artistic styles across continents. This cross-cultural interaction
+played a crucial role in the development of the societies it connected. For example, the Silk Road facilitated the spread of Buddhism from India to East Asia
+and brought Chinese inventions like paper and gunpowder to the West. The legacy of the Silk Road is a testament to the power of connectivity and
+exchange. It shows how the interaction of diverse cultures can lead to the enrichment and advancement of human societies. In conclusion, the Silk Road was
+more than just a trade route; it was a symbol of cultural synthesis and collaboration that shaped the course of history, reminding us of the value of open
+exchange and interconnectedness in our globalized world.
+
+48. #672 Four Dimensions
+原文：
+In physics, people often describe the universe as existing in a four-dimension space. Unlike traditional three-dimensional space, which only includes location
+, the fourth dimension adds another important factor: time. The three basic spatial dimensions are longitude, latitude, and altitude. Longitude and latitude
+help us locate a position on the Earth, while altitude shows the height of an object. When time is added, these four elements allow scientists to describe
+anything in space. With these four dimensions, we can identify the location of an object or event at any time. For example, if we want to describe an event,
+we need to provide information about its position and moment of occurrence, including longitude, latitude, altitude, and date. The concept of the fourth
+dimension helps researchers better understand movement, changes, and events in the universe. It provides a more complete way to describe not only
+where something happens but also when it happens.
+
+49. #661 Neurons
+About neutrons with a picture of neutrons.
+At the beginning, it is mentioned that neurons are like a gun.... trigger ... fire ...
+There are two ways to intensify the stimulation: one is to fire a cannon, blasting a large area all at once; the other is to fire a gun more frequently-bang,
+bang, bang...
+
+50. #304 A Book of Learning
+原文：
+This is the second edition of a book about learning and education. The book is about how to do research. Compared with the first edition, this version
+includes some updates and improvements to provide more useful information for readers. The second part of the book is specially designed for younger
+children. It uses simpler explanations and more suitable examples to help children understand important ideas about learning. The new part adds additional
+content that was not included in the previous edition. These changes make the book more complete and provide a better learning experience for different
+age groups.
+
+51. #254 Robot and Human
+原文：
+Why is it difficult to make a robot like a human being? Why cannot robots finish the work easily like human beings?
+For some tasks, it is easy and simple for humans to complete, but it is very difficult to ask a robot to do what we want because humans and robots have
+different recognition functions.
+For example, considering the insights, it is hard for robots to recognize colors because they do not have sensory mechanisms.
+Artificial intelligence scientists have to devise a sensor that is implanted to robots to enable them to recognize different colors.
+The sensor has a camera on it to capture pixels, and then will translate the pixels into an image, which is not as easy as expected. This process is very
+complex.
+The translation of every pixel to accurate things could be difficult, especially color differentiation which needs complicated sensors to fulfil. So the
+improvement of the sensor is necessary.
+In conclusion, there is no comparison between humans and robots.
+
+52. #526 Food Medicine
+原文：
+I was a Complan pharmacist, I do consults, and 1 got into this cuz I really saw that in my own kids, but my own patients, they were missing the food part.
+They were missing that nutrition part. And as I corrected the nutrition in them, I'm like, oh my, this changed their whole life. You were taught in pharmacist
+school "just give her drug, give her drug, give her drug". Drugs are just band aids. They don't cure us. If you don't have good nutrition, that foundation that
+we were building our body on isn't there, and so that leads to all sorts of things, you know, depression, leaky gut, you know, your gum disease. People that
+are constantly having headaches, when they are not growing properly. Our kids don't grow properly cause of nutrition. So, starts to get foundation. If you
+have a good, good foundation with nutrition, eat it, what you grow or buy it locally, you gonna be way healthier. So crazy how your diet can affect pretty
+much everything. It's hard to put into a sentence how cool and interesting I thought this whole experience was. I've always been a firm believer and what
+you put in your body matters, and the food you put in your body matters. And we are allowing food industries to spray with pesticides, to transport it super
+far, change its enzymes and nutritional benefits, so that when we are receiving the food, it's not even giving us the fuel that we need to survive in a healthy
+way. The body is an incredible piece of equipment, machinery. You put good stuff in, it gets good stuff out. You put bad stuff in, in time, bad stuff will come
+out. But you can correct it. It just take some, some effort on our part to do what's right. Who said that - Hippocrates - you are what you eat. Let food be
+medicine, let medicine be food. He said a lot more elegantly but, yeah, I firmly believe that.
+
+53. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
