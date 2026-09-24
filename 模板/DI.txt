@@ -13,22 +13,24 @@ PTE Describe Image (DI) 万能高分模板
 DI模板(30-35秒最佳),每天3道，练到65分：
 [线line chart/ 饼pie chart/ 柱bar chart/ 表table]
 要快速抓取数据，数据对应，数据趋势描述与总结；线图和柱图方便描述趋势（动态），饼图和表图方便做数据对比（静态）.
-1.  In this [图片类型] we can get information about [标题].
-    This picture shows [标题].
-2.  In this picture, the X axis shows that [指标/ percentage], and Y axis shows [指标/ the number of factors].
-    可补充：And the [X/ Y] axis is from [数值] to [数值].
-(3).  In this picture, we can see many items such as [词汇1], [词汇2], and [词汇3].
-    如果图里字少: In this picture, we can also see some colors, such as [], [], and [].
-4.  Well, it is clear that the highest number is [最大数值] which is [横坐标].
-    [横坐标] has the highest number with [最大数值].
-    可补充：And the second biggest number is [第二大数值], which is [横坐标].
--.  However, we can also see the lowest number is [最小数值] which is [横坐标].
-    [横坐标] has the lowest number of all factors.
-(5).(线图)动态：趋势分析，随时间变化的趋势
-    [动态‼️]Overall, the trend is [going up/ going down], and the trend is changing [quickly/ slowly]. (总体趋势上升/下降)
-    静态：元素间的大小、高低对比
-    [静态‼️]Also, [名字A] is much [bigger/ higher] than [名字B]
-6.  In conclusion, this picture shows clear information about [标题].
+[柱]1.  In this [图片类型] we can get information about [标题].
+        This picture shows [标题].
+[柱]2.  In this picture, the X axis shows that [指标/ percentage], and Y axis shows [指标/ the number of factors].
+        可补充：And the [X/ Y] axis is from [数值] to [数值].
+3.      In this picture, we can see many items such as [词汇1], [词汇2], and [词汇3].
+        如果图里字少: In this picture, we can also see some colors, such as [], [], and [].
+[柱]4.  Well, it is clear that the highest number is [最大数值] which is [横坐标].
+        [横坐标] has the highest number with [最大数值].
+        可补充：And the second biggest number is [第二大数值], which is [横坐标].
+[饼]    The largest percentage is [横坐标], which is about [最大数值].
+[柱]-.  However, we can also see the lowest number is [最小数值] which is [横坐标].
+        [横坐标] has the lowest number of all factors.
+[饼]    The smallest percentage is [横坐标], which is [最小数值].
+5.      动态：趋势分析，随时间变化的趋势
+        [动态‼️]Overall, the trend is [going up/ going down], and the trend is changing [quickly/ slowly]. (总体趋势上升/下降)
+        静态：元素间的大小、高低对比
+        [静态‼️]Also, [名字A] is much [bigger/ higher] than [名字B]
+[柱]6.  Overall, this picture shows information about [标题].
 
 [流程图]
 1.The given picture is a flow chart, which is about [主题/标题].
