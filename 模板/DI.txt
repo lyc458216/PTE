@@ -11,26 +11,24 @@ PTE Describe Image (DI) 万能高分模板
 无脑套用：遇到地图题、流程图甚至无标题图，只要能抓到几个关键词，就往模板里套。
 
 DI模板(30-35秒最佳),每天3道，练到65分：
-[线line graph/饼pie chart/柱bar chart/表table]
+[线line chart/ 饼pie chart/ 柱bar chart/ 表table]
 要快速抓取数据，数据对应，数据趋势描述与总结；线图和柱图方便描述趋势（动态），饼图和表图方便做数据对比（静态）.
-1.In this [图片类型] we can get information about [主题/标题].
-    This picture gives information about [读标题].
-2.From this chart (picture), we can see X axis shows ..., and Y axis shows...
-    可补充：And the X axis is from [数值] to [数值]. 横坐标从多少到多少
-    可替换为: We can see many items in this picture such as..., and...
+1.  In this [图片类型] we can get information about [主题/标题].
+    This [图片类型] gives information about [读标题].
+2.  From this picture, we can see X axis shows [], and Y axis shows[].
+    可补充：And the [X/ Y] axis is from [数值] to [数值].
+3.  We can see many items in this picture such as..., and...
     In this picture, I can see [图里的词汇1], [词汇2], and [词汇3].
     如果图里字少: I can also see some colors, such as red, blue, and green.
-3.Well, it is clear that the highest number is ..., which is [对应横坐标]。
-    可补充：After that, [横坐标] comes in second, which is [数值].
+4.  Well, it is clear that the highest number is ..., which is [对应横坐标]。
     可补充：And the second biggest number is ..., which is [对应横坐标]
-4.However we can see the lowest number is [最小数值] which is [对应横坐标]
+5.  However we can see the lowest number is [最小数值] which is [对应横坐标]
     可补充：Also, we can find the second lowest number is..., which is [横坐标].
-5.探讨关系：动态：趋势分析，随时间变化的趋势；静态：元素间的大小、高低对比
-    [动态‼️]Overall, the trend is going up / going down, and the trend is changing quickly/ slowly. (总体趋势上升/下降)
-    It is clear that the number of [横坐标] [increases/decrease/go up/go down] from 数值 to 数值.
+6.  动态：趋势分析，随时间变化的趋势
+    [动态‼️]Overall, the trend is [going up/ going down], and the trend is changing [quickly/ slowly]. (总体趋势上升/下降)
+    静态：元素间的大小、高低对比
     [静态‼️]Also, [名字A] is much bigger than [名字B]
-6.In conclusion, this picture is very informative.
-    In conclusion, this [图片类型] tells us about [主题/标题].
+7.  In conclusion, this [图片类型/ picture] tells us about [主题/标题].
     All in all, the picture gives information about [主题/标题].
 
 [流程图]
