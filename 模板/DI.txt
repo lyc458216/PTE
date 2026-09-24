@@ -32,21 +32,21 @@ DI模板(30-35秒最佳),每天3道，练到65分：
 
 [流程图]
 1.The given picture is a flow chart, which is about [主题/标题].
-2.There are several [stages/steps] in this process. 
+2.There are several [stages/ steps] in this process. 
 3.The first step is [读图里第一个框的字/词].
-4.Next, we can see [读中间某个框的词].
-5.Then, we can see [读另一个框的词]
-6.Finally the last [stage/step] is...
-7.In conclusion, this picture is very informative.
-    So according to the given chart, we can get the information about [主题/标题].
+  Next, we can see [读中间某个框的词].
+  Then, we can see [读另一个框的词]
+  Finally, the last [stage/step] is...
+4.In conclusion, this picture is very informative.
+5.So according to the given chart, we can get the information about [主题/标题].
 
 [地图/纯图]
 1.This picture gives information about [读标题]
 2.In this picture, we can see ... and ...
 3.At the top of this picture, there is ...
-4.We can see ... on the left side as well.
-5.And on the right, we can see ...
-6.At the bottom, we can see ...
-7.In the middle of the picture, we can find ...
-8.So in conclusion, this picture shows [主题/标题].
-描述顺序：上->下，左->右(不会遗漏、重复)
+  We can see ... on the left side as well.
+  And on the right, we can see ...
+  At the bottom, we can see ...
+4.In the middle of the picture, we can find ...
+5.So in conclusion, this picture shows [主题/标题].
+描述顺序：上->左->右->下->中(不会遗漏、重复)
