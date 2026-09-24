@@ -1,45 +1,55 @@
 PTE Describe Image (DI) 万能高分模板
 
 为什么你需要 DI 模板？
-在 PTE 口语考试中，Describe Image (DI) 是一项对流利度要求极高的题型。机器评分的核心逻辑在于：流利度 > 发音 > 内容。
-
-很多考生在看到复杂的图表时容易卡壳，导致流利度分数大跌。使用一套熟练的模板，可以帮助你在 25 秒的准备时间内快速组织语言，并在 40 秒的答题时间内保持 5.0 语速不卡顿。
-
-DI 万能高分模板
-这套模板适用于 90% 以上的图表题（线图、柱图、饼图、地图、流程图等）。
-
-模板结构
-Introduction (开头)
-The image gives information about [Title].
-Body (主体 - 找最大、最小、趋势)
-From the image, I can see [Item A] is the highest figure, which is about [Number].
-From the image, I can also see [Item B] is the lowest figure, which is about [Number].
-Also, I can see the trend is changing quickly.
-Conclusion (结尾)
-In conclusion, the image is very informative.
-
-进阶版模板 (针对高分段)
-如果你追求 79+ 甚至满分，可以在主体部分增加更多细节，但切记不要牺牲流利度。
-开头: 
-The graph provided reveals data regarding [Title].
-主体:
-According to the graph, it is clear that [Maximum Value] requires the most attention.
-On the contrary, [Minimum Value] is the least significant one.
-Moreover, figures for [Category] are increasing/decreasing significantly.
-结尾: Overall, this chart effectively illustrates the variations in [Topic].
-
-实战演示
-假设通过一道柱状图，标题是 "Population of Major Cities"。
-你的回答应该是：
-"The image gives information about Population of Major Cities. 
-It is a beautiful image. 
-From the image, I can see Tokyo is the highest figure, which is about 37 million. 
-From the image, I can also see New York is the lowest figure, which is about 18 million. 
-Also, I can see the trend is changing quickly. 
-In conclusion, the image is very informative."
+流利度 > 发音 > 内容。
+25 秒的准备时间内快速组织语言，并在 40 秒的答题时间内保持 5.0 语速不卡顿。
 
 备考小贴士
 不要纠结数据准确性：机器不核对你读的数字是否精确，只听你读得顺不顺。看到 "19,873" 读不出来？直接读 "about 20 thousand" 或者单纯读 "number 20"。
 遇到生词怎么办：直接用 "something" 代替，或者随便读一个你认识的词，绝对不要卡顿。
 保持匀速：不要忽快忽慢，全程保持平稳的语调和语速。
 无脑套用：遇到地图题、流程图甚至无标题图，只要能抓到几个关键词，就往模板里套。
+
+DI模板(30-35秒最佳),每天3道，练到65分：
+[线line graph/饼pie chart/柱bar chart/表table]
+要快速抓取数据，数据对应，数据趋势描述与总结；线图和柱图方便描述趋势（动态），饼图和表图方便做数据对比（静态）.
+1.In this [图片类型] we can get information about [主题/标题].
+    This picture gives information about [读标题].
+2.From this chart (picture), we can see X axis shows ..., and Y axis shows...
+    可补充：And the X axis is from [数值] to [数值]. 横坐标从多少到多少
+    可替换为: We can see many items in this picture such as..., and...
+    In this picture, I can see [图里的词汇1], [词汇2], and [词汇3].
+    如果图里字少: I can also see some colors, such as red, blue, and green.
+3.Well, it is clear that the highest number is ..., which is [对应横坐标]。
+    可补充：After that, [横坐标] comes in second, which is [数值].
+    可补充：And the second biggest number is ..., which is [对应横坐标]
+4.However we can see the lowest number is [最小数值] which is [对应横坐标]
+    可补充：Also, we can find the second lowest number is..., which is [横坐标].
+5.探讨关系：动态：趋势分析，随时间变化的趋势；静态：元素间的大小、高低对比
+    [动态‼️]Overall, the trend is going up / going down, and the trend is changing quickly/ slowly. (总体趋势上升/下降)
+    It is clear that the number of [横坐标] [increases/decrease/go up/go down] from 数值 to 数值.
+    [静态‼️]Also, [名字A] is much bigger than [名字B]
+6.In conclusion, this picture is very informative.
+    In conclusion, this [图片类型] tells us about [主题/标题].
+    All in all, the picture gives information about [主题/标题].
+
+[流程图]
+1.The given picture is a flow chart, which is about [主题/标题].
+2.There are several [stages/steps] in this process. 
+3.The first step is [读图里第一个框的字/词].
+4.Next, I can see [读中间某个框的词].
+5.Then, we can see [读另一个框的词]
+6.Finally the last [stage/step] is...
+7.In conclusion, this picture is very informative.
+    So according to the given chart, we can get the information about [主题/标题].
+
+[地图/纯图]
+1.This picture gives information about [读标题]
+2.In this picture, I can see ... and ...
+3.At the top of this picture, there is ...
+4.We can see ... on the left side as well.
+5.And on the right, we can see ...
+6.At the bottom, we can see ...
+7.In the middle of the picture, I can find ...
+8.So in conclusion, this picture shows [主题/标题].
+描述顺序：上->下，左->右(不会遗漏、重复)
