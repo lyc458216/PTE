@@ -17,9 +17,8 @@ DI模板(30-35秒最佳),每天3道，练到65分：
     This [图片类型] gives information about [读标题].
 2.  From this picture, we can see X axis shows [], and Y axis shows[].
     可补充：And the [X/ Y] axis is from [数值] to [数值].
-3.  We can see many items in this picture such as..., and...
-    In this picture, I can see [图里的词汇1], [词汇2], and [词汇3].
-    如果图里字少: I can also see some colors, such as red, blue, and green.
+3.  In this picture, we can see [词汇1], [词汇2], and [词汇3].
+    如果图里字少: In this picture, we can see some colors, such as [], [], and [].
 4.  Well, it is clear that the highest number is ..., which is [对应横坐标]。
     可补充：And the second biggest number is ..., which is [对应横坐标]
 5.  However we can see the lowest number is [最小数值] which is [对应横坐标]
@@ -27,7 +26,7 @@ DI模板(30-35秒最佳),每天3道，练到65分：
 6.  动态：趋势分析，随时间变化的趋势
     [动态‼️]Overall, the trend is [going up/ going down], and the trend is changing [quickly/ slowly]. (总体趋势上升/下降)
     静态：元素间的大小、高低对比
-    [静态‼️]Also, [名字A] is much bigger than [名字B]
+    [静态‼️]Also, [名字A] is much [bigger/ smaller] than [名字B]
 7.  In conclusion, this [图片类型/ picture] tells us about [主题/标题].
     All in all, the picture gives information about [主题/标题].
 
@@ -35,7 +34,7 @@ DI模板(30-35秒最佳),每天3道，练到65分：
 1.The given picture is a flow chart, which is about [主题/标题].
 2.There are several [stages/steps] in this process. 
 3.The first step is [读图里第一个框的字/词].
-4.Next, I can see [读中间某个框的词].
+4.Next, we can see [读中间某个框的词].
 5.Then, we can see [读另一个框的词]
 6.Finally the last [stage/step] is...
 7.In conclusion, this picture is very informative.
@@ -43,11 +42,11 @@ DI模板(30-35秒最佳),每天3道，练到65分：
 
 [地图/纯图]
 1.This picture gives information about [读标题]
-2.In this picture, I can see ... and ...
+2.In this picture, we can see ... and ...
 3.At the top of this picture, there is ...
 4.We can see ... on the left side as well.
 5.And on the right, we can see ...
 6.At the bottom, we can see ...
-7.In the middle of the picture, I can find ...
+7.In the middle of the picture, we can find ...
 8.So in conclusion, this picture shows [主题/标题].
 描述顺序：上->下，左->右(不会遗漏、重复)
