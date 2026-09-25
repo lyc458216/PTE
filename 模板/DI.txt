@@ -19,7 +19,7 @@ DI模板(30-35秒最佳),每天3道，练到65分：
 3.      In this picture, we can see many items such as [词汇1], [词汇2], and [词汇3].
         如果图里字少: In this picture, we can also see some colors, such as [], [], and [].
 4[柱].  Well, the [highest/ largest] value can be found in [横坐标] which is [最大数值].
-        The [lowest/ smallest] value is for [横坐标] which is [最小数值].
+        And the [lowest/ smallest] value is for [横坐标] which is [最小数值].
  [饼]   The largest percentage is [横坐标], which is about [最大数值].
         The smallest percentage is [横坐标], which is about [最小数值].
 5.      动态：趋势分析，随时间变化的趋势
