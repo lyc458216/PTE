@@ -1,14 +1,4 @@
-1. #49 Party
-答案：
-Hi! I would like to discuss an issue we have encountered with the food preparations for our upcoming party.
-The background is that I'm planning to prepare barbecue and salad for everyone, but I don't know if you have any dietary restrictions.
-In the situation, what I can think of is to ask you to text me your dietary needs.
-Besides, another thing that comes to my mind is to prepare some vegetarian options.
-原文：
-You are going to have a party with your classmates at home. You will prepare barbecue and salad to treat them, but you do not know their dietary
-restrictions. You made a phone call to ask them about this, but they did not answer the call. Please leave a message to them.
-
-2. #81 New Classroom
+1. #81 New Classroom
 答案：
 Hi! I would like to discuss an issue we have encountered with the classroom change.
 The background is that the computer broke down and the professor moved our class, but I don't know how to get to the new room and I'm already late.
@@ -19,7 +9,7 @@ When you arrive at the usual classroom where you normally have class, you find a
 another new classroom. However, you are late today, and the other students have already moved to the new classroom. So you ask a student about how to
 get to the new classroom. What will you say?
 
-3. #65 Missing Pages
+2. #65 Missing Pages
 答案：
 Hi! I would like to discuss an issue we have encountered with this library book's condition.
 The background is that I discovered two pages were already missing when I borrowed it, though I didn't cause the damage.
@@ -29,7 +19,7 @@ Besides, another thing that comes to my mind is to help check the previous borro
 You borrowed a book from the university library. But while reading it, you notice that two pages have been torn out, but you didn't do it. What do you say
 to the librarian when you return the book?
 
-4. #137 Disappearing Food
+3. #137 Disappearing Food
 答案：
 Hi! I would like to discuss an issue we have encountered with the flat rules.
 The background is that the visitors from you don't follow the rules, and my cheese and tomatoes in the fridge keeps disappearing.
@@ -39,7 +29,7 @@ Besides, another thing that comes to my mind is to label each other's food.
 Your flatmate's visitors don't follow the rules, and your cheese and tomatoes in the fridge keep disappearing. You are very unhappy and need to talk to your
 flatmate about it. What will you say?
 
-5. #142 Book to Return
+4. #142 Book to Return
 答案：
 Hi! I would like to discuss an issue we have encountered with the book I lent to you.
 The background is that I lent a book to you three weeks ago, and you haven't returned it yet. Now, I need the book very much.
@@ -49,7 +39,7 @@ Besides, another thing that comes to my mind is to ask you to return it to me.
 You lent an English book to a friend three weeks ago, and he hasn't returned it yet. Now, you need the book very much.
 What would you say to him?
 
-6. #135 Forgotten Book
+5. #135 Forgotten Book
 答案：
 Hi! I would like to discuss an issue we have encountered with returning the book you need.
 The background is that when I get to school I realize I have forgotten to bring it.
@@ -59,7 +49,7 @@ Besides, another thing that comes to my mind is to ask for more time to bring th
 You have to return a book to your friend Tom, but when you get to school you realize you have forgotten to bring it. 
 Your friend really needs it today. What will you say to your friend?
 
-7. #143 Noisy Party
+6. #143 Noisy Party
 答案：
 Hi! I would like to discuss an issue we have encountered with the loud noise from your night party.
 The background is that you're holding a party in your room at night, which is too noisy for me to sleep, but I have an important exam early tomorrow
@@ -71,17 +61,7 @@ Your family and friends are holding a party with loud music in the living room a
 important exam early tomorrow morning.
 What should you say to them?
 
-8. #187 Borrowing Printer
-答案：
-Hi! I would like to discuss an issue we have encountered with printing my assignment.
-The background is that I need to print out the assignment I've finished and hand it in, but my printer is broken.
-In the situation, what I can think of is to ask if I could use your printer quickly.
-Besides, another thing that comes to my mind is to bring my own paper.
-原文：
-You need to print out the assignment you've finished and hand it in, but your printer is broken. You want to borrow a printer from your friend Carl. 
-What would you say?
-
-9. #64 Noisy Library
+7. #64 Noisy Library
 答案：
 Hi! I would like to discuss an issue we have encountered with the noise level in the library.
 The background is that I'm working on an important assignment due next week and having trouble concentrating because of the video playing aloud.
@@ -92,7 +72,7 @@ You have an assignment due next week. Now you are in the library, but someone ne
 audio. You are too distracted to focus on your study and your assignment is very important. You should have a conversation with him to make sure you
 have a quiet place. What would you say?
 
-10. #200 Dorm Key
+8. #200 Dorm Key
 答案：
 Hi! I would like to discuss an issue we have encountered with entering the dorm room safely.
 The background is that I forgot to bring my dormitory key and cannot get into my room, while there is still food cooking on the stove inside, so I need to
@@ -109,7 +89,7 @@ Besides, another thing that comes to my mind is to ask you to open my room door 
 You forgot to bring your dormitory key and can't get into your room, but there is still food cooking on the stove inside. You need to contact the dormitory
 staff immediately to solve the problem. What would you say to them?
 
-11. #151 Advice for Friend
+9. #151 Advice for Friend
 答案：
 Hi! I would like to discuss an issue we have encountered with your attendance and assignments.
 The background is that I've noticed you often skip classes, arrive late, leave early, and don't submit assignments on time.
@@ -118,7 +98,7 @@ Besides, another thing that comes to my mind is to talk to a tutor for support.
 原文：
 Your friend frequently skips classes, arrives late, leaves early, and does not submit assignments on time. What advice would you give them?
 
-12. #132 Broken Photocopier
+10. #132 Broken Photocopier
 答案：
 Hi! I would like to discuss an issue we have encountered with the photocopier.
 The background is that I want to copy some documents, but I notice the photocopier doesn't have any paper and the red light is flashing.
@@ -128,7 +108,7 @@ Besides, another thing that comes to my mind is to ask about the repair timeline
 You want to copy some documents, but you notice the photocopier does not have paper and the tray icon is flashing red
 What would you say to the library staff?
 
-13. #128 Assignment Extension
+11. #128 Assignment Extension
 答案：
 Hi! I would like to discuss an issue we have encountered with the assignment deadline.
 The background is that the deadline for my assignment is tomorrow, but my computer has crashed, causing me to lose the completed assignment saved on
@@ -139,7 +119,7 @@ Besides, another thing that comes to my mind is to apologize for this situation.
 The deadline for your assignment is tomorrow, but your computer has broken down, causing you to lose the completed assignment saved on it, and you
 want to ask your tutor for an extension. What would you say?
 
-14. #136 Delay of Loan
+12. #136 Delay of Loan
 答案：
 Hi! I would like to discuss an issue we have encountered with the delay of my paying for the accommodation.
 The background is that my loan has been delayed, so I can't pay the full amount of the accommodation fee at once. I have a part-time job, but it's not
@@ -150,7 +130,7 @@ Besides, another thing that comes to my mind is to ask if there are any partial 
 Your loan has been delayed, so you can't pay the full amount of the accommodation fee at once. You have a part-time job, but it's not enough. You are
 going to ask the university accommodation officer for advice. What will you say?
 
-15. #133 Roommate
+13. #133 Roommate
 答案：
 Hey, could we talk for a minute? I've noticed that you've been using my desk and stationery without asking me first. I don't really mind sharing sometimes,
 but I'd appreciate it if you could ask for my permission before using my things. I'm also a bit concerned that my work notes might get mixed up or used by
@@ -159,7 +139,7 @@ mistake, so l'd rather keep them private. I hope you understand. Thanks.
 You're sharing a flat with a few other students, but you've noticed they often use your desk and your stationery. 
 You're concerned that they may also start using your work notes. What would you say?
 
-16. #47 Loud Music
+14. #47 Loud Music
 答案：
 Hi! I would like to discuss an issue we have encountered with the late-night music volume.
 The background is that your music has been playing loud late at night, making it difficult for me to sleep.
@@ -169,7 +149,7 @@ Besides, another thing that comes to my mind is to agree on quiet hours.
 Your neighbor has been playing loud music late at night, making it difficult for you to sleep. You want to address the situation diplomatically to maintain a
 good relationship with your neighbor while ensuring the noise is reduced during late hours. What would you say to your neighbor?
 
-17. #150 Unhealthy Food
+15. #150 Unhealthy Food
 答案：
 Hi! I would like to discuss an issue we have encountered with the food in the school canteen.
 The background is that the food served here is not healthy enough, and I wanted to share my concerns.
@@ -178,7 +158,7 @@ Besides, another thing that comes to my mind is to ask about salad choices.
 原文：
 The food served in the school canteen is not healthy enough. What would you say to the canteen manager to express your concerns?
 
-18. #140 Housework
+16. #140 Housework
 答案：
 Hi! I would like to discuss an issue we have encountered with the housework.
 The background is that you don't follow the schedule to clean the kitchen and the bathroom.
@@ -189,28 +169,7 @@ You live in a four-person dorm with three classmates. You notice that one of the
 schedule, so you tell him that he needs to do his cleaning on time in the future.
 What would you say to him?
 
-19. #119 Computer Failure
-答案：
-Hi! I would like to discuss an issue we have encountered with my computer.
-The background is that I am in the campus library working on an urgent assignment when my computer suddenly stops working. I try restarting it, but
-nothing happens.
-In the situation, what I can think of is to request you to check my computer.
-Besides, another thing that comes to my mind is to ask you to direct me to someone else if you can't help.
-原文：
-You are in the campus library working on an urgent assignment when your computer suddenly stops working. You try restarting it, but nothing happens.
-You see a staff member nearby who might be able to help or direct you to someone who can. What would you say?
-
-20. #176 Wrong Email
-答案：
-Hi! I would like to discuss an issue we have encountered with my assignment submission.
-The background is that you mentioned not receiving my email, and I just realized I sent it to the wrong address by mistake.
-In the situation, what I can think of is to resend it to the correct email now.
-Besides, another thing that comes to my mind is to double-check that you received it.
-原文：
-Your professor says he hasn't received your assignment by email. You check your email and find that you have sent it to a wrong address. 
-What would you say to your professor?
-
-21. #218 Message about Food
+17. #218 Message about Food
 答案：
 Hi! I would like to discuss an issue that we have encountered with the dinner invitation.
 The background is that I've invited you and your wife to dinner, but I'm unsure what kind of food you prefer.
@@ -221,7 +180,7 @@ to send them a text message.
 You've invited your student and his wife to dinner, but you're unsure what kind of food they prefer. You called them, yet there was no answer, so you need
 What would you say in the message?
 
-22. #156 Noisy Friend
+18. #156 Noisy Friend
 答案：
 Hi! I would like to discuss an issue we have encountered with focusing during the lecture.
 The background is that you're sitting next to me and keep talking, but I really need to concentrate and take notes right now.
@@ -229,6 +188,200 @@ In the situation, what I can think of is to ask if we could talk after class ins
 Besides, another thing that comes to my mind is to share my notes with you later.
 原文：
 Your friend is sitting next to you and keeps talking, but you want to focus on the lecture and take notes. What would you say to him?
+
+19. #105 Copying Assignment
+答案：
+Hi! I would like to discuss an issue we have encountered with copying my assignment.
+The background is that you asked to copy my nearly completed assignment because you're out of time.
+In the situation, what I can think of is to explain the main ideas.
+Besides, another thing that comes to my mind is to suggest helpful resources.
+原文：
+You are in the library working on a difficult assignment. A classmate, who you know hasn't started the work, approaches you and asks if they can copy your
+nearly completed assignment because they are out of time. You don't want to give them your work. What would you say?
+
+20. #220 Student Card
+答案：
+Hi! I would like to discuss an issue that I have encountered with my student ID card.
+The background is that my student ID card is damaged, and I cannot access the building through the entrance.
+In this situation, what I can think of is to show you my broken card.
+Besides, another thing that comes to my mind is to request you for a new card.
+原文：
+Your student ID card is damaged, and you cannot access the building through the entrance. You will go to the campus administrator and ask for help
+getting a replacement card. What would you say?
+
+21. #214 Household Timetable
+答案：
+Hi! I would like to discuss an issue we have encountered with shared housework.
+The background is that we share accommodation together as university students, but some of you are not finishing the cooking and cleaning tasks we
+agreed on before, and I hope we can make a timetable for household chores.
+In the situation, what I can think of is to talk about the problem calmly.
+Besides, another thing that comes to my mind is to divide housework clearly.
+解析：
+Hi! I would like to discuss an issue we have encountered with shared housework.
+The background is that we share accommodation together as university students, but some of you are not finishing the cooking and cleaning tasks we
+agreed on before, and I hope we can make a timetable for household chores.
+In the situation, what I can think of is to talk about the problem calmly.
+Besides, another thing that comes to my mind is to divide housework clearly.
+原文：
+You are sharing accommodation with other university students, but some of them are not doing their share of the cooking and cleaning that was agreed
+upon earlier. You are going to talk to them about creating a timetable for household chores. What would you say?
+
+22. #83 Absence for Tutorial
+答案：
+Hi! I would like to discuss an issue we have encountered with my Wednesday tutorial schedule.
+The background is that I have an important football match at the same time as our 3 P.M. session that I need to attend.
+In the situation, what I can think of is to request alternative arrangements for the tutorial.
+Besides, another thing that comes to my mind is to complete the tutorial work in advance.
+原文：
+You have a tutorial at 3 P.M. on Wednesday afternoon, but unfortunately there is a football match that you need to attend at the same time. You want to
+rearrange the time with the teacher. What would you say to your teacher?
+
+23. #100 Taking Notes
+答案：
+Hi! I would like to discuss an issue we have encountered with today's lecture material.
+The background is that I missed some key points during class and noticed you were taking great notes - could you help me understand?
+In the situation, what I can think of is to quickly review the main concepts together.
+Besides, another thing that comes to my mind is to compare notes after class.
+原文：
+You are walking out of your lecture and realize you didn't understand some of the main points your professor was making. You see a classmate who you
+think took good notes and paid attention during class. You want to ask them for help understanding what was covered. What would you say?
+
+24. #144 Feedback of Essay
+答案：
+Hi! I would like to discuss an issue we have encountered with the feedback on my essay.
+The background is that I wrote an essay, consulted you as my tutor, and asked for some feedback on my work.
+In the situation, what I can think of is to carefully review your suggestions.
+Besides, another thing that comes to my mind is to revise the draft.
+原文：
+You wrote an essay in a short time, consulted your tutor, and asked them for some feedback on your work. What would you say to him?
+
+25. #226 Dinner with Neighbor
+答案：
+Hi! I would like to discuss an issue that we have encountered with our dinner.
+The background is that I am having dinner with my business partner, and you run a company which might be suitable for collaboration.
+In this situation, what I can think of is to invite you to our dinner table.
+Besides, another thing that comes to my mind is to exchange business ideas with you.
+原文：
+You are having dinner with a business partner, and one of your neighbors also runs a company that might be suitable for collaboration. You want to invite
+him to join you for dinner and explore potential business opportunities. What would you say to him?
+
+26. #147 Injured Classmate
+答案：
+Hi! I would like to discuss an issue we have encountered with your need to return books to the library.
+The background is that your leg is injured, but you still need to return books to the library.
+In the situation, what I can think of is to help you to return the books.
+Besides, another thing that comes to my mind is to ask you for the library card if it's needed for returning.
+原文：
+Your classmate's leg is injured, but he needs to return books to the library. You are planning to help him by returning the books. What would you say to him?
+
+27. #173 Class or Assignment
+答案：
+Hi! I would like to discuss an issue we have encountered with our plans.
+The background is that another friend just invited me to work on an assignment together at the same time we're supposed to attend class.
+In the situation, what I can think of is to suggest a different time for the assignment.
+Besides, another thing that comes to my mind is to check if you can join us too.
+原文：
+You are going to attend a class with one of your friends. However, another friend invites you to work on an assignment together at the same time. 
+What would you say to your friend?
+
+28. #198 Lacking Working Experience
+答案：
+Hi! I would like to discuss an issue we have encountered with applying for a part-time job in the school cafe.
+The background is that I am interested in applying for a part-time job in the school cafe but it requires working experience that I am actually currently
+lacking, so I want to ask my friend to tell other schoolmates.
+In the situation, what I can think of is to ask my friend for help.
+Besides, another thing that comes to my mind is to look for more chances.
+原文：
+You are interested in applying for a part-time job in the school cafe but it requires working experience that you are actually currently lacking. You ask your
+friend to tell other schoolmates. What would you say?
+
+29. #189 Volunteer during Orientation
+答案：
+Hi! I would like to discuss an issue we have encountered with looking for orientation volunteers.
+The background is that the school is looking for volunteers to help students during orientation, I want to join this event because I am good at preparing
+publicity materials and I am available on Friday.
+In the situation, what I can think of is to apply for the volunteer work.
+Besides, another thing that comes to my mind is to show my advantages.
+原文：
+The school is looking for volunteers to help students during orientation. You want to join this event because you are good at preparing publicity materials,
+and you are available on Friday. What would you say to the committee?
+
+30. #228 Scholarship
+答案：
+Hi! I would like to discuss an issue that we have encountered with scholarship application.
+The background is that I am volunteering at school helping answer students' questions, but I do not know the specific application process.
+In this situation, what I can think of is to explain my situation to you clearly.
+Besides, another thing that comes to my mind is to find another person to help you.
+原文：
+You are volunteering at your school and helping answer students' questions. A student asks you how to apply for a scholarship, but you don't know the
+specific application process. What would you say to this student?
+
+31. #179 Party for Parents
+答案：
+Hi! I would like to discuss an issue we have encountered with my assignment deadline.
+The background is that I had nearly finished my assignment, but my sister asked me to attend my parents' party, and as a result I missed the deadline.
+In the situation, what I can think of is to submit it as soon as possible now.
+Besides, another thing that comes to my mind is to apologize for the delay.
+原文：
+You had nearly finished your assignment, but your sister asked you to attend your parents' party, and as a result you missed the deadline. What would you
+say to your tutor?
+
+32. #160 Lost Notebook
+答案：
+Hi! would like to discuss an issue we have encountered with today's lecture notes.
+The background is that I lost my notebook with all my notes from the lecture earlier, and I know you took really clear notes.
+In the situation, what I can think of is to ask if I could borrow your notes and copy them, because I have to refer to them to complete my assignment.
+Besides, another thing that comes to my mind is to return them to you quickly.
+原文：
+You attended a lecture earlier today, but you lost the notebook in which you wrote all your notes. Your friend also attended the lecture and took very clear
+and detailed notes. You decide to ask her to lend her notes to you because you need them for your assignment. What would you say?
+
+33. #230 Drama Club
+原文：
+You are the president of a drama club. Recently, many new members have joined, so you are planning to hold a party next week to welcome them. What
+would you say to club members?
+
+34. #190 Food for Party
+答案：
+Hi! I would like to discuss an issue we have encountered with preparing for the class party.
+The background is that our class is going to organize a party, and you are responsible for preparing the food, so I want to ask you what I can do to help and
+when exactly the party will start.
+In the situation, what I can think of is to offer some help to you.
+Besides, another thing that comes to my mind is to confirm the party time.
+原文：
+Your class is going to organize a party, and your classmate Max is responsible for preparing the food. You want to ask him what you can do to help and
+when exactly the party will start. What would you say to him?
+---
+
+1. #49 Party
+答案：
+Hi! I would like to discuss an issue we have encountered with the food preparations for our upcoming party.
+The background is that I'm planning to prepare barbecue and salad for everyone, but I don't know if you have any dietary restrictions.
+In the situation, what I can think of is to ask you to text me your dietary needs.
+Besides, another thing that comes to my mind is to prepare some vegetarian options.
+原文：
+You are going to have a party with your classmates at home. You will prepare barbecue and salad to treat them, but you do not know their dietary
+restrictions. You made a phone call to ask them about this, but they did not answer the call. Please leave a message to them.
+
+8. #187 Borrowing Printer
+答案：
+Hi! I would like to discuss an issue we have encountered with printing my assignment.
+The background is that I need to print out the assignment I've finished and hand it in, but my printer is broken.
+In the situation, what I can think of is to ask if I could use your printer quickly.
+Besides, another thing that comes to my mind is to bring my own paper.
+原文：
+You need to print out the assignment you've finished and hand it in, but your printer is broken. You want to borrow a printer from your friend Carl. 
+What would you say?
+
+20. #176 Wrong Email
+答案：
+Hi! I would like to discuss an issue we have encountered with my assignment submission.
+The background is that you mentioned not receiving my email, and I just realized I sent it to the wrong address by mistake.
+In the situation, what I can think of is to resend it to the correct email now.
+Besides, another thing that comes to my mind is to double-check that you received it.
+原文：
+Your professor says he hasn't received your assignment by email. You check your email and find that you have sent it to a wrong address. 
+What would you say to your professor?
 
 23. #154 Nervous Friends
 答案：
@@ -330,16 +483,6 @@ Besides, another thing that comes to my mind is to confirm you can still make it
 You just told one of your friends that the exam time is 3 p.m. tomorrow afternoon. But you've just found out that you were wrong-the exam is actually at 2
 p.m. this afternoon. You want to correct this mistake immediately. What would you say to the friend?
 
-32. #105 Copying Assignment
-答案：
-Hi! I would like to discuss an issue we have encountered with copying my assignment.
-The background is that you asked to copy my nearly completed assignment because you're out of time.
-In the situation, what I can think of is to explain the main ideas.
-Besides, another thing that comes to my mind is to suggest helpful resources.
-原文：
-You are in the library working on a difficult assignment. A classmate, who you know hasn't started the work, approaches you and asks if they can copy your
-nearly completed assignment because they are out of time. You don't want to give them your work. What would you say?
-
 33. #222 Volleyball
 答案：
 Hi! I would like to discuss an issue that I have encountered with volleyball-related activities.
@@ -360,16 +503,6 @@ Besides, another thing that comes to my mind is to check its value for my study.
 原文：
 Your tutor invites you to attend an academic conference. However, you are unsure what preparations you should make and whether this opportunity will
 contribute to your future academic development. What will you say to your tutor?
-
-35. #220 Student Card
-答案：
-Hi! I would like to discuss an issue that I have encountered with my student ID card.
-The background is that my student ID card is damaged, and I cannot access the building through the entrance.
-In this situation, what I can think of is to show you my broken card.
-Besides, another thing that comes to my mind is to request you for a new card.
-原文：
-Your student ID card is damaged, and you cannot access the building through the entrance. You will go to the campus administrator and ask for help
-getting a replacement card. What would you say?
 
 36. #217 Studying in Cafe
 答案：
@@ -408,33 +541,6 @@ Besides, another thing that comes to my mind is to confirm the cancellation.
 You want to borrow a book from the library, but it is already checked out. You place a hold on it and ask to be notified when it is returned. Later, you get the
 book elsewhere, so you need to call the library and cancel the hold. What would you say?
 
-38. #214 Household Timetable
-答案：
-Hi! I would like to discuss an issue we have encountered with shared housework.
-The background is that we share accommodation together as university students, but some of you are not finishing the cooking and cleaning tasks we
-agreed on before, and I hope we can make a timetable for household chores.
-In the situation, what I can think of is to talk about the problem calmly.
-Besides, another thing that comes to my mind is to divide housework clearly.
-解析：
-Hi! I would like to discuss an issue we have encountered with shared housework.
-The background is that we share accommodation together as university students, but some of you are not finishing the cooking and cleaning tasks we
-agreed on before, and I hope we can make a timetable for household chores.
-In the situation, what I can think of is to talk about the problem calmly.
-Besides, another thing that comes to my mind is to divide housework clearly.
-原文：
-You are sharing accommodation with other university students, but some of them are not doing their share of the cooking and cleaning that was agreed
-upon earlier. You are going to talk to them about creating a timetable for household chores. What would you say?
-
-39. #83 Absence for Tutorial
-答案：
-Hi! I would like to discuss an issue we have encountered with my Wednesday tutorial schedule.
-The background is that I have an important football match at the same time as our 3 P.M. session that I need to attend.
-In the situation, what I can think of is to request alternative arrangements for the tutorial.
-Besides, another thing that comes to my mind is to complete the tutorial work in advance.
-原文：
-You have a tutorial at 3 P.M. on Wednesday afternoon, but unfortunately there is a football match that you need to attend at the same time. You want to
-rearrange the time with the teacher. What would you say to your teacher?
-
 40. #223 Noisy Neighbors
 答案：
 Hi! I would like to discuss an issue that I have encountered with the noisy neighbors.
@@ -444,128 +550,16 @@ Besides, another thing that comes to my mind is to ask you to talk to them.
 原文：
 You live in a college dormitory, and your upstairs neighbors often make a lot of noise. You want to complain to the dormitory manager. What would you say?
 
-41. #100 Taking Notes
+19. #119 Computer Failure
 答案：
-Hi! I would like to discuss an issue we have encountered with today's lecture material.
-The background is that I missed some key points during class and noticed you were taking great notes - could you help me understand?
-In the situation, what I can think of is to quickly review the main concepts together.
-Besides, another thing that comes to my mind is to compare notes after class.
+Hi! I would like to discuss an issue we have encountered with my computer.
+The background is that I am in the campus library working on an urgent assignment when my computer suddenly stops working. I try restarting it, but
+nothing happens.
+In the situation, what I can think of is to request you to check my computer.
+Besides, another thing that comes to my mind is to ask you to direct me to someone else if you can't help.
 原文：
-You are walking out of your lecture and realize you didn't understand some of the main points your professor was making. You see a classmate who you
-think took good notes and paid attention during class. You want to ask them for help understanding what was covered. What would you say?
-
-42. #144 Feedback of Essay
-答案：
-Hi! I would like to discuss an issue we have encountered with the feedback on my essay.
-The background is that I wrote an essay, consulted you as my tutor, and asked for some feedback on my work.
-In the situation, what I can think of is to carefully review your suggestions.
-Besides, another thing that comes to my mind is to revise the draft.
-原文：
-You wrote an essay in a short time, consulted your tutor, and asked them for some feedback on your work. What would you say to him?
-
-43. #226 Dinner with Neighbor
-答案：
-Hi! I would like to discuss an issue that we have encountered with our dinner.
-The background is that I am having dinner with my business partner, and you run a company which might be suitable for collaboration.
-In this situation, what I can think of is to invite you to our dinner table.
-Besides, another thing that comes to my mind is to exchange business ideas with you.
-原文：
-You are having dinner with a business partner, and one of your neighbors also runs a company that might be suitable for collaboration. You want to invite
-him to join you for dinner and explore potential business opportunities. What would you say to him?
-
-44. #147 Injured Classmate
-答案：
-Hi! I would like to discuss an issue we have encountered with your need to return books to the library.
-The background is that your leg is injured, but you still need to return books to the library.
-In the situation, what I can think of is to help you to return the books.
-Besides, another thing that comes to my mind is to ask you for the library card if it's needed for returning.
-原文：
-Your classmate's leg is injured, but he needs to return books to the library. You are planning to help him by returning the books. What would you say to him?
-
-45. #173 Class or Assignment
-答案：
-Hi! I would like to discuss an issue we have encountered with our plans.
-The background is that another friend just invited me to work on an assignment together at the same time we're supposed to attend class.
-In the situation, what I can think of is to suggest a different time for the assignment.
-Besides, another thing that comes to my mind is to check if you can join us too.
-原文：
-You are going to attend a class with one of your friends. However, another friend invites you to work on an assignment together at the same time. 
-What would you say to your friend?
-
-46. #198 Lacking Working Experience
-答案：
-Hi! I would like to discuss an issue we have encountered with applying for a part-time job in the school cafe.
-The background is that I am interested in applying for a part-time job in the school cafe but it requires working experience that I am actually currently
-lacking, so I want to ask my friend to tell other schoolmates.
-In the situation, what I can think of is to ask my friend for help.
-Besides, another thing that comes to my mind is to look for more chances.
-原文：
-You are interested in applying for a part-time job in the school cafe but it requires working experience that you are actually currently lacking. You ask your
-friend to tell other schoolmates. What would you say?
-
-47. #189 Volunteer during Orientation
-答案：
-Hi! I would like to discuss an issue we have encountered with looking for orientation volunteers.
-The background is that the school is looking for volunteers to help students during orientation, I want to join this event because I am good at preparing
-publicity materials and I am available on Friday.
-In the situation, what I can think of is to apply for the volunteer work.
-Besides, another thing that comes to my mind is to show my advantages.
-原文：
-The school is looking for volunteers to help students during orientation. You want to join this event because you are good at preparing publicity materials,
-and you are available on Friday. What would you say to the committee?
-
-48. #228 Scholarship
-答案：
-Hi! I would like to discuss an issue that we have encountered with scholarship application.
-The background is that I am volunteering at school helping answer students' questions, but I do not know the specific application process.
-In this situation, what I can think of is to explain my situation to you clearly.
-Besides, another thing that comes to my mind is to find another person to help you.
-原文：
-You are volunteering at your school and helping answer students' questions. A student asks you how to apply for a scholarship, but you don't know the
-specific application process. What would you say to this student?
-
-49. #179 Party for Parents
-答案：
-Hi! I would like to discuss an issue we have encountered with my assignment deadline.
-The background is that I had nearly finished my assignment, but my sister asked me to attend my parents' party, and as a result I missed the deadline.
-In the situation, what I can think of is to submit it as soon as possible now.
-Besides, another thing that comes to my mind is to apologize for the delay.
-原文：
-You had nearly finished your assignment, but your sister asked you to attend your parents' party, and as a result you missed the deadline. What would you
-say to your tutor?
-
-50. #160 Lost Notebook
-答案：
-Hi! would like to discuss an issue we have encountered with today's lecture notes.
-The background is that I lost my notebook with all my notes from the lecture earlier, and I know you took really clear notes.
-In the situation, what I can think of is to ask if I could borrow your notes and copy them, because I have to refer to them to complete my assignment.
-Besides, another thing that comes to my mind is to return them to you quickly.
-原文：
-You attended a lecture earlier today, but you lost the notebook in which you wrote all your notes. Your friend also attended the lecture and took very clear
-and detailed notes. You decide to ask her to lend her notes to you because you need them for your assignment. What would you say?
-
-51. #230 Drama Club
-原文：
-You are the president of a drama club. Recently, many new members have joined, so you are planning to hold a party next week to welcome them. What
-would you say to club members?
-
-52. #190 Food for Party
-答案：
-Hi! I would like to discuss an issue we have encountered with preparing for the class party.
-The background is that our class is going to organize a party, and you are responsible for preparing the food, so I want to ask you what I can do to help and
-when exactly the party will start.
-In the situation, what I can think of is to offer some help to you.
-Besides, another thing that comes to my mind is to confirm the party time.
-原文：
-Your class is going to organize a party, and your classmate Max is responsible for preparing the food. You want to ask him what you can do to help and
-when exactly the party will start. What would you say to him?
-
-
-
-
-
-
-
+You are in the campus library working on an urgent assignment when your computer suddenly stops working. You try restarting it, but nothing happens.
+You see a staff member nearby who might be able to help or direct you to someone who can. What would you say?
 
 
 
