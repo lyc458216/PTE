@@ -1,24 +1,19 @@
 RTS：
 1.礼貌开场
-Hi man/ sir, sorry to bother you, but I need [your help/ some help from you/ to discuss something urgent].  
+Hi man/ sir, sorry to bother you, but I need [your help/ some help from you/ to discuss something with you].  
 嗨，伙计，很抱歉打扰你，...
 Excuse me, could I trouble you with something?             
 我能麻烦你点事吗？
 
-2.描述具体问题+原因/影响/结果【‼️可从原文提取】
-The background is that                      事情是这样的
+2.描述具体问题
+The background is that []                       事情是这样的
 
-3.解决方案【‼️需要一定程度上DIY】
-One solution to this is that 句子       对此的一个解决办法是...
-Well, actually, I suggest that 句子     嗯, 实际上, 我建议...
-Correct me if I'm wrong, but I think we share that the view that 句子
-如果错了请纠正我，但我想我们在...上看法一致
-Perhaps we could consider 单词/句子?    或许我们可以考虑[建议内容]?
-This might help address 单词/句子.      这可能有助于解决[问题].
-Might I suggest that we consider ...    我能否建议我们考虑...?
+3.解决方案/ 诉求
+Well, In this situation, []                     在这种情况下，             
+Well, actually, I suggest that []               嗯, 实际上, 我建议...
 
 4.礼貌结尾
-If this isn't something you handle, could you please let me know who I should contact?
+If this isn't something you handle, could you please tell who I should contact?
 如果这件事不是你负责的，能不能告诉我应该找谁？
 Thank you very much for your understanding.
 非常感谢您的理解。
@@ -105,44 +100,34 @@ ask you to use headphones.
 Can you moving to a quieter area?.
 
 8. #200 Dorm Key
+You forgot to bring your dormitory key and can't get into your room, 
+but there is still food cooking on the stove inside. 
+You need to contact the dormitory staff immediately to solve the problem. 
+What would you say to them?
+你忘记带宿舍钥匙，无法进入房间，但厨房里炉灶上还正在做饭。
+你需要立即联系宿舍工作人员解决问题。你会对他们说什么？
 答案：
-Hi! I would like to discuss an issue we have encountered with entering the dorm room safely.
-The background is that I forgot to bring my dormitory key and cannot get into my room, while there is still food cooking on the stove inside, so I need to
-contact you immediately to solve this problem.
-In the situation, what I can think of is to tell you the urgent risk.
-Besides, another thing that comes to my mind is to ask you to open my room door quickly.
-解析：
-Hi! I would like to discuss an issue we have encountered with entering the dorm room safely.
-The background is that I forgot to bring my dormitory key and cannot get into my room, while there is still food cooking on the stove inside, so I need to
-contact you immediately to solve this problem.
-In the situation, what I can think of is to tell you the urgent risk.
-Besides, another thing that comes to my mind is to ask you to open my room door quickly.
-原文：
-You forgot to bring your dormitory key and can't get into your room, but there is still food cooking on the stove inside. You need to contact the dormitory
-staff immediately to solve the problem. What would you say to them?
-你忘记带宿舍钥匙，无法进入房间，但厨房里炉灶上还正在做饭。你需要立即联系宿舍工作人员解决问题。你会对他们说什么？
+I forgot to bring my dormitory key and cannot get into my room, while there is still food cooking on the stove inside, 
+so I need to contact you immediately to solve this problem.
+Please open my room door quickly.
 
 9. #151 Advice for Friend
-答案：
-Hi! I would like to discuss an issue we have encountered with your attendance and assignments.
-The background is that I've noticed you often skip classes, arrive late, leave early, and don't submit assignments on time.
-In the situation, what I can think of is to set a daily study schedule together.
-Besides, another thing that comes to my mind is to talk to a tutor for support.
-原文：
-Your friend frequently skips classes, arrives late, leaves early, and does not submit assignments on time. What advice would you give them?
+Your friend frequently skips classes, arrives late, leaves early, 
+and does not submit assignments on time. What advice would you give them?
 你的朋友经常旷课、迟到、早退，而且不按时提交作业。你会给他什么建议？
+答案：
+We can do daily study schedule together.
+You can to talk to a tutor to ask for support.
 
 10. #132 Broken Photocopier
-答案：
-Hi! I would like to discuss an issue we have encountered with the photocopier.
-The background is that I want to copy some documents, but I notice the photocopier doesn't have any paper and the red light is flashing.
-In the situation, what I can think of is to report this problem to you.
-Besides, another thing that comes to my mind is to ask about the repair timeline.
-原文：
-You want to copy some documents, but you notice the photocopier does not have paper and the tray icon is flashing red
+You want to copy some documents, 
+but you notice the photocopier does not have paper and the tray icon is flashing red.
 What would you say to the library staff?
 你想复印一些文件，但发现复印机没有纸张，且托盘图标正在闪烁红色。  
 你会对图书馆工作人员怎么说？
+答案：
+I want to report this problem to you.
+How can I get the repair timeline.
 
 11. #128 Assignment Extension
 答案：
