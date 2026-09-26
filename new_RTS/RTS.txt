@@ -36,11 +36,9 @@ So you ask a student about how to get to the new classroom. What will you say?
 当你到达平时上课的教室时，发现一张通知写着电脑坏了，需要搬到另一个新教室。
 但你今天迟到了，其他同学已经搬去新教室了。
 于是你向一名学生询问如何前往新教室。你会说什么？
-答案：directions to the new classroom
-Hi! I would like to discuss an issue we have encountered with the classroom change.
-The background is that the computer broke down and the professor moved our class, but I don't know how to get to the new room and I'm already late.
-In the situation, what I can think of is to ask you for directions to the new classroom.
-Besides, another thing that comes to my mind is to meet you halfway so you can guide me.
+答案：
+Directions to the new classroom.
+If you are free now, can you guide me?
 
 2. #65 Missing Pages
 You borrowed a book from the university library. 
@@ -48,22 +46,19 @@ But while reading it, you notice that two pages have been torn out, but you didn
 What do you say to the librarian when you return the book?
 你从大学图书馆借了一本书，但在阅读时发现有两页被撕掉了，但你并没有撕。
 你说什么还书给图书管理员时？
-答案：report this damage for your records
-Hi! I would like to discuss an issue we have encountered with this library book's condition.
-The background is that I discovered two pages were already missing when I borrowed it, though I didn't cause the damage.
-In the situation, what I can think of is to report this damage for your records.
-Besides, another thing that comes to my mind is to help check the previous borrower's record.
+答案:
+Two pages have been already missed when I borrowed it, this damage is not from me.
+Report and records this damage. 
+Help me to check the previous borrower's record.
 
 3. #137 Disappearing Food
 Your flatmate's visitors don't follow the rules, and your cheese and tomatoes in the fridge keep disappearing. 
 You are very unhappy and need to talk to your flatmate about it. What will you say?
 你的室友的访客不遵守规则，你冰箱里的奶酪和番茄也总是不翼而飞。
 你非常不满，需要和室友谈谈这件事。你会说什么？
-答案：label each other's food
-Hi! I would like to discuss an issue we have encountered with the flat rules.
-The background is that the visitors from you don't follow the rules, and my cheese and tomatoes in the fridge keeps disappearing.
-In the situation, what I can think of is to remind your visitors of the flat rules.
-Besides, another thing that comes to my mind is to label each other's food.
+答案：
+Please remind your visitors of the flat rules.
+Label each other's food.
 
 4. #142 Book to Return
 You lent an English book to a friend three weeks ago, and he hasn't returned it yet. 
@@ -71,36 +66,28 @@ Now, you need the book very much. What would you say to him?
 三周前你借了一本英文书给朋友，但至今还没还回来。现在你非常需要这本书。  
 你会对他说什么？
 答案：
-Hi! I would like to discuss an issue we have encountered with the book I lent to you.
-The background is that I lent a book to you three weeks ago, and you haven't returned it yet. 
-Now, I need the book very much.
-In the situation, what I can think of is to ask if you've finished reading this book.
-Besides, another thing that comes to my mind is to ask you to return it to me.
+I need the book very much.
+Please return it to me as soon as possible.
 
 5. #135 Forgotten Book
 You have to return a book to your friend Tom, but when you get to school you realize you have forgotten to bring it. 
 Your friend really needs it today. What will you say to your friend?
 你得把一本书还给朋友汤姆，但到了学校才发现自己忘了带。  
 你的朋友今天真的需要这本书。你会对朋友说什么呢？
-答案：I really apologize for this mistake.
-Hi! I would like to discuss an issue we have encountered with returning the book you need.
-The background is that when I get to school I realize I have forgotten to bring it.
-In the situation, what can think of is to apologize for my carelessness.
-Besides, another thing that comes to my mind is to ask for more time to bring the book to you.
+答案：
+I really apologize for this mistake.
+bring the book to you tomorrow.
 
 6. #143 Noisy Party
-答案：
-Hi! I would like to discuss an issue we have encountered with the loud noise from your night party.
-The background is that you're holding a party in your room at night, which is too noisy for me to sleep, but I have an important exam early tomorrow
-morning.
-In the situation, what I can think of is to ask you to turn down the music.
-Besides, another thing that comes to my mind is to suggest ending the party before midnight.
-原文：
-Your family and friends are holding a party with loud music in the living room at night, which is too noisy and influences your sleep, but you have an
-important exam early tomorrow morning.
+Your family and friends are holding a party with loud music in the living room at night, 
+which is too noisy and influences your sleep, 
+but you have an important exam early tomorrow morning.
 What should you say to them?
 你家人和朋友今晚在客厅里开派对，放着响亮的音乐，太吵了，影响了你的睡眠，但明天一早你还有重要的考试。  
 你应该对他们说什么？
+答案：
+turn down the music.
+ending the party before midnight.
 
 7. #64 Noisy Library
 答案：
