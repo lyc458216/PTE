@@ -1,37 +1,67 @@
+RTS：
+1.礼貌开场
+Hi man/ sir, sorry to bother you, but I need [your help/ some help from you/ to discuss something urgent].  
+嗨，伙计，很抱歉打扰你，...
+Excuse me, could I trouble you with something?             
+我能麻烦你点事吗？
+
+2.描述具体问题+原因/影响/结果【‼️可从原文提取】
+The background is that                      事情是这样的
+We all know that                            我们都知道...
+
+3.解决方案【‼️需要一定程度上DIY】
+One solution to this is that 句子       对此的一个解决办法是...
+Well, actually, I suggest that 句子     嗯, 实际上, 我建议...
+Correct me if I'm wrong, but I think we share that the view that 句子
+如果错了请纠正我，但我想我们在...上看法一致
+Perhaps we could consider 单词/句子?    或许我们可以考虑[建议内容]?
+This might help address 单词/句子.      这可能有助于解决[问题].
+Might I suggest that we consider ...    我能否建议我们考虑...?
+
+4.礼貌结尾
+If this isn't something you handle, could you please let me know who I should contact?
+如果这件事不是你负责的，能不能告诉我应该找谁？
+Thanks for your help with this. 
+感谢你在这方面的帮助
+Catch you later                 
+回头见
+
 1. #81 New Classroom
-答案：
+When you arrive at the usual classroom where you normally have class, 
+you find a notice saying that the computer is broken and you need to move to another new classroom. 
+However, you are late today, and the other students have already moved to the new classroom. 
+So you ask a student about how to get to the new classroom. What will you say?
+当你到达平时上课的教室时，发现一张通知写着电脑坏了，需要搬到另一个新教室。
+但你今天迟到了，其他同学已经搬去新教室了。
+于是你向一名学生询问如何前往新教室。你会说什么？
+答案：directions to the new classroom
 Hi! I would like to discuss an issue we have encountered with the classroom change.
 The background is that the computer broke down and the professor moved our class, but I don't know how to get to the new room and I'm already late.
 In the situation, what I can think of is to ask you for directions to the new classroom.
 Besides, another thing that comes to my mind is to meet you halfway so you can guide me.
-原文：
-When you arrive at the usual classroom where you normally have class, you find a notice saying that the computer is broken and you need to move to
-another new classroom. However, you are late today, and the other students have already moved to the new classroom. So you ask a student about how to
-get to the new classroom. What will you say?
-当你到达平时上课的教室时，发现一张通知写着电脑坏了，需要搬到另一个新教室。但你今天迟到了，其他同学已经搬去新教室了。于是你向一名学生询问如何前往新教室。你会说什么？
 
 2. #65 Missing Pages
-答案：
+You borrowed a book from the university library. 
+But while reading it, you notice that two pages have been torn out, but you didn't do it. 
+What do you say to the librarian when you return the book?
+你从大学图书馆借了一本书，但在阅读时发现有两页被撕掉了，但你并没有撕。
+你说什么还书给图书管理员时？
+答案：report this damage for your records
 Hi! I would like to discuss an issue we have encountered with this library book's condition.
 The background is that I discovered two pages were already missing when I borrowed it, though I didn't cause the damage.
 In the situation, what I can think of is to report this damage for your records.
 Besides, another thing that comes to my mind is to help check the previous borrower's record.
-原文：
-You borrowed a book from the university library. But while reading it, you notice that two pages have been torn out, but you didn't do it. What do you say
-to the librarian when you return the book?
-你从大学图书馆借了一本书，但在阅读时发现有两页被撕掉了，但你并没有撕。你说什么
-还书给图书管理员时？
 
 3. #137 Disappearing Food
-答案：
+Your flatmate's visitors don't follow the rules, and your cheese and tomatoes in the fridge keep disappearing. 
+You are very unhappy and need to talk to your flatmate about it. What will you say?
+你的室友的访客不遵守规则，你冰箱里的奶酪和番茄也总是不翼而飞。
+你非常不满，需要和室友谈谈这件事。你会说什么？
+答案：label each other's food
 Hi! I would like to discuss an issue we have encountered with the flat rules.
 The background is that the visitors from you don't follow the rules, and my cheese and tomatoes in the fridge keeps disappearing.
 In the situation, what I can think of is to remind your visitors of the flat rules.
 Besides, another thing that comes to my mind is to label each other's food.
-原文：
-Your flatmate's visitors don't follow the rules, and your cheese and tomatoes in the fridge keep disappearing. You are very unhappy and need to talk to your
-flatmate about it. What will you say?
-你的室友的访客不遵守规则，你冰箱里的奶酪和番茄也总是不翼而飞。你非常不满，需要和室友谈谈这件事。你会说什么？
 
 4. #142 Book to Return
 答案：
