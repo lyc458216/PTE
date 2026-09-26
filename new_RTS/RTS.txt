@@ -7,7 +7,6 @@ Excuse me, could I trouble you with something?
 
 2.描述具体问题+原因/影响/结果【‼️可从原文提取】
 The background is that                      事情是这样的
-We all know that                            我们都知道...
 
 3.解决方案【‼️需要一定程度上DIY】
 One solution to this is that 句子       对此的一个解决办法是...
@@ -21,7 +20,7 @@ Might I suggest that we consider ...    我能否建议我们考虑...?
 4.礼貌结尾
 If this isn't something you handle, could you please let me know who I should contact?
 如果这件事不是你负责的，能不能告诉我应该找谁？
-I really appreciate your understanding.
+Thank you very much for your understanding.
 非常感谢您的理解。
 Thanks for your help with this. 
 感谢你在这方面的帮助
@@ -90,16 +89,20 @@ turn down the music.
 ending the party before midnight.
 
 7. #64 Noisy Library
+You have an assignment due next week. 
+Now you are in the library, but someone next to you is playing a video without headphones and you can hear their audio. 
+You are too distracted to focus on your study and your assignment is very important. 
+You should have a conversation with him to make sure you have a quiet place. 
+What would you say?
+你下周有一项作业要交。
+现在你正在图书馆，但旁边有人在没有耳机的情况下播放视频，你能听到他的声音。
+你太分心了，无法专心学习，而你的作业非常重要。
+你应该和他谈谈，确保自己有一个安静的地方。你会怎么回答？
 答案：
-Hi! I would like to discuss an issue we have encountered with the noise level in the library.
-The background is that I'm working on an important assignment due next week and having trouble concentrating because of the video playing aloud.
-In the situation, what I can think of is to politely ask you to use headphones.
-Besides, another thing that comes to my mind is to suggest moving to a quieter area together.
-原文：
-You have an assignment due next week. Now you are in the library, but someone next to you is playing a video without headphones and you can hear their
-audio. You are too distracted to focus on your study and your assignment is very important. You should have a conversation with him to make sure you
-have a quiet place. What would you say?
-你下周有一项作业要交。现在你正在图书馆，但旁边有人在没有耳机的情况下播放视频，你能听到他的声音。你太分心了，无法专心学习，而你的作业非常重要。你应该和他谈谈，确保自己有一个安静的地方。你会怎么回答？
+an important assignment due next week. 
+the video playing aloud.
+ask you to use headphones.
+Can you moving to a quieter area?.
 
 8. #200 Dorm Key
 答案：
