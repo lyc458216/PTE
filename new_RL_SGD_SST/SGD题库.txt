@@ -1,20 +1,20 @@
 [SGD]
 模板:
-The three speakers are talking about (topic).
+The three speakers are talking about [topic].
 
-The first speaker talked about (main problem 短句+短句).
-He/She seemed quite (concerned/ interested/ stressed 短句 +短句).
-The first speaker also mentioned that (短句+短句).
+The first speaker talked about [main problem].
+He seemed quite [concerned/ interested/ stressed] about that.
+The first speaker also mentioned that [].
 
-The second speaker agreed with that/some ideas (短句+短句).
-Then, he/she had different opinions about (短句+短句).
-He/she also pointed out (短句+短句).
+The second speaker [agreed/ disagreed] with that idea.
+Then, he had different opinions about [].
+He also pointed out [].
 
-The third speaker focused on (短句+短句).
-Furthermore, he/she suggested (短句+短句).
-Then, the third speaker said that (短句+短句).
+The third speaker focused on [].
+Furthermore, he suggested [].
+Then, the third speaker said that [].
 
-1.Field Trip 实地考察/实地考察旅行
+1. #43 Field Trip 实地考察/实地考察旅行
 The discussion involves three people talking about a field trip by the university.
 这段讨论涉及三个人，他们正在讨论学校组织的实地考察活动。
 The speaker one first mentioned that he decides not join the trip.
@@ -65,7 +65,7 @@ The second speaker also said something about sea hotels and meeting students.
 The last speaker talked about a football match and not going.
 The last speaker also said something about city hotels and learning experience.
 
-2.Presentation Skills 演示技巧
+2. #100 Presentation Skills 演示技巧
 Speaker1male: I feel nervous about the presentation. 
 男：我对这次演讲感到紧张。
 The presentation is so annoying.
@@ -77,7 +77,7 @@ Speaker3male: You can prepare some graphs and videos, and ask the audience some 
 We can turn to the tutor for help.
 我们可以向家庭教师寻求帮助。
 
-3.Campus Accommodation 学校宿舍/校外住宿
+3. #46 Campus Accommodation 学校宿舍/校外住宿
 The discussion involves three people talking about accommodation options next academic year.
 这场讨论涉及三位同学，他们正在探讨下学年的住宿选择。
 
@@ -125,7 +125,7 @@ The second speaker also said something about easy life and freedom.
 The last speaker talked about living off campus and city life.
 The last speaker also said something about low cost and travel time.
 
-4.Oral Presentation 口头报告
+4. #10 Oral Presentation 口头报告
 Narration: Three students are discussing preparing for an oral presentation at university.
 旁白：三位学生正在讨论如何准备大学的口头报告。
 
@@ -230,7 +230,7 @@ It's much easier when you know people are there for you.
 Let’s try to meet up again before the presentation to go over everything one last time.
 我们不妨在演讲前再​​聚一次，最后检查一遍所有内容。
 
-5.Improve presentation skills 提高表达能力
+5. #39 Improve presentation skills 提高表达能力
 The discussion involves three people talking about how to improve presentation skills.
 讨论涉及三个人，主题是如何提升演讲技巧。
 
@@ -282,7 +282,7 @@ The second speaker also said something about using keywords and accepting mistak
 The last speaker talked about reducing nerves and staying calm.
 The last speaker also said something about rescue phrases and clear message.
 
-6.Anniversary Party (How to celebrate the Department's 10th Anniversary party) 周年晚会（如何庆祝系十周年晚会）
+6. #50 Anniversary Party (How to celebrate the Department's 10th Anniversary party) 周年晚会（如何庆祝系十周年晚会）
 The discussion involves three people talking about how to celebrate the mathematics department's ten-year anniversary.
 这场讨论涉及三位人士，他们正在探讨如何庆祝数学系成立十周年。
 
@@ -335,7 +335,7 @@ The second speaker also said something about on campus party and easy travel.
 The last speaker talked about Business Building event room and better space.
 The last speaker also said something about inviting staff and alumni and final plans.
 
-7.Phone in Class(Use of mobile phones in lectures) 课堂上使用手机（在课堂上使用手机）
+7. #41 Phone in Class(Use of mobile phones in lectures) 课堂上使用手机（在课堂上使用手机）
 The discussion involves three people talking about whether students are allowed to use smartphones in class.
 这场讨论涉及三位发言者，他们探讨学生是否应该在课堂上使用智能手机。
 
@@ -385,7 +385,7 @@ The second speaker also said something about recording lectures and internationa
 The last speaker talked about both sides and no full ban.
 The last speaker also said something about balance and fair rules.
 
-8.Time Management 时间管理
+8. #98 Time Management 时间管理
 Narration: Three students are discussing time management at university.
 旁白：三个学生正在大学里讨论时间管理。
 
@@ -474,7 +474,7 @@ I think the university offers a seminar on time management.
 Maybe we should all go.
 也许我们都该走了。
 
-9.Different Ways to University (Commuting to the university) 不同的上大学方式（上下班通勤方式）
+9. #42 Different Ways to University (Commuting to the university) 不同的上大学方式（上下班通勤方式）
 The discussion involves three people talking about the best ways to get to university.
 这个讨论涉及三个人谈论进入大学的最佳途径。
 
@@ -528,7 +528,7 @@ The second speaker also said something about reading on the bus and carpooling.
 The last speaker talked about biking and low cost.
 The last speaker also said something about being healthy and using public transport.
 
-10.New Lecturer (patient lecturer) 新讲师（耐心讲师）
+10. #37 New Lecturer (patient lecturer) 新讲师（耐心讲师）
 Narration: three students are talking about a new lecturer.
 旁白：三个学生正在谈论一位新老师。
 
@@ -613,7 +613,7 @@ The second speaker also said something about patience and professional attitude.
 The last speaker talked about good class experience and personal growth.
 The last speaker also said something about feeling shy and gaining confidence.
 
-11.Free Online Courses(免费的网上资源)
+11. #95 Free Online Courses(免费的网上资源)
 The discussion involves three people talking about free online courses.
 这场讨论由三位发言者共同进行，主题是免费在线课程。
 
