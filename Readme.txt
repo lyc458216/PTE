@@ -162,5 +162,4 @@ R:FIB-Dropdown(25)/SWT (23)/ FIB-DragDrop(20)/ [RO(9)]
 
 第一阶段：DI/ RTS/ RL/ SGD/ ASQ/ [RS]
 第二阶段：SWT/ WE/ SST/ WFD 
-第三阶段：FIB-Dropdown/ FIB-DragDrop/  FIB-L
-第四阶段：[HIW]/ [RO] 
+第三阶段：FIB-Dropdown/ FIB-DragDrop/  FIB-L/ [HIW]/ [RO]
