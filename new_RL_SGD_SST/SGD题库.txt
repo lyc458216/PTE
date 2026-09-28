@@ -1,18 +1,20 @@
 [SGD]
 模板:
 The three speakers are talking about [topic].
-
+---
 The first speaker talked about [main problem].
 He seemed quite [concerned/ interested/ stressed] about that.
 The first speaker also mentioned that [].
-
+---
 The second speaker [agreed/ disagreed] with that idea.
 Then, he had different opinions about [].
 He also pointed out [].
-
+---
 The third speaker focused on [].
 Furthermore, he suggested [].
 Then, the third speaker said that [].
+---
+Overall, they focused on the main topic of []
 
 1. #43 Field Trip 实地考察/实地考察旅行
 The discussion involves three people talking about a field trip by the university.
@@ -65,7 +67,7 @@ The second speaker also said something about sea hotels and meeting students.
 The last speaker talked about a football match and not going.
 The last speaker also said something about city hotels and learning experience.
 
-2. #100 Presentation Skills 演示技巧
+2. #100 #134 Presentation Skills 演示技巧
 Speaker1male: I feel nervous about the presentation. 
 男：我对这次演讲感到紧张。
 The presentation is so annoying.
@@ -411,7 +413,7 @@ Speaker3: You know, it's true.
 提问者3：你知道，这是真的。
 My biggest challenge since I started university is managing my time. 
 我上大学以来最大的挑战是管理时间。
-I can't seem to get myself organized and Il always feel stressed and exhausted. 
+I can't seem to get myself organized and I always feel stressed and exhausted. 
 我似乎不能让自己有条理，我总是感到压力和疲惫。
 And the worst thing is that I just seem to get organized and the term ends and I have to get used to a whole new schedule.
 最糟糕的是，当学期结束的时候，我似乎要开始有条理了，我不得不适应一个全新的时间表。
@@ -446,7 +448,7 @@ I like to finish one project and start on another.
 我喜欢完成一个项目，然后开始另一个。
 But that's impossible when all the projects and essays are due at the same time at the end of the term. 
 但这是不可能的，因为所有的项目和论文都要在学期末同时交。
-You really have to be able to multi-task at university, you have to be able to jump from one topic to another and one type of assignment tol another. 
+You really have to be able to multi-task at university, you have to be able to jump from one topic to another and one type of assignment to another. 
 在大学里，你必须能够同时处理多项任务，你必须能够从一个主题跳到另一个主题，从一种类型的作业跳到另一种类型的作业。
 
 Speaker1: All these tight deadlines, diverse course requirements and multi-tasking pressures make university time management far more difficult than I expected. 
@@ -458,7 +460,7 @@ Speaker2: If I could manage my time better, I probably wouldn't be so stressed a
 演讲者2：如果我能更好地管理我的时间，我可能不会这么紧张和疲惫。
 I've never had to discipline myself like this before.
 我以前从来没有这样约束过自己。
-l In high school, the teachers told you what to do and when to do it. 
+In high school, the teachers told you what to do and when to do it. 
 在高中，老师告诉你什么时候做什么。
 If you just did what they said, you were fine. 
 如果你照他们说的做，你就没事了。
@@ -488,7 +490,7 @@ From him, we know that he is willing to try taking the bus.
 从他身上，我们知道他愿意尝试乘公共汽车。
 So basically, according to her, being late to university is a major concern.
 所以基本上，根据她的说法，上学迟到是一个主要问题。
-aIn the end, the speaker said he will start with the first bus and buy a second-hand bicycle if it doesn't work.
+In the end, the speaker said he will start with the first bus and buy a second-hand bicycle if it doesn't work.
 最后，演讲者说他将从第一辆公共汽车开始，如果它不起作用，他将买一辆二手自行车。
 
 The second speaker is mainly about commuting by bus.
@@ -1535,7 +1537,7 @@ We should suggest this to our class teacher—she’s always asking for ways to 
 发言者3：对，这很有道理！收走手机可以避免分心，但又能让我们在需要的时候使用。
 我们应该把这个建议告诉我们的班主任——她总是想方设法改进课堂。
 
-27.Meeting
+27. #56 Meeting
 The discussion involves three people talking about their project meeting place on campus.
 讨论涉及三位同学，他们正在讨论在校园内的项目会议地点。
 
@@ -2262,7 +2264,7 @@ Speaker1: We are a part of this green community, and should join in the eco-frie
 There are a lot of things to do, but we should start from small ones by ourselves, like bringing our own cups to the cafeteria, and carpooling.
 有很多事情要做，但我们应该从自己的小事开始，比如带自己的杯子去自助餐厅，拼车。
 
-44.Choices of Lunch(student cafeteria)
+44. #123 Choices of Lunch(student cafeteria)
 Narration: three students are discussing what to have for lunch after study.
 旁白：三个学生正在讨论学习后午饭吃什么。
 
@@ -2563,7 +2565,7 @@ It feels like what we say actually matters, which is great.
 我们非常感谢您对我们的想法如此开放，并且愿意让我们的辅导课变得更好。
 感觉我们说的话真的很重要，这太好了。
 
-49.Iceland
+49. # 120 Iceland
 Narration: three students are discussing their upcoming trip to Iceland.
 旁白：三个学生正在讨论即将到来的冰岛之旅。
 
