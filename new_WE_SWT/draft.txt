@@ -13,3 +13,25 @@ It should be pointed out that __.
 That is to say, __.
 
 In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that __.
+
+万能论点：
+效率 / 方便（Efficiency）
+It saves time and makes daily life more efficient.
+机会 / 发展（Opportunities）
+It offers more opportunities for study, work, and personal growth.
+成本 / 经济（Cost）
+It reduces costs for individuals and helps people manage their budget.
+健康 / 压力（Health）
+It improves health by reducing stress and encouraging better habits.
+公平 / 规则（Fairness）
+Clear rules improve fairness and make outcomes more predictable.
+安全 / 风险（Safety）
+It reduces risk and protects people from avoidable harm.
+
+万能例子：
+学习/学校例子
+When I was in university, I used (tool/method) to (goal), and it clearly improved my results.
+工作/公司例子
+In my previous job, our team tried (policy/approach), and it helped us (save time / reduce mistakes / improve service).
+日常生活例子
+In my daily life, I noticed that (change) makes it easier to (do something), so I feel less stressed.
