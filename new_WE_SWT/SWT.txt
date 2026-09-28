@@ -158,7 +158,7 @@ The current concentration of carbon dioxide is higher than it has been for the p
 其当前浓度已达到数千年来的最高水平，
 causing the rise of the global temperature and the sea level, mainly due to human activities, 
 导致全球气温和海平面上升，而这主要归因于人类活动，
-the main cause is the burning of coal and olin industrialized countries, 
+the main cause is the burning of coal and oli industrialized countries, 
 其中工业化国家燃烧煤炭和石油是主要诱因，
 so businesses should take responsibilities to tackle the problems inherited in the business models, 
 因此，企业应承担责任，解决其商业模式中固有的问题，
@@ -212,7 +212,7 @@ Therefore, people need to consider all the relevant factors to determine the rea
 因此，人们在判断两件事之间的真实关系时，需要考量所有相关因素，而不应简单地认为“相关性”等同于“因果关系”。
 Fallacies are common in daily life. 
 谬误在日常生活中很常见。
-For example,if person A lends a mobile phone to person B and the phone stops working for person B uses it, person Amay believe that the phone broke because of person B's use. 
+For example,if person A lends a mobile phone to person B and the phone stops working for person B uses it, person A may believe that the phone broke because of person B's use. 
 例如，如果甲把手机借给乙，而手机在乙使用期间出了故障，甲可能会认为手机坏掉是乙使用不当造成的。
 However, this conclusion may be wrong because the phone might have already had a problem, or it might have stopped working for another reason. similarly, a fallacy can lead to cognitive bias.
 然而，这种结论可能是错误的，因为手机本身可能早已存在问题，或者是因为其他原因才停止工作的。同样地，谬误也可能导致认知偏差。
