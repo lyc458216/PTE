@@ -1,7 +1,12 @@
 [RL]
 模板:
+The lecture focus on the topic of [].
+In the beginning, the speaker states that [].
+In the second part of the lecture, he mentions that [].
+The we can here that [].
+In conclusion, the lecture talks about [] and it is informative.
 
-1. #190 Leadership and Management
+1. #190 Leadership and Management 领导与管理
 In organizations,there are profound differences between management and leadership. 
 Although both of them are important for achieving goals, they focus on different ways of thinking and working. 
 Leaders usually do not accept the current situation easily.
@@ -13,51 +18,118 @@ Their main responsibility is to organize resources, control processes, and make 
 Therefore, leadership and management have different purposes. 
 Management emphasizes order, consistency, and following existing systems, while leadership focuses on innovation, change, and challenging old ideas. 
 In this sense,leadership disrupts management because leaders often need to break traditional patterns in order to create progress and transformation.
+在组织中，管理和领导之间存在着深刻差异。  
+尽管两者对于实现目标都至关重要，但它们关注的思维方式和工作方式各不相同。  
+领导者通常不会轻易接受现状，他们可能对现状不满，并试图对现有体系提出挑战。  
+他们常常质疑传统方法，敢于冒险，并尝试改变方向，以创造新的机遇和改进。  
+而管理者则通常专注于维持稳定与效率，倾向于维持现状，遵守既定规则，确保一切按程序运行。  
+他们的主要职责是调配资源、控制流程，保证日常运营顺利进行。  
+因此，领导与管理的目标不同：  
+管理强调秩序、一致性和遵循现有体系，而领导则注重创新、变革以及挑战旧有观念。  
+从这个意义上说，领导会打破管理，因为领导者往往需要突破传统模式，才能推动进步与变革。
 
-2. #429 Joseph Lister
-Joseph Lister was a great surgeon in Britain who completely transformed the way surgeries are performed. In the 19th century, many patients died after
-operations due to infections, but Lister changed this tragic reality. He became well known for his groundbreaking work in antiseptic surgery. Inspired by the
-germ theory, Lister successfully introduced carbolic acid as a powerful disinfectant. He used this chemical to sterilize surgical instruments and to clean
-wounds before and after operations. This innovative method led to a reduction in infections and significantly made surgery safer for patients all over the
-world. Because of his great medical achievement, Joseph Lister is often honored as the father of modern surgery. His dedication and scientific approach
-represent a major achievement in medicine, saving countless lives and laying the foundation for the sterile medical practices we rely on today.
+2. #429 Joseph Lister 约瑟夫·李斯特(医生)
+Joseph Lister was a great surgeon in Britain who completely transformed the way surgeries are performed. 
+In the 19th century, many patients died after operations due to infections, 
+but Lister changed this tragic reality. 
+He became well known for his groundbreaking work in antiseptic surgery. 
+Inspired by the germ theory, Lister successfully introduced carbolic acid as a powerful disinfectant. 
+He used this chemical to sterilize surgical instruments and to clean wounds before and after operations. 
+This innovative method led to a reduction in infections and significantly made surgery safer for patients all over the world. 
+Because of his great medical achievement, Joseph Lister is often honored as the father of modern surgery. 
+His dedication and scientific approach represent a major achievement in medicine, 
+saving countless lives and laying the foundation for the sterile medical practices we rely on today.
+约瑟夫·李斯特是英国一位杰出的外科医生，他彻底改变了外科手术的实施方式。
+19世纪时，许多患者在手术后因感染而死亡，但李斯特改变了这一悲惨现状。
+他因在无菌手术领域的开创性工作而闻名。
+受细菌理论的启发，李斯特成功地将石炭酸作为强效消毒剂引入医疗实践。
+他用这种化学物质对手术器械进行灭菌，并在手术前后清洁伤口。
+这一创新方法显著降低了感染率，使全球范围内的外科手术对患者而言更加安全。
+世界。由于他在医学上的杰出成就，约瑟夫·李斯特常被誉为现代外科之父。
+他的奉献精神和科学方法在医学领域取得了重大成就，挽救了无数生命，并为当今我们所依赖的无菌医疗实践奠定了基础。
 
-3. #658 Education Technology
+3. #658 Education Technology 教育技术
 A video with a friendly speech rate about education technology.
-Nowadays children are born to be able to use technologies, but teachers are unable because in the past no such technologies were offered to teachers.
+Nowadays children are born to be able to use technologies, 
+but teachers are unable because in the past no such technologies were offered to teachers.
 Teachers should learn to apply technologies in teaching and change education.
 Key words: education technology, scaffolding, have no understanding of how to use technology to teach, educators.
+一段关于教育技术的友好语速视频。  
+如今，孩子们出生时就已具备使用技术的能力，而教师却无法做到，因为过去从未向教师提供过此类技术。  
+教师应学会将技术应用于教学，并推动教育变革。  
+关键词：教育技术、支架式教学、不了解如何用技术进行教学、教育工作者。
 
-4. #587 Cosmic Civilization
-The possibility of the existence of other cosmic civilizations has always been an important topic in space research. Scientists are interested in finding out
-whether life exists on other planets beyond Earth and whether another civilization could develop somewhere in the universe. Every year, around 7 stars are
-created in some areas of the universe, and there are many planets formed around these stars. However, most planets around them cannot support life
-because their environments are usually either too hot or too cold. Researchers estimate that only about 20% of all planets may meet all necessary criteria
-and have a chance to have life. Even if a planet has suitable conditions, the possibility of life developing into a complex civilization is still very small. The
-change of appearance of life from simple organisms to advanced civilizations is extremely rare, which makes it hard to find another cosmic civilization.
-Therefore, although the universe contains countless planets, discovering another intelligent civilization remains a great challenge.
+4. #587 Cosmic Civilization 宇宙文明
+The possibility of the existence of other cosmic civilizations has always been an important topic in space research. 
+Scientists are interested in finding out whether life exists on other planets beyond Earth and whether another civilization could develop somewhere in the universe. 
+Every year, around 7 stars are created in some areas of the universe, 
+and there are many planets formed around these stars. 
+However, most planets around them cannot support life because their environments are usually either too hot or too cold. 
+Researchers estimate that only about 20% of all planets may meet all necessary criteria and have a chance to have life. 
+Even if a planet has suitable conditions, the possibility of life developing into a complex civilization is still very small. 
+The change of appearance of life from simple organisms to advanced civilizations is extremely rare, 
+which makes it hard to find another cosmic civilization.
+Therefore, although the universe contains countless planets, 
+discovering another intelligent civilization remains a great challenge.
+其他宇宙文明存在的可能性一直是太空研究中的一个重要课题。
+科学家们一直致力于探索地球以外的其他行星上是否存在生命，以及宇宙中是否可能孕育出另一种文明。
+每年，宇宙某些区域大约会形成7颗恒星，而这些恒星周围则会诞生许多行星。
+然而，大多数围绕这些恒星的行星无法支持生命，因为它们的环境通常要么过于炎热，要么过于寒冷。
+研究人员估计，仅有约20%的行星可能满足所有必要条件，具备生命存在的机会。
+即使一颗行星具备适宜的条件，其发展成复杂文明的可能性仍然非常渺茫。
+这个从简单生物到高级文明的生命形态转变极为罕见，因此很难发现其他宇宙文明。  
+因此，尽管宇宙中包含无数行星，但发现另一种智慧文明仍是一个巨大的挑战。
 
-5. #294 Library Introduction
+5. #294 Library Introduction 图书馆介绍
 There are many functional areas and services in the library.
 You'll see the service desk after entering the library and you can have these services at the service desk.
 There are computers with special software on each floor, by which you can gain access to the internet and check emails and library catalogues.
 Follow the orange signs and you will find printers. Then, follow the instructions to use them.
 Remember to bring student cards. You have to use printers with your card. You can charge your card at the front desk.
 If necessary, you can ask the staff at the front desk to help you.
+图书馆内设有多个功能区域和服务设施。  
+进入图书馆后，您会看到服务台，并可在服务台办理相关服务。  
+每层楼都配有装有专用软件的电脑，您可使用这些电脑上网、查看电子邮件和图书馆目录。  
+请跟随橙色标识，您会找到打印机，然后按照说明操作使用。  
+请记得携带学生证，使用打印机时必须出示学生证。您可在前台为学生证充值。  
+如有需要，可向前台工作人员寻求帮助。
 
-6. #161 Springtime
-The Earth's temperature is rising. And as it does, springtime phenomena-like the first bloom of flowers-are getting earlier and earlier. But rising
-temperatures aren't the only factor. Urban light pollution is also quickening the coming of spring. "So temperature and light are really contributing to a
-double whammy of making everything earlier." Richard french-Constant, an entomologist at the University of Exeter. He and his colleagues compiled 13
-years of data from citizen scientists in the U.K., who tracked the first bud burst of four common trees. Turns out, light pollution-from streetlights in cities,
-and along roads-pushed bud burst a full week earlier. Way beyond what rising temperatures could achieve. This disruptive timing can ripple through the
-ecosystem. "The caterpillars that feed on trees are trying to match the hatching of their eggs to the timing of bud burst. Because the caterpillars want to
-feed on the juiciest and least chemically protected leaves. And it's not just the caterpillars, of course, that are important. But the knock-on effect is on
-nesting birds, which are also trying to hatch their chicks at the same time that there's the maximum number of caterpillars." So earlier buds could ultimately
-affect the survival of birds, and beyond. The findings are in the Proceedings of the Royal Society B. The world's becoming increasingly urbanized, and light
-pollution is growing—which french-Constant says could trick trees into budding earlier and earlier. But smarter lighting-like LEDs that dial down certain
-wavelengths—could help. "Perhaps the exciting thing is, if we understand more about how light affects this bud burst, we might be able to devise smarter
-sort of street lighting that has less red components, and therefore less early bud burst." Thus keeping springtime an actual springtime phenomenon.
+6. #161 Springtime 春季现象
+The Earth's temperature is rising. 
+And as it does, springtime phenomena-like the first bloom of flowers-are getting earlier and earlier. 
+But rising temperatures aren't the only factor. 
+Urban light pollution is also quickening the coming of spring. 
+"So temperature and light are really contributing to a double whammy of making everything earlier." 
+Richard french-Constant, an entomologist at the University of Exeter. 
+He and his colleagues compiled 13 years of data from citizen scientists in the U.K., who tracked the first bud burst of four common trees. 
+Turns out, light pollution-from streetlights in cities, and along roads-pushed bud burst a full week earlier. 
+Way beyond what rising temperatures could achieve. 
+This disruptive timing can ripple through the ecosystem. 
+"The caterpillars that feed on trees are trying to match the hatching of their eggs to the timing of bud burst. 
+Because the caterpillars want to feed on the juiciest and least chemically protected leaves. 
+And it's not just the caterpillars, of course, that are important. 
+But the knock-on effect is on nesting birds, which are also trying to hatch their chicks at the same time that there's the maximum number of caterpillars." 
+So earlier buds could ultimately affect the survival of birds, and beyond. 
+The findings are in the Proceedings of the Royal Society B. 
+The world's becoming increasingly urbanized, and light pollution is growing—which french-Constant says could trick trees into budding earlier and earlier.
+But smarter lighting-like LEDs that dial down certain wavelengths—could help. 
+"Perhaps the exciting thing is, if we understand more about how light affects this bud burst, 
+we might be able to devise smarter sort of street lighting that has less red components, and therefore less early bud burst." 
+Thus keeping springtime an actual springtime phenomenon.
+地球的气温正在上升，随着气温升高，春季现象——比如花朵首次绽放——也变得越来越早。
+但气温上升并非唯一因素，城市光污染也在加速春天的到来。
+“因此，温度和光照共同作用，导致一切提前，形成双重冲击。”
+埃克塞特大学昆虫学家理查德·弗朗西斯-康斯坦表示。
+他与同事汇总了英国公民科学家长达13年的数据，这些科学家追踪了四种常见树木的首次开花时间。
+结果发现，来自城市街道灯和道路沿线的光污染使花芽开放提前整整一周，远远超出气温上升所能带来的影响。
+这种破坏性的时序变化会波及整个生态系统。“以树木为食的毛毛虫需要将卵的孵化时间与花芽开放的时间相匹配，因为它们希望啃食最肥厚、化学防护最少的叶子。当然，这不仅影响毛毛虫，其连锁效应也会对其他生物产生深远影响。”
+筑巢的鸟类也在同一时间试图孵化幼鸟，而此时毛毛虫数量达到峰值。
+因此，早开的芽最终可能影响鸟类的存活，甚至更远。这项研究结果发表在《皇家学会B刊》上。
+随着世界日益城市化，光污染也在不断加剧——法国学者康斯坦表示，这可能会让树木越来越早地萌发新芽。
+但采用更智能的照明方式，例如通过LED灯调低特定波长，或许能有所帮助。
+“也许令人兴奋的是，如果我们能更深入理解光照如何影响芽的萌发，
+我们或许可以设计出更智能的街道照明系统，减少红光成分，从而降低过早萌芽的风险。”
+这样一来，春天就能真正成为春天的真正现象。
 
 7. #188 Melatonin
 解析：
@@ -74,6 +146,17 @@ small. It is the size of a pea in your brain. Descartes called it the 'seat of s
 sense, it is the opposite of the cortisol. It peaks at night. We call it as the darkness hormone. In every species that we studied, melatonin occurs at night. And
 it's hormone that prepares you for the things, that your species, does at night. So, of course, in humans we sleep, but animals, like rodents, they are awake.
 So, it's a hormone that is related to darkness behavior.
+*关键要点：
+1.我想谈论的激素叫做褪黑素。
+2.它是皮质醇的相反物。
+3.它有节奏，夜晚时达到顶峰。
+4.我们称之为黑暗激素。
+5.这是让你为夜间活动做好准备的激素。
+6.人类睡觉，而动物则醒着。
+原文：
+我将接着讲之前提到的内容。现在我想谈谈的一种激素叫做褪黑素。它的合成发生在脑垂体，这个器官非常小，大约只有豌豆大小。笛卡尔称它为“灵魂的居所”，正是在这里产生褪黑素。它还有一个节律，与皮质醇相反，其峰值出现在夜间，我们称之为“黑暗激素”。在我们研究过的所有物种中，褪黑素都只在夜间出现。安
+这是一种激素，它让你为夜间你所属物种所进行的活动做好准备。因此，人类当然会睡觉，但像啮齿类动物这样，它们则保持清醒状态。  
+所以，这是一种与黑暗行为相关的激素。
 
 8. #123 Marshmallow Test
 Let's take a look at this video of these little kids. They were offered the option of having one marshmallow immediately or two marshmallows 15 minutes
@@ -87,17 +170,38 @@ crazy all because they waited 15 minutes for two marshmallows? Well, I mean I th
 you know, actually, yes, the ability to be able to pursue your goals, in this case, was that two marshmallows versus one, and not going automatic and just
 grab the marshmallow, is a very important skill. But I think a main point in mind in the making is that these skills can be caught, taught. If you're 14 or 40 or
 four it's not ever too late, and any child can learn, any adult can teach them. And it's never too late.
+让我们来看一下这段关于这些小孩子的视频。
+他们被给予一个选择：立即得到一颗棉花糖，或者15分钟后得到两颗。
+你有这段实验的非常可爱的视频记录。我们一起来看看。
+研究发现了一种简单直接的方法，用来衡量一种能力，这种能力似乎能带来重大的生活改变。
+研究人员告诉这些学龄前儿童，她将离开房间。
+如果他们不吃完棉花糖就等她回来，就能得到两颗；或者他们可以按响铃铛，她会立刻回来，但只给一颗棉花糖。
+我来按铃吧。你不按铃吗？好的。
+米歇尔博士通过长期观察儿童发现，四岁时能够更长时间地等待，会带来一些非常重要的影响。
+这些影响具体是什么？难道就是他们长大后更有纪律性、自我控制力更强吗？大概就是这样吧。
+他们更有可能实现人生目标，人际关系更融洽，SAT成绩也更好。
+这难道是因为他们只等了15分钟就得到了两个棉花糖吗？嗯，我觉得这确实很疯狂。
+我可能早就吃掉了全部三个了。是的，我也这么想。
+但其实，真正重要的是，这种追求目标的能力——比如在两种棉花糖中选择一个，而不是自动伸手拿第一个——是一种非常重要的技能。不过我想强调的是，这些能力是可以被培养和教导的。
+无论你14岁、40岁还是四岁，都不算太晚，任何孩子都能学会，任何成年人也能教给他们。而且，永远都不算太晚。
 
 9. #147 London Fog
 Turner, not surprisingly, painted one of the earliest pictures of London's fog, in the 1835 painting the Thames above Waterloo Bridge. Turner is a trueborn
 Londoner, is advertising his familiarity with London's air problem by putting smoke, an atmospheric pollution at its center. And as you can see, in here, the
 bridge is the central element, which is a theme that's later taken up by Monet. And it's partly obscured by the steam and smoke which rises from both sides
-of the river. Here, we see a shot-tower. I think you can just about to see, which was constructed in 1826. Do you know what shot-towers are? They produce
-shot for guns, ammunition. And they were very smoky, one of the more smoky industries. But it's barely visible, as you can see, as are the various industries
-on the Lambuth side of the river. There's, on this side, there's a steamship about to dock or preparing to leave. It's black smoke thrusting up to join the kind
-of swirling arc of smoke there. William Rodner sees this painting as a potent essay on the energy and complexity of modern polluted organism. Smoke, I
-think, here represents for a flourishing economy, which brings employment and food on tables but also the dirt and pollution associated with the fumes all
-seems to be tainted by sulfurous yellow.
+of the river. Here, we see a shot-tower. I think you can just about to see, which was constructed in 1826. 
+Do you know what shot-towers are? They produce shot for guns, ammunition. 
+And they were very smoky, one of the more smoky industries. 
+But it's barely visible, as you can see, as are the various industries on the Lambuth side of the river. 
+There's, on this side, there's a steamship about to dock or preparing to leave. 
+It's black smoke thrusting up to join the kind of swirling arc of smoke there. 
+William Rodner sees this painting as a potent essay on the energy and complexity of modern polluted organism. 
+Smoke, I think, here represents for a flourishing economy, 
+which brings employment and food on tables but also the dirt and pollution associated with the fumes all seems to be tainted by sulfurous yellow.
+不出所料，特纳在1835年的画作《滑铁卢桥上的泰晤士河》中描绘了伦敦雾气最早的作品之一。
+特纳是一位地道的伦敦人，他通过将烟雾——一种大气污染——置于画面中心，来展示自己对伦敦空气问题的熟悉程度。
+正如你所见，这座桥是画面的核心元素，这一主题后来也被莫奈所继承。而河流两岸升起的蒸汽与烟雾部分遮蔽了这一景象。这里我们能看到一座火炮塔，我想你几乎可以看见它，它建于1826年。你知道什么是火炮塔吗？它们用于制造枪支弹药，属于非���浓烟弥漫的工业类型。但正如你所见，这些工业设施几乎难以察觉，同理，兰布斯河岸一侧的各种工厂也隐没在烟雾之中。这边有一艘轮船即将靠岸或准备启航，黑烟不断腾起，与远处那条盘旋的烟柱融为一体。威廉·罗德纳认为这幅画是对现代污染生物能量与复杂性的有力阐述。烟雾，我
+思考一下，这里代表着一个繁荣的经济，它带来了就业和餐桌上的食物，但也伴随着烟雾带来的污秽与污染，而这些似乎都染上了硫磺般的黄色。
 
 10. #237 Practice
 Deliberate practice takes time and people also need to find and solve problems and mistakes during it. To be a high performing solo musician for the violin
