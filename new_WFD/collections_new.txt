@@ -654,7 +654,6 @@ Honey can be used as food and (a) (valuable) health product.
 105. #1105
 Many university lectures can now be viewed on the internet.
 现在许多大学的讲座都可以在网上观看。
-can now be viewed on the internet   现在可以在网上观看了
 
 106. #3282
 Computers used to be larger than they are now.
@@ -1111,15 +1110,18 @@ chemically separate parts           化学分离的部分
 university scholarship              大学奖学金
 materials and techniques            材料和技术
 modern architecture                 现代建筑
+vernacular architecture             本土建筑
 a widely believed perception        人们普遍认为
 diseases been eradicated            疾病已被根除
-
-
-
-
-
-
-
+inadequately implemented            实现的不足
+shrink drastically                  大幅缩减
+extremely well                      极好地
+are steadily incorporating          正在稳步合并
+incorporates                        包含，含有；并入，纳入，合并
+commissioner                        n. （政府部门的）首长，长官
+apportion/ allocate                 分配
+class participation                 课堂参与度
+comprehensive program               综合项目
 
 
 
