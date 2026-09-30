@@ -158,8 +158,9 @@ Listening: WFD(l13 w23)/ SST(l10 w18)/ HIW(l8 r13)/ FIB-L(l8)
 S:DI(31)/ SGD(19)/ [RS(16)]/ RL(13)/ RTS(13)
 L:SGD(20)/ [RS(17)]/ RL(13)/ WFD(13)/ SST(10)/ [HIW(8)]/ FIB-L(8)
 W:WE(31)/ SWT(28)/ WFD(23)/ SST(18)
-R:FIB-Dropdown(25)/SWT (23)/ FIB-DragDrop(20)/ [RO(9)]
+R:FIB-Dropdown(25)/ SWT(23)/ FIB-DragDrop(20)/ [RO(9)]
 
-第一阶段：DI/ RTS/ SGD/ ASQ/ [RS]
-第二阶段：WE/ SST/ RL/ SWT
-第三阶段：FIB-Dropdown/ FIB-DragDrop/ WFD/ FIB-L/ [HIW]/ [RO]
+WFD(l13 w23)/ FIB-Dropdown(r25)/ FIB-DragDrop(r20) 背原题
+WE(w31) 模板，通用例子
+RL(l13 s13)/ SGD(l20 s19)/ SST(l10 w18) 注意笔记格式，背中文主题， RL 4-5句话一行一句
+DI(s31)/ SWT(r23 w28)/ RS(l17 s16) 重技巧，多练题
