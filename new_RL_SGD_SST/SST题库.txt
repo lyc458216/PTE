@@ -117,7 +117,7 @@ varies for different people     因人而异
 varies among different people   因人而异
 limited quantities          限量
 
-4.The definition of risk 定义的风险 #111043
+4.The definition of risk 风险的定义 #111043
 The lecture is mainly about [the definition of risk].
 First, the speaker states that [the literal definition of risk mainly has two parts]. 
 One is [the consequence of a particular danger], and [the other is the chance of it happening]. 

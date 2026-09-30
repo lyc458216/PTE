@@ -15,16 +15,16 @@ That is to say, __.
 In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that __.
 
 万能论点：
-效率 / 方便（Efficiency）
-It saves time and makes daily life more efficient.
-机会 / 发展（Opportunities）
-It offers more opportunities for study, work, and personal growth.
 成本 / 经济（Cost）
 It reduces costs for individuals and helps people manage their budget.
-健康 / 压力（Health）
-It improves health by reducing stress and encouraging better habits.
+效率 / 方便（Efficiency）
+It saves time and makes daily life more efficient.
 公平 / 规则（Fairness）
 Clear rules improve fairness and make outcomes more predictable.
+健康 / 压力（Health）
+It improves health by reducing stress and encouraging better habits.
+机会 / 发展（Opportunities）
+It offers more opportunities for study, work, and personal growth.
 安全 / 风险（Safety）
 It reduces risk and protects people from avoidable harm.
 
