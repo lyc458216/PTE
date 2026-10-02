@@ -163,4 +163,4 @@ R:FIB-Dropdown(25)/ SWT(23)/ FIB-DragDrop(20)/ [RO(9)]
 WFD(l13 w23)/ FIB-Dropdown(r25)/ FIB-DragDrop(r20) 背原题
 WE(w31) 模板，通用例子
 RL(l13 s13)/ SGD(l20 s19)/ SST(l10 w18) 注意笔记格式，背中文主题， RL 4-5句话一行一句
-DI(s31)/ SWT(r23 w28)/ RS(l17 s16) 重技巧，多练题
+DI(s31)/ SWT(r23 w28)/ RS(l17 s16)/ RTS(s13) 重技巧，多练题
