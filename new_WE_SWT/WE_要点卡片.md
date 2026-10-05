@@ -37,7 +37,7 @@
     ZH: 服装、食品等消费品公司的营销应注重声誉，还是应注重折扣/特价等短期策略？为什么？
 - Topic: marketing strategies
 - Question: companies should focus on reputation or on short term strategies
-- Viewpoint: reputation
+- Viewpoint: companies reputation
 - Reason 1: a strong reputation is the key factor of sustainable success.
 - Reason 2: It can help companies to get consumers easily.
 
@@ -49,21 +49,21 @@
     ZH: 你认为学校是否应该设置课程，让学生演出数百年前的旧戏剧作品？
   - EN: There are both problems and benefits for high school students study plays and works of theatres written centuries ago. Discuss and use your own experience
     ZH: 高中生学习几百年前写的戏剧作品既有好处也有问题。请讨论并结合你的经历。
-- Topic: 
-- Question: 
+- Topic: classical films in education
+- Question: schools should teach classical films in school
 - Viewpoint: this practice.
 - Reason 1: studying these works holds unique value.
-- Reason 2: innovative teaching methods, like adapting plays into modern stories, can successfully bridge the historical gap.
+- Reason 2: studying modern stories can help us bridge the historical gap.
 
 ## 5. 名人隐私
 - Questions:
   - EN: Some famous people such as pop-stars and sportsman give up the right to privacy, because this is the price of fame. To what extent do you agree/disagree with this point of view? Give your opinion with your experiences.
     ZH: 有人认为流行歌手、运动员等名人必须放弃隐私权，因为这是成名的代价。你在多大程度上同意或不同意？请结合经历说明。
-- Topic: 
-- Question: 
-- Viewpoint: I disagree that celebrities must entirely surrender this fundamental right.
-- Reason 1: everyone is entitled to a basic right to privacy.
-- Reason 2: a clear boundary exists between professional work and purely private moments.
+- Topic: celebrity privacy
+- Question: famous people should give up the right to privacy
+- Viewpoint: I disagree that celebrities must give up this fundamental right.
+- Reason 1: everyone have a basic right to privacy.
+- Reason 2: a clear boundary exists between work and private life.
 
 ## 6. 未来工作模式
 - Questions:
@@ -71,11 +71,11 @@
     ZH: 在现代社会，青年失业是严重问题。一种解决办法是缩短工作周。请评价这一想法，考虑其利弊，并说明它适用于年轻人还是整个劳动力群体。
   - EN: "In the future, people will work less hours at their jobs." To what extent do you agree with it? Please support your opinion with your own experience
     ZH: “未来人们在工作中会减少工时。”你在多大程度上同意？请用你的经历支持观点。
-- Topic: 
-- Question: 
-- Viewpoint: I agree with this prospect, though it requires careful implementation.
-- Reason 1: reducing working hours can yield significant benefits.
-- Reason 2: while office workers benefit primarily, its feasibility for shift workers remains unclear.
+- Topic: future work models
+- Question: working less hours is a good solution
+- Viewpoint: this practice.
+- Reason 1: reducing working hours have many benefits.
+- Reason 2: It saves time and makes daily life more efficient.
 
 ## 7. 保护古建筑
 - Questions:
