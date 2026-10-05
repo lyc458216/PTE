@@ -62,7 +62,7 @@
 - Topic: celebrity privacy
 - Question: famous people should give up the right to privacy
 - Viewpoint: I disagree that celebrities must give up this fundamental right.
-- Reason 1: everyone have a basic right to privacy.
+- Reason 1: everyone has a basic right to privacy.
 - Reason 2: a clear boundary exists between work and private life.
 
 ## 6. 未来工作模式
@@ -74,7 +74,7 @@
 - Topic: future work models
 - Question: working less hours is a good solution
 - Viewpoint: this practice.
-- Reason 1: reducing working hours have many benefits.
+- Reason 1: reducing working hours has many benefits.
 - Reason 2: It saves time and makes daily life more efficient.
 
 ## 7. 保护古建筑
@@ -85,21 +85,21 @@
     ZH: 政府应该把大量资金用于保护漂亮的旧建筑，而不是建现代建筑。你同意还是不同意？
   - EN: More and more countries spend large amounts of money on the restoration of buildings instead of on modern housing. To what extent do you agree or disagree with this analysis? Support your writing with your experience and/or examples.
     ZH: 越来越多国家把大量资金用于修复建筑，而不是用于现代住房建设。你在多大程度上同意或不同意？请用经历或例子支持。
-- Topic: 
-- Question: 
+- Topic: historic building preservation
+- Question: countries should spend large amounts of money on the restoration of buildings
 - Viewpoint: for such preservation.
-- Reason 1: conserving architectural heritage is of paramount importance.
-- Reason 2: urban development is not a binary choice; thoughtful planning can seamlessly integrate both.
+- Reason 1: conserving historical architecture is very important.
+- Reason 2: urban development should not destroy historical buildings..
 
 ## 8. 收入不平等
 - Questions:
   - EN: Should we have a maximum wage for the high-paid jobs?
     ZH: 是否应该为高薪工作设定最高工资上限？
-- Topic: 
-- Question: 
+- Topic: income inequality
+- Question: we should have a maximum wage for the high-paid jobs
 - Viewpoint: an opponent of this proposal.
-- Reason 1: imposing a mandatory maximum wage is detrimental.
-- Reason 2: better alternatives exist, such as a progressive taxation system and robust social investments.
+- Reason 1: imposing a mandatory maximum wage is bad for social development.
+- Reason 2: better options exist, such as social investments rather than imposing a mandatory maximum wage.
 
 ## 9. 员工参与公司决策
 - Questions:
@@ -107,21 +107,21 @@
     ZH: 在一些公司里，雇主在产品和服务方面会考虑员工意见。讨论其优缺点。
   - EN: Company's top-level authorities should involve their employees in decision-making process. Discuss the advantages and disadvantages.
     ZH: 公司高层应让员工参与决策过程。讨论其优缺点。
-- Topic: 
-- Question: 
+- Topic: employees participation in companies decision-making.
+- Question: employees should participate in companies' decision-making.
 - Viewpoint: this practice.
 - Reason 1: this approach is highly beneficial.
-- Reason 2: the problem lies not in the consultation itself, but in its execution.
+- Reason 2: this strategy can enhance service quality and generate commercial advantages.
 
 ## 10. 电视在现代社会中的角色
 - Questions:
   - EN: Nowadays TV has become an essential part of life. It is a medium to spread news & awareness and for some it acts like a companion. What is your opinion about this?
     ZH: 如今电视已成为生活必需品。它传播新闻与信息，有些人还把它当作陪伴。你怎么看？
-- Topic: 
-- Question: 
+- Topic: television's role in modern society
+- Question: its widespread does more good than harm
 - Viewpoint: of its positive impacts.
 - Reason 1: television yields remarkable benefits.
-- Reason 2: such outcomes stem from poor viewing habits rather than the medium itself.
+- Reason 2: It helps us understand the world and provides us with more forms of entertainment.
 
 ## 11. 工作与生活的平衡
 - Questions:
