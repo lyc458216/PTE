@@ -1,6 +1,6 @@
 In recent years, the topic of [whether] __ has sparked widespread debate.
 There has been a heated debate on whether __.
-From my perspective, I tend to be an advocate/opponent of __(for this practice) regarding this issue.
+From my perspective, I tend to be an [advocate/ opponent] for __(this practice) regarding this issue.
 
 It is evidently reasonable for me to believe that (this is good).
 This is because __.
@@ -10,7 +10,7 @@ As a result, __.
 In contrast, it is commonly believed as a fact that __.
 Nevertheless, this argument does not hold water.
 It should be pointed out that __.
-That is to say, __.
+That is to say, [it/ 主语] may have some potential drawbacks, but __.
 
 In a nutshell, due to the mentioned reasons, we may safely reach the conclusion that __.
 
