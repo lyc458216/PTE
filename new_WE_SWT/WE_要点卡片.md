@@ -129,31 +129,31 @@
     ZH: 你认为人们工作时间过多、个人生活时间不足（时间短缺）的问题有多普遍？会造成哪些问题？
   - EN: 类似题目1：It is important to maintain the balance between work and other aspect of person's life such as family and leisure time, agree or disagree? Why it is hard to achieve?
     ZH: 类似题目1：保持工作与生活其他方面（如家庭与休闲）的平衡很重要。你同意还是不同意？为什么很难做到？
-- Topic: 
-- Question: 
-- Viewpoint: for recognizing its severity.
-- Reason 1: excessively long working hours are highly detrimental.
-- Reason 2: a chronic sense of time poverty leads to burnout and undermines productivity.
+- Topic: work-life balance
+- Question: people spend more time on work than their personal life.
+- Viewpoint: spending more time on personal life.
+- Reason 1: too much long working hours is bad for our family relationships.
+- Reason 2: a necessary amount of working time is good for economical development, but excessive work is bad to our health.
 
 ## 12. 最具影响力的现代发明
 - Questions:
   - EN: In the past 100 years, there are many inventions such as antibiotics, airplanes and computer. What do you think is the most important invention for the past 100 years? Why?
     ZH: 过去100年出现了许多发明，如抗生素、飞机、计算机。你认为过去100年最重要的发明是什么？为什么？
-- Topic: 
-- Question: 
-- Viewpoint: for the belief that the Internet is the most significant invention.
-- Reason 1: the Internet is the most paramount invention.
-- Reason 2: the Internet has optimized everything, driving the faster emergence of new ideas.
+- Topic: the most important invention
+- Question: which is the most important invention for the past 100 years
+- Viewpoint: the Internet is the most significant invention.
+- Reason 1: the Internet can save time and make daily life more efficient.
+- Reason 2: the Internet has optimized everything. And it provides a better way for people to communicate with one another.
 
 ## 13. 法律的影响力
 - Questions:
-  - EN: Some people believe that human behavior can be changed by laws; others argue that laws have little effect on human behaviour. Which opinion do you agree with? Please explain.
+  - EN: Some people believe that human behavior can be changed by laws; others argue that laws have little effect on human behavior. Which opinion do you agree with? Please explain.
     ZH: 有人认为法律可以改变人类行为；也有人认为法律对行为影响很小。你同意哪种观点？请解释。
-- Topic: 
-- Question: 
-- Viewpoint: for the belief that the law plays a pivotal role.
-- Reason 1: the law is highly adept at guiding human conduct.
-- Reason 2: the legal framework renders detrimental actions highly inconvenient and costly.
+- Topic: the influence of the legal system.
+- Question: laws have a large effect on human behavior.
+- Viewpoint: the law plays an important role.
+- Reason 1: the law strongly guides people's behavior.
+- Reason 2: The law establishes a framework for everyone to follow.
 
 ## 14. 发展中国家的旅游业
 - Questions:
@@ -163,31 +163,32 @@
     ZH: 【变体1】讨论欠发达国家旅游业的优点和缺点。
   - EN: 【变体 2】The negative impacts of tourism in less developed countries: challenges and sustainable solutions
     ZH: 【变体2】欠发达国家旅游业的负面影响：挑战与可持续解决方案。
-- Topic: 
-- Question: 
-- Viewpoint: it brings both significant benefits and notable challenges.
-- Reason 1: tourism yields substantial advantages.
-- Reason 2: these issues stem from poorly managed mass tourism.
+- Topic: tourism in developing countries
+- Question: its overall impact is positive
+- Viewpoint: it brings both significant benefits and challenges.
+- Reason 1: tourism yields economic growth.
+- Reason 2: it can increase employment rates. It offers more opportunities for economic growth. The tourism industry has caused environmental pollution.
 
 ## 15. 通过先进医疗技术延长人类寿命
 - Questions:
   - EN: The advanced medical technology expands human's life. Do you think it is a curse or blessing?
     ZH: 先进医疗技术延长了人类寿命。你认为这是福还是祸？
-- Topic: 
-- Question: 
-- Viewpoint: a staunch advocate for this development.
-- Reason 1: this development is unequivocally a blessing.
-- Reason 2: these challenges stem from inadequate planning rather than the medical advancements themselves.
+- Topic: expanding human life by modern medical technology.
+- Question: this development is a blessing or a curse.
+- Viewpoint: for this development.
+- Reason 1: this development is undoubtedly a blessing.
+- Reason 2: this technique has decreased human suffering and enhance human well-being.
+advanced medical technology is a profound blessing, and is good for human's health.
 
 ## 16. 21世纪的成长
 - Questions:
   - EN: It is getting harder for children to live and grow in the 21st century than in the past. Do you agree or disagree?
     ZH: 与过去相比，21世纪孩子的生活与成长更难。你同意还是不同意？
-- Topic: 
-- Question: 
-- Viewpoint: children face unprecedented pressures today.
-- Reason 1: children face unprecedented pressures today.
-- Reason 2: material comfort does not equate to psychological well-being, and digital connectivity often causes heightened anxiety.
+- Topic: growing up in the 21st century
+- Question: It is getting harder for children to live and grow in the 21st century than in the past
+- Viewpoint: children face more pressures today.
+- Reason 1: children face more pressures today.
+- Reason 2: they are living with more academic pressure and are shaped by the digital world.
 
 ## 17. 旅行是否为一流教育所必需
 - Questions:
@@ -197,21 +198,21 @@
     ZH: 【变体1】旅行对优质教育是否必要？
   - EN: 【变体2】Is traveling necessary for a good education? Some smart scholars never leave their hometowns.
     ZH: 【变体2】旅行对良好教育是否必要？一些聪明的学者从未离开过家乡。
-- Topic: 
-- Question: 
-- Viewpoint: while travel facilitates in-depth learning, it is not the sole pathway.
-- Reason 1: studying in a novel environment is highly beneficial.
-- Reason 2: in a hyper-connected world, international collaboration capacity is vital.
+- Topic: quality education
+- Question: travel is necessary for a first-rate education
+- Viewpoint: travel is necessary for a quality education
+- Reason 1: studying in a new educational environment is good for our study.
+- Reason 2: traveling is an effective way to help us learn.
 
 ## 19. 教育课程
 - Questions:
   - EN: Should schools make learning a foreign language compulsory?
     ZH: 学校是否应把外语学习设为必修？
-- Topic: 
-- Question: 
-- Viewpoint: for this mandate.
-- Reason 1: this is highly beneficial to students' cognitive and academic development.
-- Reason 2: a well-designed language curriculum can facilitate cross-disciplinary integration.
+- Topic: foreign languages in education
+- Question: schools should make learning a foreign language compulsory.
+- Viewpoint: for this practice.
+- Reason 1: it can help us enhance critical thinking and foster understanding.
+- Reason 2: it can help us communicate with others. It can also helps us to interconnect the world.
 
 ## 20. 城市规划方向
 - Questions:
