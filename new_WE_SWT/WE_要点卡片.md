@@ -275,11 +275,11 @@ It saves time and makes daily life more efficient.
 - Questions:
   - EN: Write about Climate change? Who is responsible whether Government or industries? Why?
     ZH: 谈谈气候变化：政府还是企业/工业应承担责任？为什么？
-- Topic: 
-- Question: 
-- Viewpoint: shared responsibility, while recognizing that governments bear ultimate accountability.
-- Reason 1: this government-led approach is of paramount importance.
-- Reason 2: without stringent regulations, companies would utilize polluting methods to outpace competitors.
+- Topic: the responsibility of climate change.
+- Question: who is responsible for climate change: whether Government or industries
+- Viewpoint: that governments bears a greater responsibility.
+- Reason 1: this government plays an important role in economic development.
+- Reason 2: only governments possess the authority to reduce pollution.
 
 ## 27. 实践经验与正规教育的比较
 - Questions:
@@ -289,41 +289,42 @@ It saves time and makes daily life more efficient.
     ZH: 有人认为生活经验比学校和大学提供的正规教育更重要。你在多大程度上同意？并请举例。
   - EN: Whether experiential learning (learning by doing) can work well in formal education. Do you agree or disagree?
     ZH: 体验式学习（做中学）是否能在正规教育中有效？你同意还是不同意？
-- Topic: 
-- Question: 
-- Viewpoint: for integrating both elements rather than viewing them in opposition.
-- Reason 1: practical experience is unequivocally indispensable.
-- Reason 2: education constructs the foundational knowledge and logical reasoning required to enter complex disciplines.
+- Topic: comparison of practical experience and formal education.
+- Question: life experience is more important than the formal education
+- Viewpoint: practical skills hold greater significance than academic learning.
+- Reason 1: Practical experience can help us better apply the knowledge we have learned.
+- Reason 2: Practical experience can help us better integrate the knowledge we have acquired with practice.
 
 ## 28. 同时进行全日制学习与工作
 - Questions:
   - EN: Study needs time, peace and comfort, whereas employment needs the same thing. Someone says it is impossible to combine those two because one distracts one another. Do you think this is realistic in our life today? To what extent do you agree with it? Support your opinion with example.
     ZH: 学习需要时间、安静与舒适，而工作也需要这些。有人说两者无法兼顾，因为会互相干扰。你认为在当今生活中这是否现实？你在多大程度上同意？请举例支持。
-- Topic: 
-- Question: 
-- Viewpoint: these two pursuits are entirely incompatible.
-- Reason 1: balancing both commitments is feasible with meticulous planning.
-- Reason 2: universities offer evening classes and recorded lectures tailored for professionals.
+- Topic: full-time study and employment
+- Question: studying and working will distract another
+- Viewpoint: Work and study can be balanced with proper planning.
+- Reason 1: flexible learning and time-management tools can help us balance study and work.
+- Reason 2: universities offer evening classes and recorded lectures for professionals.
 
 ## 29. 科技是否让世界变得更美好
 - Questions:
   - EN: Technology has made the world a better place to live. To what extent do you agree with this statement?
     ZH: 科技让世界变得更适合居住。你在多大程度上同意？
-- Topic: 
-- Question: 
-- Viewpoint: balanced perspective acknowledging its benefits and challenges.
-- Reason 1: technology has brought about profound improvements.
-- Reason 2: these problems stem from poor regulation rather than technology itself.
+- Topic: advanced technique
+- Question: whether technology has made the world better than before
+- Viewpoint: acknowledging its benefits and challenges.
+- Reason 1: technology has brought us profound improvements.
+- Reason 2: It offers more opportunities for study, work, and personal growth.
+It saves time and makes daily life more efficient.
 
 ## 30. 建筑设计
 - Questions:
   - EN: Design of buildings have positive or negative impact on people's life and work?
     ZH: 建筑设计会对人们的生活和工作产生积极还是消极影响？
-- Topic: 
-- Question: 
-- Viewpoint: for the view that thoughtful design yields positive impacts, while poor design is detrimental.
-- Reason 1: well-designed buildings significantly elevate the quality of daily life.
-- Reason 2: structures devoid of ventilation and natural light can trigger health complications and degrade productivity.
+- Topic: architectural design
+- Question: it exerts a positive or negative impact on people's lives and work
+- Viewpoint: thoughtful design yields positive impacts, while poor design is bad for our life.
+- Reason 1: well-designed buildings can improve the quality of daily life.
+- Reason 2: well-designed architecture can make us feel physically and mentally comfortable.
 
 ## 31. 父母对子女行为的法律责任
 - Questions:
