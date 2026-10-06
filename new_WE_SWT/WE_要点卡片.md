@@ -264,11 +264,12 @@ advanced medical technology is a profound blessing, and is good for human's heal
 - Questions:
   - EN: Large shopping malls are replacing small shops. What is your opinion about this? Discuss with appropriate examples.
     ZH: 大型购物中心正在取代小商店。你怎么看？请结合恰当例子讨论。
-- Topic: 
-- Question: 
+- Topic: Large shopping malls are replacing small shops
+- Question: it has positive effects. 
 - Viewpoint: an advocate for this trend.
 - Reason 1: this transition is highly beneficial.
-- Reason 2: small shops can coexist by offering personalized services and niche products.
+- Reason 2: Large shopping malls can offer better services and good products.
+It saves time and makes daily life more efficient.
 
 ## 26. 气候变化责任归属
 - Questions:
