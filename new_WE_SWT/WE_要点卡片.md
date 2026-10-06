@@ -390,8 +390,8 @@ It saves time and makes daily life more efficient.
     ZH: 你更偏好研究哪个领域/方向？
   - EN: Explain why you pick this particular area of your study and give an example in the area you pick
     ZH: 解释你为何选择这个研究方向，并给出该领域的一个例子。
-- Topic: 
-- Question: 
+- Topic: climate change
+- Question: Which aspect of climate change is the serious problem.
 - Viewpoint: research climate change's impacts on human living environments.
-- Reason 1: research helps us forecast extreme weather events, such as hurricanes and floods, so we can prepare and reduce damage.
-- Reason 2: by studying climate change's effects, we can better protect our planet and find solutions to these problems.
+- Reason 1: research can help us forecast extreme weather events, so we can prepare and reduce damage.
+- Reason 2: by studying climate change's effects, we can better protect our planet and find solutions on these problems.
