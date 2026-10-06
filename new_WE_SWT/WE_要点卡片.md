@@ -216,15 +216,15 @@ advanced medical technology is a profound blessing, and is good for human's heal
 
 ## 20. 城市规划方向
 - Questions:
-  - EN: Government should create a better network of public transport available for everyone or build more roa ds owning population?
+  - EN: Government should create a better network of public transport available for everyone or build more roads owning population?
     ZH: 政府应该建立更完善、人人可用的公共交通网络，还是为拥有私家车的人修更多道路？
   - EN: What are the advantages of cheaper public transportation? What will it cause to achieve it?
     ZH: 更便宜的公共交通有哪些优势？为了实现这一点会带来什么影响/代价？
-- Topic: 
-- Question: 
-- Viewpoint: a staunch advocate for prioritizing public transit.
-- Reason 1: an accessible public transit system yields remarkable long-term benefits.
-- Reason 2: constructing new roads stimulates greater vehicle usage, culminating in a vicious cycle of induced demand.
+- Topic: public transit
+- Question: government should create a better network of public transport available for everyone or build more roads owning population
+- Viewpoint: public transit.
+- Reason 1: a good public transit system yields remarkable long-term benefits.
+- Reason 2: it offers more opportunities for economic development, and can make daily life more efficient.
 
 ## 22. 教育评估
 - Questions:
@@ -232,11 +232,11 @@ advanced medical technology is a profound blessing, and is good for human's heal
     ZH: 正式笔试可以作为评估学生学习情况的有效方式。你在多大程度上同意或不同意？
   - EN: Do you agree that education system that assesses the student's learning by written exam is correct?Please discuss the significance of formal written assessments in today's world to evaluate children's performance
     ZH: 你是否同意用笔试评估学生学习的教育体系是正确的？请讨论在当今世界，正式笔试在评估学生表现方面的重要性。
-- Topic: 
-- Question: 
-- Viewpoint: for the crucial role such exams play.
-- Reason 1: written examinations are a highly effective tool.
-- Reason 2: contemporary exams increasingly test critical thinking through problem-solving scenarios.
+- Topic: educational assessment
+- Question: relying on formal written exam is valid.
+- Viewpoint: important role.
+- Reason 1: written examination is a highly effective tool.
+- Reason 2: it offers an objective and equitable approach to assessing students.
 
 ## 23. 驾驶最低年龄要求
 - Questions:
@@ -244,21 +244,21 @@ advanced medical technology is a profound blessing, and is good for human's heal
     ZH: 到处都有年龄限制。人们认为只有达到合适的年龄才能做某些事情，如结婚、开车。请选择一项活动，并说明你认为的最低年龄。
   - EN: Support with your own experiences.
     ZH: 请用你自己的经历进行支持/举例。
-- Topic: 
-- Question: 
+- Topic: the minimum driving age requirement
+- Question: there should be a minimum age to allow driving.
 - Viewpoint: setting the minimum driving age at eighteen is beneficial.
 - Reason 1: setting the minimum driving age at eighteen is beneficial.
-- Reason 2: personal convenience must be weighed against the fundamental imperative of public safety.
+- Reason 2: older individuals may have greater patience and have more experience.
 
 ## 24. 大学评分政策
 - Questions:
   - EN: Is it fair for universities to deduct students' marks when their assignments are overdue? How to solve this problem?
     ZH: 大学在作业逾期时扣学生分是否公平？如何解决这一问题？
-- Topic: 
-- Question: 
+- Topic: university grading policies
+- Question: it is fair for universities to deduct students' marks when their assignments are overdue.
 - Viewpoint: I tend to be an advocate for this practice.
-- Reason 1: penalizing late submissions is fair and necessary.
-- Reason 2: universities can integrate standard penalties with supportive systems.
+- Reason 1: setting late submissions is fair and necessary.
+- Reason 2: universities should have rules for students, and it can help students develop a greater sense of responsibility.
 
 ## 25. 大型商场取代小商店
 - Questions:
