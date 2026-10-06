@@ -330,11 +330,11 @@ It saves time and makes daily life more efficient.
 - Questions:
   - EN: Parents should be held legally responsible for children's acts. What is your opinion? Support it with personal examples.
     ZH: 父母应当对孩子的行为承担法律责任。你怎么看？请用个人例子支持。
-- Topic: 
-- Question: 
-- Viewpoint: limited liability for blatant supervisory negligence or severe harm.
-- Reason 1: parents should bear a degree of accountability.
-- Reason 2: enforcing legal accountability is essential for safeguarding public safety.
+- Topic: legal responsibility for children's conduct
+- Question: this practice is fair or effective.
+- Viewpoint: limited responsibility for parents is fair.
+- Reason 1: parents should bear a degree of responsibility.
+- Reason 2: this practice can help parents shape children's behavior through a consistent approach.
 
 ## 32. 大学学习资源的选择
 - Questions:
@@ -346,21 +346,21 @@ It saves time and makes daily life more efficient.
     ZH: 大学应只采购数字资料，而不是不断采购纸质教材。
   - EN: Discuss both the advantages and disadvantages of this position and give your own point of view.
     ZH: 讨论这一观点的优缺点，并给出你自己的看法。
-- Topic: 
-- Question: 
+- Topic: the selection of university learning resources
+- Question: traditional textbooks is better than digital materials
 - Viewpoint: of digital materials.
-- Reason 1: digital materials are highly preferable.
-- Reason 2: focus-enhancing software minimizes distractions, while competing for limited library books paradoxically wastes time.
+- Reason 1: digital materials are more convenient.
+- Reason 2: they offer a flexible learning method, allowing access to up-to-date information anywhere.
 
 ## 33. 如何抱怨产品或服务
 - Questions:
   - EN: When people need to complain about a product or a service, some prefer to complain in writing while others prefer to complain in person. Which way do you prefer?
     ZH: 当人们要投诉产品或服务时，有些人喜欢书面投诉，有些人喜欢当面投诉。你更偏好哪种方式？
-- Topic: 
-- Question: 
+- Topic: how to complain about products or services
+- Question: people prefer written or in-person complaints
 - Viewpoint: written complaints.
-- Reason 1: this is a far superior method of complaining.
-- Reason 2: face-to-face confrontations frequently trigger emotional conflicts and fail to leave valid proof.
+- Reason 1: this is a good method of complaining.
+- Reason 2: written complaints can provide a clear evidence, and is more efficient.
 
 ## 18. 全球问题与解决方案
 - Questions:
@@ -372,11 +372,11 @@ It saves time and makes daily life more efficient.
     ZH: 紧迫问题：世界各国政府和组织面临多种问题。
   - EN: What is the most pressing problem facing the inhabitants of our planets and what are the solutions?
     ZH: 地球居民面临的最紧迫问题是什么？解决方案有哪些？
-- Topic: 
+- Topic: global problems
 - Question: 
 - Viewpoint: climate change is one of the most serious issues.
-- Reason 1: it affects all countries through extreme weather and rising sea levels.
-- Reason 2: they should invest more in renewable energy like solar and wind power; the media is fully capable of raising the public awareness by revealing the truth and spreading the idea of environmental protection.
+- Reason 1: it affects all countries through bad weather and rising sea levels.
+- Reason 2: they should invest more in renewable energy like solar and wind power, and the media should spread the idea of environmental protection.
 
 ## 21. 气候变化会选择哪个方面学习？
 - Questions:
