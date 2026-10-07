@@ -98,8 +98,10 @@
 - Topic: income inequality
 - Question: we should have a maximum wage for the high-paid jobs
 - Viewpoint: an opponent of this proposal.
-- Reason 1: imposing a mandatory maximum wage is bad for social development.
-- Reason 2: better options exist, such as social investments rather than imposing a mandatory maximum wage.
+- Reason 1: [setting/ imposing] a mandatory maximum wage hinders social development.
+- Reason 2: better options exist, such as social investments rather than [setting/ imposing] a mandatory maximum wage.
+观点：promotes income equality and reduces wealth disparity
+促进收入平等，缩小贫富差距
 
 ## 9. 员工参与公司决策
 - Questions:
